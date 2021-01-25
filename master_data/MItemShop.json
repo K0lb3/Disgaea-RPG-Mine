@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Item Shop",
+        "sort": 1,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    },
+    {
+        "id": 2,
+        "name": "Nether Quartz Shop",
+        "sort": 2,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    },
+    {
+        "id": 3,
+        "name": "Slot Shop",
+        "sort": 3,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    },
+    {
+        "id": 4,
+        "name": "Rookie Shop",
+        "sort": 4,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    },
+    {
+        "id": 5,
+        "name": "Nether Pass",
+        "sort": 5,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    },
+    {
+        "id": 101,
+        "name": "Story Event Exchange 1",
+        "sort": 101,
+        "open_at": "2020-08-11 10:00:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 104,
+        "name": "Story Event Exchange 1",
+        "sort": 104,
+        "open_at": "2020-08-11 10:00:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 106,
+        "name": "Story Event Exchange",
+        "sort": 106,
+        "open_at": "2020-08-11 10:00:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 112,
+        "name": "Story Event Exchange",
+        "sort": 112,
+        "open_at": "2020-08-11 10:00:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 115,
+        "name": "Story Event Exchange",
+        "sort": 115,
+        "open_at": "2020-08-11 10:00:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 117,
+        "name": "Raid Event 1 Exchange",
+        "sort": 117,
+        "open_at": "2020-03-19 13:05:00",
+        "close_at": "2020-03-19 13:05:00"
+    },
+    {
+        "id": 121,
+        "name": "Story Event Exchange",
+        "sort": 121,
+        "open_at": "2020-03-31 12:00:00",
+        "close_at": "2020-04-23 11:59:59"
+    },
+    {
+        "id": 124,
+        "name": "Raid Event Exchange",
+        "sort": 124,
+        "open_at": "2020-05-27 13:05:00",
+        "close_at": "2021-01-15 12:00:00"
+    },
+    {
+        "id": 126,
+        "name": "Story Event Exchange",
+        "sort": 126,
+        "open_at": "2020-04-23 12:00:00",
+        "close_at": "2020-05-19 11:59:59"
+    },
+    {
+        "id": 135,
+        "name": "Story Event Exchange",
+        "sort": 135,
+        "open_at": "2020-05-19 12:00:00",
+        "close_at": "2020-06-11 11:59:59"
+    },
+    {
+        "id": 500,
+        "name": "Reminiscence Exchange",
+        "sort": 500,
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2999-12-31 23:59:59"
+    }
+]

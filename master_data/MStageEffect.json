@@ -1,0 +1,5749 @@
+[
+    {
+        "id": 100210101,
+        "m_stage_id": 100210101,
+        "effect_type": 1,
+        "target_values": [
+            5,
+            8
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200
+        ]
+    },
+    {
+        "id": 100210102,
+        "m_stage_id": 100210102,
+        "effect_type": 1,
+        "target_values": [
+            5,
+            8
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200
+        ]
+    },
+    {
+        "id": 101410101,
+        "m_stage_id": 101410101,
+        "effect_type": 1,
+        "target_values": [
+            3,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200,
+            200
+        ]
+    },
+    {
+        "id": 101410102,
+        "m_stage_id": 101410102,
+        "effect_type": 1,
+        "target_values": [
+            3,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200,
+            200
+        ]
+    },
+    {
+        "id": 102710101,
+        "m_stage_id": 102710101,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            4,
+            7
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200,
+            200
+        ]
+    },
+    {
+        "id": 102710102,
+        "m_stage_id": 102710102,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            4,
+            7
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200,
+            200
+        ]
+    },
+    {
+        "id": 103410101,
+        "m_stage_id": 103410101,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            8
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200
+        ]
+    },
+    {
+        "id": 103410102,
+        "m_stage_id": 103410102,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            8
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            200,
+            200
+        ]
+    },
+    {
+        "id": 2001106101,
+        "m_stage_id": 2001106101,
+        "effect_type": 6,
+        "target_values": [
+            54,
+            55,
+            21,
+            20002,
+            7,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2001106102,
+        "m_stage_id": 2001106102,
+        "effect_type": 6,
+        "target_values": [
+            54,
+            55,
+            21,
+            20002,
+            7,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2001106103,
+        "m_stage_id": 2001106103,
+        "effect_type": 6,
+        "target_values": [
+            54,
+            55,
+            21,
+            20002,
+            7,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2004106101,
+        "m_stage_id": 2004106101,
+        "effect_type": 6,
+        "target_values": [
+            56,
+            47,
+            48,
+            55,
+            4,
+            2,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2004106102,
+        "m_stage_id": 2004106102,
+        "effect_type": 6,
+        "target_values": [
+            56,
+            47,
+            48,
+            55,
+            4,
+            2,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2004106103,
+        "m_stage_id": 2004106103,
+        "effect_type": 6,
+        "target_values": [
+            56,
+            47,
+            48,
+            55,
+            4,
+            2,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2006106101,
+        "m_stage_id": 2006106101,
+        "effect_type": 6,
+        "target_values": [
+            44,
+            45,
+            20008,
+            20014,
+            9,
+            11,
+            5,
+            48,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2006106102,
+        "m_stage_id": 2006106102,
+        "effect_type": 6,
+        "target_values": [
+            44,
+            45,
+            20008,
+            20014,
+            9,
+            11,
+            5,
+            48,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2006106103,
+        "m_stage_id": 2006106103,
+        "effect_type": 6,
+        "target_values": [
+            44,
+            45,
+            20008,
+            20014,
+            9,
+            11,
+            5,
+            48,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2012106101,
+        "m_stage_id": 2012106101,
+        "effect_type": 6,
+        "target_values": [
+            16,
+            20017,
+            21002,
+            18,
+            36,
+            21,
+            20014,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2012106102,
+        "m_stage_id": 2012106102,
+        "effect_type": 6,
+        "target_values": [
+            16,
+            20017,
+            21002,
+            18,
+            36,
+            21,
+            20014,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 2012106103,
+        "m_stage_id": 2012106103,
+        "effect_type": 6,
+        "target_values": [
+            16,
+            20017,
+            21002,
+            18,
+            36,
+            21,
+            20014,
+            60,
+            61
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "id": 10101012012,
+        "m_stage_id": 1010101201,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101012021,
+        "m_stage_id": 1010101202,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            2,
+            5
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            150,
+            150,
+            150
+        ]
+    },
+    {
+        "id": 10101012022,
+        "m_stage_id": 1010101202,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101012032,
+        "m_stage_id": 1010101203,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101013011,
+        "m_stage_id": 1010101301,
+        "effect_type": 1,
+        "target_values": [
+            1
+        ],
+        "effect_type_params": [
+            101
+        ],
+        "effect_values": [
+            150
+        ]
+    },
+    {
+        "id": 10101013012,
+        "m_stage_id": 1010101301,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101013022,
+        "m_stage_id": 1010101302,
+        "effect_type": 2,
+        "target_values": [
+            1
+        ],
+        "effect_type_params": [
+            2
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101013031,
+        "m_stage_id": 1010101303,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            150,
+            150
+        ]
+    },
+    {
+        "id": 10101013032,
+        "m_stage_id": 1010101303,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10101013042,
+        "m_stage_id": 1010101304,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10171010011,
+        "m_stage_id": 1017101001,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010013,
+        "m_stage_id": 1017101001,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010021,
+        "m_stage_id": 1017101002,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010023,
+        "m_stage_id": 1017101002,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010031,
+        "m_stage_id": 1017101003,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010033,
+        "m_stage_id": 1017101003,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010041,
+        "m_stage_id": 1017101004,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010043,
+        "m_stage_id": 1017101004,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010051,
+        "m_stage_id": 1017101005,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010053,
+        "m_stage_id": 1017101005,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010061,
+        "m_stage_id": 1017101006,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010063,
+        "m_stage_id": 1017101006,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010071,
+        "m_stage_id": 1017101007,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010073,
+        "m_stage_id": 1017101007,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010081,
+        "m_stage_id": 1017101008,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010083,
+        "m_stage_id": 1017101008,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010091,
+        "m_stage_id": 1017101009,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010093,
+        "m_stage_id": 1017101009,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010101,
+        "m_stage_id": 1017101010,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010103,
+        "m_stage_id": 1017101010,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010111,
+        "m_stage_id": 1017101011,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010113,
+        "m_stage_id": 1017101011,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010121,
+        "m_stage_id": 1017101012,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010123,
+        "m_stage_id": 1017101012,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010131,
+        "m_stage_id": 1017101013,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010133,
+        "m_stage_id": 1017101013,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010141,
+        "m_stage_id": 1017101014,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010143,
+        "m_stage_id": 1017101014,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010151,
+        "m_stage_id": 1017101015,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010153,
+        "m_stage_id": 1017101015,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010161,
+        "m_stage_id": 1017101016,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010163,
+        "m_stage_id": 1017101016,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010171,
+        "m_stage_id": 1017101017,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010173,
+        "m_stage_id": 1017101017,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010181,
+        "m_stage_id": 1017101018,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010183,
+        "m_stage_id": 1017101018,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010191,
+        "m_stage_id": 1017101019,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010193,
+        "m_stage_id": 1017101019,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010201,
+        "m_stage_id": 1017101020,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010203,
+        "m_stage_id": 1017101020,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010211,
+        "m_stage_id": 1017101021,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010213,
+        "m_stage_id": 1017101021,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010221,
+        "m_stage_id": 1017101022,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010223,
+        "m_stage_id": 1017101022,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010231,
+        "m_stage_id": 1017101023,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010233,
+        "m_stage_id": 1017101023,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010241,
+        "m_stage_id": 1017101024,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010243,
+        "m_stage_id": 1017101024,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010251,
+        "m_stage_id": 1017101025,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010253,
+        "m_stage_id": 1017101025,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010261,
+        "m_stage_id": 1017101026,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010263,
+        "m_stage_id": 1017101026,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010271,
+        "m_stage_id": 1017101027,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010273,
+        "m_stage_id": 1017101027,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010281,
+        "m_stage_id": 1017101028,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010283,
+        "m_stage_id": 1017101028,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010291,
+        "m_stage_id": 1017101029,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010293,
+        "m_stage_id": 1017101029,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010301,
+        "m_stage_id": 1017101030,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010303,
+        "m_stage_id": 1017101030,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010311,
+        "m_stage_id": 1017101031,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010313,
+        "m_stage_id": 1017101031,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010321,
+        "m_stage_id": 1017101032,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010323,
+        "m_stage_id": 1017101032,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010331,
+        "m_stage_id": 1017101033,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010333,
+        "m_stage_id": 1017101033,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010341,
+        "m_stage_id": 1017101034,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010343,
+        "m_stage_id": 1017101034,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010351,
+        "m_stage_id": 1017101035,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010353,
+        "m_stage_id": 1017101035,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010361,
+        "m_stage_id": 1017101036,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010363,
+        "m_stage_id": 1017101036,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010371,
+        "m_stage_id": 1017101037,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010373,
+        "m_stage_id": 1017101037,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010381,
+        "m_stage_id": 1017101038,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010383,
+        "m_stage_id": 1017101038,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010391,
+        "m_stage_id": 1017101039,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010393,
+        "m_stage_id": 1017101039,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010401,
+        "m_stage_id": 1017101040,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010403,
+        "m_stage_id": 1017101040,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010411,
+        "m_stage_id": 1017101041,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010413,
+        "m_stage_id": 1017101041,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010421,
+        "m_stage_id": 1017101042,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010423,
+        "m_stage_id": 1017101042,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010431,
+        "m_stage_id": 1017101043,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010433,
+        "m_stage_id": 1017101043,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010441,
+        "m_stage_id": 1017101044,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010443,
+        "m_stage_id": 1017101044,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010451,
+        "m_stage_id": 1017101045,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010453,
+        "m_stage_id": 1017101045,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010461,
+        "m_stage_id": 1017101046,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010463,
+        "m_stage_id": 1017101046,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010471,
+        "m_stage_id": 1017101047,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010473,
+        "m_stage_id": 1017101047,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010481,
+        "m_stage_id": 1017101048,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010483,
+        "m_stage_id": 1017101048,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010491,
+        "m_stage_id": 1017101049,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010493,
+        "m_stage_id": 1017101049,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10171010501,
+        "m_stage_id": 1017101050,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            6,
+            7,
+            9
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10171010503,
+        "m_stage_id": 1017101050,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10201012012,
+        "m_stage_id": 1020101201,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201012021,
+        "m_stage_id": 1020101202,
+        "effect_type": 1,
+        "target_values": [
+            1,
+            2,
+            5
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            150,
+            150,
+            150
+        ]
+    },
+    {
+        "id": 10201012022,
+        "m_stage_id": 1020101202,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201012032,
+        "m_stage_id": 1020101203,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201013011,
+        "m_stage_id": 1020101301,
+        "effect_type": 1,
+        "target_values": [
+            1
+        ],
+        "effect_type_params": [
+            101
+        ],
+        "effect_values": [
+            150
+        ]
+    },
+    {
+        "id": 10201013012,
+        "m_stage_id": 1020101301,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201013022,
+        "m_stage_id": 1020101302,
+        "effect_type": 2,
+        "target_values": [
+            1
+        ],
+        "effect_type_params": [
+            2
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201013031,
+        "m_stage_id": 1020101303,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5
+        ],
+        "effect_type_params": [
+            101,
+            101
+        ],
+        "effect_values": [
+            150,
+            150
+        ]
+    },
+    {
+        "id": 10201013032,
+        "m_stage_id": 1020101303,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10201013042,
+        "m_stage_id": 1020101304,
+        "effect_type": 2,
+        "target_values": [
+            5
+        ],
+        "effect_type_params": [
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10241010011,
+        "m_stage_id": 1024101001,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010013,
+        "m_stage_id": 1024101001,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010021,
+        "m_stage_id": 1024101002,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010023,
+        "m_stage_id": 1024101002,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010031,
+        "m_stage_id": 1024101003,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010033,
+        "m_stage_id": 1024101003,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010041,
+        "m_stage_id": 1024101004,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010043,
+        "m_stage_id": 1024101004,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010051,
+        "m_stage_id": 1024101005,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010053,
+        "m_stage_id": 1024101005,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010061,
+        "m_stage_id": 1024101006,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010063,
+        "m_stage_id": 1024101006,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010071,
+        "m_stage_id": 1024101007,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010073,
+        "m_stage_id": 1024101007,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010081,
+        "m_stage_id": 1024101008,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010083,
+        "m_stage_id": 1024101008,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010091,
+        "m_stage_id": 1024101009,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010093,
+        "m_stage_id": 1024101009,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010101,
+        "m_stage_id": 1024101010,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010103,
+        "m_stage_id": 1024101010,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010111,
+        "m_stage_id": 1024101011,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010113,
+        "m_stage_id": 1024101011,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010121,
+        "m_stage_id": 1024101012,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010123,
+        "m_stage_id": 1024101012,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010131,
+        "m_stage_id": 1024101013,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010133,
+        "m_stage_id": 1024101013,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010141,
+        "m_stage_id": 1024101014,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010143,
+        "m_stage_id": 1024101014,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010151,
+        "m_stage_id": 1024101015,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010153,
+        "m_stage_id": 1024101015,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010161,
+        "m_stage_id": 1024101016,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010163,
+        "m_stage_id": 1024101016,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010171,
+        "m_stage_id": 1024101017,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010173,
+        "m_stage_id": 1024101017,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010181,
+        "m_stage_id": 1024101018,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010183,
+        "m_stage_id": 1024101018,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010191,
+        "m_stage_id": 1024101019,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010193,
+        "m_stage_id": 1024101019,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010201,
+        "m_stage_id": 1024101020,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010203,
+        "m_stage_id": 1024101020,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010211,
+        "m_stage_id": 1024101021,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010213,
+        "m_stage_id": 1024101021,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010221,
+        "m_stage_id": 1024101022,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010223,
+        "m_stage_id": 1024101022,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010231,
+        "m_stage_id": 1024101023,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010233,
+        "m_stage_id": 1024101023,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010241,
+        "m_stage_id": 1024101024,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010243,
+        "m_stage_id": 1024101024,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010251,
+        "m_stage_id": 1024101025,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010253,
+        "m_stage_id": 1024101025,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010261,
+        "m_stage_id": 1024101026,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010263,
+        "m_stage_id": 1024101026,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010271,
+        "m_stage_id": 1024101027,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010273,
+        "m_stage_id": 1024101027,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010281,
+        "m_stage_id": 1024101028,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010283,
+        "m_stage_id": 1024101028,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010291,
+        "m_stage_id": 1024101029,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010293,
+        "m_stage_id": 1024101029,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010301,
+        "m_stage_id": 1024101030,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010303,
+        "m_stage_id": 1024101030,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010311,
+        "m_stage_id": 1024101031,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010313,
+        "m_stage_id": 1024101031,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010321,
+        "m_stage_id": 1024101032,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010323,
+        "m_stage_id": 1024101032,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010331,
+        "m_stage_id": 1024101033,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010333,
+        "m_stage_id": 1024101033,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010341,
+        "m_stage_id": 1024101034,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010343,
+        "m_stage_id": 1024101034,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010351,
+        "m_stage_id": 1024101035,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010353,
+        "m_stage_id": 1024101035,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010361,
+        "m_stage_id": 1024101036,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010363,
+        "m_stage_id": 1024101036,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010371,
+        "m_stage_id": 1024101037,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010373,
+        "m_stage_id": 1024101037,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010381,
+        "m_stage_id": 1024101038,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010383,
+        "m_stage_id": 1024101038,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010391,
+        "m_stage_id": 1024101039,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010393,
+        "m_stage_id": 1024101039,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010401,
+        "m_stage_id": 1024101040,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010403,
+        "m_stage_id": 1024101040,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010411,
+        "m_stage_id": 1024101041,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010413,
+        "m_stage_id": 1024101041,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010421,
+        "m_stage_id": 1024101042,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010423,
+        "m_stage_id": 1024101042,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010431,
+        "m_stage_id": 1024101043,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010433,
+        "m_stage_id": 1024101043,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010441,
+        "m_stage_id": 1024101044,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010443,
+        "m_stage_id": 1024101044,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010451,
+        "m_stage_id": 1024101045,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010453,
+        "m_stage_id": 1024101045,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010461,
+        "m_stage_id": 1024101046,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010463,
+        "m_stage_id": 1024101046,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010471,
+        "m_stage_id": 1024101047,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010473,
+        "m_stage_id": 1024101047,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010481,
+        "m_stage_id": 1024101048,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010483,
+        "m_stage_id": 1024101048,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010491,
+        "m_stage_id": 1024101049,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010493,
+        "m_stage_id": 1024101049,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10241010501,
+        "m_stage_id": 1024101050,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10241010503,
+        "m_stage_id": 1024101050,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010011,
+        "m_stage_id": 1024201001,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010013,
+        "m_stage_id": 1024201001,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010021,
+        "m_stage_id": 1024201002,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010023,
+        "m_stage_id": 1024201002,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010031,
+        "m_stage_id": 1024201003,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010033,
+        "m_stage_id": 1024201003,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010041,
+        "m_stage_id": 1024201004,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010043,
+        "m_stage_id": 1024201004,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010051,
+        "m_stage_id": 1024201005,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010053,
+        "m_stage_id": 1024201005,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010061,
+        "m_stage_id": 1024201006,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010063,
+        "m_stage_id": 1024201006,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010071,
+        "m_stage_id": 1024201007,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010073,
+        "m_stage_id": 1024201007,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010081,
+        "m_stage_id": 1024201008,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010083,
+        "m_stage_id": 1024201008,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010091,
+        "m_stage_id": 1024201009,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010093,
+        "m_stage_id": 1024201009,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010101,
+        "m_stage_id": 1024201010,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010103,
+        "m_stage_id": 1024201010,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010111,
+        "m_stage_id": 1024201011,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010113,
+        "m_stage_id": 1024201011,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010121,
+        "m_stage_id": 1024201012,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010123,
+        "m_stage_id": 1024201012,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010131,
+        "m_stage_id": 1024201013,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010133,
+        "m_stage_id": 1024201013,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010141,
+        "m_stage_id": 1024201014,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010143,
+        "m_stage_id": 1024201014,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10242010151,
+        "m_stage_id": 1024201015,
+        "effect_type": 1,
+        "target_values": [
+            2,
+            5,
+            6
+        ],
+        "effect_type_params": [
+            101,
+            101,
+            101
+        ],
+        "effect_values": [
+            125,
+            125,
+            125
+        ]
+    },
+    {
+        "id": 10242010153,
+        "m_stage_id": 1024201015,
+        "effect_type": 3,
+        "target_values": [
+            0,
+            0
+        ],
+        "effect_type_params": [
+            1,
+            2
+        ],
+        "effect_values": [
+            5,
+            35
+        ]
+    },
+    {
+        "id": 10281011012,
+        "m_stage_id": 1028101101,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281011022,
+        "m_stage_id": 1028101102,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281012012,
+        "m_stage_id": 1028101201,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281012022,
+        "m_stage_id": 1028101202,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281012032,
+        "m_stage_id": 1028101203,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281013012,
+        "m_stage_id": 1028101301,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281013022,
+        "m_stage_id": 1028101302,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281013032,
+        "m_stage_id": 1028101303,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10281013042,
+        "m_stage_id": 1028101304,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291011012,
+        "m_stage_id": 1029101101,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291011022,
+        "m_stage_id": 1029101102,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291012012,
+        "m_stage_id": 1029101201,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291012022,
+        "m_stage_id": 1029101202,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291012032,
+        "m_stage_id": 1029101203,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291013012,
+        "m_stage_id": 1029101301,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291013022,
+        "m_stage_id": 1029101302,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291013032,
+        "m_stage_id": 1029101303,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10291013042,
+        "m_stage_id": 1029101304,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            4,
+            5,
+            6,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301011012,
+        "m_stage_id": 1030101101,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301011022,
+        "m_stage_id": 1030101102,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301012012,
+        "m_stage_id": 1030101201,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301012022,
+        "m_stage_id": 1030101202,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301012032,
+        "m_stage_id": 1030101203,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301013012,
+        "m_stage_id": 1030101301,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301013022,
+        "m_stage_id": 1030101302,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301013032,
+        "m_stage_id": 1030101303,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    },
+    {
+        "id": 10301013042,
+        "m_stage_id": 1030101304,
+        "effect_type": 2,
+        "target_values": [
+            3,
+            3,
+            3,
+            5
+        ],
+        "effect_type_params": [
+            7,
+            8,
+            9,
+            0
+        ],
+        "effect_values": []
+    }
+]

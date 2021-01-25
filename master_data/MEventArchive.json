@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "original_m_event_id": 1,
+        "sort": 0,
+        "m_episode_id": 20011,
+        "reminiscent_m_area_id": 2001106,
+        "resource_name": "story_event_1_xmas2019",
+        "open_at": "2019-11-01 00:00:00 -0400",
+        "close_at": "2020-04-01 00:00:00 -0400"
+    },
+    {
+        "id": 2,
+        "original_m_event_id": 4,
+        "sort": 1,
+        "m_episode_id": 20041,
+        "reminiscent_m_area_id": 2004106,
+        "resource_name": "story_event_2_newyear2020",
+        "open_at": "2019-11-01 00:00:00 -0400",
+        "close_at": "2020-04-01 00:00:00 -0400"
+    },
+    {
+        "id": 3,
+        "original_m_event_id": 6,
+        "sort": 2,
+        "m_episode_id": 20061,
+        "reminiscent_m_area_id": 2006106,
+        "resource_name": "story_event_3_curtiss",
+        "open_at": "2019-11-01 00:00:00 -0400",
+        "close_at": "2020-04-01 00:00:00 -0400"
+    },
+    {
+        "id": 4,
+        "original_m_event_id": 12,
+        "sort": 3,
+        "m_episode_id": 20121,
+        "reminiscent_m_area_id": 2012106,
+        "resource_name": "story_event_4_beauty",
+        "open_at": "2019-11-01 00:00:00 -0400",
+        "close_at": "2020-04-01 00:00:00 -0400"
+    }
+]

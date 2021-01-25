@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "promotion_name": "Tyrant Valvatorez",
+        "resource_name": "ultimatevalvatorez",
+        "bgm": "bgm_battle01",
+        "open_type": 1,
+        "priority": 1,
+        "open_at": "2020-02-27 13:05:00 -0400",
+        "close_at": "2020-03-03 23:30:00 -0400"
+    },
+    {
+        "id": 2,
+        "promotion_name": "Tyrant Valvatorez",
+        "resource_name": "ultimatevalvatorez",
+        "bgm": "bgm_battle01",
+        "open_type": 1,
+        "priority": 1,
+        "open_at": "2020-03-27 00:00:00 -0400",
+        "close_at": "2020-04-02 11:29:59 -0400"
+    },
+    {
+        "id": 3,
+        "promotion_name": "PRIGAEA RPG",
+        "resource_name": "april_20200401",
+        "bgm": "bgm_d2_1",
+        "open_type": 1,
+        "priority": 1,
+        "open_at": "2020-04-01 00:00:00 -0400",
+        "close_at": "2020-04-02 00:00:00 -0400"
+    },
+    {
+        "id": 4,
+        "promotion_name": "Comeback Campaign",
+        "resource_name": "campaigninfo",
+        "bgm": "",
+        "open_type": 3,
+        "priority": 1,
+        "open_at": "2020-04-28 12:00:00 -0400",
+        "close_at": "2030-04-28 23:59:59 -0400"
+    },
+    {
+        "id": 5,
+        "promotion_name": "Awakened Rozalin",
+        "resource_name": "ultimaterosalind",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-04-28 13:05:00 -0400",
+        "close_at": "2020-05-03 23:59:59 -0400"
+    },
+    {
+        "id": 6,
+        "promotion_name": "Tyrant Overlord Killidia",
+        "resource_name": "kilidia",
+        "bgm": "bgm_5_2",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-05-30 00:00:00 -0400",
+        "close_at": "2020-06-03 23:30:00 -0400"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "m_gate_id": 1,
+        "sub_max_count": 3,
+        "sub_max_use_item": 10
+    },
+    {
+        "id": 2,
+        "m_gate_id": 2,
+        "sub_max_count": 3,
+        "sub_max_use_item": 10
+    },
+    {
+        "id": 3,
+        "m_gate_id": 3,
+        "sub_max_count": 3,
+        "sub_max_use_item": 10
+    },
+    {
+        "id": 4,
+        "m_gate_id": 4,
+        "sub_max_count": 3,
+        "sub_max_use_item": 10
+    }
+]

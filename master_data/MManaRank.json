@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "mana_rank": 1,
+        "need_mana": 50,
+        "up_param": 1,
+        "up_spd": 0
+    },
+    {
+        "id": 2,
+        "mana_rank": 2,
+        "need_mana": 50,
+        "up_param": 2,
+        "up_spd": 0
+    },
+    {
+        "id": 3,
+        "mana_rank": 3,
+        "need_mana": 50,
+        "up_param": 3,
+        "up_spd": 0
+    },
+    {
+        "id": 4,
+        "mana_rank": 4,
+        "need_mana": 100,
+        "up_param": 4,
+        "up_spd": 0
+    },
+    {
+        "id": 5,
+        "mana_rank": 5,
+        "need_mana": 100,
+        "up_param": 5,
+        "up_spd": 0
+    },
+    {
+        "id": 6,
+        "mana_rank": 6,
+        "need_mana": 100,
+        "up_param": 6,
+        "up_spd": 0
+    },
+    {
+        "id": 7,
+        "mana_rank": 7,
+        "need_mana": 160,
+        "up_param": 7,
+        "up_spd": 0
+    },
+    {
+        "id": 8,
+        "mana_rank": 8,
+        "need_mana": 160,
+        "up_param": 8,
+        "up_spd": 0
+    },
+    {
+        "id": 9,
+        "mana_rank": 9,
+        "need_mana": 160,
+        "up_param": 9,
+        "up_spd": 0
+    },
+    {
+        "id": 10,
+        "mana_rank": 10,
+        "need_mana": 230,
+        "up_param": 10,
+        "up_spd": 0
+    },
+    {
+        "id": 11,
+        "mana_rank": 11,
+        "need_mana": 230,
+        "up_param": 11,
+        "up_spd": 0
+    },
+    {
+        "id": 12,
+        "mana_rank": 12,
+        "need_mana": 230,
+        "up_param": 12,
+        "up_spd": 0
+    },
+    {
+        "id": 13,
+        "mana_rank": 13,
+        "need_mana": 310,
+        "up_param": 13,
+        "up_spd": 0
+    },
+    {
+        "id": 14,
+        "mana_rank": 14,
+        "need_mana": 310,
+        "up_param": 14,
+        "up_spd": 0
+    },
+    {
+        "id": 15,
+        "mana_rank": 15,
+        "need_mana": 310,
+        "up_param": 15,
+        "up_spd": 0
+    },
+    {
+        "id": 16,
+        "mana_rank": 16,
+        "need_mana": 400,
+        "up_param": 16,
+        "up_spd": 0
+    },
+    {
+        "id": 17,
+        "mana_rank": 17,
+        "need_mana": 400,
+        "up_param": 17,
+        "up_spd": 0
+    },
+    {
+        "id": 18,
+        "mana_rank": 18,
+        "need_mana": 400,
+        "up_param": 18,
+        "up_spd": 0
+    },
+    {
+        "id": 19,
+        "mana_rank": 19,
+        "need_mana": 500,
+        "up_param": 19,
+        "up_spd": 0
+    },
+    {
+        "id": 20,
+        "mana_rank": 20,
+        "need_mana": 500,
+        "up_param": 20,
+        "up_spd": 0
+    }
+]

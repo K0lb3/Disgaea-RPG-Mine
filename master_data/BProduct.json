@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1234567,
+        "name": "Buffet Pack",
+        "icon_no": 12345671,
+        "m_item_shop_id": 1,
+        "limit_type": 3,
+        "limit_num": 1,
+        "price_type": 2,
+        "price": 500,
+        "price_m_item_id": 0,
+        "select_count": 3,
+        "comeback": false,
+        "description": "Pick bonuses to your liking",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 1,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2020-07-21 12:34:56",
+        "close_at": "2022-12-10 23:57:01"
+    }
+]

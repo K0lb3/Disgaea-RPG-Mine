@@ -1,0 +1,742 @@
+[
+    {
+        "id": 1001,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 200
+    },
+    {
+        "id": 1002,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 2,
+        "animation_name": "",
+        "rate": 150
+    },
+    {
+        "id": 1003,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 25,
+        "animation_name": "",
+        "rate": 300
+    },
+    {
+        "id": 1004,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1005,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1701,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 225
+    },
+    {
+        "id": 1006,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1702,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1007,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1008,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1511,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1009,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1512,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1010,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1011,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1521,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1012,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1522,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1013,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1014,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1531,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1015,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1532,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1016,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1533,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1017,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1541,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1018,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1542,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1019,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1543,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1020,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1551,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1021,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1552,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1022,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1553,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1023,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1561,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1024,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1562,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1025,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1026,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1571,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1027,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1572,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1028,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1029,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1581,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1030,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1582,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1031,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1583,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1032,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1591,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 125
+    },
+    {
+        "id": 1033,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1592,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 50
+    },
+    {
+        "id": 1034,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1593,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 25
+    },
+    {
+        "id": 1035,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 200
+    },
+    {
+        "id": 1036,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "",
+        "rate": 450
+    },
+    {
+        "id": 1037,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000,
+        "animation_name": "",
+        "rate": 500
+    },
+    {
+        "id": 1038,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 1000,
+        "animation_name": "",
+        "rate": 1000
+    },
+    {
+        "id": 1039,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1040,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1041,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1042,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1043,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 100
+    },
+    {
+        "id": 1044,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 10,
+        "animation_name": "",
+        "rate": 1000
+    },
+    {
+        "id": 1045,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 8,
+        "animation_name": "",
+        "rate": 700
+    },
+    {
+        "id": 1046,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 6,
+        "animation_name": "",
+        "rate": 550
+    },
+    {
+        "id": 1047,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 6,
+        "animation_name": "",
+        "rate": 500
+    },
+    {
+        "id": 1048,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 350
+    },
+    {
+        "id": 1049,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 250
+    },
+    {
+        "id": 1050,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 6,
+        "animation_name": "",
+        "rate": 500
+    },
+    {
+        "id": 1051,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 350
+    },
+    {
+        "id": 1052,
+        "m_event_gacha_id": 1,
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 4,
+        "animation_name": "",
+        "rate": 250
+    },
+    {
+        "id": 2001,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 1,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result01",
+        "rate": 1300
+    },
+    {
+        "id": 2002,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 6,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result01",
+        "rate": 550
+    },
+    {
+        "id": 2003,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 2,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 1300
+    },
+    {
+        "id": 2004,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 3,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 1300
+    },
+    {
+        "id": 2005,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 4,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 1300
+    },
+    {
+        "id": 2006,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 5,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 1300
+    },
+    {
+        "id": 2007,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 7,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result04",
+        "rate": 600
+    },
+    {
+        "id": 2008,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 8,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result04",
+        "rate": 550
+    },
+    {
+        "id": 2009,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 11,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result01",
+        "rate": 300
+    },
+    {
+        "id": 2010,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 12,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 300
+    },
+    {
+        "id": 2011,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 13,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 300
+    },
+    {
+        "id": 2012,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 14,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 300
+    },
+    {
+        "id": 2013,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 15,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 300
+    },
+    {
+        "id": 2014,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 9,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result05",
+        "rate": 150
+    },
+    {
+        "id": 2015,
+        "m_event_gacha_id": 2,
+        "present_type": 8,
+        "present_id": 10,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result05",
+        "rate": 150
+    },
+    {
+        "id": 3001,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 11,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result01",
+        "rate": 1600
+    },
+    {
+        "id": 3002,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 12,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 1600
+    },
+    {
+        "id": 3003,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 13,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result02",
+        "rate": 1600
+    },
+    {
+        "id": 3004,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 14,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 1600
+    },
+    {
+        "id": 3005,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 15,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result03",
+        "rate": 1600
+    },
+    {
+        "id": 3006,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 9,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result04",
+        "rate": 1000
+    },
+    {
+        "id": 3007,
+        "m_event_gacha_id": 3,
+        "present_type": 8,
+        "present_id": 10,
+        "present_rarity": 0,
+        "present_num": 1,
+        "animation_name": "result04",
+        "rate": 1000
+    }
+]

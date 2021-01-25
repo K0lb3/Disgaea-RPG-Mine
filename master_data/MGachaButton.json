@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "m_gacha_id": 200017,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 2,
+        "m_gacha_id": 200019,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 3,
+        "m_gacha_id": 200021,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 4,
+        "m_gacha_id": 200023,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 5,
+        "m_gacha_id": 200020,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 6,
+        "m_gacha_id": 200022,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 7,
+        "m_gacha_id": 200024,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 8,
+        "m_gacha_id": 200026,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 9,
+        "m_gacha_id": 200029,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 10,
+        "m_gacha_id": 200031,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 11,
+        "m_gacha_id": 200034,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 12,
+        "m_gacha_id": 200036,
+        "gacha_num": 10,
+        "resource_name": "10_free"
+    },
+    {
+        "id": 13,
+        "m_gacha_id": 200037,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 14,
+        "m_gacha_id": 200039,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 15,
+        "m_gacha_id": 200040,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 16,
+        "m_gacha_id": 200041,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 17,
+        "m_gacha_id": 200042,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 18,
+        "m_gacha_id": 200043,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 19,
+        "m_gacha_id": 200046,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 20,
+        "m_gacha_id": 200045,
+        "gacha_num": 10,
+        "resource_name": "10_free"
+    },
+    {
+        "id": 21,
+        "m_gacha_id": 200048,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 22,
+        "m_gacha_id": 200050,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 23,
+        "m_gacha_id": 200051,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 24,
+        "m_gacha_id": 200052,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 25,
+        "m_gacha_id": 200054,
+        "gacha_num": 10,
+        "resource_name": "10_free"
+    },
+    {
+        "id": 26,
+        "m_gacha_id": 200055,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 27,
+        "m_gacha_id": 200056,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 28,
+        "m_gacha_id": 200057,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 29,
+        "m_gacha_id": 200058,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 30,
+        "m_gacha_id": 200061,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 31,
+        "m_gacha_id": 200062,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 32,
+        "m_gacha_id": 200063,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 33,
+        "m_gacha_id": 200064,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 34,
+        "m_gacha_id": 200065,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 35,
+        "m_gacha_id": 200067,
+        "gacha_num": 10,
+        "resource_name": "10_free"
+    },
+    {
+        "id": 36,
+        "m_gacha_id": 200068,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 37,
+        "m_gacha_id": 200069,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4_pay"
+    },
+    {
+        "id": 38,
+        "m_gacha_id": 200070,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 39,
+        "m_gacha_id": 200071,
+        "gacha_num": 10,
+        "resource_name": "count_bonus_rare4"
+    }
+]

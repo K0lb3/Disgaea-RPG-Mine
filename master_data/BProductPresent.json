@@ -1,0 +1,42 @@
+[
+    {
+        "id": 12345671,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 12345672,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 12345673,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1903,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 12345674,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 1160
+    },
+    {
+        "id": 12345675,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    }
+]

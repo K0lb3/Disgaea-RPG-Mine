@@ -1,0 +1,772 @@
+[
+    {
+        "id": 1,
+        "m_present_equip_id": 1,
+        "place_no": 0,
+        "innocent_type": 7,
+        "m_character_id": 30085,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 2,
+        "m_present_equip_id": 1,
+        "place_no": 1,
+        "innocent_type": 7,
+        "m_character_id": 30037,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 3,
+        "m_present_equip_id": 1,
+        "place_no": 2,
+        "innocent_type": 7,
+        "m_character_id": 30013,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 4,
+        "m_present_equip_id": 1,
+        "place_no": 3,
+        "innocent_type": 7,
+        "m_character_id": 30018,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 5,
+        "m_present_equip_id": 1,
+        "place_no": 4,
+        "innocent_type": 7,
+        "m_character_id": 30125,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 6,
+        "m_present_equip_id": 1,
+        "place_no": 5,
+        "innocent_type": 7,
+        "m_character_id": 30039,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 7,
+        "m_present_equip_id": 1,
+        "place_no": 6,
+        "innocent_type": 7,
+        "m_character_id": 30097,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 8,
+        "m_present_equip_id": 1,
+        "place_no": 7,
+        "innocent_type": 7,
+        "m_character_id": 30081,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 9,
+        "m_present_equip_id": 1,
+        "place_no": 8,
+        "innocent_type": 7,
+        "m_character_id": 30044,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 10,
+        "m_present_equip_id": 1,
+        "place_no": 9,
+        "innocent_type": 7,
+        "m_character_id": 30099,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 11,
+        "m_present_equip_id": 2,
+        "place_no": 0,
+        "innocent_type": 7,
+        "m_character_id": 30086,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 12,
+        "m_present_equip_id": 2,
+        "place_no": 1,
+        "innocent_type": 7,
+        "m_character_id": 30038,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 13,
+        "m_present_equip_id": 2,
+        "place_no": 2,
+        "innocent_type": 7,
+        "m_character_id": 30014,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 14,
+        "m_present_equip_id": 2,
+        "place_no": 3,
+        "innocent_type": 7,
+        "m_character_id": 30008,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 15,
+        "m_present_equip_id": 2,
+        "place_no": 4,
+        "innocent_type": 7,
+        "m_character_id": 30022,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 16,
+        "m_present_equip_id": 2,
+        "place_no": 5,
+        "innocent_type": 7,
+        "m_character_id": 30017,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 17,
+        "m_present_equip_id": 2,
+        "place_no": 6,
+        "innocent_type": 7,
+        "m_character_id": 30034,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 18,
+        "m_present_equip_id": 2,
+        "place_no": 7,
+        "innocent_type": 7,
+        "m_character_id": 30126,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 19,
+        "m_present_equip_id": 2,
+        "place_no": 8,
+        "innocent_type": 7,
+        "m_character_id": 30029,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 20,
+        "m_present_equip_id": 2,
+        "place_no": 9,
+        "innocent_type": 7,
+        "m_character_id": 30047,
+        "effect_rank": 10,
+        "effect_value": 2.0,
+        "status": 1
+    },
+    {
+        "id": 21,
+        "m_present_equip_id": 3,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30099,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 22,
+        "m_present_equip_id": 3,
+        "place_no": 1,
+        "innocent_type": 2,
+        "m_character_id": 30086,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 23,
+        "m_present_equip_id": 3,
+        "place_no": 2,
+        "innocent_type": 3,
+        "m_character_id": 30038,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 24,
+        "m_present_equip_id": 4,
+        "place_no": 0,
+        "innocent_type": 4,
+        "m_character_id": 30014,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 25,
+        "m_present_equip_id": 4,
+        "place_no": 1,
+        "innocent_type": 4,
+        "m_character_id": 30008,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 26,
+        "m_present_equip_id": 4,
+        "place_no": 2,
+        "innocent_type": 5,
+        "m_character_id": 30022,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 27,
+        "m_present_equip_id": 5,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30017,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 28,
+        "m_present_equip_id": 5,
+        "place_no": 1,
+        "innocent_type": 2,
+        "m_character_id": 30034,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 29,
+        "m_present_equip_id": 5,
+        "place_no": 2,
+        "innocent_type": 3,
+        "m_character_id": 30126,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 30,
+        "m_present_equip_id": 6,
+        "place_no": 0,
+        "innocent_type": 4,
+        "m_character_id": 30029,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 31,
+        "m_present_equip_id": 6,
+        "place_no": 1,
+        "innocent_type": 4,
+        "m_character_id": 30047,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 32,
+        "m_present_equip_id": 6,
+        "place_no": 2,
+        "innocent_type": 5,
+        "m_character_id": 30039,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 33,
+        "m_present_equip_id": 7,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30017,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 34,
+        "m_present_equip_id": 7,
+        "place_no": 1,
+        "innocent_type": 2,
+        "m_character_id": 30034,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 35,
+        "m_present_equip_id": 7,
+        "place_no": 2,
+        "innocent_type": 3,
+        "m_character_id": 30126,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 36,
+        "m_present_equip_id": 8,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30029,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 37,
+        "m_present_equip_id": 8,
+        "place_no": 1,
+        "innocent_type": 2,
+        "m_character_id": 30047,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 38,
+        "m_present_equip_id": 8,
+        "place_no": 2,
+        "innocent_type": 3,
+        "m_character_id": 30039,
+        "effect_rank": 4,
+        "effect_value": 2.0,
+        "status": 0
+    },
+    {
+        "id": 39,
+        "m_present_equip_id": 10,
+        "place_no": 0,
+        "innocent_type": 1,
+        "m_character_id": 30017,
+        "effect_rank": 4,
+        "effect_value": 3.0,
+        "status": 1
+    },
+    {
+        "id": 40,
+        "m_present_equip_id": 10,
+        "place_no": 1,
+        "innocent_type": 1,
+        "m_character_id": 30018,
+        "effect_rank": 4,
+        "effect_value": 4.0,
+        "status": 1
+    },
+    {
+        "id": 41,
+        "m_present_equip_id": 10,
+        "place_no": 2,
+        "innocent_type": 2,
+        "m_character_id": 30045,
+        "effect_rank": 4,
+        "effect_value": 4.0,
+        "status": 1
+    },
+    {
+        "id": 42,
+        "m_present_equip_id": 10,
+        "place_no": 3,
+        "innocent_type": 3,
+        "m_character_id": 30046,
+        "effect_rank": 4,
+        "effect_value": 4.0,
+        "status": 1
+    },
+    {
+        "id": 43,
+        "m_present_equip_id": 10,
+        "place_no": 4,
+        "innocent_type": 4,
+        "m_character_id": 30047,
+        "effect_rank": 4,
+        "effect_value": 4.0,
+        "status": 1
+    },
+    {
+        "id": 44,
+        "m_present_equip_id": 10,
+        "place_no": 5,
+        "innocent_type": 5,
+        "m_character_id": 30048,
+        "effect_rank": 4,
+        "effect_value": 4.0,
+        "status": 1
+    },
+    {
+        "id": 45,
+        "m_present_equip_id": 11,
+        "place_no": 0,
+        "innocent_type": 7,
+        "m_character_id": 30127,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 46,
+        "m_present_equip_id": 11,
+        "place_no": 1,
+        "innocent_type": 7,
+        "m_character_id": 30087,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 47,
+        "m_present_equip_id": 11,
+        "place_no": 2,
+        "innocent_type": 7,
+        "m_character_id": 30036,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 48,
+        "m_present_equip_id": 11,
+        "place_no": 3,
+        "innocent_type": 7,
+        "m_character_id": 30040,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 49,
+        "m_present_equip_id": 11,
+        "place_no": 4,
+        "innocent_type": 7,
+        "m_character_id": 30042,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 50,
+        "m_present_equip_id": 12,
+        "place_no": 0,
+        "innocent_type": 6,
+        "m_character_id": 30030,
+        "effect_rank": 4,
+        "effect_value": 0.4,
+        "status": 1
+    },
+    {
+        "id": 51,
+        "m_present_equip_id": 12,
+        "place_no": 1,
+        "innocent_type": 6,
+        "m_character_id": 30061,
+        "effect_rank": 4,
+        "effect_value": 0.4,
+        "status": 1
+    },
+    {
+        "id": 52,
+        "m_present_equip_id": 12,
+        "place_no": 2,
+        "innocent_type": 6,
+        "m_character_id": 30083,
+        "effect_rank": 4,
+        "effect_value": 0.4,
+        "status": 1
+    },
+    {
+        "id": 53,
+        "m_present_equip_id": 12,
+        "place_no": 3,
+        "innocent_type": 6,
+        "m_character_id": 30066,
+        "effect_rank": 4,
+        "effect_value": 0.4,
+        "status": 1
+    },
+    {
+        "id": 54,
+        "m_present_equip_id": 13,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30041,
+        "effect_rank": 5,
+        "effect_value": 3.0,
+        "status": 1
+    },
+    {
+        "id": 55,
+        "m_present_equip_id": 13,
+        "place_no": 1,
+        "innocent_type": 3,
+        "m_character_id": 30042,
+        "effect_rank": 5,
+        "effect_value": 3.0,
+        "status": 1
+    },
+    {
+        "id": 56,
+        "m_present_equip_id": 13,
+        "place_no": 2,
+        "innocent_type": 4,
+        "m_character_id": 30043,
+        "effect_rank": 5,
+        "effect_value": 3.0,
+        "status": 1
+    },
+    {
+        "id": 57,
+        "m_present_equip_id": 13,
+        "place_no": 3,
+        "innocent_type": 5,
+        "m_character_id": 30044,
+        "effect_rank": 5,
+        "effect_value": 3.0,
+        "status": 1
+    },
+    {
+        "id": 58,
+        "m_present_equip_id": 13,
+        "place_no": 4,
+        "innocent_type": 6,
+        "m_character_id": 30040,
+        "effect_rank": 5,
+        "effect_value": 0.5,
+        "status": 1
+    },
+    {
+        "id": 59,
+        "m_present_equip_id": 14,
+        "place_no": 0,
+        "innocent_type": 6,
+        "m_character_id": 30085,
+        "effect_rank": 6,
+        "effect_value": 0.8,
+        "status": 1
+    },
+    {
+        "id": 60,
+        "m_present_equip_id": 14,
+        "place_no": 1,
+        "innocent_type": 7,
+        "m_character_id": 30037,
+        "effect_rank": 5,
+        "effect_value": 1.1,
+        "status": 1
+    },
+    {
+        "id": 61,
+        "m_present_equip_id": 14,
+        "place_no": 2,
+        "innocent_type": 2,
+        "m_character_id": 30013,
+        "effect_rank": 6,
+        "effect_value": 3.6,
+        "status": 1
+    },
+    {
+        "id": 62,
+        "m_present_equip_id": 14,
+        "place_no": 3,
+        "innocent_type": 3,
+        "m_character_id": 30018,
+        "effect_rank": 6,
+        "effect_value": 3.4,
+        "status": 1
+    },
+    {
+        "id": 63,
+        "m_present_equip_id": 15,
+        "place_no": 0,
+        "innocent_type": 7,
+        "m_character_id": 30125,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 64,
+        "m_present_equip_id": 15,
+        "place_no": 1,
+        "innocent_type": 8,
+        "m_character_id": 30039,
+        "effect_rank": 5,
+        "effect_value": 1.1,
+        "status": 1
+    },
+    {
+        "id": 65,
+        "m_present_equip_id": 15,
+        "place_no": 2,
+        "innocent_type": 4,
+        "m_character_id": 30097,
+        "effect_rank": 5,
+        "effect_value": 3.6,
+        "status": 1
+    },
+    {
+        "id": 66,
+        "m_present_equip_id": 15,
+        "place_no": 3,
+        "innocent_type": 5,
+        "m_character_id": 30081,
+        "effect_rank": 5,
+        "effect_value": 3.4,
+        "status": 1
+    },
+    {
+        "id": 67,
+        "m_present_equip_id": 16,
+        "place_no": 0,
+        "innocent_type": 8,
+        "m_character_id": 30044,
+        "effect_rank": 6,
+        "effect_value": 1.2,
+        "status": 1
+    },
+    {
+        "id": 68,
+        "m_present_equip_id": 16,
+        "place_no": 1,
+        "innocent_type": 6,
+        "m_character_id": 30099,
+        "effect_rank": 5,
+        "effect_value": 0.6,
+        "status": 1
+    },
+    {
+        "id": 69,
+        "m_present_equip_id": 16,
+        "place_no": 2,
+        "innocent_type": 2,
+        "m_character_id": 30086,
+        "effect_rank": 5,
+        "effect_value": 3.6,
+        "status": 1
+    },
+    {
+        "id": 70,
+        "m_present_equip_id": 16,
+        "place_no": 3,
+        "innocent_type": 3,
+        "m_character_id": 30038,
+        "effect_rank": 5,
+        "effect_value": 3.4,
+        "status": 1
+    },
+    {
+        "id": 71,
+        "m_present_equip_id": 17,
+        "place_no": 0,
+        "innocent_type": 2,
+        "m_character_id": 30045,
+        "effect_rank": 4,
+        "effect_value": 2.2,
+        "status": 1
+    },
+    {
+        "id": 72,
+        "m_present_equip_id": 17,
+        "place_no": 1,
+        "innocent_type": 3,
+        "m_character_id": 30046,
+        "effect_rank": 4,
+        "effect_value": 2.2,
+        "status": 1
+    },
+    {
+        "id": 73,
+        "m_present_equip_id": 17,
+        "place_no": 2,
+        "innocent_type": 4,
+        "m_character_id": 30047,
+        "effect_rank": 4,
+        "effect_value": 2.2,
+        "status": 1
+    },
+    {
+        "id": 74,
+        "m_present_equip_id": 17,
+        "place_no": 3,
+        "innocent_type": 5,
+        "m_character_id": 30048,
+        "effect_rank": 4,
+        "effect_value": 2.2,
+        "status": 1
+    },
+    {
+        "id": 75,
+        "m_present_equip_id": 17,
+        "place_no": 4,
+        "innocent_type": 6,
+        "m_character_id": 30099,
+        "effect_rank": 4,
+        "effect_value": 0.3,
+        "status": 1
+    },
+    {
+        "id": 76,
+        "m_present_equip_id": 17,
+        "place_no": 5,
+        "innocent_type": 7,
+        "m_character_id": 30125,
+        "effect_rank": 4,
+        "effect_value": 0.6,
+        "status": 1
+    },
+    {
+        "id": 77,
+        "m_present_equip_id": 17,
+        "place_no": 6,
+        "innocent_type": 8,
+        "m_character_id": 30039,
+        "effect_rank": 4,
+        "effect_value": 0.6,
+        "status": 1
+    }
+]

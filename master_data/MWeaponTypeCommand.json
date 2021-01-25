@@ -1,0 +1,182 @@
+[
+    {
+        "id": 101,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100001
+    },
+    {
+        "id": 102,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100002
+    },
+    {
+        "id": 103,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100003
+    },
+    {
+        "id": 104,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100004
+    },
+    {
+        "id": 105,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100005
+    },
+    {
+        "id": 201,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100008
+    },
+    {
+        "id": 202,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100009
+    },
+    {
+        "id": 203,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100010
+    },
+    {
+        "id": 204,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100011
+    },
+    {
+        "id": 205,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100012
+    },
+    {
+        "id": 301,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100015
+    },
+    {
+        "id": 302,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100016
+    },
+    {
+        "id": 303,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100017
+    },
+    {
+        "id": 304,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100018
+    },
+    {
+        "id": 305,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100019
+    },
+    {
+        "id": 401,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100022
+    },
+    {
+        "id": 402,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100023
+    },
+    {
+        "id": 403,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100024
+    },
+    {
+        "id": 404,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100025
+    },
+    {
+        "id": 405,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100026
+    },
+    {
+        "id": 501,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100029
+    },
+    {
+        "id": 502,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100030
+    },
+    {
+        "id": 503,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100031
+    },
+    {
+        "id": 504,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100032
+    },
+    {
+        "id": 505,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100033
+    },
+    {
+        "id": 601,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 4,
+        "m_command_id": 100036
+    },
+    {
+        "id": 602,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 9,
+        "m_command_id": 100037
+    },
+    {
+        "id": 603,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 15,
+        "m_command_id": 100038
+    },
+    {
+        "id": 604,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 22,
+        "m_command_id": 100039
+    },
+    {
+        "id": 605,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 30,
+        "m_command_id": 100040
+    }
+]

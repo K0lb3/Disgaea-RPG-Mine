@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "m_garapon_id": 1,
+        "name": "Rank 1",
+        "item_name": "Equipment (Legendary)",
+        "rank": 1,
+        "item_type": 4,
+        "item_id": 1,
+        "item_num": 1,
+        "rarity": 0,
+        "rate": 300,
+        "limit_num": 0,
+        "garapon_miss_flg": false
+    },
+    {
+        "id": 2,
+        "m_garapon_id": 1,
+        "name": "Rank 2",
+        "item_name": "Nether Quartz x100",
+        "rank": 2,
+        "item_type": 1,
+        "item_id": 201,
+        "item_num": 100,
+        "rarity": 0,
+        "rate": 700,
+        "limit_num": 0,
+        "garapon_miss_flg": false
+    },
+    {
+        "id": 3,
+        "m_garapon_id": 1,
+        "name": "Rank 3",
+        "item_name": "Gate Keys",
+        "rank": 3,
+        "item_type": 1,
+        "item_id": 1401,
+        "item_num": 1,
+        "rarity": 0,
+        "rate": 1000,
+        "limit_num": 0,
+        "garapon_miss_flg": false
+    },
+    {
+        "id": 4,
+        "m_garapon_id": 1,
+        "name": "Rank 4",
+        "item_name": "50% AP Potion",
+        "rank": 4,
+        "item_type": 1,
+        "item_id": 302,
+        "item_num": 1,
+        "rarity": 0,
+        "rate": 2000,
+        "limit_num": 0,
+        "garapon_miss_flg": false
+    },
+    {
+        "id": 5,
+        "m_garapon_id": 1,
+        "name": "Thank you",
+        "item_name": "500HL",
+        "rank": 5,
+        "item_type": 1,
+        "item_id": 101,
+        "item_num": 500,
+        "rarity": 0,
+        "rate": 6000,
+        "limit_num": 0,
+        "garapon_miss_flg": true
+    }
+]

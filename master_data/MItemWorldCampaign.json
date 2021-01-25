@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "campaign_type": 1,
+        "open_at": "2020-04-28 13:05:00 -0400",
+        "close_at": "2020-05-12 11:59:59 -0400",
+        "appeal_text": "Rare-Legend drop rate UP!!"
+    },
+    {
+        "id": 2,
+        "campaign_type": 1,
+        "open_at": "2020-06-02 12:00:00 -0400",
+        "close_at": "2020-06-10 23:59:59 -0400",
+        "appeal_text": "Rare-Legend drop rate UP!!"
+    }
+]

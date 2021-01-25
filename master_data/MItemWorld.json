@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 1
+    },
+    {
+        "id": 2,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 2
+    },
+    {
+        "id": 3,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 3
+    },
+    {
+        "id": 4,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 4
+    },
+    {
+        "id": 5,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 5
+    },
+    {
+        "id": 6,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 6
+    },
+    {
+        "id": 7,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 7
+    },
+    {
+        "id": 8,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 8
+    },
+    {
+        "id": 9,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 9
+    },
+    {
+        "id": 10,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1001,
+        "correct_rank": 0,
+        "no": 10
+    },
+    {
+        "id": 11,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 11
+    },
+    {
+        "id": 12,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 12
+    },
+    {
+        "id": 13,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 13
+    },
+    {
+        "id": 14,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 14
+    },
+    {
+        "id": 15,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 15
+    },
+    {
+        "id": 16,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 16
+    },
+    {
+        "id": 17,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 17
+    },
+    {
+        "id": 18,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 18
+    },
+    {
+        "id": 19,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 19
+    },
+    {
+        "id": 20,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 20
+    },
+    {
+        "id": 21,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 21
+    },
+    {
+        "id": 22,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 22
+    },
+    {
+        "id": 23,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 23
+    },
+    {
+        "id": 24,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 24
+    },
+    {
+        "id": 25,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 0,
+        "no": 25
+    },
+    {
+        "id": 26,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 1,
+        "no": 26
+    },
+    {
+        "id": 27,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 1,
+        "no": 27
+    },
+    {
+        "id": 28,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 1,
+        "no": 28
+    },
+    {
+        "id": 29,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 1,
+        "no": 29
+    },
+    {
+        "id": 30,
+        "boss_type": 4,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1002,
+        "correct_rank": 1,
+        "no": 30
+    },
+    {
+        "id": 31,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 31
+    },
+    {
+        "id": 32,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 32
+    },
+    {
+        "id": 33,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 33
+    },
+    {
+        "id": 34,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 34
+    },
+    {
+        "id": 35,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 35
+    },
+    {
+        "id": 36,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 36
+    },
+    {
+        "id": 37,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 37
+    },
+    {
+        "id": 38,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 38
+    },
+    {
+        "id": 39,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 39
+    },
+    {
+        "id": 40,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 40
+    },
+    {
+        "id": 41,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 41
+    },
+    {
+        "id": 42,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 42
+    },
+    {
+        "id": 43,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 43
+    },
+    {
+        "id": 44,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 44
+    },
+    {
+        "id": 45,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 45
+    },
+    {
+        "id": 46,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 46
+    },
+    {
+        "id": 47,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 47
+    },
+    {
+        "id": 48,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 48
+    },
+    {
+        "id": 49,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 49
+    },
+    {
+        "id": 50,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 1,
+        "no": 50
+    },
+    {
+        "id": 51,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 51
+    },
+    {
+        "id": 52,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 52
+    },
+    {
+        "id": 53,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 53
+    },
+    {
+        "id": 54,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 54
+    },
+    {
+        "id": 55,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 55
+    },
+    {
+        "id": 56,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 56
+    },
+    {
+        "id": 57,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 57
+    },
+    {
+        "id": 58,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 58
+    },
+    {
+        "id": 59,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 59
+    },
+    {
+        "id": 60,
+        "boss_type": 4,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1003,
+        "correct_rank": 2,
+        "no": 60
+    },
+    {
+        "id": 61,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 61
+    },
+    {
+        "id": 62,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 62
+    },
+    {
+        "id": 63,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 63
+    },
+    {
+        "id": 64,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 64
+    },
+    {
+        "id": 65,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 65
+    },
+    {
+        "id": 66,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 66
+    },
+    {
+        "id": 67,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 67
+    },
+    {
+        "id": 68,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 68
+    },
+    {
+        "id": 69,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 69
+    },
+    {
+        "id": 70,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 70
+    },
+    {
+        "id": 71,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 71
+    },
+    {
+        "id": 72,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 72
+    },
+    {
+        "id": 73,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 73
+    },
+    {
+        "id": 74,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 74
+    },
+    {
+        "id": 75,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 2,
+        "no": 75
+    },
+    {
+        "id": 76,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 76
+    },
+    {
+        "id": 77,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 77
+    },
+    {
+        "id": 78,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 78
+    },
+    {
+        "id": 79,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 79
+    },
+    {
+        "id": 80,
+        "boss_type": 3,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 80
+    },
+    {
+        "id": 81,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 81
+    },
+    {
+        "id": 82,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 82
+    },
+    {
+        "id": 83,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 83
+    },
+    {
+        "id": 84,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 84
+    },
+    {
+        "id": 85,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 85
+    },
+    {
+        "id": 86,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 86
+    },
+    {
+        "id": 87,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 87
+    },
+    {
+        "id": 88,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 88
+    },
+    {
+        "id": 89,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 89
+    },
+    {
+        "id": 90,
+        "boss_type": 4,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1004,
+        "correct_rank": 3,
+        "no": 90
+    },
+    {
+        "id": 91,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 91
+    },
+    {
+        "id": 92,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 92
+    },
+    {
+        "id": 93,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 93
+    },
+    {
+        "id": 94,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 94
+    },
+    {
+        "id": 95,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 95
+    },
+    {
+        "id": 96,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 96
+    },
+    {
+        "id": 97,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 97
+    },
+    {
+        "id": 98,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 98
+    },
+    {
+        "id": 99,
+        "boss_type": 0,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 99
+    },
+    {
+        "id": 100,
+        "boss_type": 5,
+        "bgm": "bgm_battle_item_world03",
+        "boss_bgm": "bgm_boss01",
+        "bg_id": 1005,
+        "correct_rank": 3,
+        "no": 100
+    }
+]

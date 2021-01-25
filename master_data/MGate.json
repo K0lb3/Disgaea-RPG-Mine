@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "m_area_id": 50101,
+        "m_item_id": 1401,
+        "max_count": 3,
+        "max_use_item": 5
+    },
+    {
+        "id": 2,
+        "m_area_id": 50102,
+        "m_item_id": 1401,
+        "max_count": 3,
+        "max_use_item": 5
+    },
+    {
+        "id": 3,
+        "m_area_id": 50107,
+        "m_item_id": 1401,
+        "max_count": 3,
+        "max_use_item": 5
+    },
+    {
+        "id": 4,
+        "m_area_id": 50108,
+        "m_item_id": 1401,
+        "max_count": 3,
+        "max_use_item": 5
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "m_agenda_id": 29,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "12:00",
+        "agree_end": "13:00",
+        "open_at": "2020-07-20 00:00:00",
+        "close_at": "2020-10-20 00:00:00"
+    },
+    {
+        "id": 2,
+        "m_agenda_id": 29,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "20:00",
+        "agree_end": "21:00",
+        "open_at": "2020-07-20 00:00:00",
+        "close_at": "2025-04-05 23:59:59"
+    },
+    {
+        "id": 3,
+        "m_agenda_id": 30,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "12:00",
+        "agree_end": "13:00",
+        "open_at": "2020-07-20 00:00:00",
+        "close_at": "2020-10-20 00:00:00"
+    },
+    {
+        "id": 4,
+        "m_agenda_id": 30,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "20:00",
+        "agree_end": "21:00",
+        "open_at": "2020-07-20 00:00:00",
+        "close_at": "2025-04-05 23:59:59"
+    }
+]

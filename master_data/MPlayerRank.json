@@ -1,0 +1,7994 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "need_exp": 0,
+        "follow_max": 20,
+        "follower_max": 255,
+        "friend_max": 10
+    },
+    {
+        "id": 2,
+        "rank": 2,
+        "need_exp": 34,
+        "follow_max": 20,
+        "follower_max": 255,
+        "friend_max": 11
+    },
+    {
+        "id": 3,
+        "rank": 3,
+        "need_exp": 80,
+        "follow_max": 20,
+        "follower_max": 255,
+        "friend_max": 12
+    },
+    {
+        "id": 4,
+        "rank": 4,
+        "need_exp": 138,
+        "follow_max": 20,
+        "follower_max": 255,
+        "friend_max": 13
+    },
+    {
+        "id": 5,
+        "rank": 5,
+        "need_exp": 208,
+        "follow_max": 25,
+        "follower_max": 255,
+        "friend_max": 14
+    },
+    {
+        "id": 6,
+        "rank": 6,
+        "need_exp": 380,
+        "follow_max": 25,
+        "follower_max": 255,
+        "friend_max": 15
+    },
+    {
+        "id": 7,
+        "rank": 7,
+        "need_exp": 564,
+        "follow_max": 25,
+        "follower_max": 255,
+        "friend_max": 16
+    },
+    {
+        "id": 8,
+        "rank": 8,
+        "need_exp": 760,
+        "follow_max": 25,
+        "follower_max": 255,
+        "friend_max": 17
+    },
+    {
+        "id": 9,
+        "rank": 9,
+        "need_exp": 968,
+        "follow_max": 25,
+        "follower_max": 255,
+        "friend_max": 18
+    },
+    {
+        "id": 10,
+        "rank": 10,
+        "need_exp": 1188,
+        "follow_max": 30,
+        "follower_max": 255,
+        "friend_max": 19
+    },
+    {
+        "id": 11,
+        "rank": 11,
+        "need_exp": 1420,
+        "follow_max": 30,
+        "follower_max": 255,
+        "friend_max": 20
+    },
+    {
+        "id": 12,
+        "rank": 12,
+        "need_exp": 1664,
+        "follow_max": 30,
+        "follower_max": 255,
+        "friend_max": 21
+    },
+    {
+        "id": 13,
+        "rank": 13,
+        "need_exp": 1920,
+        "follow_max": 30,
+        "follower_max": 255,
+        "friend_max": 22
+    },
+    {
+        "id": 14,
+        "rank": 14,
+        "need_exp": 2188,
+        "follow_max": 30,
+        "follower_max": 255,
+        "friend_max": 23
+    },
+    {
+        "id": 15,
+        "rank": 15,
+        "need_exp": 2468,
+        "follow_max": 35,
+        "follower_max": 255,
+        "friend_max": 24
+    },
+    {
+        "id": 16,
+        "rank": 16,
+        "need_exp": 2760,
+        "follow_max": 35,
+        "follower_max": 255,
+        "friend_max": 25
+    },
+    {
+        "id": 17,
+        "rank": 17,
+        "need_exp": 3064,
+        "follow_max": 35,
+        "follower_max": 255,
+        "friend_max": 26
+    },
+    {
+        "id": 18,
+        "rank": 18,
+        "need_exp": 3380,
+        "follow_max": 35,
+        "follower_max": 255,
+        "friend_max": 27
+    },
+    {
+        "id": 19,
+        "rank": 19,
+        "need_exp": 3708,
+        "follow_max": 35,
+        "follower_max": 255,
+        "friend_max": 28
+    },
+    {
+        "id": 20,
+        "rank": 20,
+        "need_exp": 4048,
+        "follow_max": 40,
+        "follower_max": 255,
+        "friend_max": 29
+    },
+    {
+        "id": 21,
+        "rank": 21,
+        "need_exp": 4400,
+        "follow_max": 40,
+        "follower_max": 255,
+        "friend_max": 30
+    },
+    {
+        "id": 22,
+        "rank": 22,
+        "need_exp": 4764,
+        "follow_max": 40,
+        "follower_max": 255,
+        "friend_max": 31
+    },
+    {
+        "id": 23,
+        "rank": 23,
+        "need_exp": 5140,
+        "follow_max": 40,
+        "follower_max": 255,
+        "friend_max": 32
+    },
+    {
+        "id": 24,
+        "rank": 24,
+        "need_exp": 5528,
+        "follow_max": 40,
+        "follower_max": 255,
+        "friend_max": 33
+    },
+    {
+        "id": 25,
+        "rank": 25,
+        "need_exp": 5928,
+        "follow_max": 45,
+        "follower_max": 255,
+        "friend_max": 34
+    },
+    {
+        "id": 26,
+        "rank": 26,
+        "need_exp": 6340,
+        "follow_max": 45,
+        "follower_max": 255,
+        "friend_max": 35
+    },
+    {
+        "id": 27,
+        "rank": 27,
+        "need_exp": 6764,
+        "follow_max": 45,
+        "follower_max": 255,
+        "friend_max": 36
+    },
+    {
+        "id": 28,
+        "rank": 28,
+        "need_exp": 7200,
+        "follow_max": 45,
+        "follower_max": 255,
+        "friend_max": 37
+    },
+    {
+        "id": 29,
+        "rank": 29,
+        "need_exp": 7648,
+        "follow_max": 45,
+        "follower_max": 255,
+        "friend_max": 38
+    },
+    {
+        "id": 30,
+        "rank": 30,
+        "need_exp": 8108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 39
+    },
+    {
+        "id": 31,
+        "rank": 31,
+        "need_exp": 8580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 40
+    },
+    {
+        "id": 32,
+        "rank": 32,
+        "need_exp": 9064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 41
+    },
+    {
+        "id": 33,
+        "rank": 33,
+        "need_exp": 9560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 42
+    },
+    {
+        "id": 34,
+        "rank": 34,
+        "need_exp": 10068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 43
+    },
+    {
+        "id": 35,
+        "rank": 35,
+        "need_exp": 10588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 44
+    },
+    {
+        "id": 36,
+        "rank": 36,
+        "need_exp": 11120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 45
+    },
+    {
+        "id": 37,
+        "rank": 37,
+        "need_exp": 11664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 46
+    },
+    {
+        "id": 38,
+        "rank": 38,
+        "need_exp": 12220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 47
+    },
+    {
+        "id": 39,
+        "rank": 39,
+        "need_exp": 12788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 48
+    },
+    {
+        "id": 40,
+        "rank": 40,
+        "need_exp": 13368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 49
+    },
+    {
+        "id": 41,
+        "rank": 41,
+        "need_exp": 13960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 42,
+        "rank": 42,
+        "need_exp": 14564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 43,
+        "rank": 43,
+        "need_exp": 15180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 44,
+        "rank": 44,
+        "need_exp": 15808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 45,
+        "rank": 45,
+        "need_exp": 16448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 46,
+        "rank": 46,
+        "need_exp": 17100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 47,
+        "rank": 47,
+        "need_exp": 17764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 48,
+        "rank": 48,
+        "need_exp": 18440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 49,
+        "rank": 49,
+        "need_exp": 19128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 50,
+        "rank": 50,
+        "need_exp": 19828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 51,
+        "rank": 51,
+        "need_exp": 20540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 52,
+        "rank": 52,
+        "need_exp": 21264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 53,
+        "rank": 53,
+        "need_exp": 22000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 54,
+        "rank": 54,
+        "need_exp": 22748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 55,
+        "rank": 55,
+        "need_exp": 23508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 56,
+        "rank": 56,
+        "need_exp": 24280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 57,
+        "rank": 57,
+        "need_exp": 25064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 58,
+        "rank": 58,
+        "need_exp": 25860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 59,
+        "rank": 59,
+        "need_exp": 26668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 60,
+        "rank": 60,
+        "need_exp": 27488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 61,
+        "rank": 61,
+        "need_exp": 28320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 62,
+        "rank": 62,
+        "need_exp": 29164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 63,
+        "rank": 63,
+        "need_exp": 30020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 64,
+        "rank": 64,
+        "need_exp": 30888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 65,
+        "rank": 65,
+        "need_exp": 31768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 66,
+        "rank": 66,
+        "need_exp": 32660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 67,
+        "rank": 67,
+        "need_exp": 33564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 68,
+        "rank": 68,
+        "need_exp": 34480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 69,
+        "rank": 69,
+        "need_exp": 35408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 70,
+        "rank": 70,
+        "need_exp": 36348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 71,
+        "rank": 71,
+        "need_exp": 37300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 72,
+        "rank": 72,
+        "need_exp": 38264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 73,
+        "rank": 73,
+        "need_exp": 39240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 74,
+        "rank": 74,
+        "need_exp": 40228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 75,
+        "rank": 75,
+        "need_exp": 41228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 76,
+        "rank": 76,
+        "need_exp": 42240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 77,
+        "rank": 77,
+        "need_exp": 43264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 78,
+        "rank": 78,
+        "need_exp": 44300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 79,
+        "rank": 79,
+        "need_exp": 45348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 80,
+        "rank": 80,
+        "need_exp": 46408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 81,
+        "rank": 81,
+        "need_exp": 47480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 82,
+        "rank": 82,
+        "need_exp": 48564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 83,
+        "rank": 83,
+        "need_exp": 49660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 84,
+        "rank": 84,
+        "need_exp": 50768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 85,
+        "rank": 85,
+        "need_exp": 51888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 86,
+        "rank": 86,
+        "need_exp": 53020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 87,
+        "rank": 87,
+        "need_exp": 54164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 88,
+        "rank": 88,
+        "need_exp": 55320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 89,
+        "rank": 89,
+        "need_exp": 56488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 90,
+        "rank": 90,
+        "need_exp": 57668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 91,
+        "rank": 91,
+        "need_exp": 58860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 92,
+        "rank": 92,
+        "need_exp": 60064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 93,
+        "rank": 93,
+        "need_exp": 61280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 94,
+        "rank": 94,
+        "need_exp": 62508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 95,
+        "rank": 95,
+        "need_exp": 63748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 96,
+        "rank": 96,
+        "need_exp": 65000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 97,
+        "rank": 97,
+        "need_exp": 66264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 98,
+        "rank": 98,
+        "need_exp": 67540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 99,
+        "rank": 99,
+        "need_exp": 68828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 100,
+        "rank": 100,
+        "need_exp": 70128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 101,
+        "rank": 101,
+        "need_exp": 71440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 102,
+        "rank": 102,
+        "need_exp": 72764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 103,
+        "rank": 103,
+        "need_exp": 74100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 104,
+        "rank": 104,
+        "need_exp": 75448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 105,
+        "rank": 105,
+        "need_exp": 76808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 106,
+        "rank": 106,
+        "need_exp": 78180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 107,
+        "rank": 107,
+        "need_exp": 79564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 108,
+        "rank": 108,
+        "need_exp": 80960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 109,
+        "rank": 109,
+        "need_exp": 82368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 110,
+        "rank": 110,
+        "need_exp": 83788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 111,
+        "rank": 111,
+        "need_exp": 85220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 112,
+        "rank": 112,
+        "need_exp": 86664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 113,
+        "rank": 113,
+        "need_exp": 88120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 114,
+        "rank": 114,
+        "need_exp": 89588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 115,
+        "rank": 115,
+        "need_exp": 91068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 116,
+        "rank": 116,
+        "need_exp": 92560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 117,
+        "rank": 117,
+        "need_exp": 94064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 118,
+        "rank": 118,
+        "need_exp": 95580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 119,
+        "rank": 119,
+        "need_exp": 97108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 120,
+        "rank": 120,
+        "need_exp": 98648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 121,
+        "rank": 121,
+        "need_exp": 100200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 122,
+        "rank": 122,
+        "need_exp": 101764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 123,
+        "rank": 123,
+        "need_exp": 103340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 124,
+        "rank": 124,
+        "need_exp": 104928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 125,
+        "rank": 125,
+        "need_exp": 106528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 126,
+        "rank": 126,
+        "need_exp": 108140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 127,
+        "rank": 127,
+        "need_exp": 109764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 128,
+        "rank": 128,
+        "need_exp": 111400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 129,
+        "rank": 129,
+        "need_exp": 113048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 130,
+        "rank": 130,
+        "need_exp": 114708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 131,
+        "rank": 131,
+        "need_exp": 116380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 132,
+        "rank": 132,
+        "need_exp": 118064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 133,
+        "rank": 133,
+        "need_exp": 119760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 134,
+        "rank": 134,
+        "need_exp": 121468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 135,
+        "rank": 135,
+        "need_exp": 123188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 136,
+        "rank": 136,
+        "need_exp": 124920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 137,
+        "rank": 137,
+        "need_exp": 126664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 138,
+        "rank": 138,
+        "need_exp": 128420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 139,
+        "rank": 139,
+        "need_exp": 130188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 140,
+        "rank": 140,
+        "need_exp": 131968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 141,
+        "rank": 141,
+        "need_exp": 133760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 142,
+        "rank": 142,
+        "need_exp": 135564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 143,
+        "rank": 143,
+        "need_exp": 137380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 144,
+        "rank": 144,
+        "need_exp": 139208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 145,
+        "rank": 145,
+        "need_exp": 141048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 146,
+        "rank": 146,
+        "need_exp": 142900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 147,
+        "rank": 147,
+        "need_exp": 144764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 148,
+        "rank": 148,
+        "need_exp": 146640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 149,
+        "rank": 149,
+        "need_exp": 148528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 150,
+        "rank": 150,
+        "need_exp": 150428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 151,
+        "rank": 151,
+        "need_exp": 152340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 152,
+        "rank": 152,
+        "need_exp": 154264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 153,
+        "rank": 153,
+        "need_exp": 156200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 154,
+        "rank": 154,
+        "need_exp": 158148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 155,
+        "rank": 155,
+        "need_exp": 160108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 156,
+        "rank": 156,
+        "need_exp": 162080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 157,
+        "rank": 157,
+        "need_exp": 164064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 158,
+        "rank": 158,
+        "need_exp": 166060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 159,
+        "rank": 159,
+        "need_exp": 168068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 160,
+        "rank": 160,
+        "need_exp": 170088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 161,
+        "rank": 161,
+        "need_exp": 172120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 162,
+        "rank": 162,
+        "need_exp": 174164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 163,
+        "rank": 163,
+        "need_exp": 176220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 164,
+        "rank": 164,
+        "need_exp": 178288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 165,
+        "rank": 165,
+        "need_exp": 180368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 166,
+        "rank": 166,
+        "need_exp": 182460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 167,
+        "rank": 167,
+        "need_exp": 184564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 168,
+        "rank": 168,
+        "need_exp": 186680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 169,
+        "rank": 169,
+        "need_exp": 188808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 170,
+        "rank": 170,
+        "need_exp": 190948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 171,
+        "rank": 171,
+        "need_exp": 193100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 172,
+        "rank": 172,
+        "need_exp": 195264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 173,
+        "rank": 173,
+        "need_exp": 197440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 174,
+        "rank": 174,
+        "need_exp": 199628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 175,
+        "rank": 175,
+        "need_exp": 201828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 176,
+        "rank": 176,
+        "need_exp": 204040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 177,
+        "rank": 177,
+        "need_exp": 206264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 178,
+        "rank": 178,
+        "need_exp": 208500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 179,
+        "rank": 179,
+        "need_exp": 210748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 180,
+        "rank": 180,
+        "need_exp": 213008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 181,
+        "rank": 181,
+        "need_exp": 215280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 182,
+        "rank": 182,
+        "need_exp": 217564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 183,
+        "rank": 183,
+        "need_exp": 219860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 184,
+        "rank": 184,
+        "need_exp": 222168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 185,
+        "rank": 185,
+        "need_exp": 224488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 186,
+        "rank": 186,
+        "need_exp": 226820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 187,
+        "rank": 187,
+        "need_exp": 229164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 188,
+        "rank": 188,
+        "need_exp": 231520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 189,
+        "rank": 189,
+        "need_exp": 233888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 190,
+        "rank": 190,
+        "need_exp": 236268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 191,
+        "rank": 191,
+        "need_exp": 238660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 192,
+        "rank": 192,
+        "need_exp": 241064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 193,
+        "rank": 193,
+        "need_exp": 243480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 194,
+        "rank": 194,
+        "need_exp": 245908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 195,
+        "rank": 195,
+        "need_exp": 248348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 196,
+        "rank": 196,
+        "need_exp": 250800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 197,
+        "rank": 197,
+        "need_exp": 253264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 198,
+        "rank": 198,
+        "need_exp": 255740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 199,
+        "rank": 199,
+        "need_exp": 258228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 200,
+        "rank": 200,
+        "need_exp": 260728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 201,
+        "rank": 201,
+        "need_exp": 263240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 202,
+        "rank": 202,
+        "need_exp": 265764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 203,
+        "rank": 203,
+        "need_exp": 268300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 204,
+        "rank": 204,
+        "need_exp": 270848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 205,
+        "rank": 205,
+        "need_exp": 273408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 206,
+        "rank": 206,
+        "need_exp": 275980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 207,
+        "rank": 207,
+        "need_exp": 278564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 208,
+        "rank": 208,
+        "need_exp": 281160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 209,
+        "rank": 209,
+        "need_exp": 283768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 210,
+        "rank": 210,
+        "need_exp": 286388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 211,
+        "rank": 211,
+        "need_exp": 289020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 212,
+        "rank": 212,
+        "need_exp": 291664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 213,
+        "rank": 213,
+        "need_exp": 294320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 214,
+        "rank": 214,
+        "need_exp": 296988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 215,
+        "rank": 215,
+        "need_exp": 299668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 216,
+        "rank": 216,
+        "need_exp": 302360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 217,
+        "rank": 217,
+        "need_exp": 305064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 218,
+        "rank": 218,
+        "need_exp": 307780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 219,
+        "rank": 219,
+        "need_exp": 310508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 220,
+        "rank": 220,
+        "need_exp": 313248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 221,
+        "rank": 221,
+        "need_exp": 316000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 222,
+        "rank": 222,
+        "need_exp": 318764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 223,
+        "rank": 223,
+        "need_exp": 321540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 224,
+        "rank": 224,
+        "need_exp": 324328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 225,
+        "rank": 225,
+        "need_exp": 327128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 226,
+        "rank": 226,
+        "need_exp": 329940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 227,
+        "rank": 227,
+        "need_exp": 332764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 228,
+        "rank": 228,
+        "need_exp": 335600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 229,
+        "rank": 229,
+        "need_exp": 338448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 230,
+        "rank": 230,
+        "need_exp": 341308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 231,
+        "rank": 231,
+        "need_exp": 344180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 232,
+        "rank": 232,
+        "need_exp": 347064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 233,
+        "rank": 233,
+        "need_exp": 349960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 234,
+        "rank": 234,
+        "need_exp": 352868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 235,
+        "rank": 235,
+        "need_exp": 355788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 236,
+        "rank": 236,
+        "need_exp": 358720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 237,
+        "rank": 237,
+        "need_exp": 361664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 238,
+        "rank": 238,
+        "need_exp": 364620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 239,
+        "rank": 239,
+        "need_exp": 367588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 240,
+        "rank": 240,
+        "need_exp": 370568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 241,
+        "rank": 241,
+        "need_exp": 373560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 242,
+        "rank": 242,
+        "need_exp": 376564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 243,
+        "rank": 243,
+        "need_exp": 379580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 244,
+        "rank": 244,
+        "need_exp": 382608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 245,
+        "rank": 245,
+        "need_exp": 385648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 246,
+        "rank": 246,
+        "need_exp": 388700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 247,
+        "rank": 247,
+        "need_exp": 391764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 248,
+        "rank": 248,
+        "need_exp": 394840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 249,
+        "rank": 249,
+        "need_exp": 397928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 250,
+        "rank": 250,
+        "need_exp": 401028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 251,
+        "rank": 251,
+        "need_exp": 404140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 252,
+        "rank": 252,
+        "need_exp": 407264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 253,
+        "rank": 253,
+        "need_exp": 410400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 254,
+        "rank": 254,
+        "need_exp": 413548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 255,
+        "rank": 255,
+        "need_exp": 416708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 256,
+        "rank": 256,
+        "need_exp": 419880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 257,
+        "rank": 257,
+        "need_exp": 423064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 258,
+        "rank": 258,
+        "need_exp": 426260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 259,
+        "rank": 259,
+        "need_exp": 429468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 260,
+        "rank": 260,
+        "need_exp": 432688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 261,
+        "rank": 261,
+        "need_exp": 435920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 262,
+        "rank": 262,
+        "need_exp": 439164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 263,
+        "rank": 263,
+        "need_exp": 442420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 264,
+        "rank": 264,
+        "need_exp": 445688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 265,
+        "rank": 265,
+        "need_exp": 448968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 266,
+        "rank": 266,
+        "need_exp": 452260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 267,
+        "rank": 267,
+        "need_exp": 455564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 268,
+        "rank": 268,
+        "need_exp": 458880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 269,
+        "rank": 269,
+        "need_exp": 462208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 270,
+        "rank": 270,
+        "need_exp": 465548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 271,
+        "rank": 271,
+        "need_exp": 468900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 272,
+        "rank": 272,
+        "need_exp": 472264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 273,
+        "rank": 273,
+        "need_exp": 475640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 274,
+        "rank": 274,
+        "need_exp": 479028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 275,
+        "rank": 275,
+        "need_exp": 482428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 276,
+        "rank": 276,
+        "need_exp": 485840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 277,
+        "rank": 277,
+        "need_exp": 489264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 278,
+        "rank": 278,
+        "need_exp": 492700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 279,
+        "rank": 279,
+        "need_exp": 496148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 280,
+        "rank": 280,
+        "need_exp": 499608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 281,
+        "rank": 281,
+        "need_exp": 503080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 282,
+        "rank": 282,
+        "need_exp": 506564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 283,
+        "rank": 283,
+        "need_exp": 510060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 284,
+        "rank": 284,
+        "need_exp": 513568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 285,
+        "rank": 285,
+        "need_exp": 517088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 286,
+        "rank": 286,
+        "need_exp": 520620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 287,
+        "rank": 287,
+        "need_exp": 524164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 288,
+        "rank": 288,
+        "need_exp": 527720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 289,
+        "rank": 289,
+        "need_exp": 531288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 290,
+        "rank": 290,
+        "need_exp": 534868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 291,
+        "rank": 291,
+        "need_exp": 538460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 292,
+        "rank": 292,
+        "need_exp": 542064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 293,
+        "rank": 293,
+        "need_exp": 545680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 294,
+        "rank": 294,
+        "need_exp": 549308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 295,
+        "rank": 295,
+        "need_exp": 552948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 296,
+        "rank": 296,
+        "need_exp": 556600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 297,
+        "rank": 297,
+        "need_exp": 560264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 298,
+        "rank": 298,
+        "need_exp": 563940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 299,
+        "rank": 299,
+        "need_exp": 567628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 300,
+        "rank": 300,
+        "need_exp": 571328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 301,
+        "rank": 301,
+        "need_exp": 575040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 302,
+        "rank": 302,
+        "need_exp": 578764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 303,
+        "rank": 303,
+        "need_exp": 582500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 304,
+        "rank": 304,
+        "need_exp": 586248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 305,
+        "rank": 305,
+        "need_exp": 590008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 306,
+        "rank": 306,
+        "need_exp": 593780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 307,
+        "rank": 307,
+        "need_exp": 597564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 308,
+        "rank": 308,
+        "need_exp": 601360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 309,
+        "rank": 309,
+        "need_exp": 605168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 310,
+        "rank": 310,
+        "need_exp": 608988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 311,
+        "rank": 311,
+        "need_exp": 612820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 312,
+        "rank": 312,
+        "need_exp": 616664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 313,
+        "rank": 313,
+        "need_exp": 620520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 314,
+        "rank": 314,
+        "need_exp": 624388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 315,
+        "rank": 315,
+        "need_exp": 628268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 316,
+        "rank": 316,
+        "need_exp": 632160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 317,
+        "rank": 317,
+        "need_exp": 636064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 318,
+        "rank": 318,
+        "need_exp": 639980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 319,
+        "rank": 319,
+        "need_exp": 643908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 320,
+        "rank": 320,
+        "need_exp": 647848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 321,
+        "rank": 321,
+        "need_exp": 651800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 322,
+        "rank": 322,
+        "need_exp": 655764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 323,
+        "rank": 323,
+        "need_exp": 659740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 324,
+        "rank": 324,
+        "need_exp": 663728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 325,
+        "rank": 325,
+        "need_exp": 667728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 326,
+        "rank": 326,
+        "need_exp": 671740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 327,
+        "rank": 327,
+        "need_exp": 675764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 328,
+        "rank": 328,
+        "need_exp": 679800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 329,
+        "rank": 329,
+        "need_exp": 683848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 330,
+        "rank": 330,
+        "need_exp": 687908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 331,
+        "rank": 331,
+        "need_exp": 691980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 332,
+        "rank": 332,
+        "need_exp": 696064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 333,
+        "rank": 333,
+        "need_exp": 700160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 334,
+        "rank": 334,
+        "need_exp": 704268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 335,
+        "rank": 335,
+        "need_exp": 708388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 336,
+        "rank": 336,
+        "need_exp": 712520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 337,
+        "rank": 337,
+        "need_exp": 716664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 338,
+        "rank": 338,
+        "need_exp": 720820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 339,
+        "rank": 339,
+        "need_exp": 724988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 340,
+        "rank": 340,
+        "need_exp": 729168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 341,
+        "rank": 341,
+        "need_exp": 733360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 342,
+        "rank": 342,
+        "need_exp": 737564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 343,
+        "rank": 343,
+        "need_exp": 741780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 344,
+        "rank": 344,
+        "need_exp": 746008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 345,
+        "rank": 345,
+        "need_exp": 750248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 346,
+        "rank": 346,
+        "need_exp": 754500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 347,
+        "rank": 347,
+        "need_exp": 758764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 348,
+        "rank": 348,
+        "need_exp": 763040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 349,
+        "rank": 349,
+        "need_exp": 767328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 350,
+        "rank": 350,
+        "need_exp": 771628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 351,
+        "rank": 351,
+        "need_exp": 775940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 352,
+        "rank": 352,
+        "need_exp": 780264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 353,
+        "rank": 353,
+        "need_exp": 784600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 354,
+        "rank": 354,
+        "need_exp": 788948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 355,
+        "rank": 355,
+        "need_exp": 793308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 356,
+        "rank": 356,
+        "need_exp": 797680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 357,
+        "rank": 357,
+        "need_exp": 802064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 358,
+        "rank": 358,
+        "need_exp": 806460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 359,
+        "rank": 359,
+        "need_exp": 810868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 360,
+        "rank": 360,
+        "need_exp": 815288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 361,
+        "rank": 361,
+        "need_exp": 819720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 362,
+        "rank": 362,
+        "need_exp": 824164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 363,
+        "rank": 363,
+        "need_exp": 828620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 364,
+        "rank": 364,
+        "need_exp": 833088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 365,
+        "rank": 365,
+        "need_exp": 837568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 366,
+        "rank": 366,
+        "need_exp": 842060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 367,
+        "rank": 367,
+        "need_exp": 846564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 368,
+        "rank": 368,
+        "need_exp": 851080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 369,
+        "rank": 369,
+        "need_exp": 855608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 370,
+        "rank": 370,
+        "need_exp": 860148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 371,
+        "rank": 371,
+        "need_exp": 864700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 372,
+        "rank": 372,
+        "need_exp": 869264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 373,
+        "rank": 373,
+        "need_exp": 873840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 374,
+        "rank": 374,
+        "need_exp": 878428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 375,
+        "rank": 375,
+        "need_exp": 883028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 376,
+        "rank": 376,
+        "need_exp": 887640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 377,
+        "rank": 377,
+        "need_exp": 892264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 378,
+        "rank": 378,
+        "need_exp": 896900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 379,
+        "rank": 379,
+        "need_exp": 901548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 380,
+        "rank": 380,
+        "need_exp": 906208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 381,
+        "rank": 381,
+        "need_exp": 910880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 382,
+        "rank": 382,
+        "need_exp": 915564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 383,
+        "rank": 383,
+        "need_exp": 920260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 384,
+        "rank": 384,
+        "need_exp": 924968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 385,
+        "rank": 385,
+        "need_exp": 929688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 386,
+        "rank": 386,
+        "need_exp": 934420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 387,
+        "rank": 387,
+        "need_exp": 939164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 388,
+        "rank": 388,
+        "need_exp": 943920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 389,
+        "rank": 389,
+        "need_exp": 948688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 390,
+        "rank": 390,
+        "need_exp": 953468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 391,
+        "rank": 391,
+        "need_exp": 958260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 392,
+        "rank": 392,
+        "need_exp": 963064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 393,
+        "rank": 393,
+        "need_exp": 967880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 394,
+        "rank": 394,
+        "need_exp": 972708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 395,
+        "rank": 395,
+        "need_exp": 977548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 396,
+        "rank": 396,
+        "need_exp": 982400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 397,
+        "rank": 397,
+        "need_exp": 987264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 398,
+        "rank": 398,
+        "need_exp": 992140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 399,
+        "rank": 399,
+        "need_exp": 997028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 400,
+        "rank": 400,
+        "need_exp": 1001928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 401,
+        "rank": 401,
+        "need_exp": 1006840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 402,
+        "rank": 402,
+        "need_exp": 1011764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 403,
+        "rank": 403,
+        "need_exp": 1016700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 404,
+        "rank": 404,
+        "need_exp": 1021648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 405,
+        "rank": 405,
+        "need_exp": 1026608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 406,
+        "rank": 406,
+        "need_exp": 1031580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 407,
+        "rank": 407,
+        "need_exp": 1036564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 408,
+        "rank": 408,
+        "need_exp": 1041560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 409,
+        "rank": 409,
+        "need_exp": 1046568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 410,
+        "rank": 410,
+        "need_exp": 1051588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 411,
+        "rank": 411,
+        "need_exp": 1056620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 412,
+        "rank": 412,
+        "need_exp": 1061664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 413,
+        "rank": 413,
+        "need_exp": 1066720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 414,
+        "rank": 414,
+        "need_exp": 1071788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 415,
+        "rank": 415,
+        "need_exp": 1076868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 416,
+        "rank": 416,
+        "need_exp": 1081960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 417,
+        "rank": 417,
+        "need_exp": 1087064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 418,
+        "rank": 418,
+        "need_exp": 1092180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 419,
+        "rank": 419,
+        "need_exp": 1097308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 420,
+        "rank": 420,
+        "need_exp": 1102448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 421,
+        "rank": 421,
+        "need_exp": 1107600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 422,
+        "rank": 422,
+        "need_exp": 1112764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 423,
+        "rank": 423,
+        "need_exp": 1117940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 424,
+        "rank": 424,
+        "need_exp": 1123128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 425,
+        "rank": 425,
+        "need_exp": 1128328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 426,
+        "rank": 426,
+        "need_exp": 1133540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 427,
+        "rank": 427,
+        "need_exp": 1138764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 428,
+        "rank": 428,
+        "need_exp": 1144000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 429,
+        "rank": 429,
+        "need_exp": 1149248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 430,
+        "rank": 430,
+        "need_exp": 1154508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 431,
+        "rank": 431,
+        "need_exp": 1159780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 432,
+        "rank": 432,
+        "need_exp": 1165064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 433,
+        "rank": 433,
+        "need_exp": 1170360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 434,
+        "rank": 434,
+        "need_exp": 1175668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 435,
+        "rank": 435,
+        "need_exp": 1180988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 436,
+        "rank": 436,
+        "need_exp": 1186320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 437,
+        "rank": 437,
+        "need_exp": 1191664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 438,
+        "rank": 438,
+        "need_exp": 1197020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 439,
+        "rank": 439,
+        "need_exp": 1202388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 440,
+        "rank": 440,
+        "need_exp": 1207768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 441,
+        "rank": 441,
+        "need_exp": 1213160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 442,
+        "rank": 442,
+        "need_exp": 1218564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 443,
+        "rank": 443,
+        "need_exp": 1223980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 444,
+        "rank": 444,
+        "need_exp": 1229408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 445,
+        "rank": 445,
+        "need_exp": 1234848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 446,
+        "rank": 446,
+        "need_exp": 1240300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 447,
+        "rank": 447,
+        "need_exp": 1245764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 448,
+        "rank": 448,
+        "need_exp": 1251240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 449,
+        "rank": 449,
+        "need_exp": 1256728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 450,
+        "rank": 450,
+        "need_exp": 1262228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 451,
+        "rank": 451,
+        "need_exp": 1267740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 452,
+        "rank": 452,
+        "need_exp": 1273264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 453,
+        "rank": 453,
+        "need_exp": 1278800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 454,
+        "rank": 454,
+        "need_exp": 1284348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 455,
+        "rank": 455,
+        "need_exp": 1289908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 456,
+        "rank": 456,
+        "need_exp": 1295480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 457,
+        "rank": 457,
+        "need_exp": 1301064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 458,
+        "rank": 458,
+        "need_exp": 1306660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 459,
+        "rank": 459,
+        "need_exp": 1312268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 460,
+        "rank": 460,
+        "need_exp": 1317888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 461,
+        "rank": 461,
+        "need_exp": 1323520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 462,
+        "rank": 462,
+        "need_exp": 1329164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 463,
+        "rank": 463,
+        "need_exp": 1334820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 464,
+        "rank": 464,
+        "need_exp": 1340488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 465,
+        "rank": 465,
+        "need_exp": 1346168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 466,
+        "rank": 466,
+        "need_exp": 1351860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 467,
+        "rank": 467,
+        "need_exp": 1357564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 468,
+        "rank": 468,
+        "need_exp": 1363280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 469,
+        "rank": 469,
+        "need_exp": 1369008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 470,
+        "rank": 470,
+        "need_exp": 1374748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 471,
+        "rank": 471,
+        "need_exp": 1380500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 472,
+        "rank": 472,
+        "need_exp": 1386264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 473,
+        "rank": 473,
+        "need_exp": 1392040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 474,
+        "rank": 474,
+        "need_exp": 1397828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 475,
+        "rank": 475,
+        "need_exp": 1403628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 476,
+        "rank": 476,
+        "need_exp": 1409440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 477,
+        "rank": 477,
+        "need_exp": 1415264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 478,
+        "rank": 478,
+        "need_exp": 1421100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 479,
+        "rank": 479,
+        "need_exp": 1426948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 480,
+        "rank": 480,
+        "need_exp": 1432808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 481,
+        "rank": 481,
+        "need_exp": 1438680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 482,
+        "rank": 482,
+        "need_exp": 1444564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 483,
+        "rank": 483,
+        "need_exp": 1450460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 484,
+        "rank": 484,
+        "need_exp": 1456368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 485,
+        "rank": 485,
+        "need_exp": 1462288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 486,
+        "rank": 486,
+        "need_exp": 1468220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 487,
+        "rank": 487,
+        "need_exp": 1474164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 488,
+        "rank": 488,
+        "need_exp": 1480120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 489,
+        "rank": 489,
+        "need_exp": 1486088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 490,
+        "rank": 490,
+        "need_exp": 1492068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 491,
+        "rank": 491,
+        "need_exp": 1498060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 492,
+        "rank": 492,
+        "need_exp": 1504064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 493,
+        "rank": 493,
+        "need_exp": 1510080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 494,
+        "rank": 494,
+        "need_exp": 1516108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 495,
+        "rank": 495,
+        "need_exp": 1522148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 496,
+        "rank": 496,
+        "need_exp": 1528200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 497,
+        "rank": 497,
+        "need_exp": 1534264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 498,
+        "rank": 498,
+        "need_exp": 1540340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 499,
+        "rank": 499,
+        "need_exp": 1546428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 500,
+        "rank": 500,
+        "need_exp": 1552528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 501,
+        "rank": 501,
+        "need_exp": 1558640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 502,
+        "rank": 502,
+        "need_exp": 1564764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 503,
+        "rank": 503,
+        "need_exp": 1570900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 504,
+        "rank": 504,
+        "need_exp": 1577048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 505,
+        "rank": 505,
+        "need_exp": 1583208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 506,
+        "rank": 506,
+        "need_exp": 1589380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 507,
+        "rank": 507,
+        "need_exp": 1595564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 508,
+        "rank": 508,
+        "need_exp": 1601760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 509,
+        "rank": 509,
+        "need_exp": 1607968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 510,
+        "rank": 510,
+        "need_exp": 1614188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 511,
+        "rank": 511,
+        "need_exp": 1620420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 512,
+        "rank": 512,
+        "need_exp": 1626664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 513,
+        "rank": 513,
+        "need_exp": 1632920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 514,
+        "rank": 514,
+        "need_exp": 1639188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 515,
+        "rank": 515,
+        "need_exp": 1645468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 516,
+        "rank": 516,
+        "need_exp": 1651760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 517,
+        "rank": 517,
+        "need_exp": 1658064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 518,
+        "rank": 518,
+        "need_exp": 1664380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 519,
+        "rank": 519,
+        "need_exp": 1670708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 520,
+        "rank": 520,
+        "need_exp": 1677048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 521,
+        "rank": 521,
+        "need_exp": 1683400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 522,
+        "rank": 522,
+        "need_exp": 1689764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 523,
+        "rank": 523,
+        "need_exp": 1696140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 524,
+        "rank": 524,
+        "need_exp": 1702528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 525,
+        "rank": 525,
+        "need_exp": 1708928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 526,
+        "rank": 526,
+        "need_exp": 1715340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 527,
+        "rank": 527,
+        "need_exp": 1721764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 528,
+        "rank": 528,
+        "need_exp": 1728200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 529,
+        "rank": 529,
+        "need_exp": 1734648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 530,
+        "rank": 530,
+        "need_exp": 1741108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 531,
+        "rank": 531,
+        "need_exp": 1747580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 532,
+        "rank": 532,
+        "need_exp": 1754064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 533,
+        "rank": 533,
+        "need_exp": 1760560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 534,
+        "rank": 534,
+        "need_exp": 1767068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 535,
+        "rank": 535,
+        "need_exp": 1773588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 536,
+        "rank": 536,
+        "need_exp": 1780120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 537,
+        "rank": 537,
+        "need_exp": 1786664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 538,
+        "rank": 538,
+        "need_exp": 1793220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 539,
+        "rank": 539,
+        "need_exp": 1799788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 540,
+        "rank": 540,
+        "need_exp": 1806368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 541,
+        "rank": 541,
+        "need_exp": 1812960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 542,
+        "rank": 542,
+        "need_exp": 1819564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 543,
+        "rank": 543,
+        "need_exp": 1826180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 544,
+        "rank": 544,
+        "need_exp": 1832808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 545,
+        "rank": 545,
+        "need_exp": 1839448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 546,
+        "rank": 546,
+        "need_exp": 1846100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 547,
+        "rank": 547,
+        "need_exp": 1852764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 548,
+        "rank": 548,
+        "need_exp": 1859440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 549,
+        "rank": 549,
+        "need_exp": 1866128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 550,
+        "rank": 550,
+        "need_exp": 1872828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 551,
+        "rank": 551,
+        "need_exp": 1879540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 552,
+        "rank": 552,
+        "need_exp": 1886264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 553,
+        "rank": 553,
+        "need_exp": 1893000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 554,
+        "rank": 554,
+        "need_exp": 1899748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 555,
+        "rank": 555,
+        "need_exp": 1906508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 556,
+        "rank": 556,
+        "need_exp": 1913280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 557,
+        "rank": 557,
+        "need_exp": 1920064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 558,
+        "rank": 558,
+        "need_exp": 1926860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 559,
+        "rank": 559,
+        "need_exp": 1933668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 560,
+        "rank": 560,
+        "need_exp": 1940488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 561,
+        "rank": 561,
+        "need_exp": 1947320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 562,
+        "rank": 562,
+        "need_exp": 1954164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 563,
+        "rank": 563,
+        "need_exp": 1961020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 564,
+        "rank": 564,
+        "need_exp": 1967888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 565,
+        "rank": 565,
+        "need_exp": 1974768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 566,
+        "rank": 566,
+        "need_exp": 1981660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 567,
+        "rank": 567,
+        "need_exp": 1988564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 568,
+        "rank": 568,
+        "need_exp": 1995480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 569,
+        "rank": 569,
+        "need_exp": 2002408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 570,
+        "rank": 570,
+        "need_exp": 2009348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 571,
+        "rank": 571,
+        "need_exp": 2016300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 572,
+        "rank": 572,
+        "need_exp": 2023264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 573,
+        "rank": 573,
+        "need_exp": 2030240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 574,
+        "rank": 574,
+        "need_exp": 2037228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 575,
+        "rank": 575,
+        "need_exp": 2044228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 576,
+        "rank": 576,
+        "need_exp": 2051240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 577,
+        "rank": 577,
+        "need_exp": 2058264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 578,
+        "rank": 578,
+        "need_exp": 2065300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 579,
+        "rank": 579,
+        "need_exp": 2072348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 580,
+        "rank": 580,
+        "need_exp": 2079408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 581,
+        "rank": 581,
+        "need_exp": 2086480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 582,
+        "rank": 582,
+        "need_exp": 2093564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 583,
+        "rank": 583,
+        "need_exp": 2100660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 584,
+        "rank": 584,
+        "need_exp": 2107768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 585,
+        "rank": 585,
+        "need_exp": 2114888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 586,
+        "rank": 586,
+        "need_exp": 2122020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 587,
+        "rank": 587,
+        "need_exp": 2129164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 588,
+        "rank": 588,
+        "need_exp": 2136320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 589,
+        "rank": 589,
+        "need_exp": 2143488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 590,
+        "rank": 590,
+        "need_exp": 2150668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 591,
+        "rank": 591,
+        "need_exp": 2157860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 592,
+        "rank": 592,
+        "need_exp": 2165064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 593,
+        "rank": 593,
+        "need_exp": 2172280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 594,
+        "rank": 594,
+        "need_exp": 2179508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 595,
+        "rank": 595,
+        "need_exp": 2186748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 596,
+        "rank": 596,
+        "need_exp": 2194000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 597,
+        "rank": 597,
+        "need_exp": 2201264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 598,
+        "rank": 598,
+        "need_exp": 2208540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 599,
+        "rank": 599,
+        "need_exp": 2215828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 600,
+        "rank": 600,
+        "need_exp": 2223128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 601,
+        "rank": 601,
+        "need_exp": 2230440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 602,
+        "rank": 602,
+        "need_exp": 2237764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 603,
+        "rank": 603,
+        "need_exp": 2245100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 604,
+        "rank": 604,
+        "need_exp": 2252448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 605,
+        "rank": 605,
+        "need_exp": 2259808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 606,
+        "rank": 606,
+        "need_exp": 2267180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 607,
+        "rank": 607,
+        "need_exp": 2274564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 608,
+        "rank": 608,
+        "need_exp": 2281960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 609,
+        "rank": 609,
+        "need_exp": 2289368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 610,
+        "rank": 610,
+        "need_exp": 2296788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 611,
+        "rank": 611,
+        "need_exp": 2304220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 612,
+        "rank": 612,
+        "need_exp": 2311664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 613,
+        "rank": 613,
+        "need_exp": 2319120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 614,
+        "rank": 614,
+        "need_exp": 2326588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 615,
+        "rank": 615,
+        "need_exp": 2334068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 616,
+        "rank": 616,
+        "need_exp": 2341560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 617,
+        "rank": 617,
+        "need_exp": 2349064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 618,
+        "rank": 618,
+        "need_exp": 2356580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 619,
+        "rank": 619,
+        "need_exp": 2364108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 620,
+        "rank": 620,
+        "need_exp": 2371648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 621,
+        "rank": 621,
+        "need_exp": 2379200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 622,
+        "rank": 622,
+        "need_exp": 2386764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 623,
+        "rank": 623,
+        "need_exp": 2394340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 624,
+        "rank": 624,
+        "need_exp": 2401928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 625,
+        "rank": 625,
+        "need_exp": 2409528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 626,
+        "rank": 626,
+        "need_exp": 2417140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 627,
+        "rank": 627,
+        "need_exp": 2424764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 628,
+        "rank": 628,
+        "need_exp": 2432400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 629,
+        "rank": 629,
+        "need_exp": 2440048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 630,
+        "rank": 630,
+        "need_exp": 2447708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 631,
+        "rank": 631,
+        "need_exp": 2455380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 632,
+        "rank": 632,
+        "need_exp": 2463064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 633,
+        "rank": 633,
+        "need_exp": 2470760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 634,
+        "rank": 634,
+        "need_exp": 2478468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 635,
+        "rank": 635,
+        "need_exp": 2486188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 636,
+        "rank": 636,
+        "need_exp": 2493920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 637,
+        "rank": 637,
+        "need_exp": 2501664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 638,
+        "rank": 638,
+        "need_exp": 2509420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 639,
+        "rank": 639,
+        "need_exp": 2517188,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 640,
+        "rank": 640,
+        "need_exp": 2524968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 641,
+        "rank": 641,
+        "need_exp": 2532760,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 642,
+        "rank": 642,
+        "need_exp": 2540564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 643,
+        "rank": 643,
+        "need_exp": 2548380,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 644,
+        "rank": 644,
+        "need_exp": 2556208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 645,
+        "rank": 645,
+        "need_exp": 2564048,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 646,
+        "rank": 646,
+        "need_exp": 2571900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 647,
+        "rank": 647,
+        "need_exp": 2579764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 648,
+        "rank": 648,
+        "need_exp": 2587640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 649,
+        "rank": 649,
+        "need_exp": 2595528,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 650,
+        "rank": 650,
+        "need_exp": 2603428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 651,
+        "rank": 651,
+        "need_exp": 2611340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 652,
+        "rank": 652,
+        "need_exp": 2619264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 653,
+        "rank": 653,
+        "need_exp": 2627200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 654,
+        "rank": 654,
+        "need_exp": 2635148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 655,
+        "rank": 655,
+        "need_exp": 2643108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 656,
+        "rank": 656,
+        "need_exp": 2651080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 657,
+        "rank": 657,
+        "need_exp": 2659064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 658,
+        "rank": 658,
+        "need_exp": 2667060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 659,
+        "rank": 659,
+        "need_exp": 2675068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 660,
+        "rank": 660,
+        "need_exp": 2683088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 661,
+        "rank": 661,
+        "need_exp": 2691120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 662,
+        "rank": 662,
+        "need_exp": 2699164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 663,
+        "rank": 663,
+        "need_exp": 2707220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 664,
+        "rank": 664,
+        "need_exp": 2715288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 665,
+        "rank": 665,
+        "need_exp": 2723368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 666,
+        "rank": 666,
+        "need_exp": 2731460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 667,
+        "rank": 667,
+        "need_exp": 2739564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 668,
+        "rank": 668,
+        "need_exp": 2747680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 669,
+        "rank": 669,
+        "need_exp": 2755808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 670,
+        "rank": 670,
+        "need_exp": 2763948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 671,
+        "rank": 671,
+        "need_exp": 2772100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 672,
+        "rank": 672,
+        "need_exp": 2780264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 673,
+        "rank": 673,
+        "need_exp": 2788440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 674,
+        "rank": 674,
+        "need_exp": 2796628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 675,
+        "rank": 675,
+        "need_exp": 2804828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 676,
+        "rank": 676,
+        "need_exp": 2813040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 677,
+        "rank": 677,
+        "need_exp": 2821264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 678,
+        "rank": 678,
+        "need_exp": 2829500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 679,
+        "rank": 679,
+        "need_exp": 2837748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 680,
+        "rank": 680,
+        "need_exp": 2846008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 681,
+        "rank": 681,
+        "need_exp": 2854280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 682,
+        "rank": 682,
+        "need_exp": 2862564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 683,
+        "rank": 683,
+        "need_exp": 2870860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 684,
+        "rank": 684,
+        "need_exp": 2879168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 685,
+        "rank": 685,
+        "need_exp": 2887488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 686,
+        "rank": 686,
+        "need_exp": 2895820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 687,
+        "rank": 687,
+        "need_exp": 2904164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 688,
+        "rank": 688,
+        "need_exp": 2912520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 689,
+        "rank": 689,
+        "need_exp": 2920888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 690,
+        "rank": 690,
+        "need_exp": 2929268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 691,
+        "rank": 691,
+        "need_exp": 2937660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 692,
+        "rank": 692,
+        "need_exp": 2946064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 693,
+        "rank": 693,
+        "need_exp": 2954480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 694,
+        "rank": 694,
+        "need_exp": 2962908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 695,
+        "rank": 695,
+        "need_exp": 2971348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 696,
+        "rank": 696,
+        "need_exp": 2979800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 697,
+        "rank": 697,
+        "need_exp": 2988264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 698,
+        "rank": 698,
+        "need_exp": 2996740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 699,
+        "rank": 699,
+        "need_exp": 3005228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 700,
+        "rank": 700,
+        "need_exp": 3013728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 701,
+        "rank": 701,
+        "need_exp": 3022240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 702,
+        "rank": 702,
+        "need_exp": 3030764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 703,
+        "rank": 703,
+        "need_exp": 3039300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 704,
+        "rank": 704,
+        "need_exp": 3047848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 705,
+        "rank": 705,
+        "need_exp": 3056408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 706,
+        "rank": 706,
+        "need_exp": 3064980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 707,
+        "rank": 707,
+        "need_exp": 3073564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 708,
+        "rank": 708,
+        "need_exp": 3082160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 709,
+        "rank": 709,
+        "need_exp": 3090768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 710,
+        "rank": 710,
+        "need_exp": 3099388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 711,
+        "rank": 711,
+        "need_exp": 3108020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 712,
+        "rank": 712,
+        "need_exp": 3116664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 713,
+        "rank": 713,
+        "need_exp": 3125320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 714,
+        "rank": 714,
+        "need_exp": 3133988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 715,
+        "rank": 715,
+        "need_exp": 3142668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 716,
+        "rank": 716,
+        "need_exp": 3151360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 717,
+        "rank": 717,
+        "need_exp": 3160064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 718,
+        "rank": 718,
+        "need_exp": 3168780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 719,
+        "rank": 719,
+        "need_exp": 3177508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 720,
+        "rank": 720,
+        "need_exp": 3186248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 721,
+        "rank": 721,
+        "need_exp": 3195000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 722,
+        "rank": 722,
+        "need_exp": 3203764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 723,
+        "rank": 723,
+        "need_exp": 3212540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 724,
+        "rank": 724,
+        "need_exp": 3221328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 725,
+        "rank": 725,
+        "need_exp": 3230128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 726,
+        "rank": 726,
+        "need_exp": 3238940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 727,
+        "rank": 727,
+        "need_exp": 3247764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 728,
+        "rank": 728,
+        "need_exp": 3256600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 729,
+        "rank": 729,
+        "need_exp": 3265448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 730,
+        "rank": 730,
+        "need_exp": 3274308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 731,
+        "rank": 731,
+        "need_exp": 3283180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 732,
+        "rank": 732,
+        "need_exp": 3292064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 733,
+        "rank": 733,
+        "need_exp": 3300960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 734,
+        "rank": 734,
+        "need_exp": 3309868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 735,
+        "rank": 735,
+        "need_exp": 3318788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 736,
+        "rank": 736,
+        "need_exp": 3327720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 737,
+        "rank": 737,
+        "need_exp": 3336664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 738,
+        "rank": 738,
+        "need_exp": 3345620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 739,
+        "rank": 739,
+        "need_exp": 3354588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 740,
+        "rank": 740,
+        "need_exp": 3363568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 741,
+        "rank": 741,
+        "need_exp": 3372560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 742,
+        "rank": 742,
+        "need_exp": 3381564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 743,
+        "rank": 743,
+        "need_exp": 3390580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 744,
+        "rank": 744,
+        "need_exp": 3399608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 745,
+        "rank": 745,
+        "need_exp": 3408648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 746,
+        "rank": 746,
+        "need_exp": 3417700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 747,
+        "rank": 747,
+        "need_exp": 3426764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 748,
+        "rank": 748,
+        "need_exp": 3435840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 749,
+        "rank": 749,
+        "need_exp": 3444928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 750,
+        "rank": 750,
+        "need_exp": 3454028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 751,
+        "rank": 751,
+        "need_exp": 3463140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 752,
+        "rank": 752,
+        "need_exp": 3472264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 753,
+        "rank": 753,
+        "need_exp": 3481400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 754,
+        "rank": 754,
+        "need_exp": 3490548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 755,
+        "rank": 755,
+        "need_exp": 3499708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 756,
+        "rank": 756,
+        "need_exp": 3508880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 757,
+        "rank": 757,
+        "need_exp": 3518064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 758,
+        "rank": 758,
+        "need_exp": 3527260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 759,
+        "rank": 759,
+        "need_exp": 3536468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 760,
+        "rank": 760,
+        "need_exp": 3545688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 761,
+        "rank": 761,
+        "need_exp": 3554920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 762,
+        "rank": 762,
+        "need_exp": 3564164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 763,
+        "rank": 763,
+        "need_exp": 3573420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 764,
+        "rank": 764,
+        "need_exp": 3582688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 765,
+        "rank": 765,
+        "need_exp": 3591968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 766,
+        "rank": 766,
+        "need_exp": 3601260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 767,
+        "rank": 767,
+        "need_exp": 3610564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 768,
+        "rank": 768,
+        "need_exp": 3619880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 769,
+        "rank": 769,
+        "need_exp": 3629208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 770,
+        "rank": 770,
+        "need_exp": 3638548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 771,
+        "rank": 771,
+        "need_exp": 3647900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 772,
+        "rank": 772,
+        "need_exp": 3657264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 773,
+        "rank": 773,
+        "need_exp": 3666640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 774,
+        "rank": 774,
+        "need_exp": 3676028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 775,
+        "rank": 775,
+        "need_exp": 3685428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 776,
+        "rank": 776,
+        "need_exp": 3694840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 777,
+        "rank": 777,
+        "need_exp": 3704264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 778,
+        "rank": 778,
+        "need_exp": 3713700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 779,
+        "rank": 779,
+        "need_exp": 3723148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 780,
+        "rank": 780,
+        "need_exp": 3732608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 781,
+        "rank": 781,
+        "need_exp": 3742080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 782,
+        "rank": 782,
+        "need_exp": 3751564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 783,
+        "rank": 783,
+        "need_exp": 3761060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 784,
+        "rank": 784,
+        "need_exp": 3770568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 785,
+        "rank": 785,
+        "need_exp": 3780088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 786,
+        "rank": 786,
+        "need_exp": 3789620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 787,
+        "rank": 787,
+        "need_exp": 3799164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 788,
+        "rank": 788,
+        "need_exp": 3808720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 789,
+        "rank": 789,
+        "need_exp": 3818288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 790,
+        "rank": 790,
+        "need_exp": 3827868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 791,
+        "rank": 791,
+        "need_exp": 3837460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 792,
+        "rank": 792,
+        "need_exp": 3847064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 793,
+        "rank": 793,
+        "need_exp": 3856680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 794,
+        "rank": 794,
+        "need_exp": 3866308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 795,
+        "rank": 795,
+        "need_exp": 3875948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 796,
+        "rank": 796,
+        "need_exp": 3885600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 797,
+        "rank": 797,
+        "need_exp": 3895264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 798,
+        "rank": 798,
+        "need_exp": 3904940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 799,
+        "rank": 799,
+        "need_exp": 3914628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 800,
+        "rank": 800,
+        "need_exp": 3924328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 801,
+        "rank": 801,
+        "need_exp": 3934040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 802,
+        "rank": 802,
+        "need_exp": 3943764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 803,
+        "rank": 803,
+        "need_exp": 3953500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 804,
+        "rank": 804,
+        "need_exp": 3963248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 805,
+        "rank": 805,
+        "need_exp": 3973008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 806,
+        "rank": 806,
+        "need_exp": 3982780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 807,
+        "rank": 807,
+        "need_exp": 3992564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 808,
+        "rank": 808,
+        "need_exp": 4002360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 809,
+        "rank": 809,
+        "need_exp": 4012168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 810,
+        "rank": 810,
+        "need_exp": 4021988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 811,
+        "rank": 811,
+        "need_exp": 4031820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 812,
+        "rank": 812,
+        "need_exp": 4041664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 813,
+        "rank": 813,
+        "need_exp": 4051520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 814,
+        "rank": 814,
+        "need_exp": 4061388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 815,
+        "rank": 815,
+        "need_exp": 4071268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 816,
+        "rank": 816,
+        "need_exp": 4081160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 817,
+        "rank": 817,
+        "need_exp": 4091064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 818,
+        "rank": 818,
+        "need_exp": 4100980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 819,
+        "rank": 819,
+        "need_exp": 4110908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 820,
+        "rank": 820,
+        "need_exp": 4120848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 821,
+        "rank": 821,
+        "need_exp": 4130800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 822,
+        "rank": 822,
+        "need_exp": 4140764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 823,
+        "rank": 823,
+        "need_exp": 4150740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 824,
+        "rank": 824,
+        "need_exp": 4160728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 825,
+        "rank": 825,
+        "need_exp": 4170728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 826,
+        "rank": 826,
+        "need_exp": 4180740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 827,
+        "rank": 827,
+        "need_exp": 4190764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 828,
+        "rank": 828,
+        "need_exp": 4200800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 829,
+        "rank": 829,
+        "need_exp": 4210848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 830,
+        "rank": 830,
+        "need_exp": 4220908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 831,
+        "rank": 831,
+        "need_exp": 4230980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 832,
+        "rank": 832,
+        "need_exp": 4241064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 833,
+        "rank": 833,
+        "need_exp": 4251160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 834,
+        "rank": 834,
+        "need_exp": 4261268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 835,
+        "rank": 835,
+        "need_exp": 4271388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 836,
+        "rank": 836,
+        "need_exp": 4281520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 837,
+        "rank": 837,
+        "need_exp": 4291664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 838,
+        "rank": 838,
+        "need_exp": 4301820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 839,
+        "rank": 839,
+        "need_exp": 4311988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 840,
+        "rank": 840,
+        "need_exp": 4322168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 841,
+        "rank": 841,
+        "need_exp": 4332360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 842,
+        "rank": 842,
+        "need_exp": 4342564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 843,
+        "rank": 843,
+        "need_exp": 4352780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 844,
+        "rank": 844,
+        "need_exp": 4363008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 845,
+        "rank": 845,
+        "need_exp": 4373248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 846,
+        "rank": 846,
+        "need_exp": 4383500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 847,
+        "rank": 847,
+        "need_exp": 4393764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 848,
+        "rank": 848,
+        "need_exp": 4404040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 849,
+        "rank": 849,
+        "need_exp": 4414328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 850,
+        "rank": 850,
+        "need_exp": 4424628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 851,
+        "rank": 851,
+        "need_exp": 4434940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 852,
+        "rank": 852,
+        "need_exp": 4445264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 853,
+        "rank": 853,
+        "need_exp": 4455600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 854,
+        "rank": 854,
+        "need_exp": 4465948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 855,
+        "rank": 855,
+        "need_exp": 4476308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 856,
+        "rank": 856,
+        "need_exp": 4486680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 857,
+        "rank": 857,
+        "need_exp": 4497064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 858,
+        "rank": 858,
+        "need_exp": 4507460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 859,
+        "rank": 859,
+        "need_exp": 4517868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 860,
+        "rank": 860,
+        "need_exp": 4528288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 861,
+        "rank": 861,
+        "need_exp": 4538720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 862,
+        "rank": 862,
+        "need_exp": 4549164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 863,
+        "rank": 863,
+        "need_exp": 4559620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 864,
+        "rank": 864,
+        "need_exp": 4570088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 865,
+        "rank": 865,
+        "need_exp": 4580568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 866,
+        "rank": 866,
+        "need_exp": 4591060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 867,
+        "rank": 867,
+        "need_exp": 4601564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 868,
+        "rank": 868,
+        "need_exp": 4612080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 869,
+        "rank": 869,
+        "need_exp": 4622608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 870,
+        "rank": 870,
+        "need_exp": 4633148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 871,
+        "rank": 871,
+        "need_exp": 4643700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 872,
+        "rank": 872,
+        "need_exp": 4654264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 873,
+        "rank": 873,
+        "need_exp": 4664840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 874,
+        "rank": 874,
+        "need_exp": 4675428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 875,
+        "rank": 875,
+        "need_exp": 4686028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 876,
+        "rank": 876,
+        "need_exp": 4696640,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 877,
+        "rank": 877,
+        "need_exp": 4707264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 878,
+        "rank": 878,
+        "need_exp": 4717900,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 879,
+        "rank": 879,
+        "need_exp": 4728548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 880,
+        "rank": 880,
+        "need_exp": 4739208,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 881,
+        "rank": 881,
+        "need_exp": 4749880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 882,
+        "rank": 882,
+        "need_exp": 4760564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 883,
+        "rank": 883,
+        "need_exp": 4771260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 884,
+        "rank": 884,
+        "need_exp": 4781968,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 885,
+        "rank": 885,
+        "need_exp": 4792688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 886,
+        "rank": 886,
+        "need_exp": 4803420,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 887,
+        "rank": 887,
+        "need_exp": 4814164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 888,
+        "rank": 888,
+        "need_exp": 4824920,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 889,
+        "rank": 889,
+        "need_exp": 4835688,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 890,
+        "rank": 890,
+        "need_exp": 4846468,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 891,
+        "rank": 891,
+        "need_exp": 4857260,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 892,
+        "rank": 892,
+        "need_exp": 4868064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 893,
+        "rank": 893,
+        "need_exp": 4878880,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 894,
+        "rank": 894,
+        "need_exp": 4889708,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 895,
+        "rank": 895,
+        "need_exp": 4900548,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 896,
+        "rank": 896,
+        "need_exp": 4911400,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 897,
+        "rank": 897,
+        "need_exp": 4922264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 898,
+        "rank": 898,
+        "need_exp": 4933140,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 899,
+        "rank": 899,
+        "need_exp": 4944028,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 900,
+        "rank": 900,
+        "need_exp": 4954928,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 901,
+        "rank": 901,
+        "need_exp": 4965840,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 902,
+        "rank": 902,
+        "need_exp": 4976764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 903,
+        "rank": 903,
+        "need_exp": 4987700,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 904,
+        "rank": 904,
+        "need_exp": 4998648,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 905,
+        "rank": 905,
+        "need_exp": 5009608,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 906,
+        "rank": 906,
+        "need_exp": 5020580,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 907,
+        "rank": 907,
+        "need_exp": 5031564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 908,
+        "rank": 908,
+        "need_exp": 5042560,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 909,
+        "rank": 909,
+        "need_exp": 5053568,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 910,
+        "rank": 910,
+        "need_exp": 5064588,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 911,
+        "rank": 911,
+        "need_exp": 5075620,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 912,
+        "rank": 912,
+        "need_exp": 5086664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 913,
+        "rank": 913,
+        "need_exp": 5097720,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 914,
+        "rank": 914,
+        "need_exp": 5108788,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 915,
+        "rank": 915,
+        "need_exp": 5119868,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 916,
+        "rank": 916,
+        "need_exp": 5130960,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 917,
+        "rank": 917,
+        "need_exp": 5142064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 918,
+        "rank": 918,
+        "need_exp": 5153180,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 919,
+        "rank": 919,
+        "need_exp": 5164308,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 920,
+        "rank": 920,
+        "need_exp": 5175448,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 921,
+        "rank": 921,
+        "need_exp": 5186600,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 922,
+        "rank": 922,
+        "need_exp": 5197764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 923,
+        "rank": 923,
+        "need_exp": 5208940,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 924,
+        "rank": 924,
+        "need_exp": 5220128,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 925,
+        "rank": 925,
+        "need_exp": 5231328,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 926,
+        "rank": 926,
+        "need_exp": 5242540,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 927,
+        "rank": 927,
+        "need_exp": 5253764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 928,
+        "rank": 928,
+        "need_exp": 5265000,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 929,
+        "rank": 929,
+        "need_exp": 5276248,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 930,
+        "rank": 930,
+        "need_exp": 5287508,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 931,
+        "rank": 931,
+        "need_exp": 5298780,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 932,
+        "rank": 932,
+        "need_exp": 5310064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 933,
+        "rank": 933,
+        "need_exp": 5321360,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 934,
+        "rank": 934,
+        "need_exp": 5332668,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 935,
+        "rank": 935,
+        "need_exp": 5343988,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 936,
+        "rank": 936,
+        "need_exp": 5355320,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 937,
+        "rank": 937,
+        "need_exp": 5366664,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 938,
+        "rank": 938,
+        "need_exp": 5378020,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 939,
+        "rank": 939,
+        "need_exp": 5389388,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 940,
+        "rank": 940,
+        "need_exp": 5400768,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 941,
+        "rank": 941,
+        "need_exp": 5412160,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 942,
+        "rank": 942,
+        "need_exp": 5423564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 943,
+        "rank": 943,
+        "need_exp": 5434980,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 944,
+        "rank": 944,
+        "need_exp": 5446408,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 945,
+        "rank": 945,
+        "need_exp": 5457848,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 946,
+        "rank": 946,
+        "need_exp": 5469300,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 947,
+        "rank": 947,
+        "need_exp": 5480764,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 948,
+        "rank": 948,
+        "need_exp": 5492240,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 949,
+        "rank": 949,
+        "need_exp": 5503728,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 950,
+        "rank": 950,
+        "need_exp": 5515228,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 951,
+        "rank": 951,
+        "need_exp": 5526740,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 952,
+        "rank": 952,
+        "need_exp": 5538264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 953,
+        "rank": 953,
+        "need_exp": 5549800,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 954,
+        "rank": 954,
+        "need_exp": 5561348,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 955,
+        "rank": 955,
+        "need_exp": 5572908,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 956,
+        "rank": 956,
+        "need_exp": 5584480,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 957,
+        "rank": 957,
+        "need_exp": 5596064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 958,
+        "rank": 958,
+        "need_exp": 5607660,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 959,
+        "rank": 959,
+        "need_exp": 5619268,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 960,
+        "rank": 960,
+        "need_exp": 5630888,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 961,
+        "rank": 961,
+        "need_exp": 5642520,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 962,
+        "rank": 962,
+        "need_exp": 5654164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 963,
+        "rank": 963,
+        "need_exp": 5665820,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 964,
+        "rank": 964,
+        "need_exp": 5677488,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 965,
+        "rank": 965,
+        "need_exp": 5689168,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 966,
+        "rank": 966,
+        "need_exp": 5700860,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 967,
+        "rank": 967,
+        "need_exp": 5712564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 968,
+        "rank": 968,
+        "need_exp": 5724280,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 969,
+        "rank": 969,
+        "need_exp": 5736008,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 970,
+        "rank": 970,
+        "need_exp": 5747748,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 971,
+        "rank": 971,
+        "need_exp": 5759500,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 972,
+        "rank": 972,
+        "need_exp": 5771264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 973,
+        "rank": 973,
+        "need_exp": 5783040,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 974,
+        "rank": 974,
+        "need_exp": 5794828,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 975,
+        "rank": 975,
+        "need_exp": 5806628,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 976,
+        "rank": 976,
+        "need_exp": 5818440,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 977,
+        "rank": 977,
+        "need_exp": 5830264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 978,
+        "rank": 978,
+        "need_exp": 5842100,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 979,
+        "rank": 979,
+        "need_exp": 5853948,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 980,
+        "rank": 980,
+        "need_exp": 5865808,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 981,
+        "rank": 981,
+        "need_exp": 5877680,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 982,
+        "rank": 982,
+        "need_exp": 5889564,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 983,
+        "rank": 983,
+        "need_exp": 5901460,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 984,
+        "rank": 984,
+        "need_exp": 5913368,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 985,
+        "rank": 985,
+        "need_exp": 5925288,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 986,
+        "rank": 986,
+        "need_exp": 5937220,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 987,
+        "rank": 987,
+        "need_exp": 5949164,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 988,
+        "rank": 988,
+        "need_exp": 5961120,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 989,
+        "rank": 989,
+        "need_exp": 5973088,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 990,
+        "rank": 990,
+        "need_exp": 5985068,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 991,
+        "rank": 991,
+        "need_exp": 5997060,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 992,
+        "rank": 992,
+        "need_exp": 6009064,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 993,
+        "rank": 993,
+        "need_exp": 6021080,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 994,
+        "rank": 994,
+        "need_exp": 6033108,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 995,
+        "rank": 995,
+        "need_exp": 6045148,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 996,
+        "rank": 996,
+        "need_exp": 6057200,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 997,
+        "rank": 997,
+        "need_exp": 6069264,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 998,
+        "rank": 998,
+        "need_exp": 6081340,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    },
+    {
+        "id": 999,
+        "rank": 999,
+        "need_exp": 6093428,
+        "follow_max": 50,
+        "follower_max": 255,
+        "friend_max": 50
+    }
+]

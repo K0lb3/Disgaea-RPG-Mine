@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+assets/
 
 # Distribution / packaging
 .Python
@@ -95,3 +96,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+assets/asset_list.txt

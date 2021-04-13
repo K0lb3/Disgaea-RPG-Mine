@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_stage_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "boost_type",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "effect_value",
+        "offset": 36
+    },
+    {
+        "type": "int",
+        "name": "limit_type",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "limit_num",
+        "offset": 44
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 48
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 56
+    }
+]

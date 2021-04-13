@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_gate_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "sub_max_count",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "sub_max_use_item",
+        "offset": 36
+    },
+    {
+        "type": "string",
+        "name": "create_at",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "update_at",
+        "offset": 48
+    }
+]

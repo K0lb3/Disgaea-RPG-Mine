@@ -1,0 +1,52 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_episode_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "heading",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "bg_id",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "m_preview_id",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "area_special_type",
+        "offset": 72
+    },
+    {
+        "type": "ulong[]",
+        "name": "area_special_value",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 88
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_login_bonus_group_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "day",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 44
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 60
+    }
+]

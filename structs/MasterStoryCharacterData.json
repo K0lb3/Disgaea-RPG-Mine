@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "img_base",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "img_body",
+        "offset": 36
+    },
+    {
+        "type": "int",
+        "name": "img_face",
+        "offset": 40
+    }
+]

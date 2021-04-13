@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "img_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "color_no",
+        "offset": 48
+    }
+]

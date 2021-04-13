@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 40
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "custom_type",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "file_name",
+        "offset": 40
+    },
+    {
+        "type": "bool",
+        "name": "default_flg",
+        "offset": 48
+    },
+    {
+        "type": "string",
+        "name": "created_at",
+        "offset": 56
+    }
+]

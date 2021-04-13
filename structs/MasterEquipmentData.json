@@ -1,0 +1,102 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "equipment_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "icon_no",
+        "offset": 28
+    },
+    {
+        "type": "int",
+        "name": "item_rank",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "price",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "hp_min",
+        "offset": 60
+    },
+    {
+        "type": "int",
+        "name": "hp_per_stage",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "atk_min",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "atk_per_stage",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "def_min",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "def_per_stage",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "inte_min",
+        "offset": 84
+    },
+    {
+        "type": "int",
+        "name": "inte_per_stage",
+        "offset": 88
+    },
+    {
+        "type": "int",
+        "name": "res_min",
+        "offset": 92
+    },
+    {
+        "type": "int",
+        "name": "res_per_stage",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "spd_min",
+        "offset": 100
+    },
+    {
+        "type": "int",
+        "name": "spd_per_stage",
+        "offset": 104
+    },
+    {
+        "type": "bool",
+        "name": "book_flg",
+        "offset": 108
+    }
+]

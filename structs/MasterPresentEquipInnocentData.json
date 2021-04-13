@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_present_equip_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "place_no",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "innocent_type",
+        "offset": 36
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "effect_rank",
+        "offset": 48
+    },
+    {
+        "type": "float",
+        "name": "effect_value",
+        "offset": 52
+    },
+    {
+        "type": "int",
+        "name": "status",
+        "offset": 56
+    }
+]

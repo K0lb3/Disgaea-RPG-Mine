@@ -1,0 +1,17 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "lv",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "need_exp",
+        "offset": 28
+    }
+]

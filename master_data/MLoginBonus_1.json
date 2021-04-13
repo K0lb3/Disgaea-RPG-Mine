@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x50",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 2,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 3,
+        "m_login_bonus_group_id": 1,
+        "name": "Golden Candy",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 4,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 5,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x25",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 6,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 7,
+        "m_login_bonus_group_id": 1,
+        "name": "Golden Candy",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 8,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 8,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 9,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 9,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 10,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x50",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 11,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 11,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 12,
+        "m_login_bonus_group_id": 1,
+        "name": "Golden Candy",
+        "day": 12,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 13,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 13,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 14,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x25",
+        "day": 14,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 15,
+        "m_login_bonus_group_id": 1,
+        "name": "Gate Key",
+        "day": 15,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 16,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 16,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 17,
+        "m_login_bonus_group_id": 1,
+        "name": "Golden Candy",
+        "day": 17,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 18,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 18,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 19,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x25",
+        "day": 19,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 20,
+        "m_login_bonus_group_id": 1,
+        "name": "Gold Bar",
+        "day": 20,
+        "present_type": 1,
+        "present_id": 402,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 21,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 21,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 22,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x50",
+        "day": 22,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 23,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 23,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 24,
+        "m_login_bonus_group_id": 1,
+        "name": "Golden Candy",
+        "day": 24,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 25,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x25",
+        "day": 25,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 26,
+        "m_login_bonus_group_id": 1,
+        "name": "5000HL",
+        "day": 26,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 5000
+    },
+    {
+        "id": 27,
+        "m_login_bonus_group_id": 1,
+        "name": "AP 1/2",
+        "day": 27,
+        "present_type": 1,
+        "present_id": 302,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 28,
+        "m_login_bonus_group_id": 1,
+        "name": "Nether Quartz x100",
+        "day": 28,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 29,
+        "m_login_bonus_group_id": 2,
+        "name": "AP Potion x1",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 30,
+        "m_login_bonus_group_id": 2,
+        "name": "AP Potion x1",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 31,
+        "m_login_bonus_group_id": 2,
+        "name": "Dark Gate \nSkip Coupon x10",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 32,
+        "m_login_bonus_group_id": 2,
+        "name": "AP Potion x1",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 33,
+        "m_login_bonus_group_id": 2,
+        "name": "AP Potion x1",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 34,
+        "m_login_bonus_group_id": 2,
+        "name": "AP Potion x1",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 35,
+        "m_login_bonus_group_id": 2,
+        "name": "Dark Gate \nSkip Coupon x15",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 15
+    },
+    {
+        "id": 36,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x150",
+        "day": 8,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 37,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x150",
+        "day": 9,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 38,
+        "m_login_bonus_group_id": 2,
+        "name": "3★ or above Summon \nTicket x1",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 39,
+        "m_login_bonus_group_id": 2,
+        "name": "10000HL",
+        "day": 11,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 10000
+    },
+    {
+        "id": 40,
+        "m_login_bonus_group_id": 2,
+        "name": "Premium Summon \nTicket x1",
+        "day": 12,
+        "present_type": 1,
+        "present_id": 1901,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 41,
+        "m_login_bonus_group_id": 2,
+        "name": "20000HL",
+        "day": 13,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 20000
+    },
+    {
+        "id": 42,
+        "m_login_bonus_group_id": 2,
+        "name": "Premium Summon \nTicket x1",
+        "day": 14,
+        "present_type": 1,
+        "present_id": 1901,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 43,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 15,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 44,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 16,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 45,
+        "m_login_bonus_group_id": 2,
+        "name": "Prism Shell x5",
+        "day": 17,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 46,
+        "m_login_bonus_group_id": 2,
+        "name": "30000HL",
+        "day": 18,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30000
+    },
+    {
+        "id": 47,
+        "m_login_bonus_group_id": 2,
+        "name": "Crab Miso x1",
+        "day": 19,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 48,
+        "m_login_bonus_group_id": 2,
+        "name": "Gate Key x1",
+        "day": 20,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 49,
+        "m_login_bonus_group_id": 2,
+        "name": "Crab Miso x1",
+        "day": 21,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 50,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 22,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 51,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 23,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 52,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 24,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 53,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 25,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 54,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x50",
+        "day": 26,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 55,
+        "m_login_bonus_group_id": 2,
+        "name": "Nether Quartz x100",
+        "day": 27,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 56,
+        "m_login_bonus_group_id": 2,
+        "name": "Prism Shell x5",
+        "day": 28,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    }
+]

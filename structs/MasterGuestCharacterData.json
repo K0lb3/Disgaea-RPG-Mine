@@ -1,0 +1,212 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_stage_id",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "m_weapon_id",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "rarity",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "nickname",
+        "offset": 64
+    },
+    {
+        "type": "ulong",
+        "name": "m_leader_skill_id",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "m_leader_skill_lv",
+        "offset": 80
+    },
+    {
+        "type": "ulong",
+        "name": "m_leader_skill_id_sub_1",
+        "offset": 88
+    },
+    {
+        "type": "bool",
+        "name": "unlock_m_leader_skill_sub_1",
+        "offset": 96
+    },
+    {
+        "type": "ulong",
+        "name": "m_leader_skill_id_sub_2",
+        "offset": 104
+    },
+    {
+        "type": "bool",
+        "name": "unlock_m_leader_skill_sub_2",
+        "offset": 112
+    },
+    {
+        "type": "ulong",
+        "name": "m_leader_skill_id_sub_3",
+        "offset": 120
+    },
+    {
+        "type": "bool",
+        "name": "unlock_m_leader_skill_sub_3",
+        "offset": 128
+    },
+    {
+        "type": "int",
+        "name": "lv",
+        "offset": 132
+    },
+    {
+        "type": "int",
+        "name": "rebirth_num",
+        "offset": 136
+    },
+    {
+        "type": "string",
+        "name": "m_character_retrofit_ids",
+        "offset": 144
+    },
+    {
+        "type": "int",
+        "name": "hp",
+        "offset": 152
+    },
+    {
+        "type": "int",
+        "name": "atk",
+        "offset": 156
+    },
+    {
+        "type": "int",
+        "name": "def",
+        "offset": 160
+    },
+    {
+        "type": "int",
+        "name": "inte",
+        "offset": 164
+    },
+    {
+        "type": "int",
+        "name": "res",
+        "offset": 168
+    },
+    {
+        "type": "int",
+        "name": "spd",
+        "offset": 172
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_1",
+        "offset": 176
+    },
+    {
+        "type": "int",
+        "name": "command_lv_1",
+        "offset": 184
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_2",
+        "offset": 192
+    },
+    {
+        "type": "int",
+        "name": "command_lv_2",
+        "offset": 200
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_3",
+        "offset": 208
+    },
+    {
+        "type": "int",
+        "name": "command_lv_3",
+        "offset": 216
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_4",
+        "offset": 224
+    },
+    {
+        "type": "int",
+        "name": "command_lv_4",
+        "offset": 232
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_1",
+        "offset": 236
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_2",
+        "offset": 240
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_3",
+        "offset": 244
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_4",
+        "offset": 248
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_5",
+        "offset": 252
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_6",
+        "offset": 256
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_7",
+        "offset": 260
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_8",
+        "offset": 264
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_rank_9",
+        "offset": 268
+    },
+    {
+        "type": "string",
+        "name": "created_at",
+        "offset": 272
+    }
+]

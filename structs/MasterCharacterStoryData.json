@@ -1,0 +1,52 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "lv",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "number",
+        "offset": 36
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 68
+    },
+    {
+        "type": "bool",
+        "name": "del_flg",
+        "offset": 72
+    }
+]

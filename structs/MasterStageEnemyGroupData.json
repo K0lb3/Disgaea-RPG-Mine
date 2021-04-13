@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_stage_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "wave",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "rate",
+        "offset": 40
+    }
+]

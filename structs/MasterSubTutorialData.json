@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "condition_value",
+        "offset": 36
+    },
+    {
+        "type": "string",
+        "name": "created_at",
+        "offset": 40
+    }
+]

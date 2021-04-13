@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1002,
+        "group_type": 1002,
+        "name": "Total Top-up",
+        "description": "Rewards available upon topping up Quartz",
+        "open_at": "2020-07-30 16:00:00",
+        "close_at": "2099-10-31 23:56:01",
+        "create_at": "null_s",
+        "update_at": "null_s"
+    }
+]

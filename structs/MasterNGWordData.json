@@ -1,0 +1,17 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "category",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "word",
+        "offset": 32
+    }
+]

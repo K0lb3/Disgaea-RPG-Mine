@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Animator",
+        "name": "m_RankupWindowAnimator",
+        "offset": 24
+    },
+    {
+        "type": "TextMeshProUGUI",
+        "name": "m_RankUpText",
+        "offset": 32
+    },
+    {
+        "type": "TextMeshProUGUI",
+        "name": "m_BeforeFriendText",
+        "offset": 40
+    },
+    {
+        "type": "TextMeshProUGUI",
+        "name": "m_AfterFriendText",
+        "offset": 48
+    },
+    {
+        "type": "TextMeshProUGUI",
+        "name": "m_BeforeActText",
+        "offset": 56
+    },
+    {
+        "type": "TextMeshProUGUI",
+        "name": "m_AfterActText",
+        "offset": 64
+    },
+    {
+        "type": "GameObject",
+        "name": "m_FollowArrowObj",
+        "offset": 72
+    }
+]

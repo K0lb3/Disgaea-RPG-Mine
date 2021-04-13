@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "m_area_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "bgm",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "voice_name",
+        "offset": 40
+    }
+]

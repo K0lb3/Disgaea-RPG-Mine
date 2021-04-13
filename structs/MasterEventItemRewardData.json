@@ -1,0 +1,47 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_event_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "step",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "m_item_id",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "consume_num",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 52
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 68
+    }
+]

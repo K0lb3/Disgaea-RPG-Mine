@@ -1,0 +1,37 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "item_type",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "icon_no",
+        "offset": 36
+    },
+    {
+        "type": "int[]",
+        "name": "effect_value",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "max_num",
+        "offset": 56
+    }
+]

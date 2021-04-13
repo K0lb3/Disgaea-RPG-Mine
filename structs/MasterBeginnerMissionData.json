@@ -1,0 +1,82 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "target_scene",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "option_param",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "condition_id",
+        "offset": 56
+    },
+    {
+        "type": "long",
+        "name": "condition_num",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 72
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 88
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 92
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "sheet_type",
+        "offset": 100
+    },
+    {
+        "type": "int",
+        "name": "sheet_no",
+        "offset": 104
+    },
+    {
+        "type": "int",
+        "name": "priority",
+        "offset": 108
+    },
+    {
+        "type": "string",
+        "name": "button_text",
+        "offset": 112
+    }
+]

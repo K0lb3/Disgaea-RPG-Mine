@@ -1,0 +1,37 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "no",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "boss_type",
+        "offset": 28
+    },
+    {
+        "type": "string",
+        "name": "bgm",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "boss_bgm",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "bg_id",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "correct_rank",
+        "offset": 52
+    }
+]

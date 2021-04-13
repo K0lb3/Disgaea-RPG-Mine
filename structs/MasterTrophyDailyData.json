@@ -1,0 +1,67 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "condition_id",
+        "offset": 48
+    },
+    {
+        "type": "long",
+        "name": "condition_num",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 64
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 84
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 88
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 96
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 104
+    }
+]

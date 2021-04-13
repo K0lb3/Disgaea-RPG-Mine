@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_event_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "effect_value",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "multiple_type",
+        "offset": 44
+    }
+]

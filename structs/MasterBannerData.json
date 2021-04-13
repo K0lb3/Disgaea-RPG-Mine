@@ -1,0 +1,47 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "action_type",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "action_param",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "option_param",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "period_text",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 64
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 72
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 80
+    }
+]

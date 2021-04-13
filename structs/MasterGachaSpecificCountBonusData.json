@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_gacha_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_gacha_group_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "bonus_count",
+        "offset": 40
+    }
+]

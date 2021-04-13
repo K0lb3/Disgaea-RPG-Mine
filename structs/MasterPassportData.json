@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_product_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong[]",
+        "name": "m_item_ids",
+        "offset": 32
+    },
+    {
+        "type": "int[]",
+        "name": "m_item_nums",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "days",
+        "offset": 48
+    }
+]

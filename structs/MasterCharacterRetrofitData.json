@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "order_no",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "retrofit_type",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "retrofit_value",
+        "offset": 44
+    }
+]

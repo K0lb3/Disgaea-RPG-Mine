@@ -1,0 +1,1232 @@
+[
+    {
+        "id": 101,
+        "name": "HL",
+        "item_type": 1,
+        "icon_no": 101,
+        "effect_value": [
+            0
+        ],
+        "description": "Currency of Netherworlds",
+        "max_num": 99999999
+    },
+    {
+        "id": 201,
+        "name": "Nether Quartz",
+        "item_type": 2,
+        "icon_no": 201,
+        "effect_value": [
+            0
+        ],
+        "description": "A magic stone with many uses, dood!",
+        "max_num": 999999999
+    },
+    {
+        "id": 202,
+        "name": "Nether Quartz",
+        "item_type": 2,
+        "icon_no": 201,
+        "effect_value": [
+            0
+        ],
+        "description": "A magic stone with many uses, dood!",
+        "max_num": 999999999
+    },
+    {
+        "id": 301,
+        "name": "AP Potion",
+        "item_type": 3,
+        "icon_no": 301,
+        "effect_value": [
+            100
+        ],
+        "description": "This'll pep you up a lot, dood!",
+        "max_num": 9999
+    },
+    {
+        "id": 302,
+        "name": "50% AP Potion",
+        "item_type": 3,
+        "icon_no": 302,
+        "effect_value": [
+            50
+        ],
+        "description": "This'll pep you up a bit, dood!",
+        "max_num": 9999
+    },
+    {
+        "id": 303,
+        "name": "Romance Chocolate",
+        "item_type": 3,
+        "icon_no": 303,
+        "effect_value": [
+            100
+        ],
+        "description": "A delicious chocolate that fully restores AP.",
+        "max_num": 9999
+    },
+    {
+        "id": 304,
+        "name": "Customary Chocolate",
+        "item_type": 3,
+        "icon_no": 304,
+        "effect_value": [
+            50
+        ],
+        "description": "A chocolate with a familiar look that restores 50% AP.",
+        "max_num": 9999
+    },
+    {
+        "id": 305,
+        "name": "Doubled Return",
+        "item_type": 3,
+        "icon_no": 305,
+        "effect_value": [
+            100
+        ],
+        "description": "A heartfelt macaron that fully restores AP.",
+        "max_num": 9999
+    },
+    {
+        "id": 306,
+        "name": "Customary Marshmallow",
+        "item_type": 3,
+        "icon_no": 306,
+        "effect_value": [
+            50
+        ],
+        "description": "A Marshmallow that might restore 50% AP...",
+        "max_num": 9999
+    },
+    {
+        "id": 307,
+        "name": "Netherworld Easter Egg",
+        "item_type": 3,
+        "icon_no": 307,
+        "effect_value": [
+            100
+        ],
+        "description": "Fully restores AP. But it looks just like an egg...",
+        "max_num": 9999
+    },
+    {
+        "id": 308,
+        "name": "Netherworld Small Egg",
+        "item_type": 3,
+        "icon_no": 308,
+        "effect_value": [
+            50
+        ],
+        "description": "Restores 50% AP. It's a little cramped inside.",
+        "max_num": 9999
+    },
+    {
+        "id": 401,
+        "name": "Golden Candy",
+        "item_type": 4,
+        "icon_no": 401,
+        "effect_value": [
+            1,
+            25
+        ],
+        "description": "Increases affinity (mild).",
+        "max_num": 9999
+    },
+    {
+        "id": 402,
+        "name": "Gold Bar",
+        "item_type": 4,
+        "icon_no": 402,
+        "effect_value": [
+            2,
+            50
+        ],
+        "description": "Increases affinity (great).",
+        "max_num": 9999
+    },
+    {
+        "id": 403,
+        "name": "Crab Miso",
+        "item_type": 4,
+        "icon_no": 403,
+        "effect_value": [
+            4,
+            100
+        ],
+        "description": "Increases affinity (super).",
+        "max_num": 9999
+    },
+    {
+        "id": 501,
+        "name": "Character Slot +5",
+        "item_type": 5,
+        "icon_no": 501,
+        "effect_value": [
+            5
+        ],
+        "description": "Character Slot +5",
+        "max_num": 799
+    },
+    {
+        "id": 601,
+        "name": "Weapon Slot +5",
+        "item_type": 6,
+        "icon_no": 601,
+        "effect_value": [
+            5
+        ],
+        "description": "Weapon Slot +5",
+        "max_num": 799
+    },
+    {
+        "id": 701,
+        "name": "Armor Slot +5",
+        "item_type": 7,
+        "icon_no": 701,
+        "effect_value": [
+            5
+        ],
+        "description": "Armor Slot +5",
+        "max_num": 799
+    },
+    {
+        "id": 801,
+        "name": "Innocent Slot +5",
+        "item_type": 8,
+        "icon_no": 801,
+        "effect_value": [
+            5
+        ],
+        "description": "Innocent Slot +5",
+        "max_num": 799
+    },
+    {
+        "id": 1001,
+        "name": "Lucky Ball Lottery",
+        "item_type": 10,
+        "icon_no": 1001,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to participate in a lottery, dood!",
+        "max_num": 999
+    },
+    {
+        "id": 1401,
+        "name": "Gate Key",
+        "item_type": 14,
+        "icon_no": 1401,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Dark Gates.",
+        "max_num": 9999
+    },
+    {
+        "id": 1511,
+        "name": "Sword Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1511,
+        "effect_value": [
+            10,
+            1
+        ],
+        "description": "Slightly increases the WM Lv of Swords.",
+        "max_num": 999
+    },
+    {
+        "id": 1512,
+        "name": "Sword Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1512,
+        "effect_value": [
+            25,
+            1
+        ],
+        "description": "Moderately increases the WM Lv of Swords.",
+        "max_num": 999
+    },
+    {
+        "id": 1513,
+        "name": "Sword Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1513,
+        "effect_value": [
+            100,
+            1
+        ],
+        "description": "Significantly increases the WM Lv of Swords.",
+        "max_num": 999
+    },
+    {
+        "id": 1521,
+        "name": "Fist Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1521,
+        "effect_value": [
+            10,
+            2
+        ],
+        "description": "Slightly increases the WM Lv of Fists.",
+        "max_num": 999
+    },
+    {
+        "id": 1522,
+        "name": "Fist Statue (Lv 2)",
+        "item_type": 15,
+        "icon_no": 1522,
+        "effect_value": [
+            25,
+            2
+        ],
+        "description": "Moderately increases the WM Lv of Fists.",
+        "max_num": 999
+    },
+    {
+        "id": 1523,
+        "name": "Fist Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1523,
+        "effect_value": [
+            100,
+            2
+        ],
+        "description": "Significantly increases the WM Lv of Fists.",
+        "max_num": 999
+    },
+    {
+        "id": 1531,
+        "name": "Spear Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1531,
+        "effect_value": [
+            10,
+            3
+        ],
+        "description": "Slightly increases the WM Lv of Spears.",
+        "max_num": 999
+    },
+    {
+        "id": 1532,
+        "name": "Spear Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1532,
+        "effect_value": [
+            25,
+            3
+        ],
+        "description": "Moderately increases the WM Lv of Spears.",
+        "max_num": 999
+    },
+    {
+        "id": 1533,
+        "name": "Spear Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1533,
+        "effect_value": [
+            100,
+            3
+        ],
+        "description": "Significantly increases the WM Lv of Spears.",
+        "max_num": 999
+    },
+    {
+        "id": 1541,
+        "name": "Bow Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1541,
+        "effect_value": [
+            10,
+            4
+        ],
+        "description": "Slightly increases the WM Lv of Bows.",
+        "max_num": 999
+    },
+    {
+        "id": 1542,
+        "name": "Bow Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1542,
+        "effect_value": [
+            25,
+            4
+        ],
+        "description": "Moderately increases the WM Lv of Bows.",
+        "max_num": 999
+    },
+    {
+        "id": 1543,
+        "name": "Bow Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1543,
+        "effect_value": [
+            100,
+            4
+        ],
+        "description": "Significantly increases the WM Lv of Bows.",
+        "max_num": 999
+    },
+    {
+        "id": 1551,
+        "name": "Gun Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1551,
+        "effect_value": [
+            10,
+            5
+        ],
+        "description": "Slightly increases the WM Lv of Guns.",
+        "max_num": 999
+    },
+    {
+        "id": 1552,
+        "name": "Gun Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1552,
+        "effect_value": [
+            25,
+            5
+        ],
+        "description": "Moderately increases the WM Lv of Guns.",
+        "max_num": 999
+    },
+    {
+        "id": 1553,
+        "name": "Gun Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1553,
+        "effect_value": [
+            100,
+            5
+        ],
+        "description": "Significantly increases the WM Lv of Guns.",
+        "max_num": 999
+    },
+    {
+        "id": 1561,
+        "name": "Axe Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1561,
+        "effect_value": [
+            10,
+            6
+        ],
+        "description": "Slightly increases the WM Lv of Axes.",
+        "max_num": 999
+    },
+    {
+        "id": 1562,
+        "name": "Axe Statue (Lv 2)",
+        "item_type": 15,
+        "icon_no": 1562,
+        "effect_value": [
+            25,
+            6
+        ],
+        "description": "Moderately increases the WM Lv of Axes.",
+        "max_num": 999
+    },
+    {
+        "id": 1563,
+        "name": "Axe Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1563,
+        "effect_value": [
+            100,
+            6
+        ],
+        "description": "Significantly increases the WM Lv of Axes.",
+        "max_num": 999
+    },
+    {
+        "id": 1571,
+        "name": "Staff Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1571,
+        "effect_value": [
+            10,
+            7
+        ],
+        "description": "Slightly increases the WM Lv of Staffs.",
+        "max_num": 999
+    },
+    {
+        "id": 1572,
+        "name": "Staff Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1572,
+        "effect_value": [
+            25,
+            7
+        ],
+        "description": "Moderately increases the WM Lv of Staffs.",
+        "max_num": 999
+    },
+    {
+        "id": 1573,
+        "name": "Staff Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1573,
+        "effect_value": [
+            100,
+            7
+        ],
+        "description": "Significantly increases the WM Lv of Staffs.",
+        "max_num": 999
+    },
+    {
+        "id": 1581,
+        "name": "Mon. Phys. Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1581,
+        "effect_value": [
+            10,
+            8
+        ],
+        "description": "Slightly increases the WM Lv of Mon. Phys.",
+        "max_num": 999
+    },
+    {
+        "id": 1582,
+        "name": "Mon. Phys. Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1582,
+        "effect_value": [
+            25,
+            8
+        ],
+        "description": "Moderately increases the WM Lv of Mon. Phys.",
+        "max_num": 999
+    },
+    {
+        "id": 1583,
+        "name": "Mon. Phys. Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1583,
+        "effect_value": [
+            100,
+            8
+        ],
+        "description": "Significantly increases the WM Lv of Mon. Phys.",
+        "max_num": 999
+    },
+    {
+        "id": 1591,
+        "name": "Mon. Mag. Statue (Lv1)",
+        "item_type": 15,
+        "icon_no": 1591,
+        "effect_value": [
+            10,
+            9
+        ],
+        "description": "Slightly increases the WM Lv of Mon. Mag. ",
+        "max_num": 999
+    },
+    {
+        "id": 1592,
+        "name": "Mon. Mag. Statue (Lv2)",
+        "item_type": 15,
+        "icon_no": 1592,
+        "effect_value": [
+            25,
+            9
+        ],
+        "description": "Moderately increases the WM Lv of Mon. Mag. ",
+        "max_num": 999
+    },
+    {
+        "id": 1593,
+        "name": "Mon. Mag. Statue (Lv 3)",
+        "item_type": 15,
+        "icon_no": 1593,
+        "effect_value": [
+            100,
+            9
+        ],
+        "description": "Significantly increases the WM Lv of Mon. Mag. ",
+        "max_num": 999
+    },
+    {
+        "id": 1601,
+        "name": "N.E. Prinny",
+        "item_type": 16,
+        "icon_no": 1601,
+        "effect_value": [
+            1
+        ],
+        "description": "It can N.E. anyone",
+        "max_num": 999
+    },
+    {
+        "id": 1602,
+        "name": "Prism Hide",
+        "item_type": 16,
+        "icon_no": 1602,
+        "effect_value": [
+            100
+        ],
+        "description": "Get 100 and turn them into an N.E. Prinny",
+        "max_num": 99999
+    },
+    {
+        "id": 1701,
+        "name": "Skill Book (Lv1)",
+        "item_type": 17,
+        "icon_no": 1701,
+        "effect_value": [
+            10
+        ],
+        "description": "Slightly increases the EXP of skill",
+        "max_num": 999
+    },
+    {
+        "id": 1702,
+        "name": "Skill Book (Lv2)",
+        "item_type": 17,
+        "icon_no": 1702,
+        "effect_value": [
+            25
+        ],
+        "description": "Moderately  increases the EXP of skill",
+        "max_num": 999
+    },
+    {
+        "id": 1703,
+        "name": "Skill Book (Lv3)",
+        "item_type": 17,
+        "icon_no": 1703,
+        "effect_value": [
+            100
+        ],
+        "description": "Significantly increases the EXP of skill",
+        "max_num": 999
+    },
+    {
+        "id": 1801,
+        "name": "Reinc. Gem (Lv1)",
+        "item_type": 18,
+        "icon_no": 1801,
+        "effect_value": [
+            0
+        ],
+        "description": "A small gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1802,
+        "name": "Reinc. Gem (Lv2)",
+        "item_type": 18,
+        "icon_no": 1802,
+        "effect_value": [
+            0
+        ],
+        "description": "A medium gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1803,
+        "name": "Reinc. Gem (Lv3)",
+        "item_type": 18,
+        "icon_no": 1803,
+        "effect_value": [
+            0
+        ],
+        "description": "A large gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1811,
+        "name": "Hum. Reinc. Gem (Lv1)",
+        "item_type": 18,
+        "icon_no": 1811,
+        "effect_value": [
+            0
+        ],
+        "description": "A small gem used for Humanoid Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1812,
+        "name": "Hum. Reinc. Gem (Lv2)",
+        "item_type": 18,
+        "icon_no": 1812,
+        "effect_value": [
+            0
+        ],
+        "description": "A medium gem used for Humanoid Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1813,
+        "name": "Hum. Reinc. Gem (Lv3)",
+        "item_type": 18,
+        "icon_no": 1813,
+        "effect_value": [
+            0
+        ],
+        "description": "A large gem used for Humanoid Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1821,
+        "name": "Mon. Reinc. Gem (Lv1)",
+        "item_type": 18,
+        "icon_no": 1821,
+        "effect_value": [
+            0
+        ],
+        "description": "A small gem used for Monster Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1822,
+        "name": "Mon. Reinc. Gem (Lv2)",
+        "item_type": 18,
+        "icon_no": 1822,
+        "effect_value": [
+            0
+        ],
+        "description": "A medium gem used for Monster Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1823,
+        "name": "Mon. Reinc. Gem (Lv3)",
+        "item_type": 18,
+        "icon_no": 1823,
+        "effect_value": [
+            0
+        ],
+        "description": "A large gem used for Monster Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1831,
+        "name": "Shining Reinc. Gem (Lv1)",
+        "item_type": 18,
+        "icon_no": 1831,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1832,
+        "name": "Shining Reinc. Gem (Lv2)",
+        "item_type": 18,
+        "icon_no": 1832,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1833,
+        "name": "Shining Reinc. Gem (Lv3)",
+        "item_type": 18,
+        "icon_no": 1833,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1834,
+        "name": "Shining Reinc. Gem (Lv4)",
+        "item_type": 18,
+        "icon_no": 1834,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1835,
+        "name": "Shining Reinc. Gem (Lv5)",
+        "item_type": 18,
+        "icon_no": 1835,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1836,
+        "name": "Shining Reinc. Gem (Lv6)",
+        "item_type": 18,
+        "icon_no": 1836,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1837,
+        "name": "Shining Reinc. Gem (Lv7)",
+        "item_type": 18,
+        "icon_no": 1837,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1838,
+        "name": "Shining Reinc. Gem (Lv8)",
+        "item_type": 18,
+        "icon_no": 1838,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1839,
+        "name": "Shining Reinc. Gem (Lv9)",
+        "item_type": 18,
+        "icon_no": 1839,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1840,
+        "name": "Shining Reinc. Gem (Lv10)",
+        "item_type": 18,
+        "icon_no": 1840,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1841,
+        "name": "Shining Reinc. Gem (Lv11)",
+        "item_type": 18,
+        "icon_no": 1841,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1842,
+        "name": "Shining Reinc. Gem (Lv12)",
+        "item_type": 18,
+        "icon_no": 1842,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1843,
+        "name": "Shining Reinc. Gem (Lv13)",
+        "item_type": 18,
+        "icon_no": 1843,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1844,
+        "name": "Shining Reinc. Gem (Lv14)",
+        "item_type": 18,
+        "icon_no": 1844,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1845,
+        "name": "Shining Reinc. Gem (Lv15)",
+        "item_type": 18,
+        "icon_no": 1845,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1846,
+        "name": "Shining Reinc. Gem (Lv16)",
+        "item_type": 18,
+        "icon_no": 1846,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1847,
+        "name": "Shining Reinc. Gem (Lv17)",
+        "item_type": 18,
+        "icon_no": 1847,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1848,
+        "name": "Shining Reinc. Gem (Lv18)",
+        "item_type": 18,
+        "icon_no": 1848,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1849,
+        "name": "Shining Reinc. Gem (Lv19)",
+        "item_type": 18,
+        "icon_no": 1849,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1850,
+        "name": "Shining Reinc. Gem (Lv20)",
+        "item_type": 18,
+        "icon_no": 1850,
+        "effect_value": [
+            0
+        ],
+        "description": "A SP gem used for Reinc.",
+        "max_num": 99999
+    },
+    {
+        "id": 1901,
+        "name": "Premium Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1901,
+        "effect_value": [
+            100001
+        ],
+        "description": "Make 1 Premium Summon",
+        "max_num": 999
+    },
+    {
+        "id": 1902,
+        "name": "3★ or above Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1902,
+        "effect_value": [
+            110001
+        ],
+        "description": "Summon 3★ or above characters",
+        "max_num": 999
+    },
+    {
+        "id": 1903,
+        "name": "4★ Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1903,
+        "effect_value": [
+            110002
+        ],
+        "description": "Summon characters of 4★",
+        "max_num": 999
+    },
+    {
+        "id": 1904,
+        "name": "1 & D2 Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1904,
+        "effect_value": [
+            210001
+        ],
+        "description": "Summon characters of 1 & D2",
+        "max_num": 999
+    },
+    {
+        "id": 1905,
+        "name": "2 & 3 Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1905,
+        "effect_value": [
+            210002
+        ],
+        "description": "Summon characters of 2 & 3",
+        "max_num": 999
+    },
+    {
+        "id": 1906,
+        "name": "4 & 5 Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1906,
+        "effect_value": [
+            210003
+        ],
+        "description": "Summon characters of 4 & 5",
+        "max_num": 999
+    },
+    {
+        "id": 1909,
+        "name": "Valentine Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1909,
+        "effect_value": [
+            210004
+        ],
+        "description": "Make 1 Valentine Summon",
+        "max_num": 999
+    },
+    {
+        "id": 1910,
+        "name": "White Day Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1910,
+        "effect_value": [
+            210005
+        ],
+        "description": "Make 1 White Day Summon",
+        "max_num": 999
+    },
+    {
+        "id": 2001,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2001,
+        "effect_value": [
+            1
+        ],
+        "description": "Magical Holy Night Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2002,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2002,
+        "effect_value": [
+            4
+        ],
+        "description": "Snow Melody Rice Cake Festival Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2003,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2003,
+        "effect_value": [
+            6
+        ],
+        "description": "The Metamorphosis of Green Bro Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2004,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2004,
+        "effect_value": [
+            12
+        ],
+        "description": "Nether Beauty Pageant Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2005,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2005,
+        "effect_value": [
+            15
+        ],
+        "description": "Ms. Raspberyl's Course on Chaos Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2006,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2006,
+        "effect_value": [
+            17
+        ],
+        "description": "Desco XENO from Another Dimension Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2007,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2007,
+        "effect_value": [
+            21
+        ],
+        "description": "Magic Cutie Purity Party ☆ Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2008,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2008,
+        "effect_value": [
+            26
+        ],
+        "description": "Cat Cafe Crisis Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2009,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2009,
+        "effect_value": [
+            35
+        ],
+        "description": "Fest-evil of Sport! Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2010,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2006,
+        "effect_value": [
+            24
+        ],
+        "description": "Desco XENO from Another Dimension Pts",
+        "max_num": 99999999
+    },
+    {
+        "id": 2101,
+        "name": "Majin Etna Shard",
+        "item_type": 21,
+        "icon_no": 2101,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Majin Etna",
+        "max_num": 9999
+    },
+    {
+        "id": 2102,
+        "name": "Pure Flonne Shard",
+        "item_type": 21,
+        "icon_no": 2102,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Pure Flonne",
+        "max_num": 9999
+    },
+    {
+        "id": 2103,
+        "name": "Bloodis Shard",
+        "item_type": 21,
+        "icon_no": 2103,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Bloodis",
+        "max_num": 9999
+    },
+    {
+        "id": 2104,
+        "name": "Sister Artina Shard",
+        "item_type": 21,
+        "icon_no": 2104,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Sister Artina",
+        "max_num": 9999
+    },
+    {
+        "id": 2301,
+        "name": "Mana Potion",
+        "item_type": 23,
+        "icon_no": 2301,
+        "effect_value": [
+            500
+        ],
+        "description": "A wondrous potion that grants mana when used",
+        "max_num": 9999
+    },
+    {
+        "id": 2401,
+        "name": "DG Skip Coupon",
+        "item_type": 24,
+        "icon_no": 2401,
+        "effect_value": [
+            3
+        ],
+        "description": "Skip battles in Dark Gates",
+        "max_num": 9999
+    },
+    {
+        "id": 2501,
+        "name": "AP",
+        "item_type": 25,
+        "icon_no": 2501,
+        "effect_value": [
+            9
+        ],
+        "description": "Restores AP when claimed",
+        "max_num": 9999
+    },
+    {
+        "id": 2601,
+        "name": "Reminiscence Sphere",
+        "item_type": 26,
+        "icon_no": 2601,
+        "effect_value": [
+            1
+        ],
+        "description": "A mysterious item that can be used to redeem rewards at the Reminiscence Exchange",
+        "max_num": 99999
+    },
+    {
+        "id": 10001,
+        "name": "Subdue Ticket",
+        "item_type": 4,
+        "icon_no": 12341,
+        "effect_value": [
+            0,
+            100
+        ],
+        "description": "Auto-Subdue an Innocent",
+        "max_num": 9999
+    },
+    {
+        "id": 10002,
+        "name": "Event Skip Ticket",
+        "item_type": 24,
+        "icon_no": 12342,
+        "effect_value": [
+            1
+        ],
+        "description": "Skip a Story Event Stage",
+        "max_num": 9999
+    }
+]

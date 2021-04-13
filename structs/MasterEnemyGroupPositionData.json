@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_enemy_group_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "position",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "m_enemy_id",
+        "offset": 40
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_stage_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "condition_num",
+        "offset": 44
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 72
+    }
+]

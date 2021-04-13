@@ -1,0 +1,62 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_garapon_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "item_name",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "item_type",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "item_id",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "item_num",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "rarity",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "rate",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "limit_num",
+        "offset": 84
+    },
+    {
+        "type": "bool",
+        "name": "garapon_miss_flg",
+        "offset": 88
+    }
+]

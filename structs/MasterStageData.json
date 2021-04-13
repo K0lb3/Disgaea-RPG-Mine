@@ -1,0 +1,107 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_area_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_story_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "proper_level",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "appear_m_stage_id",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 64
+    },
+    {
+        "type": "string",
+        "name": "bgm",
+        "offset": 72
+    },
+    {
+        "type": "string",
+        "name": "boss_bgm",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "bg_id",
+        "offset": 88
+    },
+    {
+        "type": "int",
+        "name": "no",
+        "offset": 92
+    },
+    {
+        "type": "int",
+        "name": "act",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "exp",
+        "offset": 100
+    },
+    {
+        "type": "ulong",
+        "name": "lose_m_story_id",
+        "offset": 104
+    },
+    {
+        "type": "int[]",
+        "name": "present_types",
+        "offset": 112
+    },
+    {
+        "type": "ulong[]",
+        "name": "present_ids",
+        "offset": 120
+    },
+    {
+        "type": "int[]",
+        "name": "present_rarities",
+        "offset": 128
+    },
+    {
+        "type": "int[]",
+        "name": "present_nums",
+        "offset": 136
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 144
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 152
+    },
+    {
+        "type": "bool",
+        "name": "display_info_flg",
+        "offset": 160
+    }
+]

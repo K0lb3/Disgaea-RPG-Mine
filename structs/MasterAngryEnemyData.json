@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "battle_type",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_enemy_id",
+        "offset": 32
+    },
+    {
+        "type": "int[]",
+        "name": "angry_params",
+        "offset": 40
+    },
+    {
+        "type": "ulong[]",
+        "name": "angry_commands",
+        "offset": 48
+    }
+]

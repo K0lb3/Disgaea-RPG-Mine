@@ -1,0 +1,67 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "battle_type",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_enemy_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "priority",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "command_lv",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "trigger_target",
+        "offset": 60
+    },
+    {
+        "type": "int",
+        "name": "trigger_status",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "trigger_param",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "use_count",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "rate",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "target_status",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "target_param",
+        "offset": 84
+    }
+]

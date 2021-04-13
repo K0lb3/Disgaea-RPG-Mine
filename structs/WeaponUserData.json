@@ -1,0 +1,102 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "t_player_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_weapon_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "stage",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "pop",
+        "offset": 44
+    },
+    {
+        "type": "int",
+        "name": "rarity_value",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "lv",
+        "offset": 52
+    },
+    {
+        "type": "int",
+        "name": "lv_max",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "hp",
+        "offset": 60
+    },
+    {
+        "type": "int",
+        "name": "atk",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "def",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "inte",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "res",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "spd",
+        "offset": 80
+    },
+    {
+        "type": "ulong",
+        "name": "set_chara_id",
+        "offset": 88
+    },
+    {
+        "type": "int",
+        "name": "set_no",
+        "offset": 96
+    },
+    {
+        "type": "bool",
+        "name": "del_flg",
+        "offset": 100
+    },
+    {
+        "type": "bool",
+        "name": "lock_flg",
+        "offset": 101
+    },
+    {
+        "type": "bool",
+        "name": "all_clear_flg",
+        "offset": 102
+    },
+    {
+        "type": "string",
+        "name": "created_at",
+        "offset": 104
+    }
+]

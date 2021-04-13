@@ -1,0 +1,57 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "event_type",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 36
+    },
+    {
+        "type": "ulong",
+        "name": "m_episode_id",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "m_item_shop_id",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "m_event_gacha_id",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "prologue_story_id",
+        "offset": 64
+    },
+    {
+        "type": "ulong",
+        "name": "opening_story_id",
+        "offset": 72
+    },
+    {
+        "type": "ulong",
+        "name": "ending_story_id",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "challenge_max",
+        "offset": 88
+    }
+]

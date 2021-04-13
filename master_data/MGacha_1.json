@@ -1,0 +1,2288 @@
+[
+    {
+        "id": 2,
+        "gacha_type": 2,
+        "name": "First Tutorial Summon 4★",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 0,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 3,
+        "gacha_type": 2,
+        "name": "Second Tutorial Summon 2★",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            0
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 0,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 100001,
+        "gacha_type": 4,
+        "name": "Premium Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            1000010
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 10000,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 110001,
+        "gacha_type": 1,
+        "name": "3★ Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 10001,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 110002,
+        "gacha_type": 1,
+        "name": "4★ Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 10000,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 200001,
+        "gacha_type": 3,
+        "name": "1 & D2 Paid-Only 10x Summon 4★ Guaranteed",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000014
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 8,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2019-12-13 13:00:00"
+    },
+    {
+        "id": 200002,
+        "gacha_type": 3,
+        "name": "2 & 3 Paid-Only 10x Summon 4★ Guaranteed",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000024
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2019-12-13 13:00:00"
+    },
+    {
+        "id": 200003,
+        "gacha_type": 3,
+        "name": "4 & 5 Paid-Only 10x Summon 4★ Guaranteed",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000034
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2019-12-13 13:00:00"
+    },
+    {
+        "id": 200004,
+        "gacha_type": 3,
+        "name": "Release Anniversary 10x Summon 4★ Guaranteed",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            1000014
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2017-10-21 12:34:56",
+        "close_at": "2019-12-13 13:00:00"
+    },
+    {
+        "id": 200005,
+        "gacha_type": 1,
+        "name": "[Paid] New Character Platinum Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2021-04-17 22:00:00",
+        "close_at": "2021-04-27 01:59:59"
+    },
+    {
+        "id": 200006,
+        "gacha_type": 1,
+        "name": "New Character Platinum Summon!",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2021-04-17 22:00:00",
+        "close_at": "2021-04-27 01:59:59"
+    },
+    {
+        "id": 200007,
+        "gacha_type": 3,
+        "name": "[Paid] Christmas Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000074
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2021-04-27 01:59:59"
+    },
+    {
+        "id": 200008,
+        "gacha_type": 1,
+        "name": "Christmas Summon!",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2021-04-27 01:59:59"
+    },
+    {
+        "id": 200009,
+        "gacha_type": 1,
+        "name": "Staff Character Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2021-04-26 03:00:00",
+        "close_at": "2021-05-01 23:59:59"
+    },
+    {
+        "id": 200010,
+        "gacha_type": 3,
+        "name": "[Paid] Robbery Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2019-12-26 13:05:00",
+        "close_at": "2020-01-03 12:00:00"
+    },
+    {
+        "id": 200011,
+        "gacha_type": 3,
+        "name": "Robbery Summon",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2019-12-26 13:05:00",
+        "close_at": "2020-01-03 12:00:00"
+    },
+    {
+        "id": 200012,
+        "gacha_type": 3,
+        "name": "[Paid] Nether New Year Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000124
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2021-04-26 03:00:00",
+        "close_at": "2021-05-12 01:59:59"
+    },
+    {
+        "id": 200013,
+        "gacha_type": 1,
+        "name": "Nether New Year Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2021-04-26 03:00:00",
+        "close_at": "2021-05-12 01:59:59"
+    },
+    {
+        "id": 200014,
+        "gacha_type": 1,
+        "name": "[Paid] New Character Platinum Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2021-05-02 03:00:00",
+        "close_at": "2021-05-12 01:59:59"
+    },
+    {
+        "id": 200015,
+        "gacha_type": 1,
+        "name": "New Character Platinum Summon!",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2021-05-02 03:00:00",
+        "close_at": "2021-05-12 01:59:59"
+    },
+    {
+        "id": 200016,
+        "gacha_type": 1,
+        "name": "Gun & Monster Physical Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-01-14 12:00:00",
+        "close_at": "2020-01-24 11:59:59"
+    },
+    {
+        "id": 200017,
+        "gacha_type": 3,
+        "name": "[Paid] Defender of Earth Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000170
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2020-01-24 12:00:00",
+        "close_at": "2020-02-07 11:59:59"
+    },
+    {
+        "id": 200018,
+        "gacha_type": 1,
+        "name": "Defender of Earth Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000180
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 8,
+        "probability_text": "null_s",
+        "open_at": "2020-01-24 12:00:00",
+        "close_at": "2020-02-07 11:59:59"
+    },
+    {
+        "id": 200019,
+        "gacha_type": 3,
+        "name": "[Paid] Dis1 & D2 Birthday Fest Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 2,
+        "fix_m_gacha_group_ids": [
+            2000194
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2021-04-12 22:00:00",
+        "close_at": "2021-04-23 23:59:59"
+    },
+    {
+        "id": 200020,
+        "gacha_type": 1,
+        "name": "Dis1 & D2 Birthday Fest Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000200
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 20,
+        "count_bonus_m_gacha_group_id": 2000204,
+        "count_bonus_max": 20,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-01-30 13:05:00",
+        "close_at": "2020-02-05 11:59:59"
+    },
+    {
+        "id": 200021,
+        "gacha_type": 3,
+        "name": "[Paid] Dis2 & Dis3 Birthday Fest Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 2,
+        "fix_m_gacha_group_ids": [
+            2000214
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2021-04-12 22:00:00",
+        "close_at": "2021-04-23 23:59:59"
+    },
+    {
+        "id": 200022,
+        "gacha_type": 1,
+        "name": "Dis2 & Dis3 Birthday Fest Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000220
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 20,
+        "count_bonus_m_gacha_group_id": 2000224,
+        "count_bonus_max": 20,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2020-01-30 13:05:00",
+        "close_at": "2020-02-05 11:59:59"
+    },
+    {
+        "id": 200023,
+        "gacha_type": 3,
+        "name": "[Paid] Dis4 & Dis5 Birthday Fest Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 2,
+        "fix_m_gacha_group_ids": [
+            2000234
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2021-04-12 22:00:00",
+        "close_at": "2021-04-23 23:59:59"
+    },
+    {
+        "id": 200024,
+        "gacha_type": 1,
+        "name": "Dis4 & Dis5 Birthday Fest Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000240
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 20,
+        "count_bonus_m_gacha_group_id": 2000244,
+        "count_bonus_max": 20,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-01-30 13:05:00",
+        "close_at": "2020-02-05 11:59:59"
+    },
+    {
+        "id": 200025,
+        "gacha_type": 1,
+        "name": "Gun & Monster Physical Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000250
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-02-05 12:00:00",
+        "close_at": "2020-02-13 12:59:59"
+    },
+    {
+        "id": 200026,
+        "gacha_type": 1,
+        "name": "[Paid] New Character Platinum Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000260
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-02-13 13:05:00",
+        "close_at": "2020-02-20 11:59:59"
+    },
+    {
+        "id": 200027,
+        "gacha_type": 1,
+        "name": "New Character Platinum Summon!",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000270
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-02-13 13:05:00",
+        "close_at": "2020-02-20 11:59:59"
+    },
+    {
+        "id": 200028,
+        "gacha_type": 1,
+        "name": "Sword Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000280
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-02-10 12:00:00",
+        "close_at": "2020-02-20 11:59:59"
+    },
+    {
+        "id": 200029,
+        "gacha_type": 3,
+        "name": "[Paid] Nether Beauty Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000294
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-02-20 12:00:00",
+        "close_at": "2020-03-05 11:59:59"
+    },
+    {
+        "id": 200030,
+        "gacha_type": 1,
+        "name": "Nether Beauty Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000300
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-02-20 12:00:00",
+        "close_at": "2020-03-05 11:59:59"
+    },
+    {
+        "id": 200031,
+        "gacha_type": 1,
+        "name": "Fiercest Overlord Festival Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000310
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000315,
+        "count_bonus_max": 20,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-04-02 00:00:00",
+        "close_at": "2020-04-02 01:00:00"
+    },
+    {
+        "id": 200032,
+        "gacha_type": 1,
+        "name": "Spear, Staff & Mon. Magic Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000320
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-02-27 13:05:00",
+        "close_at": "2020-03-10 12:59:59"
+    },
+    {
+        "id": 200033,
+        "gacha_type": 3,
+        "name": "Springtime Fortune Summon",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000330
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_spring",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-03-05 12:00:00",
+        "close_at": "2020-03-10 12:59:59"
+    },
+    {
+        "id": 200034,
+        "gacha_type": 3,
+        "name": "[Paid] The Legendary Graduate Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000344
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-03-10 13:05:00",
+        "close_at": "2020-03-26 11:59:59"
+    },
+    {
+        "id": 200035,
+        "gacha_type": 1,
+        "name": "The Legendary Graduate Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000350
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2020-03-10 13:05:00",
+        "close_at": "2020-03-26 11:59:59"
+    },
+    {
+        "id": 200036,
+        "gacha_type": 3,
+        "name": "Reflection FREE 10x Summon",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 1,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000360
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-03-21 00:00:00",
+        "close_at": "2020-03-30 23:59:59"
+    },
+    {
+        "id": 200037,
+        "gacha_type": 3,
+        "name": "[Paid] Reflection Robbery",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000370
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 13,
+        "probability_text": "null_s",
+        "open_at": "2020-03-19 13:05:00",
+        "close_at": "2020-04-05 23:59:59"
+    },
+    {
+        "id": 200038,
+        "gacha_type": 3,
+        "name": "Reflection Robbery Summon",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000380
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 14,
+        "probability_text": "null_s",
+        "open_at": "2020-03-19 13:05:00",
+        "close_at": "2020-04-05 23:59:59"
+    },
+    {
+        "id": 200039,
+        "gacha_type": 1,
+        "name": "[Paid] Reflection Platinum 1",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000390
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000395,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-03-19 13:05:00",
+        "close_at": "2020-03-27 23:59:59"
+    },
+    {
+        "id": 200040,
+        "gacha_type": 1,
+        "name": "Reflection Platinum 1",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000400
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000404,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-03-19 13:05:00",
+        "close_at": "2020-03-27 23:59:59"
+    },
+    {
+        "id": 200041,
+        "gacha_type": 1,
+        "name": "[Paid] Reflection Platinum 2",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000410
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000415,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 15,
+        "probability_text": "null_s",
+        "open_at": "2020-03-28 00:00:00",
+        "close_at": "2020-04-05 23:59:59"
+    },
+    {
+        "id": 200042,
+        "gacha_type": 1,
+        "name": "Reflection New Character Platinum 2",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000420
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000424,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 16,
+        "probability_text": "null_s",
+        "open_at": "2020-03-28 00:00:00",
+        "close_at": "2020-04-05 23:59:59"
+    },
+    {
+        "id": 200043,
+        "gacha_type": 3,
+        "name": "[Paid] Delivering the Love! Magic Cutie Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000434
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-03-31 12:00:00",
+        "close_at": "2020-04-14 11:59:59"
+    },
+    {
+        "id": 200044,
+        "gacha_type": 1,
+        "name": "Magic Cutie Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000440
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-03-31 12:00:00",
+        "close_at": "2020-04-14 11:59:59"
+    },
+    {
+        "id": 200045,
+        "gacha_type": 3,
+        "name": "Prinny Premium Summon",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 1,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-04-01 00:00:00",
+        "close_at": "2020-04-01 23:59:59"
+    },
+    {
+        "id": 200046,
+        "gacha_type": 1,
+        "name": "Fiercest Overlord Festival Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000460
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000465,
+        "count_bonus_max": 20,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-03-27 00:00:00",
+        "close_at": "2020-04-02 11:59:59"
+    },
+    {
+        "id": 200047,
+        "gacha_type": 1,
+        "name": "SE Characters Selection Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000470
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2020-03-31 12:00:00",
+        "close_at": "2020-04-14 11:59:59"
+    },
+    {
+        "id": 200048,
+        "gacha_type": 1,
+        "name": "Easter Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000480
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000485,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-04-09 13:05:00",
+        "close_at": "2020-04-16 12:59:59"
+    },
+    {
+        "id": 200049,
+        "gacha_type": 1,
+        "name": "Fist & Staff Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000490
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 16,
+        "probability_text": "null_s",
+        "open_at": "2020-04-16 13:05:00",
+        "close_at": "2020-04-27 11:59:59"
+    },
+    {
+        "id": 200050,
+        "gacha_type": 1,
+        "name": "[Paid] New Character Platinum Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000500
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000505,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-04-16 13:05:00",
+        "close_at": "2020-04-23 11:59:59"
+    },
+    {
+        "id": 200051,
+        "gacha_type": 1,
+        "name": "New Character Platinum Summon!",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000510
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000515,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-04-16 13:05:00",
+        "close_at": "2020-04-23 11:59:59"
+    },
+    {
+        "id": 200052,
+        "gacha_type": 3,
+        "name": "[Paid] Meow Meow Cat Cafe Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000520
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-04-23 12:00:00",
+        "close_at": "2020-04-29 23:59:59"
+    },
+    {
+        "id": 200053,
+        "gacha_type": 1,
+        "name": "Meow Meow Cat Cafe Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000530
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2020-04-23 12:00:00",
+        "close_at": "2020-05-07 11:59:59"
+    },
+    {
+        "id": 200054,
+        "gacha_type": 3,
+        "name": "Welcome back! Comeback 10x Summon",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000540
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 1,
+        "probability_text": "null_s",
+        "open_at": "2020-04-28 12:00:00",
+        "close_at": "2030-04-28 23:59:59"
+    },
+    {
+        "id": 200055,
+        "gacha_type": 3,
+        "name": "Comeback celebration! Welcome Special Summon",
+        "price_type": 3,
+        "prices": [
+            250
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2020-04-28 12:00:00",
+        "close_at": "2030-04-28 23:59:59"
+    },
+    {
+        "id": 200056,
+        "gacha_type": 1,
+        "name": "Fest-only Fiercest Overlord Fes",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000560
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000565,
+        "count_bonus_max": 30,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-04-28 13:05:00",
+        "close_at": "2020-05-03 23:59:00"
+    },
+    {
+        "id": 200057,
+        "gacha_type": 3,
+        "name": "[Paid] Meow Meow Cat Cafe Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000570
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-04-30 00:00:00",
+        "close_at": "2020-05-07 11:59:59"
+    },
+    {
+        "id": 200058,
+        "gacha_type": 3,
+        "name": "[Paid] Golden Week Special Robbery",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000580
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2020-04-30 00:00:00",
+        "close_at": "2020-05-07 11:59:59"
+    },
+    {
+        "id": 200059,
+        "gacha_type": 3,
+        "name": "Golden Week Special Robbery",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000590
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_newyear",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-04-30 00:00:00",
+        "close_at": "2020-05-07 11:59:59"
+    },
+    {
+        "id": 200060,
+        "gacha_type": 3,
+        "name": "May Fortune Prinny Summon",
+        "price_type": 2,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 5,
+        "fix_m_gacha_group_ids": [
+            2000600
+        ],
+        "campaign_type": 1,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "onemore_spring",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-05-07 12:00:00",
+        "close_at": "2020-05-12 11:59:59"
+    },
+    {
+        "id": 200061,
+        "gacha_type": 1,
+        "name": "[Paid] New Character Platinum Summon!",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000610
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000615,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-05-12 12:00:00",
+        "close_at": "2020-05-19 11:59:59"
+    },
+    {
+        "id": 200062,
+        "gacha_type": 1,
+        "name": "New Character Platinum Summon!",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000620
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000625,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2020-05-12 12:00:00",
+        "close_at": "2020-05-19 11:59:59"
+    },
+    {
+        "id": 200063,
+        "gacha_type": 1,
+        "name": "Fist & Mon. Physical Pick Up Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000630
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000635,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-05-14 12:00:00",
+        "close_at": "2020-05-25 23:59:59"
+    },
+    {
+        "id": 200064,
+        "gacha_type": 3,
+        "name": "[Paid] Fest-evil of Sport Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000640
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2020-05-19 12:00:00",
+        "close_at": "2020-05-26 11:59:59"
+    },
+    {
+        "id": 200065,
+        "gacha_type": 3,
+        "name": "[Paid] Fest-evil of Sport Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 3,
+        "fix_m_gacha_group_ids": [
+            2000650
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 7,
+        "probability_text": "null_s",
+        "open_at": "2020-05-26 12:00:00",
+        "close_at": "2020-06-02 11:59:59"
+    },
+    {
+        "id": 200066,
+        "gacha_type": 1,
+        "name": "Fest-evil of Sport Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000660
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 8,
+        "probability_text": "null_s",
+        "open_at": "2020-05-19 12:00:00",
+        "close_at": "2020-06-02 11:59:59"
+    },
+    {
+        "id": 200067,
+        "gacha_type": 3,
+        "name": "Half Anni. FREE 10x Summon Every Day",
+        "price_type": 2,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 1,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            2000670
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2020-05-27 13:05:00",
+        "close_at": "2020-05-31 23:59:59"
+    },
+    {
+        "id": 200068,
+        "gacha_type": 1,
+        "name": "[Paid] Half Anni. Reissue Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000680
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000685,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-05-27 13:05:00",
+        "close_at": "2020-06-02 23:59:59"
+    },
+    {
+        "id": 200069,
+        "gacha_type": 1,
+        "name": "[Paid] Half Anni. Reissue Summon",
+        "price_type": 3,
+        "prices": [
+            1500
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000690
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 3,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000695,
+        "count_bonus_max": 15,
+        "resource_name": "null_s",
+        "sort": 5,
+        "probability_text": "null_s",
+        "open_at": "2020-06-03 00:00:00",
+        "close_at": "2020-06-10 23:59:59"
+    },
+    {
+        "id": 200070,
+        "gacha_type": 1,
+        "name": "Half Anni. Reissue Summon",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000700
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000705,
+        "count_bonus_max": 25,
+        "resource_name": "null_s",
+        "sort": 6,
+        "probability_text": "null_s",
+        "open_at": "2020-05-27 13:05:00",
+        "close_at": "2020-06-10 23:59:59"
+    },
+    {
+        "id": 200071,
+        "gacha_type": 1,
+        "name": "Fest-only Fiercest Overlord Fes",
+        "price_type": 2,
+        "prices": [
+            150,
+            1500
+        ],
+        "gacha_nums": [
+            1,
+            10
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [
+            2000710
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 5,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 2000715,
+        "count_bonus_max": 30,
+        "resource_name": "null_s",
+        "sort": 3,
+        "probability_text": "null_s",
+        "open_at": "2020-05-30 00:00:00",
+        "close_at": "2020-06-03 23:59:00"
+    },
+    {
+        "id": 210001,
+        "gacha_type": 1,
+        "name": "1 & D2 4★ Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 20001,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 210002,
+        "gacha_type": 1,
+        "name": "2 & 3 4★ Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 20002,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 210003,
+        "gacha_type": 1,
+        "name": "4 & 5 4★ Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 20003,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 210004,
+        "gacha_type": 1,
+        "name": "Valentine Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 20004,
+        "probability_text": "null_s",
+        "open_at": "2020-02-13 13:05:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 210005,
+        "gacha_type": 1,
+        "name": "White Day Ticket Summon",
+        "price_type": 4,
+        "prices": [
+            0
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 0,
+        "limit_num": 0,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 20005,
+        "probability_text": "null_s",
+        "open_at": "2020-02-13 13:05:00",
+        "close_at": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 1234561,
+        "gacha_type": 3,
+        "name": "7-Day SP Summon for New Players",
+        "price_type": 3,
+        "prices": [
+            780
+        ],
+        "gacha_nums": [
+            10
+        ],
+        "limit_type": 3,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [
+            12345614
+        ],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 8,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2099-01-01 00:00:00"
+    },
+    {
+        "id": 1234562,
+        "gacha_type": 3,
+        "name": "Christmas Summon! Once per day",
+        "price_type": 3,
+        "prices": [
+            50
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 1,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 2,
+        "probability_text": "null_s",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2021-04-27 01:59:59"
+    },
+    {
+        "id": 1234563,
+        "gacha_type": 3,
+        "name": "Nether New Year Summon Once per day",
+        "price_type": 3,
+        "prices": [
+            50
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "limit_type": 1,
+        "limit_num": 1,
+        "fix_m_gacha_group_ids": [],
+        "campaign_type": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_loop_max": 0,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_max": 0,
+        "resource_name": "null_s",
+        "sort": 4,
+        "probability_text": "null_s",
+        "open_at": "2021-04-26 03:00:00",
+        "close_at": "2021-05-12 01:59:59"
+    }
+]

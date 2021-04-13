@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "m_event_id": 24,
+        "gacha_type": 1,
+        "price": 100,
+        "gacha_max_num": 2500
+    },
+    {
+        "id": 2,
+        "m_event_id": 24,
+        "gacha_type": 2,
+        "price": 50,
+        "gacha_max_num": 0
+    },
+    {
+        "id": 3,
+        "m_event_id": 24,
+        "gacha_type": 3,
+        "price": 10,
+        "gacha_max_num": 0
+    }
+]

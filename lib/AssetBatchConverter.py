@@ -154,7 +154,7 @@ def export_obj(obj, fp: str, append_name: bool = False) -> list:
         return [obj.path_id, data.m_RD.texture.path_id, getattr(data.m_RD.alphaTexture, 'path_id', None)]
 
     elif obj.type == "Texture2D":
-        if not os.path.exists(fp) and data.Width:
+        if not os.path.exists(fp) and data.m_Width:
             # textures can have size 0.....
             data.image.save(f"{fp}.png")
 

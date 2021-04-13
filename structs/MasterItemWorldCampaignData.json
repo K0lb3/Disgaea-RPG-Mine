@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "campaign_type",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "appeal_text",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 48
+    }
+]

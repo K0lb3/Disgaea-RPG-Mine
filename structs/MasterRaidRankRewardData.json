@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_reward_group_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "minimum_rank",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "maximum_rank",
+        "offset": 44
+    },
+    {
+        "type": "int",
+        "name": "ribbon_rank",
+        "offset": 48
+    }
+]

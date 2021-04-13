@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "sheet_no",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 28
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 44
+    }
+]

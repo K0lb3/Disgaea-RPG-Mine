@@ -1,0 +1,152 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "enemy_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "floor_no",
+        "offset": 28
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "lv",
+        "offset": 48
+    },
+    {
+        "type": "long",
+        "name": "hp",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "atk",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "def",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "inte",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "res",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "spd",
+        "offset": 80
+    },
+    {
+        "type": "ulong",
+        "name": "m_weapon_id",
+        "offset": 88
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_1",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "command_lv_1",
+        "offset": 104
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_2",
+        "offset": 112
+    },
+    {
+        "type": "int",
+        "name": "command_lv_2",
+        "offset": 120
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_3",
+        "offset": 128
+    },
+    {
+        "type": "int",
+        "name": "command_lv_3",
+        "offset": 136
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id_4",
+        "offset": 144
+    },
+    {
+        "type": "int",
+        "name": "command_lv_4",
+        "offset": 152
+    },
+    {
+        "type": "bool",
+        "name": "overwrite_attr",
+        "offset": 156
+    },
+    {
+        "type": "int",
+        "name": "attr_fire",
+        "offset": 160
+    },
+    {
+        "type": "int",
+        "name": "attr_water",
+        "offset": 164
+    },
+    {
+        "type": "int",
+        "name": "attr_wind",
+        "offset": 168
+    },
+    {
+        "type": "int",
+        "name": "attr_star",
+        "offset": 172
+    },
+    {
+        "type": "int",
+        "name": "resist_poison",
+        "offset": 176
+    },
+    {
+        "type": "int",
+        "name": "resist_paralyze",
+        "offset": 180
+    },
+    {
+        "type": "int",
+        "name": "resist_sleep",
+        "offset": 184
+    },
+    {
+        "type": "int",
+        "name": "resist_forget",
+        "offset": 188
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_gacha_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "gacha_num",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 40
+    }
+]

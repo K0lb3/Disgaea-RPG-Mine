@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 24
+    },
+    {
+        "type": "long",
+        "name": "need_exp",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "friend_max",
+        "offset": 48
+    }
+]

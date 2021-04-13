@@ -1,0 +1,12 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_id",
+        "offset": 24
+    }
+]

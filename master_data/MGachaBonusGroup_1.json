@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "m_gacha_id": 200010,
+        "rate": 30
+    },
+    {
+        "id": 2,
+        "m_gacha_id": 200010,
+        "rate": 30
+    },
+    {
+        "id": 3,
+        "m_gacha_id": 200010,
+        "rate": 25
+    },
+    {
+        "id": 4,
+        "m_gacha_id": 200010,
+        "rate": 15
+    },
+    {
+        "id": 5,
+        "m_gacha_id": 200011,
+        "rate": 30
+    },
+    {
+        "id": 6,
+        "m_gacha_id": 200011,
+        "rate": 30
+    },
+    {
+        "id": 7,
+        "m_gacha_id": 200011,
+        "rate": 25
+    },
+    {
+        "id": 8,
+        "m_gacha_id": 200011,
+        "rate": 15
+    },
+    {
+        "id": 9,
+        "m_gacha_id": 200033,
+        "rate": 25
+    },
+    {
+        "id": 10,
+        "m_gacha_id": 200033,
+        "rate": 20
+    },
+    {
+        "id": 11,
+        "m_gacha_id": 200033,
+        "rate": 20
+    },
+    {
+        "id": 12,
+        "m_gacha_id": 200033,
+        "rate": 15
+    },
+    {
+        "id": 13,
+        "m_gacha_id": 200033,
+        "rate": 15
+    },
+    {
+        "id": 14,
+        "m_gacha_id": 200033,
+        "rate": 5
+    },
+    {
+        "id": 15,
+        "m_gacha_id": 200037,
+        "rate": 30
+    },
+    {
+        "id": 16,
+        "m_gacha_id": 200037,
+        "rate": 30
+    },
+    {
+        "id": 17,
+        "m_gacha_id": 200037,
+        "rate": 25
+    },
+    {
+        "id": 18,
+        "m_gacha_id": 200037,
+        "rate": 15
+    },
+    {
+        "id": 19,
+        "m_gacha_id": 200038,
+        "rate": 30
+    },
+    {
+        "id": 20,
+        "m_gacha_id": 200038,
+        "rate": 30
+    },
+    {
+        "id": 21,
+        "m_gacha_id": 200038,
+        "rate": 25
+    },
+    {
+        "id": 22,
+        "m_gacha_id": 200038,
+        "rate": 15
+    },
+    {
+        "id": 23,
+        "m_gacha_id": 200058,
+        "rate": 250
+    },
+    {
+        "id": 24,
+        "m_gacha_id": 200058,
+        "rate": 250
+    },
+    {
+        "id": 25,
+        "m_gacha_id": 200058,
+        "rate": 175
+    },
+    {
+        "id": 26,
+        "m_gacha_id": 200058,
+        "rate": 175
+    },
+    {
+        "id": 27,
+        "m_gacha_id": 200058,
+        "rate": 150
+    },
+    {
+        "id": 28,
+        "m_gacha_id": 200059,
+        "rate": 250
+    },
+    {
+        "id": 29,
+        "m_gacha_id": 200059,
+        "rate": 250
+    },
+    {
+        "id": 30,
+        "m_gacha_id": 200059,
+        "rate": 175
+    },
+    {
+        "id": 31,
+        "m_gacha_id": 200059,
+        "rate": 175
+    },
+    {
+        "id": 32,
+        "m_gacha_id": 200059,
+        "rate": 150
+    },
+    {
+        "id": 33,
+        "m_gacha_id": 200060,
+        "rate": 200
+    },
+    {
+        "id": 34,
+        "m_gacha_id": 200060,
+        "rate": 200
+    },
+    {
+        "id": 35,
+        "m_gacha_id": 200060,
+        "rate": 200
+    },
+    {
+        "id": 36,
+        "m_gacha_id": 200060,
+        "rate": 175
+    },
+    {
+        "id": 37,
+        "m_gacha_id": 200060,
+        "rate": 175
+    },
+    {
+        "id": 38,
+        "m_gacha_id": 200060,
+        "rate": 50
+    }
+]

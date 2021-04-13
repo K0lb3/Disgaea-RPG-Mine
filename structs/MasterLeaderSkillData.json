@@ -1,0 +1,117 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "bool",
+        "name": "unique_flg",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "lv_max",
+        "offset": 36
+    },
+    {
+        "type": "int",
+        "name": "timing_type",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "trigger_target",
+        "offset": 44
+    },
+    {
+        "type": "int",
+        "name": "trigger_status",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "trigger_param",
+        "offset": 52
+    },
+    {
+        "type": "int",
+        "name": "target_type",
+        "offset": 56
+    },
+    {
+        "type": "ulong[]",
+        "name": "target_params",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "effect_type",
+        "offset": 72
+    },
+    {
+        "type": "int[]",
+        "name": "effect_type_params",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "limit_damage",
+        "offset": 88
+    },
+    {
+        "type": "int[]",
+        "name": "limit_characters",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "effect_correct_type",
+        "offset": 104
+    },
+    {
+        "type": "int[]",
+        "name": "effect_correct_characters",
+        "offset": 112
+    },
+    {
+        "type": "int",
+        "name": "effect_value_min",
+        "offset": 120
+    },
+    {
+        "type": "int",
+        "name": "effect_value_max",
+        "offset": 124
+    },
+    {
+        "type": "int[]",
+        "name": "effect_turn",
+        "offset": 128
+    },
+    {
+        "type": "int",
+        "name": "bad_effect_type",
+        "offset": 136
+    },
+    {
+        "type": "int[]",
+        "name": "bad_effect_params",
+        "offset": 144
+    },
+    {
+        "type": "int",
+        "name": "bad_effect_value",
+        "offset": 152
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 160
+    }
+]

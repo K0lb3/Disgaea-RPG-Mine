@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "eq_type": 1,
+        "eq_id": 11000,
+        "name": "Pre-Registration - Growth Sword",
+        "rarity": 100,
+        "pop": 10
+    },
+    {
+        "id": 2,
+        "eq_type": 1,
+        "eq_id": 81000,
+        "name": "Pre-Registration - Sturdy Eggshell",
+        "rarity": 100,
+        "pop": 10
+    },
+    {
+        "id": 3,
+        "eq_type": 1,
+        "eq_id": 40020,
+        "name": "Mission Event 1 Bow IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 4,
+        "eq_type": 1,
+        "eq_id": 70020,
+        "name": "Mission Event 1 Staff IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 5,
+        "eq_type": 1,
+        "eq_id": 80020,
+        "name": "Mission Event 1 Mon. Phys. Statue IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 6,
+        "eq_type": 1,
+        "eq_id": 90020,
+        "name": "Mission Event 1 Monster Magical IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 7,
+        "eq_type": 1,
+        "eq_id": 50020,
+        "name": "Mission Event 2 Gun IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 8,
+        "eq_type": 1,
+        "eq_id": 80020,
+        "name": "Mission Event 2 Mon. Phys. Statue IL 20",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 9,
+        "eq_type": 2,
+        "eq_id": 71004,
+        "name": "Demonic Curry",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 10,
+        "eq_type": 2,
+        "eq_id": 71005,
+        "name": "Gratitude Chocolate",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 11,
+        "eq_type": 1,
+        "eq_id": 10001,
+        "name": "Innocent with 5 EXP",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 12,
+        "eq_type": 1,
+        "eq_id": 30001,
+        "name": "Innocent with 4 SPD",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 13,
+        "eq_type": 1,
+        "eq_id": 21000,
+        "name": "Revenging Return",
+        "rarity": 100,
+        "pop": 7
+    },
+    {
+        "id": 14,
+        "eq_type": 1,
+        "eq_id": 10030,
+        "name": "Raid Event β IR 30 Sword",
+        "rarity": 25,
+        "pop": 4
+    },
+    {
+        "id": 15,
+        "eq_type": 1,
+        "eq_id": 70030,
+        "name": "Raid Event β IR 30 Staff",
+        "rarity": 25,
+        "pop": 4
+    },
+    {
+        "id": 16,
+        "eq_type": 1,
+        "eq_id": 80030,
+        "name": "Raid Event β IR 30 Monster Physical",
+        "rarity": 25,
+        "pop": 4
+    },
+    {
+        "id": 17,
+        "eq_type": 2,
+        "eq_id": 71006,
+        "name": "Prism Rangers Certification Badge",
+        "rarity": 100,
+        "pop": 7
+    }
+]

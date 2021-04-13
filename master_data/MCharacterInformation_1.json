@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "m_character_id": 1,
+        "sort": 1,
+        "information": "The Prince is the only son and successor \nof the late King Krichevskoy, dood! \nAnd an autocratic egotist, dood!"
+    },
+    {
+        "id": 2,
+        "m_character_id": 1,
+        "sort": 2,
+        "information": "His Evility can boost the stats of all party members, which is very useful, dood! \nAnd it's easy to boost the damage of his Skills, dood!"
+    },
+    {
+        "id": 3,
+        "m_character_id": 4,
+        "sort": 1,
+        "information": "He's a straight-hearted young man \nwho's not good at telling lies and dealing with girls, dood. \nHe seems to be in love with Rozalin, dood."
+    },
+    {
+        "id": 4,
+        "m_character_id": 4,
+        "sort": 2,
+        "information": "He has very high HP and attack, dood!\nHis Evility boosting fist-equipping characters is also excellent, dood!"
+    },
+    {
+        "id": 5,
+        "m_character_id": 5,
+        "sort": 1,
+        "information": "He's the current Dean of Evil Academy, dood. With an Evil Quotient of 1.8 Million, he conducts shady experiments all day long, dood."
+    },
+    {
+        "id": 6,
+        "m_character_id": 5,
+        "sort": 2,
+        "information": "His Evility that weakens enemy defense \nis powerful and easy to use as it does not get affected by party setup, dood!"
+    },
+    {
+        "id": 7,
+        "m_character_id": 3,
+        "sort": 1,
+        "information": "He's a Prinny Instructor in the Nether Prison, Hades. His true identity is a vampire who loves sardines... No, I mean the vampire, known as the \"Tyrant\", dood!"
+    },
+    {
+        "id": 8,
+        "m_character_id": 3,
+        "sort": 2,
+        "information": "He's got a vicious Evility that greatly increases the physical attack of sword-equipping characters, dood. His Skill can heal while dealing damage, dood!"
+    },
+    {
+        "id": 9,
+        "m_character_id": 2,
+        "sort": 1,
+        "information": "He became a lone avenger after his loved one was taken from him, dood. \nBut now, he's a fighter with excellent cooking skills, dood!"
+    },
+    {
+        "id": 10,
+        "m_character_id": 2,
+        "sort": 2,
+        "information": "He's got top-class attack, and a strong Evility that greatly boosts the physical attack of fist-equipping characters, dood!"
+    },
+    {
+        "id": 11,
+        "m_character_id": 10,
+        "sort": 1,
+        "information": "A sheltered princess who was raised as the only daughter of the Overlord, dood! She seems to be in a lovey-dovey relationship with Adell, they're nauseating, dood."
+    },
+    {
+        "id": 12,
+        "m_character_id": 10,
+        "sort": 2,
+        "information": "She's a charming lady with high speed and magical attack, along with an Evility that boosts the physical attack of male characters, dood!"
+    },
+    {
+        "id": 13,
+        "m_character_id": 20002,
+        "sort": 1,
+        "information": "She's been branded a Delinquent since the foundation of Evil Academy, dood. Her delinquency is legendary. "
+    },
+    {
+        "id": 14,
+        "m_character_id": 20002,
+        "sort": 2,
+        "information": "Her Evility that raises the defense of the party is easy to use regardless of the situation, dood! And she's got top-class magical attack, dood!"
+    },
+    {
+        "id": 15,
+        "m_character_id": 20003,
+        "sort": 1,
+        "information": "She's the ultimate weapon created to destroy the world, dood. \nShe's been practicing hard to become the strongest Final Boss, dood!"
+    },
+    {
+        "id": 16,
+        "m_character_id": 20003,
+        "sort": 2,
+        "information": "She's an excellent attacker with AOE skills available from the start and an Evility \nthat boosts the abilities of monster units, dood!"
+    },
+    {
+        "id": 17,
+        "m_character_id": 8,
+        "sort": 1,
+        "information": "As the Gorgeous Overlord, she's the most wealthy being in the Three Worlds, dood. It's said that all men are infatuated with her, dood."
+    },
+    {
+        "id": 18,
+        "m_character_id": 8,
+        "sort": 2,
+        "information": "Her Evility can make herself stronger \nif there are more male characters in the party, dood! And she's got top-class speed, dood!"
+    },
+    {
+        "id": 19,
+        "m_character_id": 21,
+        "sort": 1,
+        "information": "She's an angel from Celestia who wants to become an Overlord, dood. She loves her brother, Prince Laharl, and us Prinnies. A REAL angel, dood!"
+    },
+    {
+        "id": 20,
+        "m_character_id": 21,
+        "sort": 2,
+        "information": "She can use AOE attacks and healing skills, her Evility can boost the magical attack of party members. And she loves Prinnies! She's PERFECT, dood!"
+    }
+]

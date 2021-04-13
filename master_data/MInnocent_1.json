@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "HP Boost",
+        "innocent_type": 1,
+        "category": 1,
+        "description_format": "HP +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 1
+    },
+    {
+        "id": 2,
+        "name": "ATK Boost",
+        "innocent_type": 2,
+        "category": 2,
+        "description_format": "ATK +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 1
+    },
+    {
+        "id": 3,
+        "name": "DEF Boost",
+        "innocent_type": 3,
+        "category": 2,
+        "description_format": "DEF +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 1
+    },
+    {
+        "id": 4,
+        "name": "INT Boost",
+        "innocent_type": 4,
+        "category": 3,
+        "description_format": "INT +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 1
+    },
+    {
+        "id": 5,
+        "name": "RES Boost",
+        "innocent_type": 5,
+        "category": 3,
+        "description_format": "RES +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 1
+    },
+    {
+        "id": 6,
+        "name": "SPD Boost",
+        "innocent_type": 6,
+        "category": 1,
+        "description_format": "SPD +{0}",
+        "calculate_format": "{0}",
+        "effect_type": 3
+    },
+    {
+        "id": 7,
+        "name": "EXP Boost",
+        "innocent_type": 7,
+        "category": 4,
+        "description_format": "EXP Gained +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 2
+    },
+    {
+        "id": 8,
+        "name": "HL Boost",
+        "innocent_type": 8,
+        "category": 4,
+        "description_format": "HL Gained +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 2
+    },
+    {
+        "id": 9,
+        "name": "WM Enhancer",
+        "innocent_type": 9,
+        "category": 5,
+        "description_format": "WM EXP Gained +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 7
+    },
+    {
+        "id": 10,
+        "name": "Skill Enhancer",
+        "innocent_type": 10,
+        "category": 5,
+        "description_format": "Skill EXP +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 7
+    },
+    {
+        "id": 11,
+        "name": "HP Amplifier",
+        "innocent_type": 11,
+        "category": 1,
+        "description_format": "HP +{0}",
+        "calculate_format": "+{0}",
+        "effect_type": 6
+    },
+    {
+        "id": 12,
+        "name": "ATK Amplifier",
+        "innocent_type": 12,
+        "category": 2,
+        "description_format": "ATK +{0}",
+        "calculate_format": "+{0}",
+        "effect_type": 4
+    },
+    {
+        "id": 13,
+        "name": "DEF Amplifier",
+        "innocent_type": 13,
+        "category": 2,
+        "description_format": "DEF +{0}",
+        "calculate_format": "+{0}",
+        "effect_type": 5
+    },
+    {
+        "id": 14,
+        "name": "INT Amplifier",
+        "innocent_type": 14,
+        "category": 3,
+        "description_format": "INT +{0}",
+        "calculate_format": "+{0}",
+        "effect_type": 4
+    },
+    {
+        "id": 15,
+        "name": "RES Amplifier",
+        "innocent_type": 15,
+        "category": 3,
+        "description_format": "RES +{0}",
+        "calculate_format": "+{0}",
+        "effect_type": 5
+    }
+]

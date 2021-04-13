@@ -1,0 +1,17 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 32
+    }
+]

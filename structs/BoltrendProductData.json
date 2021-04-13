@@ -1,0 +1,7 @@
+[
+    {
+        "type": "int",
+        "name": "select_count",
+        "offset": 160
+    }
+]

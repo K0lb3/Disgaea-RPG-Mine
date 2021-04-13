@@ -1,0 +1,72 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_event_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "condition_id",
+        "offset": 40
+    },
+    {
+        "type": "long",
+        "name": "condition_num",
+        "offset": 48
+    },
+    {
+        "type": "string",
+        "name": "condition_unit_name",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 72
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 88
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 92
+    },
+    {
+        "type": "int",
+        "name": "sheet_no",
+        "offset": 96
+    },
+    {
+        "type": "string",
+        "name": "sheet_name",
+        "offset": 104
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 112
+    }
+]

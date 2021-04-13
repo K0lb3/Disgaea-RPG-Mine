@@ -1,0 +1,177 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_story_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "no",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "bg_id",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "bgm",
+        "offset": 48
+    },
+    {
+        "type": "string",
+        "name": "se",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "effect",
+        "offset": 64
+    },
+    {
+        "type": "string",
+        "name": "animation_id",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "cutin_img",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "popup_img",
+        "offset": 84
+    },
+    {
+        "type": "int",
+        "name": "talk_chara_no",
+        "offset": 88
+    },
+    {
+        "type": "ulong",
+        "name": "voice_character_id",
+        "offset": 96
+    },
+    {
+        "type": "string",
+        "name": "voice_name",
+        "offset": 104
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_introduction_id",
+        "offset": 112
+    },
+    {
+        "type": "string",
+        "name": "chara1_name",
+        "offset": 120
+    },
+    {
+        "type": "int",
+        "name": "chara1_direction",
+        "offset": 128
+    },
+    {
+        "type": "ulong",
+        "name": "chara1_m_story_character_id",
+        "offset": 136
+    },
+    {
+        "type": "int",
+        "name": "chara1_emotion",
+        "offset": 144
+    },
+    {
+        "type": "bool",
+        "name": "chara1_disabled",
+        "offset": 148
+    },
+    {
+        "type": "int",
+        "name": "chara1_in",
+        "offset": 152
+    },
+    {
+        "type": "string",
+        "name": "chara2_name",
+        "offset": 160
+    },
+    {
+        "type": "int",
+        "name": "chara2_direction",
+        "offset": 168
+    },
+    {
+        "type": "ulong",
+        "name": "chara2_m_story_character_id",
+        "offset": 176
+    },
+    {
+        "type": "int",
+        "name": "chara2_emotion",
+        "offset": 184
+    },
+    {
+        "type": "bool",
+        "name": "chara2_disabled",
+        "offset": 188
+    },
+    {
+        "type": "int",
+        "name": "chara2_in",
+        "offset": 192
+    },
+    {
+        "type": "string",
+        "name": "chara3_name",
+        "offset": 200
+    },
+    {
+        "type": "int",
+        "name": "chara3_direction",
+        "offset": 208
+    },
+    {
+        "type": "ulong",
+        "name": "chara3_m_story_character_id",
+        "offset": 216
+    },
+    {
+        "type": "int",
+        "name": "chara3_emotion",
+        "offset": 224
+    },
+    {
+        "type": "bool",
+        "name": "chara3_disabled",
+        "offset": 228
+    },
+    {
+        "type": "int",
+        "name": "chara3_in",
+        "offset": 232
+    },
+    {
+        "type": "int",
+        "name": "window_type",
+        "offset": 236
+    },
+    {
+        "type": "string",
+        "name": "talk_text",
+        "offset": 240
+    },
+    {
+        "type": "int",
+        "name": "screen_color",
+        "offset": 248
+    }
+]

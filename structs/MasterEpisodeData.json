@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "episode_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "no",
+        "offset": 28
+    },
+    {
+        "type": "int",
+        "name": "series",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "m_main_story_category_id",
+        "offset": 40
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 48
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 64
+    }
+]

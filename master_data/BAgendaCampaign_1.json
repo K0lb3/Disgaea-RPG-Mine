@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "m_agenda_id": 29,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "20:00",
+        "agree_end": "21:00",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2022-04-13 00:00:00",
+        "create_at": "null_s",
+        "update_at": "null_s"
+    },
+    {
+        "id": 2,
+        "m_agenda_id": 30,
+        "point": 25,
+        "base_rate": 20,
+        "is_periodic": true,
+        "agree_begin": "20:00",
+        "agree_end": "21:00",
+        "open_at": "2021-01-01 00:00:00",
+        "close_at": "2022-04-13 00:00:00",
+        "create_at": "null_s",
+        "update_at": "null_s"
+    }
+]

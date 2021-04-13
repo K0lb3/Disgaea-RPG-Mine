@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "mana_rank",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "need_mana",
+        "offset": 28
+    },
+    {
+        "type": "float",
+        "name": "up_param",
+        "offset": 32
+    },
+    {
+        "type": "float",
+        "name": "up_spd",
+        "offset": 36
+    }
+]

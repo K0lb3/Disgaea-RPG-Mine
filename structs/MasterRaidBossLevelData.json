@@ -1,0 +1,52 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_boss_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "base_score",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "m_stage_id",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_reward_group_id",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "m_contribution_reward_group_id",
+        "offset": 64
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_id",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "level",
+        "offset": 80
+    },
+    {
+        "type": "ulong",
+        "name": "max_hp",
+        "offset": 88
+    }
+]

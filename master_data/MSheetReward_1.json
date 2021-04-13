@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "sheet_no": 1,
+        "present_type": 2,
+        "present_id": 6,
+        "present_rarity": 4,
+        "present_num": 1
+    },
+    {
+        "id": 2,
+        "sheet_no": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 300
+    },
+    {
+        "id": 3,
+        "sheet_no": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 300
+    },
+    {
+        "id": 4,
+        "sheet_no": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 300
+    },
+    {
+        "id": 5,
+        "sheet_no": 5,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1
+    }
+]

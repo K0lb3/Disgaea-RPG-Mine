@@ -1,0 +1,97 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "gacha_type",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "price_type",
+        "offset": 40
+    },
+    {
+        "type": "int[]",
+        "name": "prices",
+        "offset": 48
+    },
+    {
+        "type": "int[]",
+        "name": "gacha_nums",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "limit_type",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "limit_num",
+        "offset": 68
+    },
+    {
+        "type": "ulong[]",
+        "name": "fix_m_gacha_group_ids",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "campaign_type",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "count_bonus_interval",
+        "offset": 84
+    },
+    {
+        "type": "int",
+        "name": "count_bonus_loop_max",
+        "offset": 88
+    },
+    {
+        "type": "ulong",
+        "name": "count_bonus_m_gacha_group_id",
+        "offset": 96
+    },
+    {
+        "type": "int",
+        "name": "count_bonus_max",
+        "offset": 104
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 112
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 120
+    },
+    {
+        "type": "string",
+        "name": "probability_text",
+        "offset": 128
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 136
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 144
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "condition_type",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "condition_id",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "condition_num",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 76
+    },
+    {
+        "type": "int",
+        "name": "next_m_hospital_id",
+        "offset": 80
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 84
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 88
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 96
+    }
+]

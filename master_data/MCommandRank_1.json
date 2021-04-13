@@ -1,0 +1,226 @@
+[
+    {
+        "id": 101,
+        "effect_target": 1,
+        "rank": 1,
+        "effect_value_min": 0,
+        "effect_value_max": 59
+    },
+    {
+        "id": 102,
+        "effect_target": 1,
+        "rank": 2,
+        "effect_value_min": 60,
+        "effect_value_max": 79
+    },
+    {
+        "id": 103,
+        "effect_target": 1,
+        "rank": 3,
+        "effect_value_min": 80,
+        "effect_value_max": 99
+    },
+    {
+        "id": 104,
+        "effect_target": 1,
+        "rank": 4,
+        "effect_value_min": 100,
+        "effect_value_max": 119
+    },
+    {
+        "id": 105,
+        "effect_target": 1,
+        "rank": 5,
+        "effect_value_min": 120,
+        "effect_value_max": 139
+    },
+    {
+        "id": 106,
+        "effect_target": 1,
+        "rank": 6,
+        "effect_value_min": 140,
+        "effect_value_max": 159
+    },
+    {
+        "id": 107,
+        "effect_target": 1,
+        "rank": 7,
+        "effect_value_min": 160,
+        "effect_value_max": 179
+    },
+    {
+        "id": 108,
+        "effect_target": 1,
+        "rank": 8,
+        "effect_value_min": 180,
+        "effect_value_max": 199
+    },
+    {
+        "id": 109,
+        "effect_target": 1,
+        "rank": 9,
+        "effect_value_min": 200,
+        "effect_value_max": 219
+    },
+    {
+        "id": 110,
+        "effect_target": 1,
+        "rank": 10,
+        "effect_value_min": 220,
+        "effect_value_max": 239
+    },
+    {
+        "id": 111,
+        "effect_target": 1,
+        "rank": 11,
+        "effect_value_min": 240,
+        "effect_value_max": 269
+    },
+    {
+        "id": 112,
+        "effect_target": 1,
+        "rank": 12,
+        "effect_value_min": 270,
+        "effect_value_max": 299
+    },
+    {
+        "id": 113,
+        "effect_target": 1,
+        "rank": 13,
+        "effect_value_min": 300,
+        "effect_value_max": 339
+    },
+    {
+        "id": 114,
+        "effect_target": 1,
+        "rank": 14,
+        "effect_value_min": 340,
+        "effect_value_max": 379
+    },
+    {
+        "id": 115,
+        "effect_target": 1,
+        "rank": 15,
+        "effect_value_min": 380,
+        "effect_value_max": 429
+    },
+    {
+        "id": 116,
+        "effect_target": 1,
+        "rank": 16,
+        "effect_value_min": 430,
+        "effect_value_max": 999
+    },
+    {
+        "id": 201,
+        "effect_target": 2,
+        "rank": 1,
+        "effect_value_min": 0,
+        "effect_value_max": 59
+    },
+    {
+        "id": 202,
+        "effect_target": 2,
+        "rank": 2,
+        "effect_value_min": 60,
+        "effect_value_max": 79
+    },
+    {
+        "id": 203,
+        "effect_target": 2,
+        "rank": 3,
+        "effect_value_min": 80,
+        "effect_value_max": 99
+    },
+    {
+        "id": 204,
+        "effect_target": 2,
+        "rank": 4,
+        "effect_value_min": 100,
+        "effect_value_max": 119
+    },
+    {
+        "id": 205,
+        "effect_target": 2,
+        "rank": 5,
+        "effect_value_min": 120,
+        "effect_value_max": 139
+    },
+    {
+        "id": 206,
+        "effect_target": 2,
+        "rank": 6,
+        "effect_value_min": 140,
+        "effect_value_max": 159
+    },
+    {
+        "id": 207,
+        "effect_target": 2,
+        "rank": 7,
+        "effect_value_min": 160,
+        "effect_value_max": 179
+    },
+    {
+        "id": 208,
+        "effect_target": 2,
+        "rank": 8,
+        "effect_value_min": 180,
+        "effect_value_max": 199
+    },
+    {
+        "id": 209,
+        "effect_target": 2,
+        "rank": 9,
+        "effect_value_min": 200,
+        "effect_value_max": 219
+    },
+    {
+        "id": 210,
+        "effect_target": 2,
+        "rank": 10,
+        "effect_value_min": 220,
+        "effect_value_max": 239
+    },
+    {
+        "id": 211,
+        "effect_target": 2,
+        "rank": 11,
+        "effect_value_min": 240,
+        "effect_value_max": 269
+    },
+    {
+        "id": 212,
+        "effect_target": 2,
+        "rank": 12,
+        "effect_value_min": 270,
+        "effect_value_max": 299
+    },
+    {
+        "id": 213,
+        "effect_target": 2,
+        "rank": 13,
+        "effect_value_min": 300,
+        "effect_value_max": 339
+    },
+    {
+        "id": 214,
+        "effect_target": 2,
+        "rank": 14,
+        "effect_value_min": 340,
+        "effect_value_max": 379
+    },
+    {
+        "id": 215,
+        "effect_target": 2,
+        "rank": 15,
+        "effect_value_min": 380,
+        "effect_value_max": 429
+    },
+    {
+        "id": 216,
+        "effect_target": 2,
+        "rank": 16,
+        "effect_value_min": 430,
+        "effect_value_max": 999
+    }
+]

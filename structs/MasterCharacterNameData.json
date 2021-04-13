@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "character_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "gender",
+        "offset": 28
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 32
+    },
+    {
+        "type": "bool",
+        "name": "enabled",
+        "offset": 40
+    }
+]

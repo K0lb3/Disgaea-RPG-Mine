@@ -1,0 +1,22 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "battle_type",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_enemy_id",
+        "offset": 32
+    },
+    {
+        "type": "ulong[]",
+        "name": "enemy_leader_skill_ids",
+        "offset": 40
+    }
+]

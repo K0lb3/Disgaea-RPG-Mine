@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_contribution_reward_group_id",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_reward_group_id",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "rate",
+        "offset": 44
+    }
+]

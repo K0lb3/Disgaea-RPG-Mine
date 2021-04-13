@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "original_m_event_id",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "resource_name",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 40
+    },
+    {
+        "type": "ulong",
+        "name": "m_episode_id",
+        "offset": 48
+    },
+    {
+        "type": "ulong",
+        "name": "reminiscent_m_area_id",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 64
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 72
+    }
+]

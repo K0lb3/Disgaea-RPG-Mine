@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "weapon_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "weapon_mastery_lv",
+        "offset": 28
+    },
+    {
+        "type": "int",
+        "name": "learn_type",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "m_command_id",
+        "offset": 40
+    }
+]

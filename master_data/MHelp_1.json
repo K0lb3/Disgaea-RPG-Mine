@@ -1,0 +1,590 @@
+[
+    {
+        "id": 1,
+        "sort": 1,
+        "category": "About DISGAEA RPG",
+        "title": "What is DISGAEA?",
+        "body": "DISGAEA RPG \nThe most challenging and fiercest RPG ever, depicting the exploits of various demons, Overlords, angels and humans, all taking place in a place called the \"Netherworld\".\n\nIn this game, players can immerse themselves in the entire DISGAEA series, a world where the \nvalues of good and evil are reversed, face a range of exciting challenges, and enjoy an entirely new story\nstarring many classic DISGAEA characters.\n\nSpecial Thanks\nWe sincerely thank DJ Moore for his work as Localization Editor and general DISGAEA Expert."
+    },
+    {
+        "id": 2,
+        "sort": 2,
+        "category": "Characters",
+        "title": "Basics",
+        "body": "Immerse yourself in the world of DISGAEA, and become kingmaker to the next top Overlord!\nA range of unique characters from previous games in the DISGAEA series will join you in your quest as you train up your candidate for the role of strongest Overlord.\nThere are two types of characters for you to choose from, Humanoid and Monster. \nYou can recruit both types via summoning, then put them in your battle party to start training them."
+    },
+    {
+        "id": 3,
+        "sort": 3,
+        "category": "Characters",
+        "title": "Stats",
+        "body": "There are 6 Basic Stats for each Character.\n\n·HP: The amount of damage a character can take.\nWhen the HP of the character drops to 0, the character will be eliminated, and cannot rejoin that battle. \n\n·ATK: A character's ability to deal physical damage. \nA Higher ATK score means the character can deal more\ndamage when inflicting normal attacks and ATK-oriented skills on enemies.\n\n·DEF: A character's ability to resist physical damage. \nHigher DEF reduces ATK-oriented damage taken by that character.\n\n·INT: Stands for Intelligence. INT is a character's ability to deal magical damage. \nA Higher INT score means the character can deal more damage when inflicting INT-oriented skills on enemies.\n\n·RES: Stands for Resistance. RES is a character's ability to resist magical damage. \nHigher RES reduces INT-oriented damage taken by that character.\n\n·SPD: A character's speed. \nHigher SPD allows the character to act more frequently during battle, and also increases the character's crit rate."
+    },
+    {
+        "id": 4,
+        "sort": 4,
+        "category": "Characters",
+        "title": "★ Number",
+        "body": "★ Number indicates the basic strength of a character.\nAny character can reach as high as 6★ via awakening.\nAnd depending on the number of ★, the character's class name will be changed accordingly."
+    },
+    {
+        "id": 5,
+        "sort": 5,
+        "category": "Characters",
+        "title": "Level",
+        "body": "Characters stats will increase as they level up.\nCharacters get new Unique Skills upon reaching certain levels."
+    },
+    {
+        "id": 6,
+        "sort": 6,
+        "category": "Characters",
+        "title": "Max Level",
+        "body": "There is a cap on each character's level.\nInitially, Max Level is Lv100.\nYou can \"Reincarnate\" a character who has reached their Max Level. \nEach Reincarnation adds 100 to that character's Level Cap."
+    },
+    {
+        "id": 7,
+        "sort": 7,
+        "category": "Characters",
+        "title": "Weapon Mastery",
+        "body": "Weapon Mastery indicates which types of weapon a character is better at using.\n \nWeapon Mastery has its own Current Level and Max Level.\n\nThe Max Level of Weapon Mastery can be increased with Mana, which is obtained by Reincarnating characters. \nThe Current Level can be increased by using that corresponding type of weapon in battle, or by consuming certain items.\n\nA higher Current WM Level means weapons of that type are more powerful when equipped by a character and used in battle.\n\nCharacters get new Weapon Skills upon reaching certain Weapon Mastery Levels."
+    },
+    {
+        "id": 8,
+        "sort": 8,
+        "category": "Characters",
+        "title": "Skills",
+        "body": "Up to 4 Skills can be set per Character.\nOnce set, these Skills can be used in battle.\nWeapon skills require the corresponding weapon to be equipped. Weapon skills will be automatically removed if you equip a character with a different type of weapon."
+    },
+    {
+        "id": 9,
+        "sort": 9,
+        "category": "Characters",
+        "title": "Skill Types",
+        "body": "There are 3 types of special Skills: \nUnique Skills, Weapon Skills and Spells, which are learned in different ways.\n \n ① Unique Skills \nLearned upon reaching certain Character Levels or after reaching certain Nether Enhancement stages.\n \n ② Weapon Skills \nLearned upon reaching certain Current Weapon Mastery Levels for that corresponding weapon.\n (Staff, Monster Physical and Monster Magic excluded). \nWeapon Skills are only usable \nwhen the corresponding weapon is equipped.\n \n ③ Spells \nLearned upon certain Current Weapon Mastery Levels \n(only Staff and Monster Magic).\n\nDifferent Spells are available \nto different characters."
+    },
+    {
+        "id": 10,
+        "sort": 10,
+        "category": "Characters",
+        "title": "Skill Level",
+        "body": "Skills have their own levels. \nEXP for Skills is obtained by winning battles with the corresponding moves set or by consuming certain items.\n \nSkills with higher levels cost less SP and are more effective."
+    },
+    {
+        "id": 11,
+        "sort": 11,
+        "category": "Characters",
+        "title": "Evility",
+        "body": "The passive ability to exert various effects during a battle is called \"Evility\". \n\nThere are 2 kinds of Evilities: \nNatural Evilities, the default Evilities that a character has from the beginning; and Sub Evilities, the ones a character must learn via Nether Enhance (N.E).\n\nAll Evilities possessed by both the party members and their companions will be activated during battle. \n\n※ If there are multiple Evilities that change normal attacks according to certain party stats, they will be activated in sequence based on party setup. \n(The Evility of the rightmost character in the party will be activated first.) \n※ For Evilities that allow the user to take damage for (shelter) other party members, they will not be activated in cases where absorbing the damage would kill the user."
+    },
+    {
+        "id": 12,
+        "sort": 12,
+        "category": "Characters",
+        "title": "Cheat Rank",
+        "body": "Cheat Rank increases the basic stats of a character.\nIt's applicable for each stat respectively. \nYou get Mana by Reincarnating in Mao's Lab, then apply it in \"Ability Cheat\" to increase your Cheat Rank."
+    },
+    {
+        "id": 13,
+        "sort": 13,
+        "category": "Characters",
+        "title": "Mana",
+        "body": "You get Mana by Reincarnating Characters.\nIn Mao's Lab, the Mana you get can be allocated via \"Allocate Mana\" to grant a character \"Ability Cheats\" (to increase certain Stats) or increase their WM Level Cap. \nYou can spend Mana however you like \nto make your characters stronger."
+    },
+    {
+        "id": 14,
+        "sort": 14,
+        "category": "Characters",
+        "title": "Resistance",
+        "body": "Resistance reduces damage taken by the 4 elements of each skill in battle.\n0 is the baseline. \nA positive number means the character is resistant to an element. \nThe higher the number, the less damage taken from an element.\nA negative number means the character is vulnerable to an element. \nThe lower the number, the more damage taken from an element."
+    },
+    {
+        "id": 15,
+        "sort": 15,
+        "category": "Characters",
+        "title": "Weapon Forte",
+        "body": "Each Character has one Weapon Forte, which means a higher starting WM Level Cap for this type of weapon than for the others."
+    },
+    {
+        "id": 16,
+        "sort": 16,
+        "category": "Equipment",
+        "title": "Basics",
+        "body": "Just like characters, equipment also has stats that can be raised and then added to a character while it's equipped.\n\nThere are 2 types of equipment: Weapons and Armor. \nAside from purchasing items from the Shop, they can also be obtained in the Item World or earned as various kinds of rewards.\n\nThere are a few factors that affect the strength of equipment: \nLevel, Rarity, Rank and Innocents.\n\nYou can check the rank of a piece of equipment upon purchase or via the Item World. \nThe higher the rank, the better the equipment."
+    },
+    {
+        "id": 17,
+        "sort": 17,
+        "category": "Equipment",
+        "title": "Equipment Rarity",
+        "body": "Equipment Rarity ranges from 0-100. \nHigher Rarity means more Inhabiting Innocents and higher POP.\n\nAccording to the Rarity, Equipment is divided into 3 Grades as follows: \n\n<COMMON>\nRarity 0-39\n\n<RARE>\nRarity 40-69\n\n<LEGEND>\nRarity 70-100"
+    },
+    {
+        "id": 18,
+        "sort": 18,
+        "category": "Equipment",
+        "title": "Equipment Level",
+        "body": "Boosting its Equipment Level can further increase the stats of a piece of Equipment.\nEquipment Level can be increased by challenging the Item World.\n\nThe Max Level of a piece of Equipment depends on its Grade. \n\n<COMMON>\nMax Level: 50\n\n<RARE>\nMax Level: 100\n\n<LEGEND>\nMax Level: 180"
+    },
+    {
+        "id": 19,
+        "sort": 19,
+        "category": "Equipment",
+        "title": "Innocents",
+        "body": "The inhabitants of Equipment are called Innocents. \nInnocents have effects called 'XX Boost' (Amplifier/Enhancer), and will take effect after you subdue them in the Item World. \n\nHP Boost, ATK Boost, INT Boost, DEF Boost, RES Boost, SPD Boost, HP Amplifier, ATK Amplifier, DEF Amplifier, INT Amplifier, RES Amplifier → \nWill affect the stats of the Equipment the Innocent lives in. \n\nEXP Boost, HL Boost, WM Enhancer, Skill Enhancer → \nWill affect the combat ability of the character wearing the equipment that an Innocent lives in. \n\nThere are also special Innocents that \ncan only be obtained during events or other methods."
+    },
+    {
+        "id": 20,
+        "sort": 20,
+        "category": "Equipment",
+        "title": "Innocent Rarity",
+        "body": "There are 3 Rarities for Innocents. \nCOMMON < RARE < LEGEND \nThe rarer the Innocent is, the better it will be."
+    },
+    {
+        "id": 21,
+        "sort": 21,
+        "category": "Equipment",
+        "title": "POP (Max Innocent Number)",
+        "body": "The POP number of equipment shows how many Innocents can inhabit that equipment.\nThey are shown in the following format with the current number of Innocent inhabitants.\n\n <EXAMPLE>\nPOP 6/10\n(Current Number/Max Number)\n"
+    },
+    {
+        "id": 22,
+        "sort": 22,
+        "category": "Equipment",
+        "title": "Innocent Transfer",
+        "body": "Innocents subdued in the Item World can be removed and applied in \"Innocent Transfer\".\nIt's free to remove an Innocent for the first time, but it costs HL to do so again in the future.\nThe higher the Rarity of the Innocent, the higher the cost to remove them."
+    },
+    {
+        "id": 23,
+        "sort": 23,
+        "category": "Battle",
+        "title": "Basics",
+        "body": "It's turn-based manual combat with a team of up to 5 members.\nYou win the battle by defeating all enemy waves, and lose the battle if \nall your members are defeated.\n\nCombatants, friendly or enemy alike, act one by one according to the order shown in the \nAction Gauge."
+    },
+    {
+        "id": 24,
+        "sort": 24,
+        "category": "Battle",
+        "title": "SP",
+        "body": "SP are the points required for characters to use their Skills in battle.\nThe SP cost differs for each Skill."
+    },
+    {
+        "id": 25,
+        "sort": 25,
+        "category": "Battle",
+        "title": "Skills",
+        "body": "Up to 4 Skills can be set per character.\nIt costs SP to use Skills in battle.\n\nThe effects of Skills vary, and include dealing damage, recovering HP, and bestowing Status Ailments (as follows). \n\n<Poison>\nTake damage equal to 10% of max HP at the beginning of the turn for a number of turns.\nPoison will NOT finish a character off, it will only reduce the character's HP to 1.\n \n<Sleep>\nRenders a character inactive for a number of turns. \nThe effect is lifted once the character is attacked.\nThe character cannot be controlled even on their own turn.\n \n<Paralysis>\nRenders a character inactive for a number of turns. \nThe character cannot be controlled even on their own turn.\n\n<Forget>\nRenders a character unable to use Skills for a number of turns."
+    },
+    {
+        "id": 26,
+        "sort": 26,
+        "category": "Battle",
+        "title": "Killing EXP",
+        "body": "Delivering the killing blow grants a Kill Bonus, which provides more EXP than usual."
+    },
+    {
+        "id": 27,
+        "sort": 27,
+        "category": "Battle",
+        "title": "Lifting",
+        "body": "\"Lifting\" is when one of your characters lifts another in order to perform a Tower Attack.\nThe lifting character cannot use Skills. \nOnly \"Throw\" or \"Tower Attack\" can be used. \nThe effect will get stronger based on the number and strength of characters lifted.\nYou can deal damage to enemies with \"Throwing\", but doing so will cancel your tower status.\n \nCharacters being lifted cannot attack or be attacked.\nSP and Killing EXP are granted for Throws and Tower Attacks.\n \n<Throwing a Prinny>\nWhen you Lift and Throw a \"Prinny\", you deal massive damage to all enemies. \nBut the Prinny you throw will also be knocked out of battle due to having exploded."
+    },
+    {
+        "id": 28,
+        "sort": 28,
+        "category": "Battle",
+        "title": "Battle Settings",
+        "body": "< AUTO (Automatic Combat)> \nYou can turn on automatic combat by toggling AUTO to ON. \n\n<x1/x2/x4 (Speedup Function)> can be used to change the speed of battles. \n\nYou can also change Power-saving, Volume and other settings  in Menu, and quit a battle by tapping Give Up. \n\nThe game will consume less power when Power-saving is toggled ON. \n※ Game UI will switch to Power-saving mode as well. \n\nWhen VOICE and other speedup settings are toggled ON, the speed of voices can be fixed at 1x even if the speed of battle is faster. \n\nWhen skip skill effect is toggled ON, animations of skills that you've already seen will be skipped. \nThis doesn't apply to animations that are played for the first time."
+    },
+    {
+        "id": 29,
+        "sort": 29,
+        "category": "Summoning",
+        "title": "Basics",
+        "body": "You can get new characters by summoning with \"Nether Quartz\" or \"Tickets\".\nPlease check the summon details for the list of characters available and their drop rates."
+    },
+    {
+        "id": 30,
+        "sort": 30,
+        "category": "Friends",
+        "title": "Basics",
+        "body": "After becoming friends with other players, you can send them Sardines (AP) once per day.\nWhen selecting Companions, your friends' characters will be shown at the top. \nTo become friends, you need to send a friend request and be approved."
+    },
+    {
+        "id": 31,
+        "sort": 31,
+        "category": "Friends",
+        "title": "Friend Application",
+        "body": "You can send Applications in Friend Search, or to the owner of your Companion after a battle. \n\nIf the target player's approval is set to \"Anyone\", then any application will be automatically approved.\n\nIf the target player's approval is set to \"Approval Needed\", then the player has to approve or reject the application in \"Friends - Pending\".\n\nYou can change your own settings via \n\"MENU - Settings\"."
+    },
+    {
+        "id": 32,
+        "sort": 32,
+        "category": "Friends",
+        "title": "Sending Sardines",
+        "body": "You can send Sardines to your friends once per day.\nThis limit is restored at the daily reset time every day.\n\nAP will be partially restored after receiving Sardines from friends."
+    },
+    {
+        "id": 33,
+        "sort": 33,
+        "category": "Party Menu",
+        "title": "Party",
+        "body": "You can set up the members of your party. \n\nIf a party member's Evilities and Sub Evilities can be applied to the whole party, their effects will be shown on all party members. \n\nYou can slide left and right to switch between parties. \nYou can rename a party by tapping the icon on the right of the party's name."
+    },
+    {
+        "id": 34,
+        "sort": 34,
+        "category": "Party Menu",
+        "title": "Character List",
+        "body": "A list to show all the characters you own. \n\nYou can tap on a character to check details. \n\nYou can tap the Demote button on the top left to access the Demote (Sell) Screen.\n"
+    },
+    {
+        "id": 35,
+        "sort": 35,
+        "category": "Party Menu",
+        "title": "Equipment List",
+        "body": "A list to show all the equipment you own. \n\nYou can tap on a piece of equipment to check details. \nYou can Transfer Innocents via Details."
+    },
+    {
+        "id": 36,
+        "sort": 36,
+        "category": "Party Menu",
+        "title": "Innocent List",
+        "body": "A list to show all the Innocents you own. \n\nUnsubdued Innocents will appear as a question mark. \n\nInnocents that have been transferred to other equipment after being subdued will be locked and require HL to unlock. \n\nYou can demote Innocents and get HL by using \"Innocent Demotion\" in the warehouse."
+    },
+    {
+        "id": 37,
+        "sort": 37,
+        "category": "Battle (Dimension Gate)",
+        "title": "Basics",
+        "body": "Battle (Dimension Gate) is the entrance to all battles.\n \n You can access gameplay such as the Main Story and Netherworld History by tapping Battle (Dimension Gate)."
+    },
+    {
+        "id": 38,
+        "sort": 38,
+        "category": "Main Story",
+        "title": "Basics",
+        "body": "DISGAEA RPG's original story mode. \n\nThere are two parts to it: \nStory and Quests. \nIt costs AP to battle in Quests."
+    },
+    {
+        "id": 39,
+        "sort": 39,
+        "category": "Main Story",
+        "title": "Difficulties",
+        "body": "The Main Story has 3 difficulties: \nEASY-NORMAL-HARD.\n\nClearing EP 1 EASY unlocks \nEP 1 NORMAL. \n\nClearing EP 7 EASY unlocks \nEP 1 HARD."
+    },
+    {
+        "id": 40,
+        "sort": 40,
+        "category": "Main Story",
+        "title": "Companions",
+        "body": "One Companion unit can be selected before every battle.\n\nThe Companion can be swapped in at any time during your turn. \n\nThe Evility and Sub Evilities of the Companion are in full effect from the start of battle.\n\nThe Companions and their stats available are limited to certain characters and thresholds in certain Quests."
+    },
+    {
+        "id": 41,
+        "sort": 41,
+        "category": "Main Story",
+        "title": "Quest Missions",
+        "body": "Each Quest has 3 special Missions. \n\nYou'll get a one-time reward by completing all the missions."
+    },
+    {
+        "id": 42,
+        "sort": 42,
+        "category": "Netherworld History",
+        "title": "Basics",
+        "body": "Netherworld History allows players to enjoy the past stories of the DISGAEA series in short form.\n\nThere are two parts to it: \nStory and Quests. \nIt costs AP to battle in Quests."
+    },
+    {
+        "id": 43,
+        "sort": 43,
+        "category": "Dark Gates",
+        "title": "Basics",
+        "body": "There are 4 gates in Dark Gates: \nThe Gate of EXP, The Gate of HL, The Gate of Gems (Humanoid) and \nThe Gate of Gems (Monster).\n\nYou can challenge these gates a certain number of times each day. \nChallenge attempts are restored at the daily reset time.\n\nYou can challenge them beyond that limit with Gate Key.\n\nWhat's more, you can skip battles with DG Skip Coupons after clearing all Quest Missions."
+    },
+    {
+        "id": 44,
+        "sort": 44,
+        "category": "Item World",
+        "title": "Basics",
+        "body": "The Item World comprises special quests that exist in Equipment. \n\nEquipment will become stronger after each level of its Item World is cleared. \n\nYou can further enhance your equipment by subduing the Innocents you encounter in the Item World. \n\n<Auto Advancing>\nIn Item World battles, you can automatically \"Advance to the Next Level\" via the battle results screen if you enable the button on the top left."
+    },
+    {
+        "id": 45,
+        "sort": 45,
+        "category": "Item World",
+        "title": "Item World Levels",
+        "body": "The number of levels in the Item World vary depending on the Rarity of Equipment. \n\n<COMMON>\n30 Levels\n<RARE>\n60 Levels \n<LEGEND>\n100 Levels"
+    },
+    {
+        "id": 46,
+        "sort": 46,
+        "category": "Item World",
+        "title": "Subduing Innocents",
+        "body": "You'll encounter Innocents inhabiting the Item World. \n\nThe following options become available \nwhen you encounter an Innocent. \n<Bribe>\n<Subdue>\n\n<Bribe>\nBribing an Innocent increases its affinity.\nWith higher affinity, you're more likely to succeed when you try to subdue it.\n\n <Subdue> \nis asking an Innocent to submit.\nYou're more likely to succeed with a higher affinity. \n\nAfter successfully subduing an Innocent, its effect will be applied to the equipment.\nYou can transfer Innocents to other equipment.\n\nIf you fail to subdue an Innocent, it may take the following actions. \nEscape - Affinity UP. \nEscaped Innocents will disappear and no longer exist in the equipment. \nAs for Affinity UP, you can ask it to submit again with the \"subdue\" option."
+    },
+    {
+        "id": 47,
+        "sort": 47,
+        "category": "Item World",
+        "title": "Bosses",
+        "body": "The following Bosses will appear on certain levels of the Item World. \n\n <Item General>\nAppears every 10 Levels Increases the Lv of the Equipment by 5-6 after being defeated\n<Item King>\nAppears every 30 Levels Increases the Lv of the Equipment by 11 after being defeated\n<Item God>\nAppears every 100 Levels Increases the Lv of the Equipment by 21 after being defeated\n※ When multiple appearance conditions overlap, the stronger boss will appear.\n\nIn addition, after defeating the boss, you have a chance to get equipment 1 rank higher than your current equipment."
+    },
+    {
+        "id": 48,
+        "sort": 48,
+        "category": "Overlord's Tower",
+        "title": "Basics",
+        "body": "Available after clearing the Main Story EP 7 EASY.\n\nYour aim is to advance in the Overlord's Tower to the top level.\n\nMore levels are added periodically. \n※ All rewards are one-off rewards, only issued when clearing a level for the first time. \n\nNo Companions are allowed in the Overlord's Tower."
+    },
+    {
+        "id": 49,
+        "sort": 49,
+        "category": "Missions",
+        "title": "Daily Missions",
+        "body": "In Daily Missions, you can claim rewards once you complete the objectives every day. \n\nDaily Missions are refreshed at the daily reset time, after which you can no longer claim rewards for the previous day."
+    },
+    {
+        "id": 50,
+        "sort": 50,
+        "category": "Missions",
+        "title": "Milestones",
+        "body": "In Milestones, you can claim the reward once you complete the objective.\n\nThere are 3 Difficulties of Missions: \n<Bronze> <Silver> and <Gold>\n. The number of completions will be recorded for each difficulty."
+    },
+    {
+        "id": 51,
+        "sort": 51,
+        "category": "Shop",
+        "title": "Basics",
+        "body": "You can purchase various Items, Equipment and Nether Quartz in the Shop (RQ Shop).\n\nYou can also sell equipment, expand slots for characters and equipment, and participate in lotteries here."
+    },
+    {
+        "id": 52,
+        "sort": 52,
+        "category": "Shop",
+        "title": "Customer Rank",
+        "body": "Better equipment becomes available with higher Customer Ranks.\n\nYou can increase your Customer Rank by passing bills in the Dark Assembly. \n\nBills that increase your Customer Rank will be unlocked at certain points in the Main Story."
+    },
+    {
+        "id": 53,
+        "sort": 53,
+        "category": "Shop",
+        "title": "Purchasing Nether Quartz",
+        "body": "You can purchase Nether Quartz and Special Offer Packs."
+    },
+    {
+        "id": 54,
+        "sort": 54,
+        "category": "Shop",
+        "title": "Purchasing Items",
+        "body": "You can purchase AP Potions and \"Bribe\" Items \nwith Nether Quartz and HL."
+    },
+    {
+        "id": 55,
+        "sort": 55,
+        "category": "Shop",
+        "title": "Purchasing Equipment",
+        "body": "You can purchase equipment based on your Customer Rank. \n\nYou can refresh the current merchandise list for free 5 times a day. \nExtra refreshes cost Nether Quartz.\nFree refreshes are restored at the daily reset time. \n\nIn addition, you can refresh the list with a lower Customer Rank than your current one. \n\nThe shop will automatically refresh based on your current Customer Rank at daily reset time every day."
+    },
+    {
+        "id": 56,
+        "sort": 56,
+        "category": "Shop",
+        "title": "Selling Equipment",
+        "body": "You can sell any equipment you own. \n\nEquipped equipment will not be shown in the list of sellable items. \nYou should note that all Innocents in the equipment will disappear when you sell it."
+    },
+    {
+        "id": 57,
+        "sort": 57,
+        "category": "Shop",
+        "title": "Expanding Slots",
+        "body": "You can expand slots for your characters and equipment with Nether Quartz."
+    },
+    {
+        "id": 58,
+        "sort": 58,
+        "category": "Shop",
+        "title": "Lottery",
+        "body": "After purchasing a certain amount of equipment and items in the shop, you can get 1 Lucky Ball Lottery Ticket once a day. \n\nYou can use that ticket to participate in the Lucky Ball Lottery. \n\nYou'll win random prizes in the Lucky Ball Lottery. \nYou should note that the number of purchase to get the ticket resets the next day."
+    },
+    {
+        "id": 59,
+        "sort": 59,
+        "category": "Netherworld Hospital",
+        "title": "Basics",
+        "body": "You can claim rewards based on your injuries, as well as use the Doping Roulette to restore some \nAP."
+    },
+    {
+        "id": 60,
+        "sort": 60,
+        "category": "Netherworld Hospital",
+        "title": "Rewards",
+        "body": "<Total Damage Taken>\n<Total Members Defeated>\n<Total Party Wipeouts>\nRewards will be issued after the above conditions are met.\n\n※ Rewards for <Total Damage Taken> \nare not affected by defeats."
+    },
+    {
+        "id": 61,
+        "sort": 61,
+        "category": "Netherworld Hospital",
+        "title": "Doping Roulette",
+        "body": "It's a Roulette that restores AP. \n\nYou have to wait for a while between uses."
+    },
+    {
+        "id": 62,
+        "sort": 62,
+        "category": "Dark Assembly",
+        "title": "Basics",
+        "body": "You can pass bills in the Dark Assembly in order to improve your game experience, including increasing your Customer Rank at the RQ Shop."
+    },
+    {
+        "id": 63,
+        "sort": 63,
+        "category": "Dark Assembly",
+        "title": "Assembly Point",
+        "body": "These are the Pts needed to propose bills in the Dark Assembly. \nCosts vary depending on the bills proposed. \n\nPts reset to 100 at 00:00 each day. \nYou can also manually reset them to 100 using Nether Quartz."
+    },
+    {
+        "id": 64,
+        "sort": 64,
+        "category": "Dark Assembly",
+        "title": "The Probability of Bill",
+        "body": "The Likeliness of Passing depends on the bill itself. \nThe Likeliness for certain bills increases as the player levels up. \n\nIt's essential to \"Bribe\" the senators to get their affinity for a higher chance to pass your bill."
+    },
+    {
+        "id": 65,
+        "sort": 65,
+        "category": "Dark Assembly",
+        "title": "Bribing",
+        "body": "You can \"Bribe\" the senators to earn their affinity. \n\nWith a higher affinity, there's a better chance for the senator to support your bill, thus increasing the likeliness of your bill getting passed.\n\nIf you need to raise your affinity with multiple senators, you'll need to bribe them all."
+    },
+    {
+        "id": 66,
+        "sort": 66,
+        "category": "Dark Assembly",
+        "title": "Senators",
+        "body": "In the Dark Assembly, 8 Senators are required to vote on each bill. \n\nSenators have their ★ numbers and levels as well. \nStronger Senators have a bigger say, thus could influence the result more than others."
+    },
+    {
+        "id": 67,
+        "sort": 67,
+        "category": "Mao's Lab",
+        "title": "Basics",
+        "body": "You can enhance your characters in Mao's Lab via Reincarnation, Awakening, N.E., Mana Allocation, etc."
+    },
+    {
+        "id": 68,
+        "sort": 68,
+        "category": "N.E.",
+        "title": "Basics",
+        "body": "In \"N.E.\", you can improve your characters by learning new Skills and Sub Evilities, and by increasing character stats.\n\nYou can consume an identical character as material to Nether Enhance the one you want to improve. \nIt costs HL to N.E. characters. \n\nBy using a character that has already undergone N.E. as material, its number of N.E. will be passed on to the one you are currently Nether Enhancing. \nIn that case, the amount of HL needed for the N.E. will be increased accordingly. \n\nHowever, characters that have been Enhanced more than 10 times cannot be used as material. \n\n<Example> \nWhen using a character that has been Enhanced once as material to N.E. a character with 0 N.E., the number of N.E. will become 2. \nThe cost of HL will be that of the 2nd N.E. \n\nAn N.E. Prinny can be used as material to Enhance any character. \nAnd Prism Hide, with enough amount, will work as a universal material as well. "
+    },
+    {
+        "id": 69,
+        "sort": 69,
+        "category": "N.E.",
+        "title": "N.E. Items",
+        "body": "There can be up to 10 N.E.s for a character. \n\nYou unlock 1 new item from top to bottom \neach time you N.E."
+    },
+    {
+        "id": 70,
+        "sort": 70,
+        "category": "Awakening",
+        "title": "Basics",
+        "body": "You can improve a character by getting more ★ in character Awakening. \n\nYou can consume 5 characters \nof the same ★ as material to Awaken the one you want to improve. \nIt costs HL to Awaken characters. \n\nYou can awaken 1★ and 2★ characters in bulk by using \"Awaken All\". \nIn this case, the character you are training cannot be selected as material. \nIn addition, weapons and armor equipped by the material character will be unequipped."
+    },
+    {
+        "id": 71,
+        "sort": 71,
+        "category": "Reincarnation",
+        "title": "Basics",
+        "body": "In a Reincarnation, choose the character which you'd like to upgrade to the highest level. \nReincarnation will reset the character to level \"1\" and \n\n- cap up the character's Max Level\n- increase the character's basic stats\n- enable the character to level up faster \n- get mana from reincarnation With these, you can further enhance the character.\nIt also costs HL."
+    },
+    {
+        "id": 72,
+        "sort": 72,
+        "category": "Reincarnation",
+        "title": "Reincarnation Materials",
+        "body": "The necessary materials for the Reincarnation differ according to the target (Humanoid/Monster), and the number of reincarnation times. \n\nMaterials are mainly obtained from the Dark Gates."
+    },
+    {
+        "id": 73,
+        "sort": 73,
+        "category": "Mana Allocation",
+        "title": "Basics",
+        "body": "Mana Allocation refers to using the Mana you get from Reincarnation on \"Ability Enhancement\" and \"WM Level Cap Up\" etc to further improve the character. \n\nYou can also increase the Mana for a character by using \"Mana Potion\"."
+    },
+    {
+        "id": 74,
+        "sort": 74,
+        "category": "Mana Allocation",
+        "title": "Ability Cheat",
+        "body": "Ability Cheat refers to increasing the \"Cheat Rank\" of a character with Mana, thus enhancing character stats. \n\nEach stat can be enhanced with \"Ability Cheat\" up to 20 times."
+    },
+    {
+        "id": 75,
+        "sort": 75,
+        "category": "Mana Allocation",
+        "title": "Increasing Max Weapon Mastery Lv",
+        "body": "You can use Mana to increase Max Weapon Mastery Lv."
+    },
+    {
+        "id": 76,
+        "sort": 76,
+        "category": "Mana Allocation",
+        "title": "Resetting Mana Allocation",
+        "body": "You can reset the Mana you allocated on ability enhancement. \n\nAfter resetting, previously enhanced stats will be returned to their unimproved state. \n\nHowever, Mana invested on Max Weapon Mastery Lv cannot be reset. \n\nYou can reset Mana Allocation for free a certain number of times, after that it will cost Nether Quartz to do so again."
+    },
+    {
+        "id": 77,
+        "sort": 77,
+        "category": "Memory Shop",
+        "title": "Basics",
+        "body": "You can replay all Stories you've gone through, including Main Story and Events in the Memory Shop. \n\nYou can even watch Character EPs once certain conditions have been met."
+    },
+    {
+        "id": 78,
+        "sort": 78,
+        "category": "Memory Shop",
+        "title": "Character Episodes",
+        "body": "When certain characters reach certain levels, you can watch their unique stories. \n\nYou will get rewards after watching these stories."
+    },
+    {
+        "id": 79,
+        "sort": 79,
+        "category": "Data Shop",
+        "title": "Basics",
+        "body": "You can check various info \nin the Data Shop. \n\n <Character Illustration>\nYou can check the info of \nall characters you have.\n\n <Equipment Illustration>\nYou can check the info of \nall equipment you have.\n\n <History Record>\nYou can check the latest gameplay records, including: days played, highest damage dealt, rank and other data."
+    },
+    {
+        "id": 80,
+        "sort": 80,
+        "category": "Stronghold Customization",
+        "title": "Basics",
+        "body": "You can customize the background and BGM of your stronghold.\n\n· The BGM and Background of the stronghold \ncan be changed at will. \n\nYou can get new BGM and Backgrounds via Dark Assembly and other means. \n\nIn order for the corresponding bill to become available, you need to reach a certain point in the main story."
+    },
+    {
+        "id": 81,
+        "sort": 81,
+        "category": "Transfer",
+        "title": "Basics",
+        "body": "Tap on MENU on the top right then \"Transfer\", and you'll get the \"Transfer Code\" needed.\n\nPlease take good care of your \"Player ID\" and \"Transfer Code\". \n\nAfter downloading and installing the game on a new device, go to \"Transfer\" in MENU and input your \"Player ID\" and \"Transfer Code\", then you can continue playing on the new device. \n\nWARNING: Transferring between devices of different OS will result in your paid Nether Quartz turning into \nfree Nether Quartz of the same number."
+    },
+    {
+        "id": 82,
+        "sort": 82,
+        "category": "Clearing Cache",
+        "title": "Basics",
+        "body": "You can fix certain unexpected glitches to improve your game experience through \"Clear Cache\".\n\nAll you need to do is tap MENU at the top right, then tap \"Clear Cache\"."
+    },
+    {
+        "id": 83,
+        "sort": 83,
+        "category": "Data Repair",
+        "title": "Basics",
+        "body": "With Data Repair, you can delete generated data and keep operations running smoothly.\nYour saved game progress will not be deleted. \n\nYou can do this by tapping MENU at the top right, and then tapping \"Data Repair\"."
+    },
+    {
+        "id": 84,
+        "sort": 84,
+        "category": "Settings",
+        "title": "Basics",
+        "body": "You can tap MENU at the top right, then tap \"Settings\" to change the following settings: \nPower-saving, Volume, Notification, Friend Approval etc.\n\nThe game will consume less power when Power-saving is turned ON. \n※ The game UI will enter Power-saving mode as well.\n\nPlease note: \nif you have disabled notifications on your device, you won't receive notifications even if you enable them here in the game."
+    }
+]

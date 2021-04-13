@@ -1,0 +1,12 @@
+[
+    {
+        "type": "int",
+        "name": "max_count",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "max_use_item",
+        "offset": 44
+    }
+]

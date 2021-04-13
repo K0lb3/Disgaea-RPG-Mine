@@ -1,0 +1,17 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "survey_rank",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "need_num",
+        "offset": 28
+    }
+]

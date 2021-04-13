@@ -1,0 +1,72 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "agenda_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "agenda_rank",
+        "offset": 28
+    },
+    {
+        "type": "int",
+        "name": "point",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "base_rate",
+        "offset": 36
+    },
+    {
+        "type": "string",
+        "name": "effect_value",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "lowmaker_lv",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "release_type",
+        "offset": 52
+    },
+    {
+        "type": "int",
+        "name": "release_param",
+        "offset": 56
+    },
+    {
+        "type": "ulong",
+        "name": "appear_m_agenda_id",
+        "offset": 64
+    },
+    {
+        "type": "string",
+        "name": "title",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "sort",
+        "offset": 80
+    },
+    {
+        "type": "string",
+        "name": "open_at",
+        "offset": 88
+    },
+    {
+        "type": "string",
+        "name": "close_at",
+        "offset": 96
+    }
+]

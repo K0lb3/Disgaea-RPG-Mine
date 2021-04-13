@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "Dark Assembly",
+        "condition_type": 1,
+        "condition_value": 101510,
+        "created_at": "null_s"
+    },
+    {
+        "id": 2,
+        "name": "Item World",
+        "condition_type": 1,
+        "condition_value": 102304,
+        "created_at": "null_s"
+    },
+    {
+        "id": 3,
+        "name": "Player Skills",
+        "condition_type": 2,
+        "condition_value": 15,
+        "created_at": "null_s"
+    },
+    {
+        "id": 5,
+        "name": "Shop",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 6,
+        "name": "Overlord's Tower",
+        "condition_type": 1,
+        "condition_value": 107510,
+        "created_at": "null_s"
+    },
+    {
+        "id": 7,
+        "name": "Mao's Lab (Awaken)",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 8,
+        "name": "Mao's Lab (Reincarnate)",
+        "condition_type": 3,
+        "condition_value": 100,
+        "created_at": "null_s"
+    },
+    {
+        "id": 9,
+        "name": "Mao's Lab (Inherit)",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 10,
+        "name": "Lift/Throw",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 11,
+        "name": "Change Equipment",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 12,
+        "name": "Change Skill",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 13,
+        "name": "Evility Shop & Change Sub Evility",
+        "condition_type": 2,
+        "condition_value": 10,
+        "created_at": "null_s"
+    },
+    {
+        "id": 14,
+        "name": "Party",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 15,
+        "name": "Character Details",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 16,
+        "name": "Equipment Details",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 17,
+        "name": "Netherworld Hospital",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 18,
+        "name": "Memory Shop",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 19,
+        "name": "Missions",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 20,
+        "name": "Innocent List",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 21,
+        "name": "Summon",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 22,
+        "name": "Stronghold Customization",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 23,
+        "name": "Friend Screen",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 24,
+        "name": "Main Quest",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 25,
+        "name": "Digest",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 26,
+        "name": "Gate",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 27,
+        "name": "Data Shop",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 29,
+        "name": "Dimension Gate Sub Tutorial",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 30,
+        "name": "N.E.",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 31,
+        "name": "Unlock Continuous Battle",
+        "condition_type": 1,
+        "condition_value": 105515,
+        "created_at": "null_s"
+    },
+    {
+        "id": 32,
+        "name": "Continuous Battle Sub Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 33,
+        "name": "Continuous Battle Sub Tutorial Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 34,
+        "name": "Beginner Missions",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 35,
+        "name": "Reminiscence Event Sub Tutorial Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 101,
+        "name": "Raid Sub Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 102,
+        "name": "Raid Sub Tutorial Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 103,
+        "name": "Raid Sub Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    }
+]

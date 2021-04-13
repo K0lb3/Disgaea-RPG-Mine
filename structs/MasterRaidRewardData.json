@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_raid_reward_group_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "present_type",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "present_id",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "present_rarity",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "present_num",
+        "offset": 52
+    }
+]

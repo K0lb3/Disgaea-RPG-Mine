@@ -1,0 +1,2866 @@
+[
+    {
+        "id": 111,
+        "title": "First, the Final Boss!"
+    },
+    {
+        "id": 112,
+        "title": "A Hero Emerges!!"
+    },
+    {
+        "id": 113,
+        "title": "The Road of Evil..."
+    },
+    {
+        "id": 121,
+        "title": "The Wayward Overlord!"
+    },
+    {
+        "id": 122,
+        "title": "Overlord's Excuse"
+    },
+    {
+        "id": 123,
+        "title": "How Did the Training Go?"
+    },
+    {
+        "id": 124,
+        "title": "Transformed Overlord!!"
+    },
+    {
+        "id": 131,
+        "title": "Laharl's Feminine Side"
+    },
+    {
+        "id": 132,
+        "title": "I Want Desserts"
+    },
+    {
+        "id": 133,
+        "title": "Legendary Chef"
+    },
+    {
+        "id": 134,
+        "title": "The BEST Dessert"
+    },
+    {
+        "id": 141,
+        "title": "Food Coma"
+    },
+    {
+        "id": 142,
+        "title": "The Ultimate Bribe"
+    },
+    {
+        "id": 143,
+        "title": "The End of the Dark Hero"
+    },
+    {
+        "id": 151,
+        "title": "Dark Assembly in Session"
+    },
+    {
+        "id": 152,
+        "title": "The Speaker's Wish"
+    },
+    {
+        "id": 153,
+        "title": "Storming the Assembly"
+    },
+    {
+        "id": 154,
+        "title": "That's a Wrap!"
+    },
+    {
+        "id": 211,
+        "title": "Enter the Evil Academy!"
+    },
+    {
+        "id": 212,
+        "title": "The Inverse Academy"
+    },
+    {
+        "id": 213,
+        "title": "Villains and Rivals"
+    },
+    {
+        "id": 214,
+        "title": "Fists Do the Talking"
+    },
+    {
+        "id": 215,
+        "title": "Let's Be Friends!"
+    },
+    {
+        "id": 221,
+        "title": "Nether Patrol, Go!"
+    },
+    {
+        "id": 222,
+        "title": "Iron Fist of Love"
+    },
+    {
+        "id": 223,
+        "title": "Arise, Super Alloy Robot"
+    },
+    {
+        "id": 224,
+        "title": "Forging a Friendship"
+    },
+    {
+        "id": 231,
+        "title": "Heart of Righteousness"
+    },
+    {
+        "id": 232,
+        "title": "Let's Take out the Trash!"
+    },
+    {
+        "id": 233,
+        "title": "With the Elixir"
+    },
+    {
+        "id": 234,
+        "title": "Going into Overdrive!"
+    },
+    {
+        "id": 235,
+        "title": "Cleaning Finished"
+    },
+    {
+        "id": 241,
+        "title": "Money is Power!"
+    },
+    {
+        "id": 242,
+        "title": "Fund-raising in…"
+    },
+    {
+        "id": 243,
+        "title": "Honor Student Highway"
+    },
+    {
+        "id": 244,
+        "title": "For the Last Class"
+    },
+    {
+        "id": 251,
+        "title": "The Last Class"
+    },
+    {
+        "id": 252,
+        "title": "The Academy in Shadow"
+    },
+    {
+        "id": 253,
+        "title": "Looming Evil"
+    },
+    {
+        "id": 254,
+        "title": "The Final Weapon"
+    },
+    {
+        "id": 311,
+        "title": "Love is Power"
+    },
+    {
+        "id": 312,
+        "title": "Why Did He Leave?"
+    },
+    {
+        "id": 313,
+        "title": "Just Can't Be Honest"
+    },
+    {
+        "id": 314,
+        "title": "Love Revolution Starts Here"
+    },
+    {
+        "id": 321,
+        "title": "Fuka and Desco's Training"
+    },
+    {
+        "id": 322,
+        "title": "Love Can be a Weapon?"
+    },
+    {
+        "id": 323,
+        "title": "The Meaning of Training"
+    },
+    {
+        "id": 324,
+        "title": "Now THAT’S Dedication"
+    },
+    {
+        "id": 331,
+        "title": "Don't You Dare Give Up"
+    },
+    {
+        "id": 332,
+        "title": "Love's Gonna Be the Death"
+    },
+    {
+        "id": 333,
+        "title": "A Girl in Love Would"
+    },
+    {
+        "id": 334,
+        "title": "Beyond the Poison"
+    },
+    {
+        "id": 341,
+        "title": "Get Ready to Burn"
+    },
+    {
+        "id": 342,
+        "title": "True Boyfriend Material?"
+    },
+    {
+        "id": 343,
+        "title": "A Challenge Looms..."
+    },
+    {
+        "id": 344,
+        "title": "The Wheels of Love"
+    },
+    {
+        "id": 351,
+        "title": "The Snow Clan’s Bloodline"
+    },
+    {
+        "id": 352,
+        "title": "Adell's in Trouble"
+    },
+    {
+        "id": 353,
+        "title": "The Girls Speculate"
+    },
+    {
+        "id": 354,
+        "title": "To Break the Curse"
+    },
+    {
+        "id": 355,
+        "title": "A Fateful Gift"
+    },
+    {
+        "id": 411,
+        "title": "An Overlord Awakens"
+    },
+    {
+        "id": 412,
+        "title": "A Resounding Malice"
+    },
+    {
+        "id": 413,
+        "title": "Adell's Determination"
+    },
+    {
+        "id": 414,
+        "title": "Resisting Rozalin"
+    },
+    {
+        "id": 421,
+        "title": "Clues to the Culprit"
+    },
+    {
+        "id": 422,
+        "title": "A Gift of Crystal"
+    },
+    {
+        "id": 423,
+        "title": "An Old Friend Reappears"
+    },
+    {
+        "id": 424,
+        "title": "Now, to the Culprit"
+    },
+    {
+        "id": 431,
+        "title": "The Ultimate Weapon?"
+    },
+    {
+        "id": 432,
+        "title": "A Suspicious Figure"
+    },
+    {
+        "id": 433,
+        "title": "The Connection"
+    },
+    {
+        "id": 434,
+        "title": "The Moustachioed Angel"
+    },
+    {
+        "id": 441,
+        "title": "Vulcanus's Speculation"
+    },
+    {
+        "id": 442,
+        "title": "Upheaval Up in Heaven"
+    },
+    {
+        "id": 443,
+        "title": "Vulcanus's Legion"
+    },
+    {
+        "id": 444,
+        "title": "The Best Helper?"
+    },
+    {
+        "id": 445,
+        "title": "The Overlord of Overlords"
+    },
+    {
+        "id": 451,
+        "title": "I Heard a Voice!"
+    },
+    {
+        "id": 452,
+        "title": "Burning with Love"
+    },
+    {
+        "id": 453,
+        "title": "The Confession"
+    },
+    {
+        "id": 454,
+        "title": "Crying Out \"Love\"!"
+    },
+    {
+        "id": 511,
+        "title": "A Mystery Thriller"
+    },
+    {
+        "id": 512,
+        "title": "Battlefield Deduction"
+    },
+    {
+        "id": 513,
+        "title": "Clue to the Solution"
+    },
+    {
+        "id": 514,
+        "title": "Problem Solved?"
+    },
+    {
+        "id": 521,
+        "title": "The Second Victim"
+    },
+    {
+        "id": 522,
+        "title": "A Prinny Instructor"
+    },
+    {
+        "id": 523,
+        "title": "Nothing Beats a Sardine"
+    },
+    {
+        "id": 524,
+        "title": "Endless Love of Sardines"
+    },
+    {
+        "id": 525,
+        "title": "A Wayward Detective's Plan"
+    },
+    {
+        "id": 531,
+        "title": "Going Round in Circles"
+    },
+    {
+        "id": 532,
+        "title": "More Sardine Love"
+    },
+    {
+        "id": 533,
+        "title": "Howling at the Red Moon"
+    },
+    {
+        "id": 534,
+        "title": "A Mini Assistant"
+    },
+    {
+        "id": 541,
+        "title": "We Go Way Back"
+    },
+    {
+        "id": 542,
+        "title": "A Reaper's Duty"
+    },
+    {
+        "id": 543,
+        "title": "Once a Lady, Always a Lady"
+    },
+    {
+        "id": 544,
+        "title": "Even Demons Cry"
+    },
+    {
+        "id": 551,
+        "title": "Who Judges the Sinners"
+    },
+    {
+        "id": 552,
+        "title": "The Criminal is You!"
+    },
+    {
+        "id": 553,
+        "title": "The Hero's Trump Card?"
+    },
+    {
+        "id": 554,
+        "title": "The Hero's Trump Card!"
+    },
+    {
+        "id": 555,
+        "title": "Light of Miracle"
+    },
+    {
+        "id": 556,
+        "title": "One Truth"
+    },
+    {
+        "id": 611,
+        "title": "The Finial Trial Begins"
+    },
+    {
+        "id": 612,
+        "title": "The Five Original Overlords"
+    },
+    {
+        "id": 613,
+        "title": "The Violent Past"
+    },
+    {
+        "id": 614,
+        "title": "The Secret of Youth?"
+    },
+    {
+        "id": 615,
+        "title": "The Overlords' Slumber"
+    },
+    {
+        "id": 621,
+        "title": "Overlord of S. Flame"
+    },
+    {
+        "id": 622,
+        "title": "Can't Get Up..."
+    },
+    {
+        "id": 623,
+        "title": "A Nasty Wake-Up Call"
+    },
+    {
+        "id": 624,
+        "title": "Got Your Back"
+    },
+    {
+        "id": 631,
+        "title": "\"That Guy\""
+    },
+    {
+        "id": 632,
+        "title": "Name of the Final Boss"
+    },
+    {
+        "id": 633,
+        "title": "Gotta Be Prepared"
+    },
+    {
+        "id": 634,
+        "title": "A Real Pain in the Ass"
+    },
+    {
+        "id": 635,
+        "title": "I Will Have Revenge"
+    },
+    {
+        "id": 641,
+        "title": "Three Overlords to Go"
+    },
+    {
+        "id": 642,
+        "title": "The Earnest Demon"
+    },
+    {
+        "id": 643,
+        "title": "The Good Guy Loses"
+    },
+    {
+        "id": 644,
+        "title": "Expressing My Gratitude"
+    },
+    {
+        "id": 651,
+        "title": "History of Baal"
+    },
+    {
+        "id": 652,
+        "title": "Long, Long Ago"
+    },
+    {
+        "id": 653,
+        "title": "Immortal Darkness"
+    },
+    {
+        "id": 654,
+        "title": "Ready to Kill"
+    },
+    {
+        "id": 711,
+        "title": "Ultimate Demon Techniques"
+    },
+    {
+        "id": 712,
+        "title": "The Search is Going Well"
+    },
+    {
+        "id": 713,
+        "title": "Sexy --- Beaaaaam!"
+    },
+    {
+        "id": 714,
+        "title": "An Unconventional Style"
+    },
+    {
+        "id": 721,
+        "title": "See Ya Soon"
+    },
+    {
+        "id": 722,
+        "title": "The Search Resumed"
+    },
+    {
+        "id": 723,
+        "title": "No Mercy"
+    },
+    {
+        "id": 724,
+        "title": "Broken Faith Magia"
+    },
+    {
+        "id": 731,
+        "title": "Overload - Magia"
+    },
+    {
+        "id": 732,
+        "title": "The Original Overlords"
+    },
+    {
+        "id": 733,
+        "title": "A Brief Rest"
+    },
+    {
+        "id": 734,
+        "title": "Two Unforgettable Gifts"
+    },
+    {
+        "id": 735,
+        "title": "The Mysterious Organization"
+    },
+    {
+        "id": 741,
+        "title": "The Dreamy Sun"
+    },
+    {
+        "id": 742,
+        "title": "Waves of Attack"
+    },
+    {
+        "id": 743,
+        "title": "The Strongest, Assemble!!"
+    },
+    {
+        "id": 744,
+        "title": "War Declared"
+    },
+    {
+        "id": 751,
+        "title": "The First Shot"
+    },
+    {
+        "id": 752,
+        "title": "Assigning Roles"
+    },
+    {
+        "id": 753,
+        "title": "There Got to Be a Leader!"
+    },
+    {
+        "id": 754,
+        "title": "Now the Real Thing Begins"
+    },
+    {
+        "id": 811,
+        "title": "The Final War - Prelude"
+    },
+    {
+        "id": 812,
+        "title": "The Trial Continues"
+    },
+    {
+        "id": 813,
+        "title": "Angel Among Angels"
+    },
+    {
+        "id": 814,
+        "title": "Nether Angel"
+    },
+    {
+        "id": 815,
+        "title": "The Trial is Far from Over"
+    },
+    {
+        "id": 821,
+        "title": "The Real Battle?"
+    },
+    {
+        "id": 822,
+        "title": "All-Flonne's Challenge"
+    },
+    {
+        "id": 823,
+        "title": "Storm Battered Celestia"
+    },
+    {
+        "id": 824,
+        "title": "In the Name of JUSTICE"
+    },
+    {
+        "id": 825,
+        "title": "Flonne’s Ultimate Form"
+    },
+    {
+        "id": 831,
+        "title": "Infinite Power of Love"
+    },
+    {
+        "id": 832,
+        "title": "Desperate Assault"
+    },
+    {
+        "id": 833,
+        "title": "Passing on the Torch"
+    },
+    {
+        "id": 834,
+        "title": "More Practice Needed"
+    },
+    {
+        "id": 841,
+        "title": "Are You Serious, Etna?"
+    },
+    {
+        "id": 842,
+        "title": "Serious Mode"
+    },
+    {
+        "id": 843,
+        "title": "New Assassin?"
+    },
+    {
+        "id": 844,
+        "title": "The Price of a Trial"
+    },
+    {
+        "id": 851,
+        "title": "Stolen Lights"
+    },
+    {
+        "id": 852,
+        "title": "Lost Lights"
+    },
+    {
+        "id": 853,
+        "title": "No Time to Grieve"
+    },
+    {
+        "id": 854,
+        "title": "The Resurrected Trainer"
+    },
+    {
+        "id": 911,
+        "title": "The Final War - Exposition"
+    },
+    {
+        "id": 912,
+        "title": "Plan for the Red Moon"
+    },
+    {
+        "id": 913,
+        "title": "The Prinny's Disappearance"
+    },
+    {
+        "id": 914,
+        "title": "Prinny's Soul at Stake"
+    },
+    {
+        "id": 921,
+        "title": "The Instructor's Grit, Again"
+    },
+    {
+        "id": 922,
+        "title": "Freed from Brainwashing"
+    },
+    {
+        "id": 923,
+        "title": "Tenacious Prinny "
+    },
+    {
+        "id": 924,
+        "title": "Sardine Toast"
+    },
+    {
+        "id": 931,
+        "title": "Super Hero Aurum's Plan"
+    },
+    {
+        "id": 932,
+        "title": "The Tragedy of the Prinny Bomb"
+    },
+    {
+        "id": 933,
+        "title": "A World Crisis"
+    },
+    {
+        "id": 934,
+        "title": "Saving Prinnies"
+    },
+    {
+        "id": 941,
+        "title": "Tyrant Overlord, Destroyer of Worlds"
+    },
+    {
+        "id": 942,
+        "title": "A Father's Vengeance"
+    },
+    {
+        "id": 943,
+        "title": "Destruction or Salvation"
+    },
+    {
+        "id": 944,
+        "title": "Super Huge! Prinny Bomb"
+    },
+    {
+        "id": 951,
+        "title": "Can it be Stopped?"
+    },
+    {
+        "id": 952,
+        "title": "Laharl's Trial and Error"
+    },
+    {
+        "id": 953,
+        "title": "Kamikaze ①"
+    },
+    {
+        "id": 954,
+        "title": "Kamikaze ②"
+    },
+    {
+        "id": 955,
+        "title": "The Hero is Late..."
+    },
+    {
+        "id": 956,
+        "title": "A True Hero"
+    },
+    {
+        "id": 957,
+        "title": "Arriving at the Last Dungeon"
+    },
+    {
+        "id": 1011,
+        "title": "The Final War - Rapid Finale"
+    },
+    {
+        "id": 1012,
+        "title": "Memories with Etna"
+    },
+    {
+        "id": 1013,
+        "title": "Memories with Flonne"
+    },
+    {
+        "id": 1014,
+        "title": "Mysterious Dark Hero"
+    },
+    {
+        "id": 1021,
+        "title": "Friend or Foe?"
+    },
+    {
+        "id": 1022,
+        "title": "Good News for the Rival"
+    },
+    {
+        "id": 1023,
+        "title": "The Secret Potion, Limited Edition"
+    },
+    {
+        "id": 1024,
+        "title": "The Ultimate Choice"
+    },
+    {
+        "id": 1025,
+        "title": "Before Answering"
+    },
+    {
+        "id": 1031,
+        "title": "The Partner's Return"
+    },
+    {
+        "id": 1032,
+        "title": "Get Me Desserts, Now"
+    },
+    {
+        "id": 1033,
+        "title": "Axel's Feat"
+    },
+    {
+        "id": 1034,
+        "title": "Insurmountable Doubts"
+    },
+    {
+        "id": 1041,
+        "title": "The Power of Dark Energy"
+    },
+    {
+        "id": 1042,
+        "title": "The Power of Sardines?"
+    },
+    {
+        "id": 1043,
+        "title": "Black Rose Gone?"
+    },
+    {
+        "id": 1044,
+        "title": "Laharl Grows Up"
+    },
+    {
+        "id": 1045,
+        "title": "Bursting into Tears"
+    },
+    {
+        "id": 1051,
+        "title": "The True Final Boss"
+    },
+    {
+        "id": 1052,
+        "title": "Flag of Death?"
+    },
+    {
+        "id": 1053,
+        "title": "The Best Tailwind"
+    },
+    {
+        "id": 1054,
+        "title": "TRANSFORMATION"
+    },
+    {
+        "id": 1055,
+        "title": "Final Credits"
+    },
+    {
+        "id": 100211,
+        "title": "The Cursed Majin's True Self"
+    },
+    {
+        "id": 100212,
+        "title": "The Sudden Trial of Majin"
+    },
+    {
+        "id": 100213,
+        "title": "A Coveted Title?"
+    },
+    {
+        "id": 100411,
+        "title": "Who Has the Love of Angel?"
+    },
+    {
+        "id": 100412,
+        "title": "Proof of Love!?"
+    },
+    {
+        "id": 100413,
+        "title": "Together on the Slope of Love!"
+    },
+    {
+        "id": 101711,
+        "title": "The Visitor"
+    },
+    {
+        "id": 101712,
+        "title": "Netherworld of Alternate Dimension"
+    },
+    {
+        "id": 102711,
+        "title": "Who's the Prey of Living Armor!?"
+    },
+    {
+        "id": 102712,
+        "title": "Prove It to Me"
+    },
+    {
+        "id": 102713,
+        "title": "Those Who Talk With Their Fists"
+    },
+    {
+        "id": 103411,
+        "title": "Find the Missing Saintess"
+    },
+    {
+        "id": 103412,
+        "title": "Love and Kindness"
+    },
+    {
+        "id": 103413,
+        "title": "Smile of the Saintess"
+    },
+    {
+        "id": 200111,
+        "title": "Defender of Earth"
+    },
+    {
+        "id": 200112,
+        "title": "Something Wrong?"
+    },
+    {
+        "id": 200113,
+        "title": "Princess Under Attack"
+    },
+    {
+        "id": 200114,
+        "title": "Hades Assault!"
+    },
+    {
+        "id": 200115,
+        "title": "The Name of the Princess is?"
+    },
+    {
+        "id": 200121,
+        "title": "The Hero's Whereabouts"
+    },
+    {
+        "id": 200122,
+        "title": "Reason for Visiting"
+    },
+    {
+        "id": 200123,
+        "title": "Can't Wait to Find"
+    },
+    {
+        "id": 200124,
+        "title": "Almaz's Character"
+    },
+    {
+        "id": 200125,
+        "title": "Demon Standing in the Way"
+    },
+    {
+        "id": 200131,
+        "title": "End of the Road"
+    },
+    {
+        "id": 200132,
+        "title": "That Kind of Stuff"
+    },
+    {
+        "id": 200133,
+        "title": "The True Boss"
+    },
+    {
+        "id": 200141,
+        "title": "Power of the Title"
+    },
+    {
+        "id": 200142,
+        "title": "Almaz the Overlord!?"
+    },
+    {
+        "id": 200143,
+        "title": "Power of the Overlord"
+    },
+    {
+        "id": 200151,
+        "title": "Temporary Retreat"
+    },
+    {
+        "id": 200152,
+        "title": "Just Small Fry"
+    },
+    {
+        "id": 200153,
+        "title": "Prinny Turbo!"
+    },
+    {
+        "id": 200154,
+        "title": "Bad Situation"
+    },
+    {
+        "id": 200211,
+        "title": "Almaz's Situation"
+    },
+    {
+        "id": 200212,
+        "title": "Sapphire's Determination"
+    },
+    {
+        "id": 200213,
+        "title": "Title of Demon"
+    },
+    {
+        "id": 200214,
+        "title": "He Who's Called The Hero"
+    },
+    {
+        "id": 200215,
+        "title": "Witness Information"
+    },
+    {
+        "id": 200221,
+        "title": "Time to Pay"
+    },
+    {
+        "id": 200222,
+        "title": "Way to Get Him Back to Sanity"
+    },
+    {
+        "id": 200223,
+        "title": "First, Go to the Hero"
+    },
+    {
+        "id": 200224,
+        "title": "The First Defender of Earth"
+    },
+    {
+        "id": 200231,
+        "title": "To Save the World"
+    },
+    {
+        "id": 200232,
+        "title": "Trials of Don Joaquin"
+    },
+    {
+        "id": 200233,
+        "title": "The Determination"
+    },
+    {
+        "id": 200234,
+        "title": "As Promised"
+    },
+    {
+        "id": 200241,
+        "title": "Without Hesitation"
+    },
+    {
+        "id": 200242,
+        "title": "Heart of Hero"
+    },
+    {
+        "id": 200243,
+        "title": "Title Retrieved"
+    },
+    {
+        "id": 200251,
+        "title": "Birth of Prinny Overlord"
+    },
+    {
+        "id": 200252,
+        "title": "Dream Team!"
+    },
+    {
+        "id": 901011,
+        "title": "The Son of the Overlord"
+    },
+    {
+        "id": 901012,
+        "title": "The Overlord is a Child"
+    },
+    {
+        "id": 901013,
+        "title": "Up-and-Coming Demon"
+    },
+    {
+        "id": 901014,
+        "title": "Punchbag"
+    },
+    {
+        "id": 901015,
+        "title": "Back to the Castle"
+    },
+    {
+        "id": 901016,
+        "title": "Bad End 1"
+    },
+    {
+        "id": 901021,
+        "title": "Seraph's Messenger"
+    },
+    {
+        "id": 901022,
+        "title": "Assassination Failed?"
+    },
+    {
+        "id": 901023,
+        "title": "No Matter What It is"
+    },
+    {
+        "id": 901024,
+        "title": "The Most Persistent"
+    },
+    {
+        "id": 901025,
+        "title": "The Meaning of Love"
+    },
+    {
+        "id": 901031,
+        "title": "Prinny's Redemption"
+    },
+    {
+        "id": 901032,
+        "title": "The Father of Overlord"
+    },
+    {
+        "id": 901033,
+        "title": "Power is Everything"
+    },
+    {
+        "id": 901034,
+        "title": "Hoggmeiser's Son?"
+    },
+    {
+        "id": 901035,
+        "title": "Father and Son"
+    },
+    {
+        "id": 901036,
+        "title": "A Hint of Kindness"
+    },
+    {
+        "id": 901041,
+        "title": "Flonne's Challenge"
+    },
+    {
+        "id": 901042,
+        "title": "A Different Color Prinny?"
+    },
+    {
+        "id": 901043,
+        "title": "Respected Person"
+    },
+    {
+        "id": 901044,
+        "title": "The Pendant"
+    },
+    {
+        "id": 901045,
+        "title": "A Warm Feeling"
+    },
+    {
+        "id": 901051,
+        "title": "A Challenge to Laharl"
+    },
+    {
+        "id": 901052,
+        "title": "Laharl's Weakness"
+    },
+    {
+        "id": 901053,
+        "title": "In the Middle of Puberty?"
+    },
+    {
+        "id": 901054,
+        "title": "Unexpected Helper"
+    },
+    {
+        "id": 901055,
+        "title": "Stolen Memories"
+    },
+    {
+        "id": 901056,
+        "title": "Bad End 2"
+    },
+    {
+        "id": 901061,
+        "title": "The Genuine Overlord"
+    },
+    {
+        "id": 901062,
+        "title": "Overlord Emerges"
+    },
+    {
+        "id": 901063,
+        "title": "Did Someone Call?"
+    },
+    {
+        "id": 901064,
+        "title": "Red's Rival"
+    },
+    {
+        "id": 901065,
+        "title": "News of Accession"
+    },
+    {
+        "id": 901071,
+        "title": "Overlord's First Job"
+    },
+    {
+        "id": 901072,
+        "title": "Etna's Past"
+    },
+    {
+        "id": 901073,
+        "title": "The Overlord's Kindness"
+    },
+    {
+        "id": 901074,
+        "title": "Aramis' Masterpiece"
+    },
+    {
+        "id": 901075,
+        "title": "The Changing Mind"
+    },
+    {
+        "id": 901081,
+        "title": "Prinny's Disappearance"
+    },
+    {
+        "id": 901082,
+        "title": "Not Loving Enough?"
+    },
+    {
+        "id": 901083,
+        "title": "The Overlord's Mother"
+    },
+    {
+        "id": 901084,
+        "title": "Behind the Hatred"
+    },
+    {
+        "id": 901085,
+        "title": "Soul-Purifying Red Moon"
+    },
+    {
+        "id": 901086,
+        "title": "A Mother's Love"
+    },
+    {
+        "id": 901091,
+        "title": "Intruders From the Outside?"
+    },
+    {
+        "id": 901092,
+        "title": "Crying Stars"
+    },
+    {
+        "id": 901093,
+        "title": "Defender of Earth"
+    },
+    {
+        "id": 901094,
+        "title": "Gordon the Defender"
+    },
+    {
+        "id": 901095,
+        "title": "Eyes That Witness Beauty"
+    },
+    {
+        "id": 901096,
+        "title": "A Defender and an Overlord"
+    },
+    {
+        "id": 901097,
+        "title": "The Seraph's Punishment"
+    },
+    {
+        "id": 901101,
+        "title": "An Enslaved Hero"
+    },
+    {
+        "id": 901102,
+        "title": "The True Hero"
+    },
+    {
+        "id": 901103,
+        "title": "Don't Call Me Old!!"
+    },
+    {
+        "id": 901104,
+        "title": "A Stolen Homemade Lunch"
+    },
+    {
+        "id": 901105,
+        "title": "Jennifer's Secret"
+    },
+    {
+        "id": 901106,
+        "title": "Punish the Lunch Thief"
+    },
+    {
+        "id": 901107,
+        "title": "A Brief Peace"
+    },
+    {
+        "id": 901111,
+        "title": "A Defender Rises?"
+    },
+    {
+        "id": 901112,
+        "title": "Another Defender"
+    },
+    {
+        "id": 901113,
+        "title": "I Am the First Defender!"
+    },
+    {
+        "id": 901114,
+        "title": "The Pathetic Defender"
+    },
+    {
+        "id": 901115,
+        "title": "Robots Have Feelings too"
+    },
+    {
+        "id": 901116,
+        "title": "Mission Complete"
+    },
+    {
+        "id": 901117,
+        "title": "To Each Their Own"
+    },
+    {
+        "id": 901121,
+        "title": "Earth Defense Force"
+    },
+    {
+        "id": 901122,
+        "title": "The Defenders, Hated?"
+    },
+    {
+        "id": 901123,
+        "title": "The Invasion Starts"
+    },
+    {
+        "id": 901124,
+        "title": "Rival of the Defenders"
+    },
+    {
+        "id": 901125,
+        "title": "The Flames of Justice"
+    },
+    {
+        "id": 901126,
+        "title": "The Dark Shadow"
+    },
+    {
+        "id": 901127,
+        "title": "Defender and Overlord II"
+    },
+    {
+        "id": 901128,
+        "title": "The Start of the Nether War"
+    },
+    {
+        "id": 901131,
+        "title": "The Human Heart"
+    },
+    {
+        "id": 901132,
+        "title": "All-out Assault, Go!"
+    },
+    {
+        "id": 901133,
+        "title": "Iron Will"
+    },
+    {
+        "id": 901134,
+        "title": "SOS in the Ship"
+    },
+    {
+        "id": 901135,
+        "title": "Follow the SOS"
+    },
+    {
+        "id": 901136,
+        "title": "The EDF's Plan"
+    },
+    {
+        "id": 901137,
+        "title": "Who Are Fighting For"
+    },
+    {
+        "id": 901138,
+        "title": "Form of Redemption"
+    },
+    {
+        "id": 901139,
+        "title": "Despicable Puppets"
+    },
+    {
+        "id": 901141,
+        "title": "Celestia Trembles"
+    },
+    {
+        "id": 901142,
+        "title": "The Trinity Theory"
+    },
+    {
+        "id": 901143,
+        "title": "Advancing Apprentice Angel"
+    },
+    {
+        "id": 901144,
+        "title": "The Will of a Rebel"
+    },
+    {
+        "id": 901145,
+        "title": "The Seraph's Trial"
+    },
+    {
+        "id": 901146,
+        "title": "Archangel with a Villain Face"
+    },
+    {
+        "id": 901147,
+        "title": "Unyielding Love"
+    },
+    {
+        "id": 901148,
+        "title": "Angel or Demon"
+    },
+    {
+        "id": 901149,
+        "title": "The Burning Friendship"
+    },
+    {
+        "id": 906011,
+        "title": "Meeting in the Battlefield"
+    },
+    {
+        "id": 906012,
+        "title": "Seraphina's Invitation"
+    },
+    {
+        "id": 906013,
+        "title": "Balor Gaze"
+    },
+    {
+        "id": 906014,
+        "title": "Retaliating Bandits"
+    },
+    {
+        "id": 906015,
+        "title": "Overlord Logan"
+    },
+    {
+        "id": 906016,
+        "title": "Declaration of Marriage"
+    },
+    {
+        "id": 906017,
+        "title": "Encountering Lost Soldiers"
+    },
+    {
+        "id": 906018,
+        "title": "Rumors of Red Magnus"
+    },
+    {
+        "id": 906019,
+        "title": "Meeting Red Magnus"
+    },
+    {
+        "id": 906021,
+        "title": "Avenger Killia"
+    },
+    {
+        "id": 906022,
+        "title": "Demon Emperor Void Dark"
+    },
+    {
+        "id": 906023,
+        "title": "To Spirit Interment"
+    },
+    {
+        "id": 906024,
+        "title": "Rebel and Observer"
+    },
+    {
+        "id": 906025,
+        "title": "The Observer's Situation"
+    },
+    {
+        "id": 906026,
+        "title": "Meeting Christo"
+    },
+    {
+        "id": 906027,
+        "title": "Assembled Overlords"
+    },
+    {
+        "id": 906028,
+        "title": "Everyone’s Situation"
+    },
+    {
+        "id": 906029,
+        "title": "Killia's Situation"
+    },
+    {
+        "id": 906031,
+        "title": "The Awkward Four"
+    },
+    {
+        "id": 906032,
+        "title": "The Separated Four"
+    },
+    {
+        "id": 906033,
+        "title": "Zeroken Appears Again"
+    },
+    {
+        "id": 906034,
+        "title": "The Two with the Same Skill"
+    },
+    {
+        "id": 906035,
+        "title": "Hedler the Poisondise Overlord"
+    },
+    {
+        "id": 906036,
+        "title": "Those Who Inherit the Will"
+    },
+    {
+        "id": 906041,
+        "title": "Goldion, the Great Demon Fist"
+    },
+    {
+        "id": 906042,
+        "title": "Beloved Curry, Stolen"
+    },
+    {
+        "id": 906043,
+        "title": "Struggle for the Curry"
+    },
+    {
+        "id": 906044,
+        "title": "The Extra Yellow Prinny"
+    },
+    {
+        "id": 906045,
+        "title": "The Yellow Prinny Escapes"
+    },
+    {
+        "id": 906046,
+        "title": "A Super Stingy Reason"
+    },
+    {
+        "id": 906047,
+        "title": "Gorgeous' Financial Situation"
+    },
+    {
+        "id": 906048,
+        "title": "Beloved Curry, Dead!"
+    },
+    {
+        "id": 906049,
+        "title": "Saving the Master"
+    },
+    {
+        "id": 906051,
+        "title": "Usalia’s Situation"
+    },
+    {
+        "id": 906052,
+        "title": "Those Who Fight the Lost"
+    },
+    {
+        "id": 906053,
+        "title": "The Reason We Fight"
+    },
+    {
+        "id": 906054,
+        "title": "The Original Power"
+    },
+    {
+        "id": 906055,
+        "title": "Vendetta of Parents"
+    },
+    {
+        "id": 906056,
+        "title": "Majorita's Tricks"
+    },
+    {
+        "id": 906057,
+        "title": "Love of Demons"
+    },
+    {
+        "id": 906058,
+        "title": "What You Refused to See"
+    },
+    {
+        "id": 906059,
+        "title": "Destruction of S. Flame"
+    },
+    {
+        "id": 906061,
+        "title": "Love and Secret Weapon"
+    },
+    {
+        "id": 906062,
+        "title": "Invading Dragon Fang"
+    },
+    {
+        "id": 906063,
+        "title": "Joining with Zeroken"
+    },
+    {
+        "id": 906064,
+        "title": "Flaunting Zeroken"
+    },
+    {
+        "id": 906065,
+        "title": "Relationship with Goldion"
+    },
+    {
+        "id": 906066,
+        "title": "Means of Persuasion"
+    },
+    {
+        "id": 906067,
+        "title": "Successor of Ultimate Demon Techniques"
+    },
+    {
+        "id": 906068,
+        "title": "Proof of Successor"
+    },
+    {
+        "id": 906069,
+        "title": "Successor in Doubt"
+    },
+    {
+        "id": 906071,
+        "title": "The Two Successors"
+    },
+    {
+        "id": 906072,
+        "title": "Chasing Bloodis"
+    },
+    {
+        "id": 906073,
+        "title": "The Chance to De-Brainwash"
+    },
+    {
+        "id": 906074,
+        "title": "What is the Strongest Overlord?"
+    },
+    {
+        "id": 906075,
+        "title": "Killia's Secret"
+    },
+    {
+        "id": 906076,
+        "title": "Past Struggles"
+    },
+    {
+        "id": 906077,
+        "title": "Seraphina's Phonecall"
+    },
+    {
+        "id": 906078,
+        "title": "Christo's Phonecall"
+    },
+    {
+        "id": 906079,
+        "title": "Ultimate Demon Techniques, Final Skill"
+    },
+    {
+        "id": 906081,
+        "title": "Zeroken's Confession"
+    },
+    {
+        "id": 906082,
+        "title": "Lieze's Flower"
+    },
+    {
+        "id": 906083,
+        "title": "Farewell to Cowardice"
+    },
+    {
+        "id": 906084,
+        "title": "For Goldion"
+    },
+    {
+        "id": 906085,
+        "title": "The Pure Heart"
+    },
+    {
+        "id": 906086,
+        "title": "A One-Sided Stomping"
+    },
+    {
+        "id": 906087,
+        "title": "To Become a Strong Man"
+    },
+    {
+        "id": 906088,
+        "title": "Battle of Salvation"
+    },
+    {
+        "id": 906089,
+        "title": "The Last Chance"
+    },
+    {
+        "id": 906091,
+        "title": "The Strongest Overlord's Past"
+    },
+    {
+        "id": 906092,
+        "title": "Incoming Magical Spear"
+    },
+    {
+        "id": 906093,
+        "title": "Meeting with Panchos Again"
+    },
+    {
+        "id": 906094,
+        "title": "Battle Against Former Allies"
+    },
+    {
+        "id": 906095,
+        "title": "A Reason to Defect"
+    },
+    {
+        "id": 906096,
+        "title": "Meddling Killia"
+    },
+    {
+        "id": 906097,
+        "title": "Feeling Trampled"
+    },
+    {
+        "id": 906098,
+        "title": "A Fateful Revenge"
+    },
+    {
+        "id": 906099,
+        "title": "Meddling Demons"
+    },
+    {
+        "id": 906101,
+        "title": "An Excuse for Revenge"
+    },
+    {
+        "id": 906102,
+        "title": "Majorita the Spear Guardian"
+    },
+    {
+        "id": 906103,
+        "title": "Furious Usalia"
+    },
+    {
+        "id": 906104,
+        "title": "Killia's Stockpot Curry"
+    },
+    {
+        "id": 906105,
+        "title": "Curse of the Carrot"
+    },
+    {
+        "id": 906106,
+        "title": "Hope of the Parents"
+    },
+    {
+        "id": 906107,
+        "title": "Special Sweet Curry"
+    },
+    {
+        "id": 906108,
+        "title": "The Anti-Netherworld Annihilation Weapon"
+    },
+    {
+        "id": 906109,
+        "title": "The Corpses in Toto Bunny"
+    },
+    {
+        "id": 906111,
+        "title": "Suspicious Angel Magic"
+    },
+    {
+        "id": 906112,
+        "title": "Time Limit of 24 Hours"
+    },
+    {
+        "id": 906113,
+        "title": "Bloodis Revived"
+    },
+    {
+        "id": 906114,
+        "title": "Advancement of the Novices"
+    },
+    {
+        "id": 906115,
+        "title": "Christo's Confusion"
+    },
+    {
+        "id": 906116,
+        "title": "Worried Christo"
+    },
+    {
+        "id": 906117,
+        "title": "The Merciless Countdown"
+    },
+    {
+        "id": 906118,
+        "title": "Horns that Fell Off"
+    },
+    {
+        "id": 906119,
+        "title": "Confession of Refusal"
+    },
+    {
+        "id": 906121,
+        "title": "Majorita's Loyalty"
+    },
+    {
+        "id": 906122,
+        "title": "Crisis of Comrades"
+    },
+    {
+        "id": 906123,
+        "title": "Killia's Regret"
+    },
+    {
+        "id": 906124,
+        "title": "Killia's Despair"
+    },
+    {
+        "id": 906125,
+        "title": "A Girl Named Liezerota"
+    },
+    {
+        "id": 906126,
+        "title": "Raging Seraphina"
+    },
+    {
+        "id": 906127,
+        "title": "The Girl in His Heart"
+    },
+    {
+        "id": 906128,
+        "title": "The Nature of Destruction and Slaughter"
+    },
+    {
+        "id": 906129,
+        "title": "Battle of Pride"
+    },
+    {
+        "id": 906131,
+        "title": "Raging Killidia"
+    },
+    {
+        "id": 906132,
+        "title": "Killia's Destructive Impulses "
+    },
+    {
+        "id": 906133,
+        "title": "Place of Memory"
+    },
+    {
+        "id": 906134,
+        "title": "The Troubled Heart"
+    },
+    {
+        "id": 906135,
+        "title": "Elite Lost"
+    },
+    {
+        "id": 906136,
+        "title": "What It Takes to Be Family"
+    },
+    {
+        "id": 906137,
+        "title": "Doubt of Killidia"
+    },
+    {
+        "id": 906138,
+        "title": "The Confused Heart"
+    },
+    {
+        "id": 906139,
+        "title": "The Killia Awakens"
+    },
+    {
+        "id": 906141,
+        "title": "Worried Seraphina"
+    },
+    {
+        "id": 906142,
+        "title": "The Decorated Netherworld"
+    },
+    {
+        "id": 906143,
+        "title": "Into Gorgeous"
+    },
+    {
+        "id": 906144,
+        "title": "Gorgeous' Situation"
+    },
+    {
+        "id": 906145,
+        "title": "Bankrupt Gorgeous"
+    },
+    {
+        "id": 906146,
+        "title": "Tinned Mackerel Forever"
+    },
+    {
+        "id": 906147,
+        "title": "Void Dark’s Ritual"
+    },
+    {
+        "id": 906148,
+        "title": "The Next Move"
+    },
+    {
+        "id": 906149,
+        "title": "Seraphina's Confusion"
+    },
+    {
+        "id": 906151,
+        "title": "Super Mobile Fortress!"
+    },
+    {
+        "id": 906152,
+        "title": "Killia's Curry, Before the Final Battle"
+    },
+    {
+        "id": 906153,
+        "title": "Battle of Overlords"
+    },
+    {
+        "id": 906154,
+        "title": "The Ultimate Demon Technique"
+    },
+    {
+        "id": 906155,
+        "title": "For the Precious People"
+    },
+    {
+        "id": 906156,
+        "title": "Crushing the Brutal Beast!"
+    },
+    {
+        "id": 906157,
+        "title": "Power Beyond Corpses"
+    },
+    {
+        "id": 906158,
+        "title": "Usalia's Resolve"
+    },
+    {
+        "id": 906159,
+        "title": "The Last Step"
+    },
+    {
+        "id": 906161,
+        "title": "Redemption of The Great Demon Fist"
+    },
+    {
+        "id": 906162,
+        "title": "Pledge to Duel For the Strongest Overlord"
+    },
+    {
+        "id": 906163,
+        "title": "The Fight to Protect"
+    },
+    {
+        "id": 906164,
+        "title": "Feelings for Friends"
+    },
+    {
+        "id": 906165,
+        "title": "Dreams of Ultimate Demon Techniques"
+    },
+    {
+        "id": 906166,
+        "title": "Seraphina's Declaration"
+    },
+    {
+        "id": 906167,
+        "title": "Ambition of Void Dark"
+    },
+    {
+        "id": 906168,
+        "title": "Reliable Reinforcement"
+    },
+    {
+        "id": 906169,
+        "title": "Showdown, Void Dark!"
+    },
+    {
+        "id": 9011310,
+        "title": "The Price of Betrayal"
+    },
+    {
+        "id": 9011311,
+        "title": "The Price of Belief"
+    },
+    {
+        "id": 9011312,
+        "title": "The End of the Nether War"
+    },
+    {
+        "id": 9011410,
+        "title": "Absolute Peace"
+    },
+    {
+        "id": 9011411,
+        "title": "Vulcanus's Downfall"
+    },
+    {
+        "id": 9011412,
+        "title": "The Seraph"
+    },
+    {
+        "id": 9011413,
+        "title": "The Key"
+    },
+    {
+        "id": 9060110,
+        "title": "Enemies Become Friends"
+    },
+    {
+        "id": 9060210,
+        "title": "Over The Counter"
+    },
+    {
+        "id": 9060211,
+        "title": "Demon General Majorita"
+    },
+    {
+        "id": 9060212,
+        "title": "Rebel Army"
+    },
+    {
+        "id": 9060410,
+        "title": "Curse of the Demon General"
+    },
+    {
+        "id": 9060411,
+        "title": "A Plate of Curry"
+    },
+    {
+        "id": 9060510,
+        "title": "The Lost Power and Netherworld"
+    },
+    {
+        "id": 9060511,
+        "title": "Reunion of Tears"
+    },
+    {
+        "id": 9060512,
+        "title": "Facing Bloodis"
+    },
+    {
+        "id": 9060610,
+        "title": "Three-way Battle"
+    },
+    {
+        "id": 9060611,
+        "title": "Allying with Dragon Fang"
+    },
+    {
+        "id": 9060612,
+        "title": "Leader of the Rebel Army"
+    },
+    {
+        "id": 9060613,
+        "title": "Power of Bloodis"
+    },
+    {
+        "id": 9060614,
+        "title": "True Identity of Bloodis"
+    },
+    {
+        "id": 9060710,
+        "title": "Prepared for Real"
+    },
+    {
+        "id": 9060711,
+        "title": "Confrontation of Dying Flames"
+    },
+    {
+        "id": 9060712,
+        "title": "The Final Skill Misfires"
+    },
+    {
+        "id": 9060810,
+        "title": "Zeroken the Overlord"
+    },
+    {
+        "id": 9060811,
+        "title": "Resolve of the Two"
+    },
+    {
+        "id": 9060812,
+        "title": "Attack of Void Dark"
+    },
+    {
+        "id": 9060910,
+        "title": "Vanquish the Weakness Within"
+    },
+    {
+        "id": 9060911,
+        "title": "Super Muscle Super Evolution"
+    },
+    {
+        "id": 9060912,
+        "title": "The New Determination"
+    },
+    {
+        "id": 9061010,
+        "title": "The Truth about the Recipe"
+    },
+    {
+        "id": 9061011,
+        "title": "A Parental Bond"
+    },
+    {
+        "id": 9061012,
+        "title": "Souvenirs from Majorita"
+    },
+    {
+        "id": 9061110,
+        "title": "Facing One's Heart"
+    },
+    {
+        "id": 9061111,
+        "title": "Christo the Overlord"
+    },
+    {
+        "id": 9061112,
+        "title": "The Strategist's Determination"
+    },
+    {
+        "id": 9061210,
+        "title": "Battle of Threshold"
+    },
+    {
+        "id": 9061211,
+        "title": "Power of Evil"
+    },
+    {
+        "id": 9061212,
+        "title": "He Who Destroys Everything"
+    },
+    {
+        "id": 9061310,
+        "title": "When We Become One"
+    },
+    {
+        "id": 9061410,
+        "title": "Seraphina's Value"
+    },
+    {
+        "id": 9061411,
+        "title": "A Girl in Love is Invincible"
+    },
+    {
+        "id": 9061412,
+        "title": "Destruction of the Last Spear"
+    },
+    {
+        "id": 9061510,
+        "title": "The Ultimate Skill, Perfected"
+    },
+    {
+        "id": 9061610,
+        "title": "The Entrusted Overload Skill"
+    },
+    {
+        "id": 9061611,
+        "title": "Liezerota - Dark"
+    },
+    {
+        "id": 9061612,
+        "title": "The Final Ultimate Skill"
+    },
+    {
+        "id": 9061613,
+        "title": "Individual Netherworlds"
+    },
+    {
+        "id": 100110101,
+        "title": "Two Santa Clauses"
+    },
+    {
+        "id": 100110102,
+        "title": "The First Step as Santa"
+    },
+    {
+        "id": 100110103,
+        "title": "The Presents Vanish"
+    },
+    {
+        "id": 100110104,
+        "title": "Black Santa Claus"
+    },
+    {
+        "id": 100110105,
+        "title": "Next Clue"
+    },
+    {
+        "id": 100110201,
+        "title": "Laharl's Speculation"
+    },
+    {
+        "id": 100110202,
+        "title": "Sardine Curry!"
+    },
+    {
+        "id": 100110203,
+        "title": "Arrival of the Master"
+    },
+    {
+        "id": 100110204,
+        "title": "Targeting the Academy"
+    },
+    {
+        "id": 100110301,
+        "title": "Christmas Party"
+    },
+    {
+        "id": 100110302,
+        "title": "A Gentle Santa?"
+    },
+    {
+        "id": 100110303,
+        "title": "Unknown Power"
+    },
+    {
+        "id": 100110304,
+        "title": "Point of Interest"
+    },
+    {
+        "id": 100110401,
+        "title": "I've Seen Him Before!"
+    },
+    {
+        "id": 100110402,
+        "title": "The Irregular Overlord"
+    },
+    {
+        "id": 100110403,
+        "title": "The Reveal the Hidden"
+    },
+    {
+        "id": 100110404,
+        "title": "Arrival of the Mastermind"
+    },
+    {
+        "id": 100110501,
+        "title": "The Mastermind is..."
+    },
+    {
+        "id": 100110502,
+        "title": "Majorita's Pursuit"
+    },
+    {
+        "id": 100110503,
+        "title": "Overlord Santa!"
+    },
+    {
+        "id": 100110504,
+        "title": "The Gift of the Holy Night"
+    },
+    {
+        "id": 100410101,
+        "title": "The Offering is a Huge Mirror Cake?"
+    },
+    {
+        "id": 100410102,
+        "title": "Here It Comes! Mirror Cake Prinny"
+    },
+    {
+        "id": 100410103,
+        "title": "The Festival in Crisis"
+    },
+    {
+        "id": 100410104,
+        "title": "To Protect Our Traditions"
+    },
+    {
+        "id": 100410105,
+        "title": "Disturbing Voice"
+    },
+    {
+        "id": 100410201,
+        "title": "Resistance"
+    },
+    {
+        "id": 100410202,
+        "title": "Reason for Making It Huge"
+    },
+    {
+        "id": 100410203,
+        "title": "Remnants of a Devine Power"
+    },
+    {
+        "id": 100410204,
+        "title": "Mao's True Intention"
+    },
+    {
+        "id": 100410301,
+        "title": "Recapture"
+    },
+    {
+        "id": 100410302,
+        "title": "In Search of the Stolen Food"
+    },
+    {
+        "id": 100410303,
+        "title": "The Pride of the Chef"
+    },
+    {
+        "id": 100410304,
+        "title": "As Long As You Like It"
+    },
+    {
+        "id": 100410401,
+        "title": "Rozalin's Worry"
+    },
+    {
+        "id": 100410402,
+        "title": "Attired Crisis"
+    },
+    {
+        "id": 100410403,
+        "title": "Responsibility and Resolve"
+    },
+    {
+        "id": 100410404,
+        "title": "The Promise"
+    },
+    {
+        "id": 100410501,
+        "title": "The Culprit Returns to the Scene"
+    },
+    {
+        "id": 100410502,
+        "title": "The Reason for Hatred"
+    },
+    {
+        "id": 100410503,
+        "title": "Stubbornness of the Mirror Cake"
+    },
+    {
+        "id": 100410504,
+        "title": "Everyone's New Year"
+    },
+    {
+        "id": 100610101,
+        "title": "I Want to Become Human"
+    },
+    {
+        "id": 100610102,
+        "title": "EQ in Times of Trouble"
+    },
+    {
+        "id": 100610103,
+        "title": "The Rival"
+    },
+    {
+        "id": 100610104,
+        "title": "Play Ball"
+    },
+    {
+        "id": 100610105,
+        "title": "Heart's Desire?"
+    },
+    {
+        "id": 100610201,
+        "title": "All-out Mountaineering"
+    },
+    {
+        "id": 100610202,
+        "title": "Mt. Demon 5th Station"
+    },
+    {
+        "id": 100610203,
+        "title": "The Lord of Mt. Demon?"
+    },
+    {
+        "id": 100610204,
+        "title": "What are Bambrooms for?"
+    },
+    {
+        "id": 100610301,
+        "title": "The Real Thing"
+    },
+    {
+        "id": 100610302,
+        "title": "An Unpredictable Angel"
+    },
+    {
+        "id": 100610303,
+        "title": "The Forbidden Staff"
+    },
+    {
+        "id": 100610304,
+        "title": "Transform What, Exactly?"
+    },
+    {
+        "id": 100610401,
+        "title": "Searching for Bro"
+    },
+    {
+        "id": 100610402,
+        "title": "Keep Searching for Bro"
+    },
+    {
+        "id": 100610403,
+        "title": "Green Bro in Distress"
+    },
+    {
+        "id": 100610404,
+        "title": "The Long Wait"
+    },
+    {
+        "id": 100610501,
+        "title": "Insurmountable Discomfort"
+    },
+    {
+        "id": 100610502,
+        "title": "Like a Local"
+    },
+    {
+        "id": 100610503,
+        "title": "About that Local Power..."
+    },
+    {
+        "id": 100610504,
+        "title": "The Victor's View"
+    },
+    {
+        "id": 101210101,
+        "title": "Rival?"
+    },
+    {
+        "id": 101210102,
+        "title": "Wrapped in Light"
+    },
+    {
+        "id": 101210103,
+        "title": "Girl Laharl"
+    },
+    {
+        "id": 101210104,
+        "title": "NBP Round 1"
+    },
+    {
+        "id": 101210105,
+        "title": "Rainier's Wish"
+    },
+    {
+        "id": 101210201,
+        "title": "Treasure Hunter"
+    },
+    {
+        "id": 101210202,
+        "title": "Next Opponent"
+    },
+    {
+        "id": 101210203,
+        "title": "NBP Round 2"
+    },
+    {
+        "id": 101210204,
+        "title": "Asking For the Moon"
+    },
+    {
+        "id": 101210301,
+        "title": "Busty Teasing"
+    },
+    {
+        "id": 101210302,
+        "title": "The Third Hot Chick"
+    },
+    {
+        "id": 101210303,
+        "title": "NBP Round 3"
+    },
+    {
+        "id": 101210304,
+        "title": "One Day, All Three of Us"
+    },
+    {
+        "id": 101210401,
+        "title": "Exhausted"
+    },
+    {
+        "id": 101210402,
+        "title": "The Fourth Participant"
+    },
+    {
+        "id": 101210403,
+        "title": "NBP Semi Final"
+    },
+    {
+        "id": 101210404,
+        "title": "Through the Semi Final"
+    },
+    {
+        "id": 101210501,
+        "title": "Road to the Finals"
+    },
+    {
+        "id": 101210502,
+        "title": "Mid-Boss's Strategy"
+    },
+    {
+        "id": 101210503,
+        "title": "NBP Finals"
+    },
+    {
+        "id": 101210504,
+        "title": "The Power of the Winner's Prize"
+    },
+    {
+        "id": 101510101,
+        "title": "Aiming for Graduation"
+    },
+    {
+        "id": 101510102,
+        "title": "Alumni Representatives"
+    },
+    {
+        "id": 101510103,
+        "title": "Substitute Delinquent Teacher"
+    },
+    {
+        "id": 101510104,
+        "title": "The Need for Ultimate Demon Techniques"
+    },
+    {
+        "id": 101510105,
+        "title": "I love it!"
+    },
+    {
+        "id": 101510201,
+        "title": "Class? Training?"
+    },
+    {
+        "id": 101510202,
+        "title": "Two Substitute Delinquent Teachers"
+    },
+    {
+        "id": 101510203,
+        "title": "No Breaking Curfew"
+    },
+    {
+        "id": 101510204,
+        "title": "Unfulfilled Desire"
+    },
+    {
+        "id": 101510301,
+        "title": "Feeling of Impatience"
+    },
+    {
+        "id": 101510302,
+        "title": "The 3rd Substitute Delinquent Teacher"
+    },
+    {
+        "id": 101510303,
+        "title": "Sardine Theory"
+    },
+    {
+        "id": 101510304,
+        "title": "Satisfied Mr. Vampire"
+    },
+    {
+        "id": 101510401,
+        "title": "Curriculum Ends"
+    },
+    {
+        "id": 101510402,
+        "title": "Objection"
+    },
+    {
+        "id": 101510403,
+        "title": "The True Delinquent"
+    },
+    {
+        "id": 101510404,
+        "title": "We Have a Winner"
+    },
+    {
+        "id": 101510501,
+        "title": "Sudden Confusion"
+    },
+    {
+        "id": 101510502,
+        "title": "Sad Lackeys"
+    },
+    {
+        "id": 101510503,
+        "title": "Open Your Heart"
+    },
+    {
+        "id": 101510504,
+        "title": "Rivals (Friends)"
+    },
+    {
+        "id": 102110101,
+        "title": "Let's Go See the Sakura!"
+    },
+    {
+        "id": 102110102,
+        "title": "Imbuing Love!"
+    },
+    {
+        "id": 102110103,
+        "title": "Artina's Whereabouts"
+    },
+    {
+        "id": 102110104,
+        "title": "Grand Entrance of Magic Cutie!"
+    },
+    {
+        "id": 102110105,
+        "title": "New Magic Cutie"
+    },
+    {
+        "id": 102110201,
+        "title": "So Embarrassing..."
+    },
+    {
+        "id": 102110202,
+        "title": "Love Oracle"
+    },
+    {
+        "id": 102110203,
+        "title": "Love Oracle's Instruction"
+    },
+    {
+        "id": 102110204,
+        "title": "The Teaching Continues"
+    },
+    {
+        "id": 102110301,
+        "title": "Don't Think. Just Feel It."
+    },
+    {
+        "id": 102110302,
+        "title": "The Effect of Dark Power"
+    },
+    {
+        "id": 102110303,
+        "title": "For You"
+    },
+    {
+        "id": 102110304,
+        "title": "An Echoing Voice"
+    },
+    {
+        "id": 102110401,
+        "title": "It's For Oracle Too"
+    },
+    {
+        "id": 102110402,
+        "title": "Liberation, and..."
+    },
+    {
+        "id": 102110403,
+        "title": "Enemies Yesterday, Friends Today"
+    },
+    {
+        "id": 102110404,
+        "title": "Magic Cutie Reborn"
+    },
+    {
+        "id": 102110501,
+        "title": "The Reason for Darktina"
+    },
+    {
+        "id": 102110502,
+        "title": "Longing for the Real Thing"
+    },
+    {
+        "id": 102110503,
+        "title": "Let's Go See Sakura"
+    },
+    {
+        "id": 102110504,
+        "title": "We are Magic Cuties"
+    },
+    {
+        "id": 102610101,
+        "title": "Unexpected Reunion"
+    },
+    {
+        "id": 102610102,
+        "title": "I'm with You, Big Bro"
+    },
+    {
+        "id": 102610103,
+        "title": "Where is the Dessert?"
+    },
+    {
+        "id": 102610104,
+        "title": "Cat Cafe Manager"
+    },
+    {
+        "id": 102610105,
+        "title": "The Angel's Purpose"
+    },
+    {
+        "id": 102610201,
+        "title": "The Plan Goes Wrong"
+    },
+    {
+        "id": 102610202,
+        "title": "Terms of Exchange"
+    },
+    {
+        "id": 102610203,
+        "title": "VIP Treatment"
+    },
+    {
+        "id": 102610204,
+        "title": "The Next Incident"
+    },
+    {
+        "id": 102610301,
+        "title": "New Friends"
+    },
+    {
+        "id": 102610302,
+        "title": "Cat Lover or Not"
+    },
+    {
+        "id": 102610303,
+        "title": "Clashing Forces"
+    },
+    {
+        "id": 102610304,
+        "title": "The Influence of Cats"
+    },
+    {
+        "id": 102610401,
+        "title": "Prinny Force!"
+    },
+    {
+        "id": 102610402,
+        "title": "New Business?"
+    },
+    {
+        "id": 102610403,
+        "title": "Sardine Doods"
+    },
+    {
+        "id": 102610404,
+        "title": "At the End of the Battle"
+    },
+    {
+        "id": 102610501,
+        "title": "Abducted Cat"
+    },
+    {
+        "id": 102610502,
+        "title": "For the Cats"
+    },
+    {
+        "id": 102610503,
+        "title": "Xenolith's Purpose"
+    },
+    {
+        "id": 102610504,
+        "title": "The Cat-connected Stories"
+    },
+    {
+        "id": 103510101,
+        "title": "To Abolish Short Shorts"
+    },
+    {
+        "id": 103510102,
+        "title": "In Search of Help"
+    },
+    {
+        "id": 103510103,
+        "title": "Fuka of The Idiots"
+    },
+    {
+        "id": 103510104,
+        "title": "Ayame of The Cold-blooded"
+    },
+    {
+        "id": 103510105,
+        "title": "Horror of Short Shorts"
+    },
+    {
+        "id": 103510201,
+        "title": "Participant from Outside"
+    },
+    {
+        "id": 103510202,
+        "title": "Cheer of Love"
+    },
+    {
+        "id": 103510203,
+        "title": "What Was Written Is..."
+    },
+    {
+        "id": 103510204,
+        "title": "Mutual Admiration"
+    },
+    {
+        "id": 103510301,
+        "title": "A Refreshing Drink"
+    },
+    {
+        "id": 103510302,
+        "title": "Mismatched Breath"
+    },
+    {
+        "id": 103510303,
+        "title": "Strong Opponent Appears?"
+    },
+    {
+        "id": 103510304,
+        "title": "A Reversal in Fortunes"
+    },
+    {
+        "id": 103510401,
+        "title": "Another Temptation"
+    },
+    {
+        "id": 103510402,
+        "title": "Unexpected Participant"
+    },
+    {
+        "id": 103510403,
+        "title": "Power of Cheering"
+    },
+    {
+        "id": 103510404,
+        "title": "One Step from Championship"
+    },
+    {
+        "id": 103510501,
+        "title": "A Shocking Declaration"
+    },
+    {
+        "id": 103510502,
+        "title": "Intruders"
+    },
+    {
+        "id": 103510503,
+        "title": "The Last Event"
+    },
+    {
+        "id": 103510504,
+        "title": "Goodbye Short Shorts"
+    }
+]

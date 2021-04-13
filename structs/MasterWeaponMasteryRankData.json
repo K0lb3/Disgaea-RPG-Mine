@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "character_type",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "rank",
+        "offset": 28
+    },
+    {
+        "type": "int",
+        "name": "max_lv",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "need_mana",
+        "offset": 36
+    }
+]

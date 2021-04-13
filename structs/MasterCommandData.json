@@ -1,0 +1,112 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 24
+    },
+    {
+        "type": "string",
+        "name": "name_battle",
+        "offset": 32
+    },
+    {
+        "type": "ulong",
+        "name": "command_category",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "attr",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "max_lv",
+        "offset": 52
+    },
+    {
+        "type": "bool",
+        "name": "circle_flg",
+        "offset": 56
+    },
+    {
+        "type": "int",
+        "name": "icon_type",
+        "offset": 60
+    },
+    {
+        "type": "int",
+        "name": "sp_min",
+        "offset": 64
+    },
+    {
+        "type": "int",
+        "name": "sp_max",
+        "offset": 68
+    },
+    {
+        "type": "int",
+        "name": "gain_sp",
+        "offset": 72
+    },
+    {
+        "type": "int",
+        "name": "relational_param",
+        "offset": 76
+    },
+    {
+        "type": "int[]",
+        "name": "command_types",
+        "offset": 80
+    },
+    {
+        "type": "int[]",
+        "name": "effect_values_min",
+        "offset": 88
+    },
+    {
+        "type": "int[]",
+        "name": "effect_values_max",
+        "offset": 96
+    },
+    {
+        "type": "int[]",
+        "name": "variance_rates",
+        "offset": 104
+    },
+    {
+        "type": "int[]",
+        "name": "effect_values_sub_min",
+        "offset": 112
+    },
+    {
+        "type": "int[]",
+        "name": "effect_values_sub_max",
+        "offset": 120
+    },
+    {
+        "type": "int[]",
+        "name": "effect_targets",
+        "offset": 128
+    },
+    {
+        "type": "string",
+        "name": "description_effect",
+        "offset": 136
+    },
+    {
+        "type": "string",
+        "name": "description",
+        "offset": 144
+    },
+    {
+        "type": "ulong",
+        "name": "resource_id",
+        "offset": 152
+    }
+]

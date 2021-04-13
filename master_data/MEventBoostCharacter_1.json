@@ -1,0 +1,485 @@
+[
+    {
+        "id": 101,
+        "m_event_id": 1,
+        "m_character_id": 54,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 102,
+        "m_event_id": 1,
+        "m_character_id": 55,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 103,
+        "m_event_id": 1,
+        "m_character_id": 21,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 104,
+        "m_event_id": 1,
+        "m_character_id": 20002,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 105,
+        "m_event_id": 1,
+        "m_character_id": 7,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 106,
+        "m_event_id": 1,
+        "m_character_id": 60,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 107,
+        "m_event_id": 1,
+        "m_character_id": 61,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 401,
+        "m_event_id": 4,
+        "m_character_id": 56,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 402,
+        "m_event_id": 4,
+        "m_character_id": 47,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 403,
+        "m_event_id": 4,
+        "m_character_id": 48,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 404,
+        "m_event_id": 4,
+        "m_character_id": 55,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 405,
+        "m_event_id": 4,
+        "m_character_id": 4,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 406,
+        "m_event_id": 4,
+        "m_character_id": 2,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 407,
+        "m_event_id": 4,
+        "m_character_id": 60,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 408,
+        "m_event_id": 4,
+        "m_character_id": 61,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 601,
+        "m_event_id": 6,
+        "m_character_id": 44,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 602,
+        "m_event_id": 6,
+        "m_character_id": 45,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 603,
+        "m_event_id": 6,
+        "m_character_id": 20008,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 604,
+        "m_event_id": 6,
+        "m_character_id": 20014,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 605,
+        "m_event_id": 6,
+        "m_character_id": 9,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 606,
+        "m_event_id": 6,
+        "m_character_id": 11,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 607,
+        "m_event_id": 6,
+        "m_character_id": 5,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 608,
+        "m_event_id": 6,
+        "m_character_id": 48,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 609,
+        "m_event_id": 6,
+        "m_character_id": 60,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 610,
+        "m_event_id": 6,
+        "m_character_id": 61,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1201,
+        "m_event_id": 12,
+        "m_character_id": 16,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1202,
+        "m_event_id": 12,
+        "m_character_id": 20017,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1203,
+        "m_event_id": 12,
+        "m_character_id": 21002,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1204,
+        "m_event_id": 12,
+        "m_character_id": 18,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1205,
+        "m_event_id": 12,
+        "m_character_id": 36,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1206,
+        "m_event_id": 12,
+        "m_character_id": 21,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1207,
+        "m_event_id": 12,
+        "m_character_id": 20014,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1208,
+        "m_event_id": 12,
+        "m_character_id": 60,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1209,
+        "m_event_id": 12,
+        "m_character_id": 61,
+        "effect_value": 30,
+        "multiple_type": 1
+    },
+    {
+        "id": 1501,
+        "m_event_id": 15,
+        "m_character_id": 1011,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 1502,
+        "m_event_id": 15,
+        "m_character_id": 20018,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 1503,
+        "m_event_id": 15,
+        "m_character_id": 1012,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 1504,
+        "m_event_id": 15,
+        "m_character_id": 38,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 1505,
+        "m_event_id": 15,
+        "m_character_id": 33,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 1506,
+        "m_event_id": 15,
+        "m_character_id": 20003,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 1507,
+        "m_event_id": 15,
+        "m_character_id": 21002,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 1508,
+        "m_event_id": 15,
+        "m_character_id": 20002,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2101,
+        "m_event_id": 21,
+        "m_character_id": 57,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 2102,
+        "m_event_id": 21,
+        "m_character_id": 58,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 2103,
+        "m_event_id": 21,
+        "m_character_id": 59,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 2104,
+        "m_event_id": 21,
+        "m_character_id": 13,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 2105,
+        "m_event_id": 21,
+        "m_character_id": 22,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 2106,
+        "m_event_id": 21,
+        "m_character_id": 33,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2107,
+        "m_event_id": 21,
+        "m_character_id": 1,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2108,
+        "m_event_id": 21,
+        "m_character_id": 3,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2109,
+        "m_event_id": 21,
+        "m_character_id": 1012,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2601,
+        "m_event_id": 26,
+        "m_character_id": 15,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 2602,
+        "m_event_id": 26,
+        "m_character_id": 31,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 2603,
+        "m_event_id": 26,
+        "m_character_id": 64,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 2604,
+        "m_event_id": 26,
+        "m_character_id": 19,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 2605,
+        "m_event_id": 26,
+        "m_character_id": 42,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2606,
+        "m_event_id": 26,
+        "m_character_id": 59,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2607,
+        "m_event_id": 26,
+        "m_character_id": 61,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2608,
+        "m_event_id": 26,
+        "m_character_id": 60,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 2609,
+        "m_event_id": 26,
+        "m_character_id": 6,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 3501,
+        "m_event_id": 35,
+        "m_character_id": 20022,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 3502,
+        "m_event_id": 35,
+        "m_character_id": 62,
+        "effect_value": 50,
+        "multiple_type": 2
+    },
+    {
+        "id": 3503,
+        "m_event_id": 35,
+        "m_character_id": 63,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 3504,
+        "m_event_id": 35,
+        "m_character_id": 25,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 3505,
+        "m_event_id": 35,
+        "m_character_id": 14,
+        "effect_value": 20,
+        "multiple_type": 2
+    },
+    {
+        "id": 3506,
+        "m_event_id": 35,
+        "m_character_id": 27,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 3507,
+        "m_event_id": 35,
+        "m_character_id": 64,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 3508,
+        "m_event_id": 35,
+        "m_character_id": 5,
+        "effect_value": 10,
+        "multiple_type": 2
+    },
+    {
+        "id": 3509,
+        "m_event_id": 35,
+        "m_character_id": 49,
+        "effect_value": 10,
+        "multiple_type": 2
+    }
+]

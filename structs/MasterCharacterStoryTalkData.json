@@ -1,0 +1,47 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_character_story_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "no",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "bg_id",
+        "offset": 36
+    },
+    {
+        "type": "string",
+        "name": "bgm",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "effect",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "emotion",
+        "offset": 52
+    },
+    {
+        "type": "int",
+        "name": "window_type",
+        "offset": 56
+    },
+    {
+        "type": "string",
+        "name": "talk_text",
+        "offset": 64
+    }
+]

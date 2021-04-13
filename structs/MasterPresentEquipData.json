@@ -1,0 +1,32 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "int",
+        "name": "eq_type",
+        "offset": 24
+    },
+    {
+        "type": "ulong",
+        "name": "eq_id",
+        "offset": 32
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "offset": 40
+    },
+    {
+        "type": "int",
+        "name": "rarity",
+        "offset": 48
+    },
+    {
+        "type": "int",
+        "name": "pop",
+        "offset": 52
+    }
+]

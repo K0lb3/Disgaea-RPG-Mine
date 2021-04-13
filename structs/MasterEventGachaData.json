@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ulong",
+        "name": "id",
+        "offset": 16
+    },
+    {
+        "type": "ulong",
+        "name": "m_event_id",
+        "offset": 24
+    },
+    {
+        "type": "int",
+        "name": "gacha_type",
+        "offset": 32
+    },
+    {
+        "type": "int",
+        "name": "price",
+        "offset": 36
+    },
+    {
+        "type": "int",
+        "name": "gacha_max_num",
+        "offset": 40
+    }
+]

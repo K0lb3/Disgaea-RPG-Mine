@@ -1,0 +1,611 @@
+[
+    {
+        "id": 1,
+        "img_id": 1,
+        "name": "Laharl",
+        "description": "An arrogant Overlord who is always trying to prove he is the strongest demon in the Netherworld.\nHe may look a little frail, but don't underestimate him.\nThis diminutive demon is capable of exceeding 530K Power.\nHe doesn't wash his hands after going to the toilet.\nHe plays 100 hours of video games each day.\nHe takes whatever he wants.\nAnd that's not all. As the ruler of the Netherworld, he is the epitome of evil.\n※ Good kids should stay away!",
+        "color_no": 7
+    },
+    {
+        "id": 2,
+        "img_id": 2,
+        "name": "Killia",
+        "description": "After Void Dark killed his lover, he became a loner filled with hatred \nwhose only goal was to seek revenge.\nHowever, an encounter with real friendship \nchanged him.\nHe is Goldion's favorite student and the successor to the \nUltimate Demon Techniques.\nTo everyone's surprise, he became a fighter who also has a great love for cooking.\nHis specialty is curry.\nHe has a naughty side and \nsometimes likes to eat during battle.",
+        "color_no": 2
+    },
+    {
+        "id": 3,
+        "img_id": 3,
+        "name": "Valvatorez",
+        "description": "Valvatorez is a \nPrinny Instructor in Hades, the Nether Prison.\nHe was once a powerful demon who was feared as \na Tyrant and a vampire.\nEventually, he made a promise \nto never drink human blood again.\nNow that he can't drink blood, sardines are his favorite food.\nHe believes sardines help him regain some of the power he can no longer get from drinking blood.\n",
+        "color_no": 12
+    },
+    {
+        "id": 4,
+        "img_id": 4,
+        "name": "Adell",
+        "description": "Adell is a very honest, passionate boy \nwho always does whatever he knows to be right.\nHe never breaks a promise, because \nit is not his style.\nDue to a previous psychological trauma, he has a deep fear of women. \nLuckily, Rozalin has helped \nhim make progress in this regard.\nFamily means a lot to him. \nHowever, it seems he is \ntoo shy to ask Rozalin to \nmarry him...",
+        "color_no": 1
+    },
+    {
+        "id": 5,
+        "img_id": 5,
+        "name": "Mao",
+        "description": "Mao is a genius with an Evil Quotient of 1.8 million.\nHe is both the Dean of the Evil Academy and the No.1 Freshman Leader. Although Raspberyl is Mao's archrival, they actually maintain a close relationship.\nHe loves human experimentation and body modification.\nWhenever he discovers something to experiment on, he starts breathing heavily and making strange noises. Not soon after, he also starts to drool.\n",
+        "color_no": 12
+    },
+    {
+        "id": 6,
+        "img_id": 6,
+        "name": "Etna",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 7
+    },
+    {
+        "id": 7,
+        "img_id": 7,
+        "name": "Fallen Angel Flonne",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 9
+    },
+    {
+        "id": 8,
+        "img_id": 8,
+        "name": "Seraphina",
+        "description": "Seraphina is the Gorgeous Overlord. \nShe is the wealthiest being in the Netherworld, Celestia and the Human World.\nShe is extremely beautiful and her \n\"Balor Gaze\" \ncan make any male become her slave.\nShe met Killia \nwhile fighting Void Dark and quickly fell in love with him.\nShe is always thinking of ways to charm Killia in order \nto make him her minion.",
+        "color_no": 9
+    },
+    {
+        "id": 9,
+        "img_id": 9,
+        "name": "Fuka Kazamatsuri",
+        "description": "Fuka is a student \nat St. Goliath 3-B.\nAfter she was killed, she was supposed to become a Prinny, but there weren't enough Prinny hides, so she remained a human.\nShe won't admit to having died and stubbornly believes that everything around her is a dream.\nThe average person \ncan only release 30% of their potential%, but her Power of Belief enables her to reach her full 100%.\n",
+        "color_no": 2
+    },
+    {
+        "id": 10,
+        "img_id": 10,
+        "name": "Rozalin",
+        "description": "Rozalin is Overlord Zenon's only daughter. She has lived most of her life in a massive mansion and thus, grew up unaware of the world's suffering.\nHowever, her true identity is... (TBC)\nShe has spent a lot of time with Adell, from whom she's constantly trying to get away. \nShe has totally not in any way fallen in love with him at all.\nThis romantic comedy has gone on for quite some time. \nAfter the two completed their own adventure, they returned home  together and are basically a couple.\nShe was born to the Snow clan, and is very haughty.",
+        "color_no": 12
+    },
+    {
+        "id": 11,
+        "img_id": 11,
+        "name": "Axel",
+        "description": "Axel was once a famous demon known by many as the Dark Hero.\nHowever, his popularity has waned over the years and he is somewhat of a has-been.\nThis happens to many famous entertainers. Axel is rather \nsad he can't go back to his former glory days.\nUntil this day, he has ignored the cold eyes of others. One day, he will return to the stage and reign as the king of rock forever.",
+        "color_no": 7
+    },
+    {
+        "id": 12,
+        "img_id": 12,
+        "name": "Fenrich",
+        "description": "Fenrich is a werewolf and \nValvatorez's butler.\nHe once was hired \nto assassinate Valvatorez, but failed because he was impressed by Valvatorez's magnanimous appeal.\nHe then vowed to remain loyal to his new master until the day he died.\nAs a ruthless strategist, he will do whatever he can to help Valvatorez \nbe seen as the strongest Demon in the Netherworld.\n",
+        "color_no": 12
+    },
+    {
+        "id": 13,
+        "img_id": 13,
+        "name": "Majorita",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 7
+    },
+    {
+        "id": 14,
+        "img_id": 14,
+        "name": "Emizel",
+        "description": "Emizel, son of the Death King, followed in his father's footsteps and became the \n63rd President of the Netherworld.\nHe once was the leader of \nthe president's elite task force, as well as an enemy of Valvatorez and Fenrich, but \nnow they are good friends.",
+        "color_no": 4
+    },
+    {
+        "id": 15,
+        "img_id": 15,
+        "name": "Barbara",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 7
+    },
+    {
+        "id": 16,
+        "img_id": 16,
+        "name": "Girl Laharl",
+        "description": "Laharl once accidentally turned into a girl.\nAlthough he looked different, it was still the same old Laharl inside.\n\"C'mon, this is ridiculous!\"\nApparently, some of Laharl's diehard fans were less than happy with this plot development.",
+        "color_no": 7
+    },
+    {
+        "id": 17,
+        "img_id": 17,
+        "name": "Christo",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 5
+    },
+    {
+        "id": 18,
+        "img_id": 18,
+        "name": "Zeroken",
+        "description": "Zeroken is known as the man who revived the Ultimate Demon Techniques.\nIn the past, he was a \ntimid teenager who worshiped Goldion, but eventually he became an Overlord who fights for those he cherishes.\nAll modern martial art techniques in the Netherworld \nare branches of the Ultimate Demon Techniques, bearing witness to his extraordinary achievements.",
+        "color_no": 11
+    },
+    {
+        "id": 19,
+        "img_id": 19,
+        "name": "Red Magnus",
+        "description": "Red Magnus is the Overlord of the Scorching Flame.\nHe is a natural super-fighter who believes power is everything.\nHis own underlings once betrayed him \nbecause they thought he was too capricious.\nHe became a much calmer individual after meeting Killia.\nMagnus once made \nKillia his eternal rival, but the two are still on good terms.\n",
+        "color_no": 1
+    },
+    {
+        "id": 20,
+        "img_id": 20,
+        "name": "King Krichevskoy",
+        "description": "King Krichevskoy is Laharl's dad and \nan ally of Lamington, the High Seraph of Celestia.\nHe is regarded as a great Netherworld ruler. \nNo one has ever matched his strength and personality. \nHe is loved by many.\nHe is also the only demon Etna admires.",
+        "color_no": 7
+    },
+    {
+        "id": 21,
+        "img_id": 21,
+        "name": "Sicily",
+        "description": "Sicily is an Angel who came from Celestia to become an Overlord.\nShe claims she is King Krichevskoy's daughter and \nLaharl's sister.\n\"She is both an angel and the daughter of a demon? \nWhat's the deal!?\"\nAny players who are wondering what the answer to this question is, please play \nDISGAEA D2.",
+        "color_no": 8
+    },
+    {
+        "id": 22,
+        "img_id": 22,
+        "name": "Almaz",
+        "description": "One day, a timid hero \ncame to the Evil Academy. \nHe encountered various incidents in the Netherworld \nafter meeting Mao. \nAfter going through all that, he grew a lot and eventually \nblossomed into a true hero! \nHe is now living a sweet married life \nwith Princess Sapphire.",
+        "color_no": 2
+    },
+    {
+        "id": 23,
+        "img_id": 23,
+        "name": "Master Big Star",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 11
+    },
+    {
+        "id": 24,
+        "img_id": 24,
+        "name": "Salvatore",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 7
+    },
+    {
+        "id": 25,
+        "img_id": 25,
+        "name": "Sapphire",
+        "description": "She is a princess in the Human World.\nShe may appear as a delicate princess, but is actually a fierce warrior who vowed \nto defeat the Overlord before the Overlord \nhad a chance to kidnap her! \nShe is also a born killing machine \nthat annihilates any demon on sight! \nShe calls herself a \"somewhat robust princess\".",
+        "color_no": 5
+    },
+    {
+        "id": 26,
+        "img_id": 26,
+        "name": "Nemo",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 12
+    },
+    {
+        "id": 27,
+        "img_id": 27,
+        "name": "Bloodis",
+        "description": "A Demon General who's been called \nthe right-hand man of Void Dark the Demon Emperor. \nIt is rumored that he is by far the most powerful Demon General, and his overwhelming fighting ability \nis second only to Void Dark. \t\nLoyal to Void Dark, the black-armored Demon General \ncontinues to carry out his duties today \nin a chilly manner.",
+        "color_no": 11
+    },
+    {
+        "id": 28,
+        "img_id": 28,
+        "name": "Nagi",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 6
+    },
+    {
+        "id": 29,
+        "img_id": 29,
+        "name": "Rutile",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 3
+    },
+    {
+        "id": 30,
+        "img_id": 30,
+        "name": "Stella",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 8
+    },
+    {
+        "id": 31,
+        "img_id": 31,
+        "name": "Xenolith",
+        "description": "Xenolith is a mysterious and reserved red-haired Demon.\nHe has awesome magic abilities and \nis believed to be as strong as an Overlord.\nHe has spent a lot of time trying to protect \nhis sister, Etna. \nDon't ever try talking to him.\n",
+        "color_no": 12
+    },
+    {
+        "id": 32,
+        "img_id": 32,
+        "name": "Apprentice Angel Flonne",
+        "description": "Flonne was once sent from \nCelestia by Lamington \nto assassinate King Krichevskoy.\nHowever, shortly after her arrival, she was caught by Laharl and Etna. \nAfter a series of events, they then became partners.\nShe is obsessed with the concept of \"love\".\nShe is frequently called a \"Love Freak\" \ndue to how she never stops talking about it.",
+        "color_no": 9
+    },
+    {
+        "id": 33,
+        "img_id": 33,
+        "name": "Pure Flonne",
+        "description": "This is Flonne's form that looks like Pure Pink from the \nPure Seven Morphing Angels TV show.\nWhen she looks like this, she possesses Archangel powers.\nWhy? Because of love!\nThere is no problem that the \npower of love can't resolve!",
+        "color_no": 9
+    },
+    {
+        "id": 34,
+        "img_id": 34,
+        "name": "Archangel Flonne",
+        "description": "After Vulcanus died (erm... huh?), Flonne was made into a temporary Archangel!\nThis promotion \nshocked everyone in Celestia. \nEveryone wondered what Lamington's intentions were.\nPlease take a look at \nthe final EP of Archangel Flonne: The Way of the Archangel!",
+        "color_no": 9
+    },
+    {
+        "id": 35,
+        "img_id": 35,
+        "name": "Void Dark",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 12
+    },
+    {
+        "id": 36,
+        "img_id": 36,
+        "name": "Angel Artina",
+        "description": "In the Human World, Artina was a nurse and a nun. \nWhen she died, she became an Angel and spent her time \nstealing money from Demons. This earned her the title \n\"Angel of Avarice\".\nOn the battlefield, she will try to save everyone, even if they're an enemy.\nIt is because of Artina that the \npowerful Vampire Tyrant Valvatorez \ngave up \ndrinking human blood.",
+        "color_no": 9
+    },
+    {
+        "id": 37,
+        "img_id": 37,
+        "name": "Nurse Artina",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 11
+    },
+    {
+        "id": 38,
+        "img_id": 38,
+        "name": "Tyrant Valvatorez",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 12
+    },
+    {
+        "id": 39,
+        "img_id": 39,
+        "name": "Tyrant Overlord Killidia",
+        "description": "Killidia is the Overlord of the Cryo Blood Netherworld.\nHe was once tyrannical and invincible, but Goldion cut him down to size.\nAfter spending time with Goldion and his daughter Liezerota, the coldness in his heart eventually melted.\nHowever, this encounter led to a greater tragedy.....",
+        "color_no": 2
+    },
+    {
+        "id": 40,
+        "img_id": 40,
+        "name": "Awakened Killia",
+        "description": "Awakened Killia is \nTyrant Overlord Killidia's form after his cold heart thawed.\nOnce his evil heart \nwas cleansed of all \nanger, hatred, and sorrow, Killia obtained real power and \nmastered the ultimate skill of \nthe Ultimate Demon Techniques!!",
+        "color_no": 12
+    },
+    {
+        "id": 41,
+        "img_id": 41,
+        "name": "Etna [Color Versions]",
+        "description": "These are Etna's clones.\nEach clone is \nas strong as Etna, so don't think \nthey will be defeated easily.\nIt's easy to see \nhow much enthusiasm the developers have for this version!\nPerhaps one day, DISGAEA \nwill also be a fighting game....",
+        "color_no": 7
+    },
+    {
+        "id": 42,
+        "img_id": 42,
+        "name": "Skirt Version Etna (Majin Etna)",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 7
+    },
+    {
+        "id": 43,
+        "img_id": 43,
+        "name": "Asagi",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 11
+    },
+    {
+        "id": 44,
+        "img_id": 44,
+        "name": "Captain Gordon, Defender of Earth",
+        "description": "Gordon is the 37th Defender of Earth.\nHe first met Laharl \nwhen the Earth Defense Force \nsent him to the Netherworld to wipe out the Overlord.\nHe is seen by many as a bumbling and incompetent buffoon.\nNevertheless, he \nnever fails to save the day.\nHe likes to eat Pizza Shack's \nTeriyaki Pizza.",
+        "color_no": 2
+    },
+    {
+        "id": 45,
+        "img_id": 45,
+        "name": "Jennifer",
+        "description": "Jennifer is Captain Gordon's blonde assistant.\nWithout knowing her, Jennifer may just seem like eye candy, but she is in fact a \nsuper talented genius \nwho developed an invincible robot when she was 5 and got a \ndoctorate when she was 10.\nSome say she is also really good at martial arts.\n",
+        "color_no": 3
+    },
+    {
+        "id": 46,
+        "img_id": 46,
+        "name": "Mr. Champloo",
+        "description": "Champloo is a Home Economics teacher at the Evil Academy and a master of High Heat-Style Chaos-School Kitchen Fist.\n\"Cooking comes from the heart!\nCooking means always risking your life! You  must be passionate about cooking and use the right ingredients. Boom!\"\nThis is his personal philosophy.",
+        "color_no": 1
+    },
+    {
+        "id": 47,
+        "img_id": 47,
+        "name": "Yukimaru",
+        "description": "Like Rozalin, Yukimaru was born to the Snow Clan.\nYukimaru first met \nRozalin and Adell when she was searching for Zenon to avenge the destruction of her village.\nShe is a powerful ninja, but her sense of responsibility\noften gets her in \ndifficult situations.\nA young ninja.",
+        "color_no": 8
+    },
+    {
+        "id": 48,
+        "img_id": 48,
+        "name": "Fubuki",
+        "description": "Yukimaru's older brother.\nFubuki is a dangerous ninja. \nTo avenge his clan, he is willing to do anything and \nonce fought against Adell.\nIn a previous battle, he lost his eyesight. \nHowever, with his determined nature, he has been able to keep \nimproving his ninjutsu.\nHis voice actor is Takehito Koyasu, who himself is a \nbig fan of DISGAEA.",
+        "color_no": 8
+    },
+    {
+        "id": 49,
+        "img_id": 49,
+        "name": "Zenon",
+        "description": "As the God of All Overlords, he is greatly feared and \nmany Overlords want to kill him.\nHe is the Overlord of Overlords.\nIt is \nextremely difficult\nto determine how strong this individual is.\nHowever, he chose to be \nreincarnated after getting tired of fighting and killing.\nAfter reincarnation, he became Rozalin.",
+        "color_no": 12
+    },
+    {
+        "id": 50,
+        "img_id": 50,
+        "name": "Justice Flonne",
+        "description": "Fallen Angel Flonne \nliked Prism Rangers too much \nand turned into Justice Flonne.\nIn this form, she doesn't seem too different from her Apprentice Angel form. \n\"I can feel myself\ngetting stronger and more courageous!\"\nShe can already say things like this.",
+        "color_no": 9
+    },
+    {
+        "id": 51,
+        "img_id": 51,
+        "name": "Kurtis",
+        "description": "The appearance of Kurtis during his lifetime.\nHe lost 70% of his body \nin an \"incident\", and is now \nmostly a mechanized cyborg.\nAlthough he and Gordon have \nhad their clashes, they are now \ncomrades in arms. \nWith hot blood wrapped in a steel body, he's determined to eliminate all evil!",
+        "color_no": 4
+    },
+    {
+        "id": 53,
+        "img_id": 20016,
+        "name": "Don Joaquin",
+        "description": "The first Defender of Earth who is said \nto have left for the Netherworld \nto defeat the Overlord but never returned. \nHe became a ghost in the Netherworld \nand stood in the way of Laharl, but eventually he fulfilled his long-time wish as a Hero \nand passed away. \nNow, he has emerged as the heroic spirit \nof the Defender of Earth!\nHe targets the Overlord but has many demon friends, and he is kind to everyone \nexcept the Overlord. \nHe may look like an ordinary old man, but his hidden power is the real deal!",
+        "color_no": 12
+    },
+    {
+        "id": 1000,
+        "img_id": 17,
+        "name": "Christo",
+        "description": "He says he is an Overlord from what he claims is a \"certain giant Netherworld\".\nHe is an extremely skilled and ruthless war strategist and will do anything to win a battle.\nSomehow, he knows a lot about Celestia. \nIn order to help those in the Netherworld understand what Christmas is, he has been preparing gifts for everyone.\nBut he becomes very worried as things go wrong.",
+        "color_no": 5
+    },
+    {
+        "id": 1001,
+        "img_id": 55,
+        "name": "Mage Noel",
+        "description": "Noel has been greatly influenced by the books she has read about the ways of the Human World. \nShe really loves Santa.\nTo her, it truly is amazing that Santa is able to deliver gifts to people all over the world in one night.\nHowever, she has developed a crazy belief that Santa became a superhuman by delivering gifts and that she can also become a more powerful wizard by imitating him.\nWith Christmas approaching in the Netherworld, she thinks its a good idea to help Christo so she can learn the secrets of Santa.",
+        "color_no": 11
+    },
+    {
+        "id": 1002,
+        "img_id": 13,
+        "name": "Majorita",
+        "description": "On the hunt for Christmas gifts, this former Demon General appeared before Laharl and the others.\nMajorita eventually cast a \ncurse on herself that would resurrect her.\nAlthough she looks quite cute, she is not at all weak.\nWhy does Majorita \nwant a gift.....",
+        "color_no": 7
+    },
+    {
+        "id": 1003,
+        "img_id": 20005,
+        "name": "Prinny Kurtis",
+        "description": "As a human, Kurtis sacrificed himself in a battle \nand ended up as a green Prinny. \nEven as a Prinny, he is still a Defender of Earth.\nHis heroic character \nhas gained the admiration of many Prinnies, who all call him \n\"Green Bro!\"\nHe has worked hard to copy the way \nPrinnies speak by saying \"dood\" at the end of every sentence in order to get along with them.\nHe still feels trapped in his new Prinny body and is \nworking on a way to become human again.",
+        "color_no": 4
+    },
+    {
+        "id": 1004,
+        "img_id": 20017,
+        "name": "Dark Adonis Mid-Boss",
+        "description": "A narcissistic demon\nwho sees Laharl as a rival \nand is always up for a fight.\nDon't judge him on his name. \nWhen he met Laharl the first time, he exclaimed:\n\"Just call me Mid-Boss!\"\nEver since that encounter, \nthis name has stuck to him. \nHe hasn't been able to change this situation either.\nAfter receiving Laharl's invite to \ndecide who the strongest Demon is, he decides to go, but what is his true intention...?",
+        "color_no": 7
+    },
+    {
+        "id": 1005,
+        "img_id": 21002,
+        "name": "Rainier",
+        "description": "Born to a family of treasure hunters, she has a knack for hunting treasure. \nShe did not recognize Laharl's status as an Overlord at first, but now she seems to have accepted it. Maybe. \nShe claims to have babysat Laharl when he was a child and that Laharl loved to act like a spoiled baby. The accuracy of this claim seems to be a matter of fierce debate.",
+        "color_no": 11
+    },
+    {
+        "id": 1006,
+        "img_id": 1011,
+        "name": "Kyoko Needleworker",
+        "description": "One of Raspberyl's lackeys \nwho enjoys needlework. \nShe is well versed in the legends of the academy \nand can play the role of commentator without a hitch. \nWith her ninja-level stealth, she has been spreading rumors \nabout the legendary graduate Raspberyl \nwithout the students realizing it. \nShe's always working \nwith Asuka Cranekick, another lackey of Raspberyl, and they spend their days \npraising Raspberyl together.",
+        "color_no": 9
+    },
+    {
+        "id": 1007,
+        "img_id": 1012,
+        "name": "Asuka Cranekick",
+        "description": "Another of Raspberyl's lackeys who likes to \nsend Paper Cranes to opponents after beating them up. \nShe is a quiet, naturally polite young lady. \nShe looks like she keeps a memoir \nof the legendary delinquency \nof Raspberyl \nand reads it to the students. \nBecause of her blind faith in Raspberyl, she shows no mercy towards anyone \nwho harbors ill will toward her \nand will dispatch them on sight. \nDispatch to where, you ask? \nWell, you don't really want to know...",
+        "color_no": 11
+    },
+    {
+        "id": 1008,
+        "img_id": 90005,
+        "name": "Saint Etna",
+        "description": "A demon that looks just like Etna \nwho has suddenly shifted into this world. \nHer soft-spoken manner \nand her white costume \ngive the impression of a saint. \nWho is she and \nwhat is her purpose?",
+        "color_no": 11
+    },
+    {
+        "id": 1009,
+        "img_id": 90004,
+        "name": "Fuka XENO",
+        "description": "A girl who came from nowhere \nand looks exactly like Fuka. \nHowever, she's got different skin color and clothes, as well as a different personality. \nWhy she showed up \nin front of Fuka and the others \nremains a mystery. \nXENO is read exactly as it's spelled, thanks for asking.",
+        "color_no": 12
+    },
+    {
+        "id": 1010,
+        "img_id": 90003,
+        "name": "Desco XENO",
+        "description": "The ultimate weapon, she looks identical to Desco \nand came here along with Fuka XENO. \nThe way she calls \nFuka XENO \"Big Sis\" \nwith fondness \nresembles Fuka and Desco, but the way she looks at Saint Etna \nwith coldness and evil in her eyes \nis nothing like Desco. \nThe XENO in her name is read just like the one in her sister's.",
+        "color_no": 12
+    },
+    {
+        "id": 1011,
+        "img_id": 59,
+        "name": "Love Oracle",
+        "description": "A Magic Cutie who claims to have been born in a dandelion.\nShe's actually a boy who plays a Magic Cutie for fun! \nLove Oracle never gives up.\nFor himself, and for \nthe pride of all Magic Cuties! \nWho the Celestia is Love Oracle? \nWill his true identity \nbe revealed one day?",
+        "color_no": 3
+    },
+    {
+        "id": 1012,
+        "img_id": 10013,
+        "name": "Takashi Boy",
+        "description": "The true face of Love Oracle the Magic Cutie \nupon losing everything. \nHis costume, on which Takashi spent \na whole month's allowance, has been rent asunder \nby its violent requisition at the hands of Darktina. \nPoor Love Oracle. Keep it together, Takashi.",
+        "color_no": 11
+    },
+    {
+        "id": 1013,
+        "img_id": 64,
+        "name": "Virunga",
+        "description": "Archangel from Celestia. \nHe is quite beautiful, unlike a certain evil-looking beard-face (according to Etna). \nA talented person who uses his wisdom and tactics \nto defend order in Celestia, but why is he in the Netherworld, and in a Cat Cafe?",
+        "color_no": 11
+    },
+    {
+        "id": 1014,
+        "img_id": 15,
+        "name": "Barbara",
+        "description": "A demon who was once an Overlord Candidate.\nBorn into a family of venerable knights, she believes in following her Lord's orders faithfully \nand obeys any command. \nShe's called an Order-Taking Demon, and will turn the tables on you \nif your instructions are not specific enough. \nBut Barbara never acts through her own will. \nSo why is she here in the Cat Cafe?",
+        "color_no": 7
+    },
+    {
+        "id": 1015,
+        "img_id": 97,
+        "name": "Vato Brothers",
+        "description": "Demon Chewie, who includes \"ese\" at the end of every line he says. \nDemon Cholo, who includes \"homes\" at the end of every line he says. \nDemon Churro, who includes \"weddo\" at the end of every line he says. \nThe three of them are called Vato Brothers! \nDon't you say we are the same. \nFreshmen of Evil Academy \nand classmates with Mao and Sapphire.",
+        "color_no": 1
+    },
+    {
+        "id": 1016,
+        "img_id": 63,
+        "name": "Iron-blooded Ayame",
+        "description": "She made herself a name among the freshmen \nduring Mao the Dean's absence. \nWhen provoked, she'll subdue her opponents \nwith her fists in one-on-one duels \non the riverbank. \nWith her strength, good looks \nand cool temperament, she is very popular \neven among female students. \nThe male student uniform is her favorite daily dress.",
+        "color_no": 1
+    },
+    {
+        "id": 1017,
+        "img_id": 37,
+        "name": "Sister Artina",
+        "description": "The appearance of Artina \nwhen she was alive as a human being. \nDuring her life, she was an innocent and virtuous nun \nwho healed the wounded of war \nand saved the lives of many soldiers, both allies and enemies. \nShe also has a compassionate heart \nthat treats demons kindly \nand without prejudice.",
+        "color_no": 9
+    },
+    {
+        "id": 20001,
+        "img_id": 20001,
+        "name": "Usalia",
+        "description": "Usalia is the heiress of the Toto Bunny Netherworld.\nHer parents were killed by the Demon General Majorita.\nShe inherited the throne from her parents and \ncontinued their mission to create a \npeaceful Netherworld for pacifist Demons.\nShe loves to eat curry. She rides on a large yellow Prinny.\nShe can eat curry \nevery meal, every day, for 365 days a year.",
+        "color_no": 3
+    },
+    {
+        "id": 20003,
+        "img_id": 20003,
+        "name": "Desco",
+        "description": "The ultimate weapon \ncreated by Genjuro, Fuka Kazamatsuri's father.\nDesco's biggest dream is to \nconquer the world with her sister Fuka.\nShe practices hard every day\nto become a Final Boss, and has displayed her potential by fighting other heroes \nand coming back stronger by reincarnation even if she loses.\nShe can also use 3 Transformations. \nCome on, Desco!\nIt won't be long until you are the Final Boss!",
+        "color_no": 7
+    },
+    {
+        "id": 20004,
+        "img_id": 20004,
+        "name": "Des X",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 12
+    },
+    {
+        "id": 20005,
+        "img_id": 20005,
+        "name": "Prinny Kurtis",
+        "description": "Gordon's rival, the Defender of Earth, \"Kurtis\". \nDue to a certain incident, he was killed \nand reincarnated as Prinny Kurtis. \nThough he may appear to be a Prinny, he's actually a Defender of Earth. \nPrinny Kurtis has a number of subtle \nyet obvious differences from ordinary Prinnies. \nHis color is green, and his eyes are sharp. \nBut most important of all, he never uses the word \"dood\". \nHowever, when thrown, he still explodes on impact.",
+        "color_no": 4
+    },
+    {
+        "id": 20006,
+        "img_id": 20006,
+        "name": "Pringer X",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 12
+    },
+    {
+        "id": 20007,
+        "img_id": 20007,
+        "name": "Hugo",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 3
+    },
+    {
+        "id": 20008,
+        "img_id": 20008,
+        "name": "Thursday",
+        "description": "Thursday is an \nAll-Purpose Robot\nthat was invented by the genius martial artist Jennifer. He is able to understand human emotions, speaks a few basic human words, and mercilessly roasts others.\nDespite being invincible, he often malfunctions.\nAlthough his appearance is somewhat retro, he is equipped with the most advanced weapons available.",
+        "color_no": 6
+    },
+    {
+        "id": 20009,
+        "img_id": 20009,
+        "name": "Taro",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 2
+    },
+    {
+        "id": 20010,
+        "img_id": 20010,
+        "name": "Hanako",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 9
+    },
+    {
+        "id": 20011,
+        "img_id": 20011,
+        "name": "Tink",
+        "description": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "color_no": 8
+    },
+    {
+        "id": 20013,
+        "img_id": 20013,
+        "name": "Vulcanus",
+        "description": "Although he is an angel, you shouldn't judge him on appearances alone.\nAfter all, he is a former Archangel.\nVulcanus is super arrogant about what he believes in and \nprejudice consumes his entire being.\nAfter he was found out by Seraph Lamington, he was expelled from Celestia. \nNo one knows where he went, but...",
+        "color_no": 8
+    },
+    {
+        "id": 20015,
+        "img_id": 20015,
+        "name": "Archangel Lamington",
+        "description": "Lamington is the High Seraph of Celestia.\nHe once allied with King Krichevskoy to \nrestore communication \nbetween \nCelestia and the Netherworld.\nSome believe he was quite naughty when he was younger, but he has never said anything about this himself.\nNo one knows the truth.",
+        "color_no": 5
+    },
+    {
+        "id": 20018,
+        "img_id": 20018,
+        "name": "Ms. Raspberyl",
+        "description": "Raspberyl has been considered \nthe No.1 Delinquent Student at the Evil Academy since its establishment.\nHer escapades have made her a legend.\nShe is never late to class and always eats up everything on her plate.\nShe will always say hello to whoever greets her and goes home on time.\nShe never ceases to amaze the world with her heroic deeds.\nShe was even able to become one of the first Evil Academy alumni.\nAfter graduating, she became a Delinquent Teacher and used this to further pursue a path of delinquency.",
+        "color_no": 9
+    },
+    {
+        "id": 21004,
+        "img_id": 21004,
+        "name": "Hoggmeiser",
+        "description": "Hoggmeiser is \nKing Krichevskoy's \nformer butler. \nHis name says it all. He loves money more than anything else.\nAfter King Krichevskoy died, he \nstole a load of money \nand built his own castle that was eventually destroyed by Laharl.\nHe has now become \na vault keeper for the Evil Academy, but he is still corrupt. He's making full use of his talents.",
+        "color_no": 3
+    },
+    {
+        "id": 50003,
+        "img_id": 50003,
+        "name": "Super Hero Aurum",
+        "description": "As the strongest hero, Aurum became consumed by power and \nwent down the wrong path after being tortured by an empty loneliness. In order to rediscover his value, he concealed his identity and became Mao's butler in the hopes of creating the fiercest Overlord. He should have been \npunished by Mao, right...?",
+        "color_no": 1
+    },
+    {
+        "id": 90001,
+        "img_id": 90001,
+        "name": "Prism Rangers",
+        "description": "The Prism Rangers are a group of heroes from a popular TV show.\nAlthough each member is supposed to be named after the colors of the rainbow, some aren't. \nAnd they don't always have enough characters for an entire rainbow.\nPlease don't laugh at their flawed design.\nSometimes, the same colored member will have a totally different personality.\nIt may be because they recruit new members all the time to wear the uniform.",
+        "color_no": 1
+    },
+    {
+        "id": 90002,
+        "img_id": 90002,
+        "name": "Pringer V3",
+        "description": "The ingenious Overlord Mao \nonce used his 1.8 million EQ \nto combine 3 random Prinnies \ninto a Super Alloy Robot.\nIts name was Pringer V3!\nFew who have faced off against \nPringer V3 have lived to tell the tale.\n",
+        "color_no": 0
+    }
+]

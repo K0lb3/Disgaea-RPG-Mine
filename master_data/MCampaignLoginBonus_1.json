@@ -122,7 +122,7 @@
     {
         "id": 13,
         "m_campaign_id": 2,
-        "name": "Nether Quartz x1000",
+        "name": "Nether Quartz x500",
         "day": 2,
         "present_type": 1,
         "present_id": 201,
@@ -182,12 +182,12 @@
     {
         "id": 19,
         "m_campaign_id": 2,
-        "name": "Nether Quartz x1500",
+        "name": "Nether Quartz x2000",
         "day": 5,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
-        "present_num": 500
+        "present_num": 2000
     },
     {
         "id": 20,
@@ -1942,7 +1942,7 @@
     {
         "id": 195,
         "m_campaign_id": 21,
-        "name": "Prism Rangers Certification Badge",
+        "name": "Prism Badge",
         "day": 2,
         "present_type": 7,
         "present_id": 17,

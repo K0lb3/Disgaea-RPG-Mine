@@ -38,7 +38,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All stats except SPD +#PER#%"
+        "description": "All Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 12,
@@ -186,7 +186,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: ATK +#PER#%"
+        "description": "Fist-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 22,
@@ -342,7 +342,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: ATK +#PER#%"
+        "description": "Sword-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 32,
@@ -494,7 +494,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Fist-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 42,
@@ -605,7 +605,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 51,
@@ -754,7 +754,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members: INT +#PER#%"
+        "description": "Staff-Wielding Allies:  INT +#PER#%"
     },
     {
         "id": 61,
@@ -939,7 +939,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 72,
@@ -976,7 +976,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Character EXP gained +#PER#%"
+        "description": "Party EXP +#PER#%"
     },
     {
         "id": 73,
@@ -1013,7 +1013,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All Damage taken -#PER#%"
+        "description": "All Allies: All Damage taken -#PER#%"
     },
     {
         "id": 74,
@@ -1206,7 +1206,7 @@
     },
     {
         "id": 91,
-        "name": "Everyone, Come and Conquer the World!",
+        "name": "World Conquest Group",
         "unique_flg": false,
         "lv_max": 1,
         "timing_type": 1,
@@ -1239,11 +1239,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt +#PER#%"
+        "description": "All Allies: Damage dealt +#PER#%"
     },
     {
         "id": 92,
-        "name": "Together We Stand",
+        "name": "United we Stand",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1276,7 +1276,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: ATK +#PER#%"
+        "description": "Axe-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 93,
@@ -1350,7 +1350,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: Single-Targeted Damage taken -#PER#%"
+        "description": "Axe-Wielding Allies: Single-Targeted Damage taken -#PER#%"
     },
     {
         "id": 101,
@@ -1387,7 +1387,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Male Members: ATK +#PER#%"
+        "description": "Male Allies:  ATK +#PER#%"
     },
     {
         "id": 102,
@@ -1424,7 +1424,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (1 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (1 Turns)"
     },
     {
         "id": 103,
@@ -1461,7 +1461,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Gun-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 104,
@@ -1498,11 +1498,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 111,
-        "name": "I'm the Best!",
+        "name": "Wasteful Confidence",
         "unique_flg": false,
         "lv_max": 1,
         "timing_type": 1,
@@ -1539,7 +1539,7 @@
     },
     {
         "id": 112,
-        "name": "Fists Are Talking",
+        "name": "Talking With Fists",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1572,11 +1572,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: Damage dealt by Skills +#PER#%"
+        "description": "Fist-Wielding Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 113,
-        "name": "Dark Hero Rights",
+        "name": "Dark Hero Aura",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1609,11 +1609,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: Damage taken by Normal Attacks -#PER#%"
+        "description": "Fist-Wielding Allies: Damage taken by Normal Attacks -#PER#%"
     },
     {
         "id": 114,
-        "name": "Simple Nature",
+        "name": "Obvious Tendency ",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1728,7 +1728,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: All Stats except SPD +#PER#%"
+        "description": "Sword-Wielding Allies: All Stats except SPD +#PER#%"
     },
     {
         "id": 123,
@@ -1839,7 +1839,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: INT +#PER#%"
+        "description": "All Allies: INT +#PER#%"
     },
     {
         "id": 132,
@@ -1913,7 +1913,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Staff-Wielding Allies:  SP +#PER# when a turn begins"
     },
     {
         "id": 134,
@@ -2064,7 +2064,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow/Staff-Equipping Members: Damage dealt +#PER#%"
+        "description": "Bow/Staff-Wielding Allies:  Damage dealt +#PER#%"
     },
     {
         "id": 144,
@@ -2102,7 +2102,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow/Staff-Equipping Members: SP Cost -#PER#%"
+        "description": "Bow/Staff-Wielding Allies:  SP Cost -#PER#%"
     },
     {
         "id": 151,
@@ -2140,7 +2140,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Self (When equipped with Axe): ATK & DEF +#PER#%"
+        "description": "Self (When Wielding an Axe): ATK & DEF +#PER#%"
     },
     {
         "id": 152,
@@ -2291,7 +2291,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK & INT +#PER#%"
+        "description": "All Allies: ATK & INT +#PER#%"
     },
     {
         "id": 162,
@@ -2365,7 +2365,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: SP +#PER# when a turn ends."
+        "description": "Ally with the highest Action Gauge: SP +#PER# when a turn ends."
     },
     {
         "id": 164,
@@ -2439,7 +2439,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: SPD +#PER#%"
+        "description": "Fist-Wielding Allies: SPD +#PER#%"
     },
     {
         "id": 182,
@@ -2476,7 +2476,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (1 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (1 Turns)"
     },
     {
         "id": 183,
@@ -2513,7 +2513,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "Fist-Wielding Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 184,
@@ -2550,7 +2550,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Action Gauge +#PER# when a turn ends."
+        "description": "All Allies: Action Gauge +#PER# when a turn ends."
     },
     {
         "id": 191,
@@ -2626,7 +2626,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: Damage dealt +#PER#%"
+        "description": "Axe-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 193,
@@ -2663,7 +2663,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: HP +#PER#%"
+        "description": "Axe-Wielding Allies: HP +#PER#%"
     },
     {
         "id": 194,
@@ -2701,7 +2701,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Muscle-Equipping Members: ATK & HP +#PER#%"
+        "description": "Muscle-Equipped Allies: ATK & HP +#PER#%"
     },
     {
         "id": 211,
@@ -2738,7 +2738,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: INT +#PER#%"
+        "description": "All Allies: INT +#PER#%"
     },
     {
         "id": 212,
@@ -2775,11 +2775,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Elemental Damage taken -#PER#%"
+        "description": "All Allies: Elemental Damage taken -#PER#%"
     },
     {
         "id": 213,
-        "name": "Platonic Love",
+        "name": "Brother Supporter",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 2,
@@ -2812,7 +2812,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: ATK SP +#PER# when a turn begins"
+        "description": "Sword-Wielding Allies: ATK SP +#PER# when a turn begins"
     },
     {
         "id": 214,
@@ -2886,7 +2886,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: ATK +#PER#%"
+        "description": "Humanoid Allies: ATK +#PER#%"
     },
     {
         "id": 222,
@@ -2924,7 +2924,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Self (When equipped with Sword): ATK & DEF +#PER#%"
+        "description": "Self (When wielding Sword): ATK & DEF +#PER#%"
     },
     {
         "id": 223,
@@ -2961,7 +2961,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: AOE Damage taken -#PER#%"
+        "description": "All Allies: AOE Damage taken -#PER#%"
     },
     {
         "id": 224,
@@ -2998,7 +2998,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: Damage dealt +#PER#%"
+        "description": "Sword-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 251,
@@ -3072,7 +3072,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: SP Cost -#PER#%"
+        "description": "Gun-Wielding Allies: SP Cost -#PER#%"
     },
     {
         "id": 253,
@@ -3109,7 +3109,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: Damage dealt +#PER#%"
+        "description": "Gun-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 254,
@@ -3146,7 +3146,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: SPD +#PER#%"
+        "description": "Gun-Wielding Allies: SPD +#PER#%"
     },
     {
         "id": 271,
@@ -3222,7 +3222,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "Fist-Wielding Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 273,
@@ -3305,7 +3305,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Belt-Equipping Members: ATK & DEF +#PER#%"
+        "description": "Belt-Equipped Allies: ATK & DEF +#PER#%"
     },
     {
         "id": 311,
@@ -3342,7 +3342,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: ATK +#PER#%"
+        "description": "Spear-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 312,
@@ -3416,7 +3416,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: Damage dealt by Skills +#PER#%"
+        "description": "Spear-Wielding Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 314,
@@ -3453,7 +3453,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Female Members: Damage taken -#PER#%"
+        "description": "FeMale Allies:  Damage taken -#PER#%"
     },
     {
         "id": 331,
@@ -3495,7 +3495,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 332,
@@ -3570,7 +3570,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: Non-Elemental Damage dealt +#PER#%"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: Non-Elemental Damage dealt +#PER#%"
     },
     {
         "id": 334,
@@ -3607,7 +3607,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 361,
@@ -3648,7 +3648,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Gun-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 362,
@@ -3722,7 +3722,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: AOE Damage dealt +#PER#%"
+        "description": "Gun-Wielding Allies: AOE Damage dealt +#PER#%"
     },
     {
         "id": 364,
@@ -3759,7 +3759,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Elemental Damage taken -#PER#%"
+        "description": "All Allies: Elemental Damage taken -#PER#%"
     },
     {
         "id": 371,
@@ -3796,7 +3796,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: SP +#PER# when a turn begins"
+        "description": "All Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 372,
@@ -3833,7 +3833,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: AOE Damage dealt +#PER#%"
+        "description": "Humanoid Allies: AOE Damage dealt +#PER#%"
     },
     {
         "id": 373,
@@ -3949,7 +3949,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Spear-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 382,
@@ -4101,7 +4101,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Fist-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 402,
@@ -4138,7 +4138,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Self (When equipped with Fist): Damage dealt by Skills +#PER#%"
+        "description": "Self (When wielding Fist): Damage dealt by Skills +#PER#%"
     },
     {
         "id": 403,
@@ -4369,7 +4369,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: SPD +#PER#% when battle begins (3 Turns)"
+        "description": "Spear-Wielding Allies: SPD +#PER#% when battle begins (3 Turns)"
     },
     {
         "id": 441,
@@ -4408,7 +4408,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun/Fist/Monster Physical-Equipping Members: ATK +#PER#%"
+        "description": "Gun/Fist/Monster Physical-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 442,
@@ -4445,7 +4445,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: Damage dealt by Skills +#PER#%"
+        "description": "Gun-Wielding Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 443,
@@ -4558,7 +4558,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun/Fist/Monster Physical-Equipping Members: SP Cost -#PER#%"
+        "description": "Gun/Fist/Monster Physical-Wielding Allies: SP Cost -#PER#%"
     },
     {
         "id": 452,
@@ -4636,7 +4636,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Fist-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 454,
@@ -4748,7 +4748,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword/Axe-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Sword/Axe-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 473,
@@ -4785,7 +4785,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Monsters -#PER#%"
+        "description": "All Allies: Damage taken from Monsters -#PER#%"
     },
     {
         "id": 474,
@@ -4822,7 +4822,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt to Monsters +#PER#%"
+        "description": "All Allies: Damage dealt to Monsters +#PER#%"
     },
     {
         "id": 481,
@@ -4863,7 +4863,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Axe-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 482,
@@ -4900,7 +4900,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "Axe-Wielding Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 483,
@@ -4937,7 +4937,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 484,
@@ -5015,7 +5015,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Gun-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 492,
@@ -5052,7 +5052,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Initial SP +#PER# when battle begins"
+        "description": "All Allies: Initial SP +#PER# when battle begins"
     },
     {
         "id": 493,
@@ -5170,7 +5170,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All stats except SPD +#PER#%"
+        "description": "All Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 512,
@@ -5207,7 +5207,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 513,
@@ -5244,7 +5244,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: SP Cost-#PER#%"
+        "description": "All Allies: SP Cost-#PER#%"
     },
     {
         "id": 514,
@@ -5281,7 +5281,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 541,
@@ -5322,7 +5322,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: All stats except SPD +#PER#%"
+        "description": "Humanoid Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 542,
@@ -5396,7 +5396,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "Axe-Wielding Allies: Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 544,
@@ -5433,7 +5433,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 551,
@@ -5470,7 +5470,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 552,
@@ -5511,7 +5511,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Staff-Wielding Allies:  All stats except SPD +#PER#%"
     },
     {
         "id": 553,
@@ -5548,7 +5548,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: SP Cost-#PER#%"
+        "description": "All Allies: SP Cost-#PER#%"
     },
     {
         "id": 554,
@@ -5585,7 +5585,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Normal Attacks -#PER#%"
+        "description": "All Allies: Damage taken from Normal Attacks -#PER#%"
     },
     {
         "id": 561,
@@ -5622,11 +5622,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Action Gauge +#PER# when a WAVE starts"
+        "description": "All Allies: Action Gauge +#PER# when a WAVE starts"
     },
     {
         "id": 562,
-        "name": "Good Luck",
+        "name": "As You Will",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -5659,11 +5659,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: AOE Damage dealt +#PER#%"
+        "description": "All Allies: AOE Damage dealt +#PER#%"
     },
     {
         "id": 563,
-        "name": "Princess Decides",
+        "name": "Princess' Decision",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 3,
@@ -5698,11 +5698,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK & INT +#PER#% when a turn ends (1 Turn)"
+        "description": "Ally with the highest Action Gauge: ATK & INT +#PER#% when a turn ends (1 Turn)"
     },
     {
         "id": 564,
-        "name": "Lucky Money!",
+        "name": "New Year's Gift",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -5735,7 +5735,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Character EXP gained +#PER#%"
+        "description": "Party EXP +#PER#%"
     },
     {
         "id": 571,
@@ -5773,7 +5773,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: INT & DEF +#PER#%"
+        "description": "All Allies: INT & DEF +#PER#%"
     },
     {
         "id": 572,
@@ -5811,7 +5811,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: Deals INT-oriented normal attacks (RES-oriented for defenders)"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: Deals INT-oriented normal attacks (RES-oriented for defenders)"
     },
     {
         "id": 573,
@@ -5849,7 +5849,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 574,
@@ -5887,7 +5887,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: Damage dealt by Skills +#PER#%"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 581,
@@ -5925,7 +5925,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members (Monster Magical): +#PER#%"
+        "description": "Staff & Monster Magical-Wielding allies: +#PER#%"
     },
     {
         "id": 582,
@@ -5962,7 +5962,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: INT +#PER#% when a turn ends (1 Turn)"
+        "description": "Ally with the highest Action Gauge: INT +#PER#% when a turn ends (1 Turn)"
     },
     {
         "id": 583,
@@ -6000,7 +6000,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff/Monster Magic-Equipping Members: AOE Damage dealt +#PER#%"
+        "description": "Staff/Magic Monster Wpn-Wielding Allies: AOE Damage dealt +#PER#%"
     },
     {
         "id": 584,
@@ -6037,7 +6037,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: INT +#PER#% when battle begins (3 Turns)"
+        "description": "All Allies: INT +#PER#% when battle begins (3 Turns)"
     },
     {
         "id": 591,
@@ -6074,7 +6074,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 592,
@@ -6148,7 +6148,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 594,
@@ -6185,7 +6185,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Single-Targeted Damage taken -#PER#%"
+        "description": "All Allies: Single-Targeted Damage taken -#PER#%"
     },
     {
         "id": 601,
@@ -6226,7 +6226,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: All stats except SPD +#PER#%"
+        "description": "Humanoid Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 602,
@@ -6263,7 +6263,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow-Equipping Members: Damage dealt by Skills +#PER#%"
+        "description": "Bow-Wielding Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 603,
@@ -6488,7 +6488,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Glasses-Equipping Members: ATK & INT+#PER#%"
+        "description": "Glasses-Equipped Allies: ATK & INT+#PER#%"
     },
     {
         "id": 621,
@@ -6525,7 +6525,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Skills +#PER#%"
+        "description": "All Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 622,
@@ -6562,7 +6562,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: ATK +#PER#%"
+        "description": "Fist-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 623,
@@ -6675,7 +6675,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK +#PER#% when battle begins (3 Turns)"
+        "description": "All Allies: ATK +#PER#% when battle begins (3 Turns)"
     },
     {
         "id": 632,
@@ -6749,7 +6749,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF +#PER#%"
+        "description": "All Allies: DEF +#PER#%"
     },
     {
         "id": 634,
@@ -6829,7 +6829,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Bow-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 642,
@@ -6866,7 +6866,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow-Equipping Members: AOE Damage dealt +#PER#%"
+        "description": "Bow-Wielding Allies: AOE Damage dealt +#PER#%"
     },
     {
         "id": 643,
@@ -6981,7 +6981,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All stats except SPD +#PER#%"
+        "description": "All Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 10012,
@@ -7059,7 +7059,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
     },
     {
         "id": 10014,
@@ -7174,7 +7174,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: SPD +#PER#%"
+        "description": "Humanoid Allies: SPD +#PER#%"
     },
     {
         "id": 10023,
@@ -7327,7 +7327,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: DEF +#PER#%"
+        "description": "Humanoid Allies: DEF +#PER#%"
     },
     {
         "id": 10033,
@@ -7480,7 +7480,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 10043,
@@ -7633,7 +7633,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: RES +#PER#%"
+        "description": "Humanoid Allies: RES +#PER#%"
     },
     {
         "id": 10053,
@@ -7786,7 +7786,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: DEF +#PER#%"
+        "description": "Humanoid Allies: DEF +#PER#%"
     },
     {
         "id": 10063,
@@ -7939,7 +7939,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
     },
     {
         "id": 10073,
@@ -8092,7 +8092,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 10083,
@@ -8245,7 +8245,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: DEF +#PER#% when a turn begins. (2 Turns)"
+        "description": "Ally with the lowest Action Gauge: DEF +#PER#% when a turn begins. (2 Turns)"
     },
     {
         "id": 10093,
@@ -8510,11 +8510,11 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: Damage dealt +#PER#%"
+        "description": "Fist-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 10112,
-        "name": "This is the Delinquent Love Punch!",
+        "name": "This is the Delinquent Love Knuckle!",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -8548,7 +8548,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Self (When equipped with Fist): ATK & DEF +#PER#%"
+        "description": "Self (When wielding Fist): ATK & DEF +#PER#%"
     },
     {
         "id": 10113,
@@ -8664,7 +8664,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Spear-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 10122,
@@ -8701,7 +8701,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: SP Cost -#PER#%"
+        "description": "Spear-Wielding Allies: SP Cost -#PER#%"
     },
     {
         "id": 10123,
@@ -8775,7 +8775,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK +#PER#% when battle begins (3 Turns)"
+        "description": "All Allies: ATK +#PER#% when battle begins (3 Turns)"
     },
     {
         "id": 17101,
@@ -8857,7 +8857,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to deduction on Action Gauge"
+        "description": "Immune to reduction of Action Gauge"
     },
     {
         "id": 17103,
@@ -8904,7 +8904,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to deduction on all stats"
+        "description": "Immune to reduction on all stats"
     },
     {
         "id": 17104,
@@ -8941,7 +8941,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to Ailing Status"
+        "description": "Immune to Status Ailments"
     },
     {
         "id": 17105,
@@ -9062,7 +9062,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to deduction on Action Gauge"
+        "description": "Immune to reduction of Action Gauge"
     },
     {
         "id": 24103,
@@ -9109,7 +9109,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to deduction on all stats"
+        "description": "Immune to reduction on all stats"
     },
     {
         "id": 24104,
@@ -9146,7 +9146,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to Ailing Status"
+        "description": "Immune to Status Ailments"
     },
     {
         "id": 24105,
@@ -9277,7 +9277,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Immune to deduction on all stats"
+        "description": "Immune to reduction on all stats"
     },
     {
         "id": 100011,
@@ -9351,7 +9351,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Axe-Equipping Members: ATK +#PER#%"
+        "description": "Axe-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100013,
@@ -9499,7 +9499,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Spear-Equipping Members: ATK +#PER#%"
+        "description": "Spear-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100023,
@@ -9610,7 +9610,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: ATK +#PER#%"
+        "description": "Fist-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100032,
@@ -9758,7 +9758,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Fist-Equipping Members: ATK +#PER#%"
+        "description": "Fist-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100042,
@@ -9906,7 +9906,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100052,
@@ -9943,7 +9943,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 100053,
@@ -10054,7 +10054,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100062,
@@ -10091,7 +10091,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 100063,
@@ -10202,7 +10202,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100072,
@@ -10239,7 +10239,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 100073,
@@ -10350,7 +10350,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100082,
@@ -10498,7 +10498,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100092,
@@ -10535,7 +10535,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 100093,
@@ -10646,7 +10646,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100102,
@@ -10683,7 +10683,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 100103,
@@ -10794,7 +10794,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100112,
@@ -10831,7 +10831,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 100113,
@@ -10942,7 +10942,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Humanoid Members: INT +#PER#%"
+        "description": "Humanoid Allies: INT +#PER#%"
     },
     {
         "id": 100122,
@@ -11238,7 +11238,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: Heals by #PER#% of Max HP when a turn ends."
+        "description": "Ally with the highest Action Gauge: Heals by #PER#% of Max HP when a turn ends."
     },
     {
         "id": 100142,
@@ -11349,7 +11349,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 100151,
@@ -11386,7 +11386,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Bow-Equipping Members: Damage dealt +#PER#%"
+        "description": "Bow-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 100152,
@@ -11682,7 +11682,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 100172,
@@ -11719,7 +11719,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 100173,
@@ -11830,7 +11830,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
     },
     {
         "id": 100182,
@@ -11867,7 +11867,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: ATK +#PER#%"
+        "description": "Gun-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100183,
@@ -12126,7 +12126,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: ATK +#PER#%"
+        "description": "Sword-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100202,
@@ -12274,7 +12274,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF +#PER#%"
+        "description": "All Allies: DEF +#PER#%"
     },
     {
         "id": 100212,
@@ -12422,7 +12422,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members: INT +#PER#%"
+        "description": "Staff-Wielding Allies:  INT +#PER#%"
     },
     {
         "id": 100232,
@@ -12459,7 +12459,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Character EXP gained +#PER#%"
+        "description": "Party EXP +#PER#%"
     },
     {
         "id": 100233,
@@ -12533,7 +12533,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: INT +#PER#% when a turn ends. (2 Turns)"
+        "description": "Ally with the highest Action Gauge: INT +#PER#% when a turn ends. (2 Turns)"
     },
     {
         "id": 100251,
@@ -12718,7 +12718,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun-Equipping Members: ATK +#PER#%"
+        "description": "Gun-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100262,
@@ -12829,7 +12829,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Character EXP gained +#PER#%"
+        "description": "Party EXP +#PER#%"
     },
     {
         "id": 100271,
@@ -12866,7 +12866,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: ATK +#PER#%"
+        "description": "Sword-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 100272,
@@ -12940,7 +12940,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Sword-Equipping Members: ATK SP +#PER# when a turn begins"
+        "description": "Sword-Wielding Allies: ATK SP +#PER# when a turn begins"
     },
     {
         "id": 100274,
@@ -13014,7 +13014,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt to Monsters +#PER#%"
+        "description": "All Allies: Damage dealt to Monsters +#PER#%"
     },
     {
         "id": 100382,
@@ -13051,7 +13051,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
+        "description": "Ally with the highest Action Gauge: ATK +#PER#% when a turn ends. (2 Turns)"
     },
     {
         "id": 100383,
@@ -13088,7 +13088,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 100384,
@@ -13162,7 +13162,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Monsters -#PER#%"
+        "description": "All Allies: Damage taken from Monsters -#PER#%"
     },
     {
         "id": 100392,
@@ -13199,7 +13199,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the highest Action Gauge: SP +#PER# when a turn ends."
+        "description": "Ally with the highest Action Gauge: SP +#PER# when a turn ends."
     },
     {
         "id": 100393,
@@ -13236,7 +13236,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Elemental Damage taken -#PER#%"
+        "description": "All Allies: Elemental Damage taken -#PER#%"
     },
     {
         "id": 100394,
@@ -13310,7 +13310,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK +#PER#%"
+        "description": "All Allies: ATK +#PER#%"
     },
     {
         "id": 200012,
@@ -13347,7 +13347,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Skills +#PER#%"
+        "description": "All Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 200013,
@@ -13384,7 +13384,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: All Damage taken -#PER#%"
+        "description": "Monster Allies:All Damage taken -#PER#%"
     },
     {
         "id": 200014,
@@ -13421,7 +13421,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Physical-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Phys. Monster Weapon-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 200021,
@@ -13459,7 +13459,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF & RES +#PER#%"
+        "description": "All Allies: DEF & RES +#PER#%"
     },
     {
         "id": 200022,
@@ -13496,7 +13496,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: INT +#PER#%"
+        "description": "Monster Allies:INT +#PER#%"
     },
     {
         "id": 200023,
@@ -13570,7 +13570,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Action Gauge +#PER# when a turn ends."
+        "description": "All Allies: Action Gauge +#PER# when a turn ends."
     },
     {
         "id": 200031,
@@ -13611,7 +13611,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: All stats except SPD +#PER#%"
+        "description": "Monster Allies:All stats except SPD +#PER#%"
     },
     {
         "id": 200032,
@@ -13759,7 +13759,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All Damage taken -#PER#%"
+        "description": "All Allies: All Damage taken -#PER#%"
     },
     {
         "id": 200062,
@@ -13909,7 +13909,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Gun/Fist/Monster Physical-Equipping Members: Damage dealt +#PER#%"
+        "description": "Gun/Fist/Monster Physical-Wielding Allies: Damage dealt +#PER#%"
     },
     {
         "id": 200082,
@@ -14063,7 +14063,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Physical-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Phys. Monster Weapon-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 200142,
@@ -14139,7 +14139,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF +#PER#%"
+        "description": "All Allies: DEF +#PER#%"
     },
     {
         "id": 200144,
@@ -14217,7 +14217,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: All stats except SPD +#PER#%"
+        "description": "Monster Allies:All stats except SPD +#PER#%"
     },
     {
         "id": 200172,
@@ -14254,7 +14254,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Units: Damage dealt by Skills +#PER#%"
+        "description": "Monster Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 200173,
@@ -14328,7 +14328,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Humanoids -#PER#%"
+        "description": "All Allies: Damage taken from Humanoids -#PER#%"
     },
     {
         "id": 200181,
@@ -14365,7 +14365,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magic-Equipping Members: INT +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: INT +#PER#%"
     },
     {
         "id": 200182,
@@ -14402,7 +14402,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magic-Equipping Members: SP +#PER# when a turn begins"
+        "description": "Magic Monster Weapon-Wielding Allies: SP +#PER# when a turn begins"
     },
     {
         "id": 200183,
@@ -14440,7 +14440,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Glasses-Equipping Members: DEF & RES +#PER#%"
+        "description": "Glasses-Equipped Allies: DEF & RES +#PER#%"
     },
     {
         "id": 200184,
@@ -14515,7 +14515,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Staff-Equipping Members (Monster Magical): +#PER#%"
+        "description": "Staff & Monster Magical-Wielding allies: +#PER#%"
     },
     {
         "id": 200202,
@@ -14589,7 +14589,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Skills -#PER#％"
+        "description": "All Allies: Damage taken from Skills -#PER#％"
     },
     {
         "id": 200204,
@@ -14663,7 +14663,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: Damage dealt to Humanoids +#PER#%"
+        "description": "Monster Allies:Damage dealt to Humanoids +#PER#%"
     },
     {
         "id": 200212,
@@ -14704,7 +14704,7 @@
     },
     {
         "id": 200213,
-        "name": "Mirror Open!",
+        "name": "Motivated for Cake",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -14815,7 +14815,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Physical-Equipping Members: ATK +#PER#%"
+        "description": "Phys. Monster Weapon-Wielding Allies: ATK +#PER#%"
     },
     {
         "id": 200222,
@@ -14889,7 +14889,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt to Humanoids +#PER#%"
+        "description": "All Allies: Damage dealt to Humanoids +#PER#%"
     },
     {
         "id": 200224,
@@ -14926,7 +14926,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: RES +#PER#%"
+        "description": "All Allies: RES +#PER#%"
     },
     {
         "id": 210021,
@@ -14967,7 +14967,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magic-Equipping Members: All stats except SPD +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: All stats except SPD +#PER#%"
     },
     {
         "id": 210022,
@@ -15004,7 +15004,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: AOE Damage dealt +#PER#%"
+        "description": "Monster Allies:AOE Damage dealt +#PER#%"
     },
     {
         "id": 210023,
@@ -15078,7 +15078,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magic-Equipping Members: SP Cost -#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: SP Cost -#PER#%"
     },
     {
         "id": 210041,
@@ -17129,7 +17129,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 300134,
@@ -17597,7 +17597,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Member with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
+        "description": "Ally with the lowest Action Gauge: Action Gauge +#PER# when a turn begins."
     },
     {
         "id": 300164,
@@ -17745,7 +17745,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 300174,
@@ -18078,7 +18078,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 300201,
@@ -18189,7 +18189,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: HP Healed +#PER#%"
+        "description": "All Allies: HP Healed +#PER#%"
     },
     {
         "id": 300204,
@@ -18226,7 +18226,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 300211,
@@ -19522,7 +19522,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Units: Damage dealt by Skills +#PER#%"
+        "description": "Monster Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 300294,
@@ -19969,7 +19969,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Units: Damage dealt by Skills +#PER#%"
+        "description": "Monster Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 300324,
@@ -21243,7 +21243,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 300412,
@@ -21356,7 +21356,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK & INT +#PER#% when a turn begins. (1 Turn)"
+        "description": "All Allies: ATK & INT +#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300421,
@@ -21393,7 +21393,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 300422,
@@ -21506,7 +21506,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: ATK & INT +#PER#% when a turn begins. (1 Turn)"
+        "description": "All Allies: ATK & INT +#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300431,
@@ -21543,7 +21543,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 300432,
@@ -21656,7 +21656,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF & RES +#PER#% when a turn begins. (1 Turn)"
+        "description": "All Allies: DEF & RES +#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300441,
@@ -21693,7 +21693,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Heals by #PER#% of Max HP when a turn begins."
+        "description": "All Allies: Heals by #PER#% of Max HP when a turn begins."
     },
     {
         "id": 300442,
@@ -21806,7 +21806,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: DEF & RES +#PER#% when a turn begins. (1 Turn)"
+        "description": "All Allies: DEF & RES +#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300451,
@@ -21843,7 +21843,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 300452,
@@ -21991,7 +21991,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 300462,
@@ -22139,7 +22139,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 300472,
@@ -22287,7 +22287,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 300482,
@@ -22439,7 +22439,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: All stats except SPD -#PER#%"
+        "description": "Male Enemies: All stats except SPD -#PER#%"
     },
     {
         "id": 300532,
@@ -22554,7 +22554,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: INT -#PER#% when a turn begins. (1 Turn)"
+        "description": "Male Enemies: INT -#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300541,
@@ -22595,7 +22595,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: All stats except SPD -#PER#%"
+        "description": "Male Enemies: All stats except SPD -#PER#%"
     },
     {
         "id": 300542,
@@ -22710,7 +22710,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: INT -#PER#% when a turn begins. (1 Turn)"
+        "description": "Male Enemies: INT -#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300551,
@@ -22751,7 +22751,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: All stats except SPD -#PER#%"
+        "description": "Male Enemies: All stats except SPD -#PER#%"
     },
     {
         "id": 300552,
@@ -22866,7 +22866,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: ATK -#PER#% when a turn begins. (1 Turn)"
+        "description": "Male Enemies: ATK -#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300561,
@@ -22907,7 +22907,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: All stats except SPD -#PER#%"
+        "description": "Male Enemies: All stats except SPD -#PER#%"
     },
     {
         "id": 300562,
@@ -23022,7 +23022,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Enemy Males: ATK -#PER#% when a turn begins. (1 Turn)"
+        "description": "Male Enemies: ATK -#PER#% when a turn begins. (1 Turn)"
     },
     {
         "id": 300571,
@@ -24298,7 +24298,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "Monster Allies:Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 300653,
@@ -24448,7 +24448,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "Monster Allies:Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 300663,
@@ -24598,7 +24598,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "Monster Allies:Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 300673,
@@ -24748,7 +24748,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "Monster Allies:Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 300683,
@@ -24859,7 +24859,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 300692,
@@ -24896,7 +24896,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage taken -#PER#%"
+        "description": "All Allies: Fire Damage taken -#PER#%"
     },
     {
         "id": 300693,
@@ -25007,7 +25007,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 300702,
@@ -25044,7 +25044,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage taken -#PER#%"
+        "description": "All Allies: Fire Damage taken -#PER#%"
     },
     {
         "id": 300703,
@@ -25155,7 +25155,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 300712,
@@ -25192,7 +25192,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage taken -#PER#%"
+        "description": "All Allies: Fire Damage taken -#PER#%"
     },
     {
         "id": 300713,
@@ -25303,7 +25303,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage dealt +#PER#%"
+        "description": "All Allies: Fire Damage dealt +#PER#%"
     },
     {
         "id": 300722,
@@ -25340,7 +25340,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Fire Damage taken -#PER#%"
+        "description": "All Allies: Fire Damage taken -#PER#%"
     },
     {
         "id": 300723,
@@ -25451,7 +25451,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 300732,
@@ -25599,7 +25599,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 300742,
@@ -25747,7 +25747,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 300752,
@@ -25895,7 +25895,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 300762,
@@ -26118,7 +26118,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Treasure-Equipping Members: ATK +#PER#%"
+        "description": "Emblem-Equipped Allies: ATK +#PER#%"
     },
     {
         "id": 300774,
@@ -26267,7 +26267,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Belt-Equipping Members: ATK +#PER#%"
+        "description": "Belt-Equipped Allies: ATK +#PER#%"
     },
     {
         "id": 300784,
@@ -26416,7 +26416,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Belt-Equipping Members: ATK +#PER#%"
+        "description": "Belt-Equipped Allies: ATK +#PER#%"
     },
     {
         "id": 300794,
@@ -26565,7 +26565,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Treasure-Equipping Members: ATK +#PER#%"
+        "description": "Emblem-Equipped Allies: ATK +#PER#%"
     },
     {
         "id": 300804,
@@ -27453,7 +27453,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 300864,
@@ -27601,7 +27601,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 300874,
@@ -28489,7 +28489,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 300974,
@@ -28939,7 +28939,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Magical Weapon-Equipping Members: +#PER#%"
+        "description": "Magic Monster Weapon-Wielding Allies: +#PER#%"
     },
     {
         "id": 301004,
@@ -29052,7 +29052,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Gun-Equipping Enemies -#PER#%"
+        "description": "All Allies: Damage taken from Gun-Equipping Enemies -#PER#%"
     },
     {
         "id": 301053,
@@ -29200,7 +29200,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Gun-Equipping Enemies -#PER#%"
+        "description": "All Allies: Damage taken from Gun-Equipping Enemies -#PER#%"
     },
     {
         "id": 301063,
@@ -29348,7 +29348,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Gun-Equipping Enemies -#PER#%"
+        "description": "All Allies: Damage taken from Gun-Equipping Enemies -#PER#%"
     },
     {
         "id": 301073,
@@ -29496,7 +29496,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage taken from Gun-Equipping Enemies -#PER#%"
+        "description": "All Allies: Damage taken from Gun-Equipping Enemies -#PER#%"
     },
     {
         "id": 301083,
@@ -29718,7 +29718,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 301141,
@@ -29866,7 +29866,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Star Damage dealt +#PER#%"
+        "description": "All Allies: Star Damage dealt +#PER#%"
     },
     {
         "id": 301151,
@@ -30236,7 +30236,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "All Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 301173,
@@ -30384,7 +30384,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "All Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 301183,
@@ -30532,7 +30532,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "All Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 301193,
@@ -30680,7 +30680,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Single-Targeted Damage dealt +#PER#%"
+        "description": "All Allies: Single-Targeted Damage dealt +#PER#%"
     },
     {
         "id": 301203,
@@ -30791,7 +30791,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 301252,
@@ -30902,7 +30902,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "All Allies: Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 301261,
@@ -30939,7 +30939,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 301262,
@@ -31050,7 +31050,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Normal Attacks +#PER#%"
+        "description": "All Allies: Damage dealt by Normal Attacks +#PER#%"
     },
     {
         "id": 301271,
@@ -31087,7 +31087,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 301272,
@@ -31198,7 +31198,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Skills +#PER#%"
+        "description": "All Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 301281,
@@ -31235,7 +31235,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "Monster Members: ATK +#PER#%"
+        "description": "Monster Allies:ATK +#PER#%"
     },
     {
         "id": 301282,
@@ -31346,7 +31346,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Damage dealt by Skills +#PER#%"
+        "description": "All Allies: Damage dealt by Skills +#PER#%"
     },
     {
         "id": 301291,
@@ -31383,7 +31383,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 301292,
@@ -31420,7 +31420,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage taken -#PER#%"
+        "description": "All Allies: Water Damage taken -#PER#%"
     },
     {
         "id": 301293,
@@ -31531,7 +31531,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 301302,
@@ -31568,7 +31568,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage taken -#PER#%"
+        "description": "All Allies: Water Damage taken -#PER#%"
     },
     {
         "id": 301303,
@@ -31679,7 +31679,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 301312,
@@ -31716,7 +31716,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage taken -#PER#%"
+        "description": "All Allies: Water Damage taken -#PER#%"
     },
     {
         "id": 301313,
@@ -31827,7 +31827,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage dealt +#PER#%"
+        "description": "All Allies: Water Damage dealt +#PER#%"
     },
     {
         "id": 301322,
@@ -31864,7 +31864,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Water Damage taken -#PER#%"
+        "description": "All Allies: Water Damage taken -#PER#%"
     },
     {
         "id": 301323,
@@ -31975,7 +31975,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 301332,
@@ -32012,7 +32012,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage taken -#PER#%"
+        "description": "All Allies: Wind Damage taken -#PER#%"
     },
     {
         "id": 301333,
@@ -32123,7 +32123,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 301342,
@@ -32160,7 +32160,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage taken -#PER#%"
+        "description": "All Allies: Wind Damage taken -#PER#%"
     },
     {
         "id": 301343,
@@ -32271,7 +32271,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 301352,
@@ -32308,7 +32308,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage taken -#PER#%"
+        "description": "All Allies: Wind Damage taken -#PER#%"
     },
     {
         "id": 301353,
@@ -32419,7 +32419,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage dealt +#PER#%"
+        "description": "All Allies: Wind Damage dealt +#PER#%"
     },
     {
         "id": 301362,
@@ -32456,7 +32456,7 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: Wind Damage taken -#PER#%"
+        "description": "All Allies: Wind Damage taken -#PER#%"
     },
     {
         "id": 301363,
@@ -32571,6 +32571,6 @@
             0
         ],
         "bad_effect_value": 0,
-        "description": "All Members: All stats except SPD +#PER#%"
+        "description": "All Allies: All stats except SPD +#PER#%"
     }
 ]

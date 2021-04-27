@@ -232,5 +232,47 @@
         "m_gacha_id": 200071,
         "gacha_num": 10,
         "resource_name": "count_bonus_rare4"
+    },
+    {
+        "id": 40,
+        "m_gacha_id": 200005,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 41,
+        "m_gacha_id": 200007,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 42,
+        "m_gacha_id": 200012,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 43,
+        "m_gacha_id": 200014,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 44,
+        "m_gacha_id": 1234561,
+        "gacha_num": 10,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 45,
+        "m_gacha_id": 1234562,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 46,
+        "m_gacha_id": 1234563,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
     }
 ]

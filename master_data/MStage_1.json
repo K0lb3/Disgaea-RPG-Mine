@@ -10011,7 +10011,7 @@
         "rank": 1,
         "proper_level": "0",
         "appear_m_stage_id": 109207,
-        "name": "Tenacious Prinny ",
+        "name": "Tenacious Prinny",
         "bgm": "bgm_battle04",
         "boss_bgm": "bgm_boss01",
         "bg_id": 17,
@@ -30181,7 +30181,7 @@
         "m_story_id": 901091,
         "rank": 1,
         "proper_level": "-",
-        "appear_m_stage_id": 9010901,
+        "appear_m_stage_id": 9010815,
         "name": "Intruders From the Outside?",
         "bgm": "bgm_battle01",
         "boss_bgm": "bgm_boss01",
@@ -30550,7 +30550,7 @@
         "rank": 1,
         "proper_level": "300",
         "appear_m_stage_id": 9010916,
-        "name": "Vs Defenders of Earth ",
+        "name": "Vs Defenders of Earth",
         "bgm": "bgm_battle01",
         "boss_bgm": "bgm_boss01",
         "bg_id": 21,
@@ -41199,7 +41199,7 @@
         "rank": 1,
         "proper_level": "-",
         "appear_m_stage_id": 9061303,
-        "name": "Killia's Destructive Impulses ",
+        "name": "Killia's Destructive Impulses",
         "bgm": "bgm_5_4",
         "boss_bgm": "bgm_5_4",
         "bg_id": 6012,
@@ -51388,7 +51388,7 @@
         "rank": 1,
         "proper_level": "-",
         "appear_m_stage_id": 0,
-        "name": "The Offering is a Huge Mirror Cake?",
+        "name": "A Huge Mirror Cake?",
         "bgm": "null_s",
         "boss_bgm": "null_s",
         "bg_id": 0,
@@ -51411,7 +51411,7 @@
         "rank": 1,
         "proper_level": "-",
         "appear_m_stage_id": 1004101101,
-        "name": "Here It Comes! Mirror Cake Prinny",
+        "name": "Mirror Cake Prinny",
         "bgm": "null_s",
         "boss_bgm": "null_s",
         "bg_id": 0,
@@ -51572,7 +51572,7 @@
         "rank": 1,
         "proper_level": "30",
         "appear_m_stage_id": 1004101108,
-        "name": "The Mirror Cake, All Worn Out",
+        "name": "Worn Out from Cake",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss02",
         "bg_id": 10002,
@@ -51710,7 +51710,7 @@
         "rank": 2,
         "proper_level": "316",
         "appear_m_stage_id": 1004101207,
-        "name": "The Mirror Cake, All Worn Out",
+        "name": "Worn Out from Cake",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss02",
         "bg_id": 10002,
@@ -51825,7 +51825,7 @@
         "rank": 3,
         "proper_level": "750",
         "appear_m_stage_id": 1004101307,
-        "name": "The Mirror Cake, All Worn Out",
+        "name": "Worn Out from Cake",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss02",
         "bg_id": 10002,
@@ -52377,7 +52377,7 @@
         "rank": 1,
         "proper_level": "56",
         "appear_m_stage_id": 1004103104,
-        "name": "Killia Wants His Rice Cakes ①",
+        "name": "Killia Wants His Cakes ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -52400,7 +52400,7 @@
         "rank": 1,
         "proper_level": "58",
         "appear_m_stage_id": 1004103105,
-        "name": "Killia Wants His Rice Cakes ②",
+        "name": "Killia Wants His Cakes ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -52538,7 +52538,7 @@
         "rank": 2,
         "proper_level": "348",
         "appear_m_stage_id": 1004103203,
-        "name": "Killia Wants His Rice Cakes ①",
+        "name": "Killia Wants His Cakes ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -52561,7 +52561,7 @@
         "rank": 2,
         "proper_level": "352",
         "appear_m_stage_id": 1004103205,
-        "name": "Killia Wants His Rice Cakes ②",
+        "name": "Killia Wants His Cakes ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -52653,7 +52653,7 @@
         "rank": 3,
         "proper_level": "840",
         "appear_m_stage_id": 1004103303,
-        "name": "Killia Wants His Rice Cakes ①",
+        "name": "Killia Wants His Cakes ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -52676,7 +52676,7 @@
         "rank": 3,
         "proper_level": "850",
         "appear_m_stage_id": 1004103305,
-        "name": "Killia Wants His Rice Cakes ②",
+        "name": "Killia Wants His Cakes ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 5,
@@ -53159,7 +53159,7 @@
         "rank": 1,
         "proper_level": "-",
         "appear_m_stage_id": 1004104109,
-        "name": "The Culprit Returns to the Scene",
+        "name": "The Culprit Returns...",
         "bgm": "null_s",
         "boss_bgm": "null_s",
         "bg_id": 0,
@@ -53251,7 +53251,7 @@
         "rank": 1,
         "proper_level": "96",
         "appear_m_stage_id": 1004105104,
-        "name": "This is OUR New Year, dood! ①",
+        "name": "This is OUR New Year! ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -53274,7 +53274,7 @@
         "rank": 1,
         "proper_level": "98",
         "appear_m_stage_id": 1004105105,
-        "name": "This is OUR New Year, dood! ②",
+        "name": "This is OUR New Year! ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -53297,7 +53297,7 @@
         "rank": 1,
         "proper_level": "-",
         "appear_m_stage_id": 1004105106,
-        "name": "Stubbornness of the Mirror Cake",
+        "name": "Stubbornness of the Cake",
         "bgm": "null_s",
         "boss_bgm": "null_s",
         "bg_id": 0,
@@ -53412,7 +53412,7 @@
         "rank": 2,
         "proper_level": "388",
         "appear_m_stage_id": 1004105203,
-        "name": "This is OUR New Year, dood! ①",
+        "name": "This is OUR New Year! ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -53435,7 +53435,7 @@
         "rank": 2,
         "proper_level": "392",
         "appear_m_stage_id": 1004105205,
-        "name": "This is OUR New Year, dood! ②",
+        "name": "This is OUR New Year! ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -53527,7 +53527,7 @@
         "rank": 3,
         "proper_level": "980",
         "appear_m_stage_id": 1004105303,
-        "name": "This is OUR New Year, dood! ①",
+        "name": "This is OUR New Year! ①",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -53550,7 +53550,7 @@
         "rank": 3,
         "proper_level": "1000",
         "appear_m_stage_id": 1004105305,
-        "name": "This is OUR New Year, dood! ②",
+        "name": "This is OUR New Year! ②",
         "bgm": "bgm_battle14",
         "boss_bgm": "bgm_boss01",
         "bg_id": 10002,
@@ -61061,7 +61061,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 1,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61084,7 +61084,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 2,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61107,7 +61107,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 3,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61130,7 +61130,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 4,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61153,7 +61153,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 5,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61176,7 +61176,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 6,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61199,7 +61199,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 7,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61222,7 +61222,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 8,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61245,7 +61245,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 9,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61268,7 +61268,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 10,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61291,7 +61291,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 11,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61314,7 +61314,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 12,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61337,7 +61337,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 13,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61360,7 +61360,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 14,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61383,7 +61383,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 15,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61406,7 +61406,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 16,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61429,7 +61429,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 17,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61452,7 +61452,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 18,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61475,7 +61475,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 19,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61498,7 +61498,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 20,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61521,7 +61521,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 21,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61544,7 +61544,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 22,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61567,7 +61567,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 23,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61590,7 +61590,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 24,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61613,7 +61613,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 25,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61636,7 +61636,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 26,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61659,7 +61659,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 27,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61682,7 +61682,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 28,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61705,7 +61705,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 29,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61728,7 +61728,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 30,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61751,7 +61751,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 31,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61774,7 +61774,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 32,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61797,7 +61797,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 33,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61820,7 +61820,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 34,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61843,7 +61843,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 35,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61866,7 +61866,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 36,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61889,7 +61889,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 37,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61912,7 +61912,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 38,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61935,7 +61935,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 39,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61958,7 +61958,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 40,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -61981,7 +61981,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 41,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62004,7 +62004,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 42,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62027,7 +62027,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 43,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62050,7 +62050,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 44,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62073,7 +62073,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 45,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62096,7 +62096,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 46,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62119,7 +62119,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 47,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62142,7 +62142,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 48,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62165,7 +62165,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 49,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -62188,7 +62188,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 50,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·Lower the HP, higher the boost on ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Status DOWN by Evilities \n·Immune to Status DOWN by Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·Lower the HP, higher the boost on ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64856,7 +64856,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 1,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64879,7 +64879,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 2,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64902,7 +64902,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 3,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64925,7 +64925,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 4,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64948,7 +64948,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 5,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64971,7 +64971,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 6,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -64994,7 +64994,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 7,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65017,7 +65017,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 8,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65040,7 +65040,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 9,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65063,7 +65063,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 10,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65086,7 +65086,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 11,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65109,7 +65109,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 12,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65132,7 +65132,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 13,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65155,7 +65155,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 14,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65178,7 +65178,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 15,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65201,7 +65201,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 16,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65224,7 +65224,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 17,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65247,7 +65247,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 18,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65270,7 +65270,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 19,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65293,7 +65293,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 20,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65316,7 +65316,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 21,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65339,7 +65339,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 22,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65362,7 +65362,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 23,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65385,7 +65385,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 24,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65408,7 +65408,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 25,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65431,7 +65431,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 26,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65454,7 +65454,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 27,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65477,7 +65477,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 28,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65500,7 +65500,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 29,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65523,7 +65523,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 30,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65546,7 +65546,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 31,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65569,7 +65569,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 32,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65592,7 +65592,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 33,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65615,7 +65615,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 34,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65638,7 +65638,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 35,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65661,7 +65661,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 36,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65684,7 +65684,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 37,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65707,7 +65707,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 38,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65730,7 +65730,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 39,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65753,7 +65753,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 40,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65776,7 +65776,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 41,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65799,7 +65799,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 42,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65822,7 +65822,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 43,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65845,7 +65845,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 44,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65868,7 +65868,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 45,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65891,7 +65891,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 46,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65914,7 +65914,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 47,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65937,7 +65937,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 48,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65960,7 +65960,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 49,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -65983,7 +65983,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 50,
-        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO\nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66006,7 +66006,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 1,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66029,7 +66029,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 2,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66052,7 +66052,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 3,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66075,7 +66075,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 4,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66098,7 +66098,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 5,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66121,7 +66121,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 6,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66144,7 +66144,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 7,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66167,7 +66167,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 8,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66190,7 +66190,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 9,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66213,7 +66213,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 10,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66236,7 +66236,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 11,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66259,7 +66259,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 12,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66282,7 +66282,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 13,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66305,7 +66305,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 14,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {
@@ -66328,7 +66328,7 @@
         "present_rarities": [],
         "present_nums": [],
         "sort": 15,
-        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Ailing Status \n·The Lower her HP, the higher the boost on her ATK & INT",
+        "description": "■Desco XENO Badass \nA super strong opponent with a variety of abilities! \n· Immune to Stat DOWN from Evilities \n·Immune to Stat DOWN from Skills \n·Immune to Action Gauge reduction \n·Immune to Status Ailments \n·The Lower her HP, the higher the boost on her ATK & INT",
         "display_info_flg": true
     },
     {

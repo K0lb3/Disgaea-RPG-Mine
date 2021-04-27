@@ -2690,7 +2690,7 @@
         "chara2_emotion": 0,
         "chara2_disabled": false,
         "chara2_in": 0,
-        "chara3_name": "Mysterious Cook",
+        "chara3_name": "Mysterious Chef",
         "chara3_direction": 1,
         "chara3_m_story_character_id": 3103,
         "chara3_emotion": 0,
@@ -5250,7 +5250,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 4,
-        "talk_text": "Get ready!\nLove Punch!!",
+        "talk_text": "Get ready!\nLove Knuckle!!",
         "screen_color": 0
     },
     {
@@ -5287,7 +5287,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "Love Punch's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
+        "talk_text": "Love Knuckle's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
         "screen_color": 0
     },
     {
@@ -64561,7 +64561,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "The screen suddenly turns black. \nAn effect sound then can be heard: Boom, pop, bang (attack sound).You then can hear a gun. \nIn the sky, there are some shooting stars.",
+        "talk_text": "The screen suddenly turns black. \nAn effect sound then can be heard: Boom, pop, bang (attack sound).You then can hear a gun. \nIn the sky, there are some Meteor Sky Spears.",
         "screen_color": 0
     },
     {
@@ -91719,7 +91719,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 4,
-        "talk_text": "Get ready!\nLove Punch!!",
+        "talk_text": "Get ready!\nLove Knuckle!!",
         "screen_color": 1
     },
     {
@@ -91756,7 +91756,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "Love Punch's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
+        "talk_text": "Love Knuckle's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
         "screen_color": 1
     },
     {

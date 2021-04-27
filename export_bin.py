@@ -4,7 +4,7 @@ import json
 
 ROOT = os.path.dirname(os.path.realpath(__file__))
 # path to the decrypted xd master files - can be found in internal/Android/com.boltrend.disgaea.en/files/Boltrend/XDMaster
-xdmaster_path = r"D:\Datamine\DRPG global\typetre_test\com.boltrend.disgaea.en\files\Boltrend\XDMaster"
+xdmaster_path = os.path.join(ROOT, "Boltrend","XDMaster")
 # same as in generate_structs
 struct_path = os.path.join(ROOT, "structs")
 # path to dump the decoded files into

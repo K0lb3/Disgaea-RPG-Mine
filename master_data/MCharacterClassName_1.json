@@ -159,25 +159,25 @@
         "id": 53,
         "m_character_id": 5,
         "rarity": 3,
-        "class_name": "Bespectacled Nerd"
+        "class_name": "Experiment Maniac"
     },
     {
         "id": 54,
         "m_character_id": 5,
         "rarity": 4,
-        "class_name": "Evil Honor Student"
+        "class_name": "Evil Acad. Honor Student"
     },
     {
         "id": 55,
         "m_character_id": 5,
         "rarity": 5,
-        "class_name": "Evil Student Leader"
+        "class_name": "Evil Acad. Class Leader"
     },
     {
         "id": 56,
         "m_character_id": 5,
         "rarity": 6,
-        "class_name": "The Dean of Evil"
+        "class_name": "Evil Academy Dean"
     },
     {
         "id": 61,
@@ -345,7 +345,7 @@
         "id": 104,
         "m_character_id": 10,
         "rarity": 4,
-        "class_name": "The Only Daughter"
+        "class_name": "Overlord's Only Daughter"
     },
     {
         "id": 105,
@@ -363,13 +363,13 @@
         "id": 111,
         "m_character_id": 11,
         "rarity": 1,
-        "class_name": "Old Fashioned"
+        "class_name": "Has-Been"
     },
     {
         "id": 112,
         "m_character_id": 11,
         "rarity": 2,
-        "class_name": "Old Fashioned"
+        "class_name": "Has-Been"
     },
     {
         "id": 113,
@@ -495,7 +495,7 @@
         "id": 145,
         "m_character_id": 14,
         "rarity": 5,
-        "class_name": "President of the Netherworld"
+        "class_name": "Netherworld President"
     },
     {
         "id": 146,
@@ -573,7 +573,7 @@
         "id": 166,
         "m_character_id": 16,
         "rarity": 6,
-        "class_name": "Biggest Badass Queen"
+        "class_name": "Badass Atrocious Queen"
     },
     {
         "id": 171,
@@ -723,13 +723,13 @@
         "id": 211,
         "m_character_id": 21,
         "rarity": 1,
-        "class_name": "Platonic Love"
+        "class_name": "Brother Supporter"
     },
     {
         "id": 212,
         "m_character_id": 21,
         "rarity": 2,
-        "class_name": "Platonic Love"
+        "class_name": "Brother Supporter"
     },
     {
         "id": 213,
@@ -747,7 +747,7 @@
         "id": 215,
         "m_character_id": 21,
         "rarity": 5,
-        "class_name": "A Netherangel, An Overlord-to-be"
+        "class_name": "Angelic Overlord Trainee"
     },
     {
         "id": 216,
@@ -819,25 +819,25 @@
         "id": 235,
         "m_character_id": 23,
         "rarity": 5,
-        "class_name": "Second Leader"
+        "class_name": "Evil Sophomore Class Leader"
     },
     {
         "id": 236,
         "m_character_id": 23,
         "rarity": 6,
-        "class_name": "Evil Student Union President"
+        "class_name": "Evil Student Council President"
     },
     {
         "id": 241,
         "m_character_id": 24,
         "rarity": 1,
-        "class_name": "Evil Academy Repeat"
+        "class_name": "Evil Academy Repeat Senior"
     },
     {
         "id": 242,
         "m_character_id": 24,
         "rarity": 2,
-        "class_name": "Evil Academy Repeat"
+        "class_name": "Evil Academy Repeat Senior"
     },
     {
         "id": 243,
@@ -855,7 +855,7 @@
         "id": 245,
         "m_character_id": 24,
         "rarity": 5,
-        "class_name": "Diez Gentleman the best Warrior"
+        "class_name": "Strongest Diez Gentleman"
     },
     {
         "id": 246,
@@ -891,7 +891,7 @@
         "id": 255,
         "m_character_id": 25,
         "rarity": 5,
-        "class_name": "Thunder Hell Strike"
+        "class_name": "One Punch Woman"
     },
     {
         "id": 256,
@@ -903,19 +903,19 @@
         "id": 261,
         "m_character_id": 26,
         "rarity": 1,
-        "class_name": "Human No Trust"
+        "class_name": "Misanthrope"
     },
     {
         "id": 262,
         "m_character_id": 26,
         "rarity": 2,
-        "class_name": "Human No Trust"
+        "class_name": "Misanthrope"
     },
     {
         "id": 263,
         "m_character_id": 26,
         "rarity": 3,
-        "class_name": "Human No Like"
+        "class_name": "Human Hater"
     },
     {
         "id": 264,
@@ -939,13 +939,13 @@
         "id": 271,
         "m_character_id": 27,
         "rarity": 1,
-        "class_name": "Don't Remember Nothin'"
+        "class_name": "Amnesiac"
     },
     {
         "id": 272,
         "m_character_id": 27,
         "rarity": 2,
-        "class_name": "Don't Remember Nothin'"
+        "class_name": "Amnesiac"
     },
     {
         "id": 273,
@@ -1035,7 +1035,7 @@
         "id": 295,
         "m_character_id": 29,
         "rarity": 5,
-        "class_name": "Transfer Student from the Human World"
+        "class_name": "Human World Transfer Student"
     },
     {
         "id": 296,
@@ -1065,19 +1065,19 @@
         "id": 304,
         "m_character_id": 30,
         "rarity": 4,
-        "class_name": "The ONLY Daughter of the Dean"
+        "class_name": "Dean's Only Daughter"
     },
     {
         "id": 305,
         "m_character_id": 30,
         "rarity": 5,
-        "class_name": "Class Representative of the Majin Academy"
+        "class_name": "Majin Academy Class Rep"
     },
     {
         "id": 306,
         "m_character_id": 30,
         "rarity": 6,
-        "class_name": "Slaughter Union President of the Majin Academy"
+        "class_name": "Majin Academy Student Body President"
     },
     {
         "id": 311,
@@ -1221,7 +1221,7 @@
         "id": 346,
         "m_character_id": 34,
         "rarity": 6,
-        "class_name": "The Best Archangel of All Time"
+        "class_name": "Best Archangel Ever"
     },
     {
         "id": 351,
@@ -1287,7 +1287,7 @@
         "id": 365,
         "m_character_id": 36,
         "rarity": 5,
-        "class_name": "The Archangel's Right Hand"
+        "class_name": "Archangel's Assistant"
     },
     {
         "id": 366,
@@ -1323,13 +1323,13 @@
         "id": 375,
         "m_character_id": 37,
         "rarity": 5,
-        "class_name": "Sister-O-War"
+        "class_name": "Field Medic Nun"
     },
     {
         "id": 376,
         "m_character_id": 37,
         "rarity": 6,
-        "class_name": "Sister of Fragile Destiny"
+        "class_name": "Ill-Fated Nun"
     },
     {
         "id": 381,
@@ -1347,13 +1347,13 @@
         "id": 383,
         "m_character_id": 38,
         "rarity": 3,
-        "class_name": "Bloodthirsty Demon"
+        "class_name": "Blood-Starved Demon"
     },
     {
         "id": 384,
         "m_character_id": 38,
         "rarity": 4,
-        "class_name": "Vampire"
+        "class_name": "Ancient Vampire"
     },
     {
         "id": 385,
@@ -1509,25 +1509,25 @@
         "id": 426,
         "m_character_id": 42,
         "rarity": 6,
-        "class_name": "Biggest Badass Majin"
+        "class_name": "Badass Majin Lord"
     },
     {
         "id": 431,
         "m_character_id": 43,
         "rarity": 1,
-        "class_name": "Protagonist of ANOTHER GAME?"
+        "class_name": "Another Game's Protagonist?"
     },
     {
         "id": 432,
         "m_character_id": 43,
         "rarity": 2,
-        "class_name": "Protagonist of ANOTHER GAME?"
+        "class_name": "Another Game's Protagonist?"
     },
     {
         "id": 433,
         "m_character_id": 43,
         "rarity": 3,
-        "class_name": "Protagonist of ANOTHER GAME?"
+        "class_name": "Another Game's Protagonist?"
     },
     {
         "id": 434,
@@ -1545,19 +1545,19 @@
         "id": 436,
         "m_character_id": 43,
         "rarity": 6,
-        "class_name": "Protagonist of ANOTHER GAME!"
+        "class_name": "Another Game's Protagonist!"
     },
     {
         "id": 441,
         "m_character_id": 44,
         "rarity": 1,
-        "class_name": "Studying to Be a Defender"
+        "class_name": "Provisional Defender"
     },
     {
         "id": 442,
         "m_character_id": 44,
         "rarity": 2,
-        "class_name": "Studying to Be a Defender"
+        "class_name": "Provisional Defender"
     },
     {
         "id": 443,
@@ -1587,13 +1587,13 @@
         "id": 451,
         "m_character_id": 45,
         "rarity": 1,
-        "class_name": "The Best Dose of Nudity"
+        "class_name": "Skimpy Sidekick"
     },
     {
         "id": 452,
         "m_character_id": 45,
         "rarity": 2,
-        "class_name": "The Best Dose of Nudity"
+        "class_name": "Skimpy Sidekick"
     },
     {
         "id": 453,
@@ -1605,7 +1605,7 @@
         "id": 454,
         "m_character_id": 45,
         "rarity": 4,
-        "class_name": "Sidekick of Defender"
+        "class_name": "Sidekick Defender of Earth"
     },
     {
         "id": 455,
@@ -1623,13 +1623,13 @@
         "id": 461,
         "m_character_id": 46,
         "rarity": 1,
-        "class_name": "Unlicensed Cook"
+        "class_name": "Unlicensed Chef"
     },
     {
         "id": 462,
         "m_character_id": 46,
         "rarity": 2,
-        "class_name": "Unlicensed Cook"
+        "class_name": "Unlicensed Chef"
     },
     {
         "id": 463,
@@ -1641,7 +1641,7 @@
         "id": 464,
         "m_character_id": 46,
         "rarity": 4,
-        "class_name": "Mysterious Cook"
+        "class_name": "Mysterious Chef"
     },
     {
         "id": 465,
@@ -1653,7 +1653,7 @@
         "id": 466,
         "m_character_id": 46,
         "rarity": 6,
-        "class_name": "Nether Chef"
+        "class_name": "Netherworld's Top Chef"
     },
     {
         "id": 471,
@@ -1839,7 +1839,7 @@
         "id": 10011,
         "m_character_id": 1001,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10012,
@@ -1875,7 +1875,7 @@
         "id": 10021,
         "m_character_id": 1002,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10022,
@@ -1911,7 +1911,7 @@
         "id": 10031,
         "m_character_id": 1003,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10032,
@@ -1947,7 +1947,7 @@
         "id": 10041,
         "m_character_id": 1004,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10042,
@@ -1983,7 +1983,7 @@
         "id": 10051,
         "m_character_id": 1005,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10052,
@@ -2019,7 +2019,7 @@
         "id": 10061,
         "m_character_id": 1006,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10062,
@@ -2055,7 +2055,7 @@
         "id": 10071,
         "m_character_id": 1007,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10072,
@@ -2091,7 +2091,7 @@
         "id": 10081,
         "m_character_id": 1008,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10082,
@@ -2127,7 +2127,7 @@
         "id": 10091,
         "m_character_id": 1009,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10092,
@@ -2163,7 +2163,7 @@
         "id": 10101,
         "m_character_id": 1010,
         "rarity": 1,
-        "class_name": "Just a Commoner"
+        "class_name": "Scrub"
     },
     {
         "id": 10102,
@@ -2199,25 +2199,25 @@
         "id": 10111,
         "m_character_id": 1011,
         "rarity": 1,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10112,
         "m_character_id": 1011,
         "rarity": 2,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10113,
         "m_character_id": 1011,
         "rarity": 3,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10114,
         "m_character_id": 1011,
         "rarity": 4,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10115,
@@ -2235,25 +2235,25 @@
         "id": 10121,
         "m_character_id": 1012,
         "rarity": 1,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10122,
         "m_character_id": 1012,
         "rarity": 2,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10123,
         "m_character_id": 1012,
         "rarity": 3,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10124,
         "m_character_id": 1012,
         "rarity": 4,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 10125,
@@ -2391,19 +2391,19 @@
         "id": 10163,
         "m_character_id": 1016,
         "rarity": 3,
-        "class_name": "Underling of Red Magnus"
+        "class_name": "Magnus's Vassal"
     },
     {
         "id": 10164,
         "m_character_id": 1016,
         "rarity": 4,
-        "class_name": "Underling of Red Magnus (Kai)"
+        "class_name": "Magnus's Vassal (Kai)"
     },
     {
         "id": 10165,
         "m_character_id": 1016,
         "rarity": 5,
-        "class_name": "True - Underling of Red Magnus"
+        "class_name": "Perfect Magnus's Vassal"
     },
     {
         "id": 10166,
@@ -2535,13 +2535,13 @@
         "id": 100033,
         "m_character_id": 10003,
         "rarity": 3,
-        "class_name": "Champ of Fighters"
+        "class_name": "Fight Artist"
     },
     {
         "id": 100034,
         "m_character_id": 10003,
         "rarity": 4,
-        "class_name": "Carnage Princess"
+        "class_name": "Champ of Fighters"
     },
     {
         "id": 100035,
@@ -4155,13 +4155,13 @@
         "id": 200023,
         "m_character_id": 20002,
         "rarity": 3,
-        "class_name": "Somewhat Villainous Beryl"
+        "class_name": "Wild Beryl"
     },
     {
         "id": 200024,
         "m_character_id": 20002,
         "rarity": 4,
-        "class_name": "Delinquent Student"
+        "class_name": "Evil Academy Delinquent"
     },
     {
         "id": 200025,
@@ -4239,7 +4239,7 @@
         "id": 200045,
         "m_character_id": 20004,
         "rarity": 5,
-        "class_name": "The Biggest Badass Final Boss"
+        "class_name": "Ultimate Evil Final Boss"
     },
     {
         "id": 200046,
@@ -4323,19 +4323,19 @@
         "id": 200071,
         "m_character_id": 20007,
         "rarity": 1,
-        "class_name": "President of the Netherworld"
+        "class_name": "Netherworld President"
     },
     {
         "id": 200072,
         "m_character_id": 20007,
         "rarity": 2,
-        "class_name": "President of the Netherworld"
+        "class_name": "Netherworld President"
     },
     {
         "id": 200073,
         "m_character_id": 20007,
         "rarity": 3,
-        "class_name": "President of the Netherworld"
+        "class_name": "Netherworld President"
     },
     {
         "id": 200074,
@@ -4347,7 +4347,7 @@
         "id": 200075,
         "m_character_id": 20007,
         "rarity": 5,
-        "class_name": "President of the Netherworld"
+        "class_name": "Netherworld President"
     },
     {
         "id": 200076,
@@ -4359,13 +4359,13 @@
         "id": 200081,
         "m_character_id": 20008,
         "rarity": 1,
-        "class_name": "Aniya"
+        "class_name": "Piece of Junk"
     },
     {
         "id": 200082,
         "m_character_id": 20008,
         "rarity": 2,
-        "class_name": "Aniya"
+        "class_name": "Piece of Junk"
     },
     {
         "id": 200083,
@@ -4383,7 +4383,7 @@
         "id": 200085,
         "m_character_id": 20008,
         "rarity": 5,
-        "class_name": "Sidekick of Defender"
+        "class_name": "Sidekick Defender of Earth"
     },
     {
         "id": 200086,
@@ -4419,13 +4419,13 @@
         "id": 200095,
         "m_character_id": 20009,
         "rarity": 5,
-        "class_name": "Here for Ration"
+        "class_name": "School Lunch Monitor"
     },
     {
         "id": 200096,
         "m_character_id": 20009,
         "rarity": 6,
-        "class_name": "Student of the Evil Academy"
+        "class_name": "Evil Academy Student"
     },
     {
         "id": 200101,
@@ -5007,19 +5007,19 @@
         "id": 210081,
         "m_character_id": 21008,
         "rarity": 1,
-        "class_name": "Spirit Interment Overlord (Deceased)"
+        "class_name": "Late Overlord of Spirit Interment"
     },
     {
         "id": 210082,
         "m_character_id": 21008,
         "rarity": 2,
-        "class_name": "Spirit Interment Overlord (Deceased)"
+        "class_name": "Late Overlord of Spirit Interment"
     },
     {
         "id": 210083,
         "m_character_id": 21008,
         "rarity": 3,
-        "class_name": "Spirit Interment Overlord (Deceased)"
+        "class_name": "Late Overlord of Spirit Interment"
     },
     {
         "id": 210084,
@@ -5031,13 +5031,13 @@
         "id": 210085,
         "m_character_id": 21008,
         "rarity": 5,
-        "class_name": "Still an Overlord Even If Rotten, Literally"
+        "class_name": "Decomposing Overlord"
     },
     {
         "id": 210086,
         "m_character_id": 21008,
         "rarity": 6,
-        "class_name": "Spirit Interment Overlord (Deceased)"
+        "class_name": "Late Overlord of Spirit Interment"
     },
     {
         "id": 210091,
@@ -5097,7 +5097,7 @@
         "id": 210104,
         "m_character_id": 21010,
         "rarity": 4,
-        "class_name": "Chūnibyō"
+        "class_name": "Manchild Syndrome"
     },
     {
         "id": 210105,
@@ -5133,7 +5133,7 @@
         "id": 210114,
         "m_character_id": 21011,
         "rarity": 4,
-        "class_name": "Poisoned"
+        "class_name": "Toxaholic"
     },
     {
         "id": 210115,
@@ -5151,13 +5151,13 @@
         "id": 210121,
         "m_character_id": 21012,
         "rarity": 1,
-        "class_name": "Mob Character"
+        "class_name": "Generic Unit"
     },
     {
         "id": 210122,
         "m_character_id": 21012,
         "rarity": 2,
-        "class_name": "Mob Character"
+        "class_name": "Generic Unit"
     },
     {
         "id": 210123,
@@ -10647,7 +10647,7 @@
         "id": 500121,
         "m_character_id": 54,
         "rarity": 5,
-        "class_name": "Oresama of Holy Night Santa"
+        "class_name": "Atrocious Yuletide Santa"
     },
     {
         "id": 500122,
@@ -10659,31 +10659,31 @@
         "id": 500123,
         "m_character_id": 55,
         "rarity": 1,
-        "class_name": "Mage of the Holy Night"
+        "class_name": "Yuletide Mage"
     },
     {
         "id": 500124,
         "m_character_id": 55,
         "rarity": 2,
-        "class_name": "Mage of the Holy Night"
+        "class_name": "Yuletide Mage"
     },
     {
         "id": 500125,
         "m_character_id": 55,
         "rarity": 3,
-        "class_name": "Mage of the Holy Night"
+        "class_name": "Yuletide Mage"
     },
     {
         "id": 500126,
         "m_character_id": 55,
         "rarity": 4,
-        "class_name": "Mage of the Holy Night"
+        "class_name": "Yuletide Mage"
     },
     {
         "id": 500127,
         "m_character_id": 55,
         "rarity": 5,
-        "class_name": "Mage of the wannabe Santa"
+        "class_name": "Wannabe Santa Mage"
     },
     {
         "id": 500128,
@@ -10695,19 +10695,19 @@
         "id": 500129,
         "m_character_id": 20020,
         "rarity": 1,
-        "class_name": "Rabbit Overlord of the Holy Night"
+        "class_name": "Yuletide Rabbit Overlord"
     },
     {
         "id": 500130,
         "m_character_id": 20020,
         "rarity": 2,
-        "class_name": "Rabbit Overlord of the Holy Night"
+        "class_name": "Yuletide Rabbit Overlord"
     },
     {
         "id": 500131,
         "m_character_id": 20020,
         "rarity": 3,
-        "class_name": "Rabbit Overlord of the Holy Night"
+        "class_name": "Yuletide Rabbit Overlord"
     },
     {
         "id": 500132,
@@ -10725,7 +10725,7 @@
         "id": 500134,
         "m_character_id": 20020,
         "rarity": 6,
-        "class_name": "THE Curry Santa"
+        "class_name": "Santa of Curry"
     },
     {
         "id": 500135,
@@ -10755,7 +10755,7 @@
         "id": 500139,
         "m_character_id": 56,
         "rarity": 5,
-        "class_name": "Ms. Newyear"
+        "class_name": "Miss New Year"
     },
     {
         "id": 500140,

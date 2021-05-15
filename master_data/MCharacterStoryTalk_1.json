@@ -9468,7 +9468,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "It's called \"The Cross\". \nYou are wandering around the town \nfor groceries..."
+        "talk_text": "It's called \"The Closing\". \nYou are wandering around the town \nfor groceries..."
     },
     {
         "id": 862,
@@ -9490,7 +9490,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "\"Coronavirus. Closed until further notice.\" \nCoronavirus... \nCoro...s..."
+        "talk_text": "\"Closed until further notice.\" \nThere are no groceries here... \nThere is the dreaded..."
     },
     {
         "id": 864,
@@ -9501,7 +9501,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 4,
-        "talk_text": "Cross!!"
+        "talk_text": "Closing!!"
     },
     {
         "id": 865,

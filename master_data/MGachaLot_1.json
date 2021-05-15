@@ -1384,5 +1384,41 @@
         "m_gacha_id": 1234563,
         "m_gacha_group_id": 12345634,
         "rate": 30
+    },
+    {
+        "id": 12345642,
+        "m_gacha_id": 1234564,
+        "m_gacha_group_id": 12345642,
+        "rate": 800
+    },
+    {
+        "id": 12345643,
+        "m_gacha_id": 1234564,
+        "m_gacha_group_id": 12345643,
+        "rate": 170
+    },
+    {
+        "id": 12345644,
+        "m_gacha_id": 1234564,
+        "m_gacha_group_id": 12345644,
+        "rate": 30
+    },
+    {
+        "id": 12345652,
+        "m_gacha_id": 1234565,
+        "m_gacha_group_id": 12345652,
+        "rate": 800
+    },
+    {
+        "id": 12345653,
+        "m_gacha_id": 1234565,
+        "m_gacha_group_id": 12345653,
+        "rate": 170
+    },
+    {
+        "id": 12345654,
+        "m_gacha_id": 1234565,
+        "m_gacha_group_id": 12345654,
+        "rate": 30
     }
 ]

@@ -274,5 +274,47 @@
         "m_gacha_id": 1234563,
         "gacha_num": 1,
         "resource_name": "common_pay"
+    },
+    {
+        "id": 47,
+        "m_gacha_id": 1234564,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 48,
+        "m_gacha_id": 1234565,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 49,
+        "m_gacha_id": 1234566,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 50,
+        "m_gacha_id": 1234567,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 51,
+        "m_gacha_id": 1234568,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 52,
+        "m_gacha_id": 1234569,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 53,
+        "m_gacha_id": 200010,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
     }
 ]

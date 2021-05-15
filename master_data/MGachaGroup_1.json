@@ -1443,5 +1443,35 @@
         "id": 12345634,
         "name": "Nether New Year Summon Once per day",
         "rarity": 4
+    },
+    {
+        "id": 12345642,
+        "name": "Defender of Earth Summon Once per day",
+        "rarity": 2
+    },
+    {
+        "id": 12345643,
+        "name": "Defender of Earth Summon Once per day",
+        "rarity": 3
+    },
+    {
+        "id": 12345644,
+        "name": "Defender of Earth Summon Once per day",
+        "rarity": 4
+    },
+    {
+        "id": 12345652,
+        "name": "Nether Beauty Summon Once per day",
+        "rarity": 2
+    },
+    {
+        "id": 12345653,
+        "name": "Nether Beauty Summon Once per day",
+        "rarity": 3
+    },
+    {
+        "id": 12345654,
+        "name": "Nether Beauty Summon Once per day",
+        "rarity": 4
     }
 ]

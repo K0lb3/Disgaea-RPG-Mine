@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "after_t_data": "ReceiveRewardUpdatePlayerData",
+        "raid_rewards": "RaidRewardPresentData[]",
+        "contribution_rewards": "RaidRewardPresentData[]",
+        "rank": "Int32",
+        "gacha_present_item_ids": "UInt64[]"
+    },
+    "properties": {
+        "AfterTData": "ReceiveRewardUpdatePlayerData",
+        "RaidRewards": "RaidRewardPresentData[]",
+        "ContributionRewards": "RaidRewardPresentData[]",
+        "Rank": "Int32",
+        "GachaPresentItemIds": "UInt64[]"
+    }
+}

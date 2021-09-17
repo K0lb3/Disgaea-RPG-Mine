@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "keys": "Object[]",
+        "values": "Object[]",
+        "_size": "Int32",
+        "version": "Int32",
+        "comparer": "IComparer"
+    },
+    "properties": {
+        "Capacity": "Int32",
+        "Count": "Int32",
+        "Keys": "ICollection",
+        "Values": "ICollection",
+        "IsReadOnly": "Boolean",
+        "IsFixedSize": "Boolean",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object",
+        "Item": "Object"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_item_id": "UInt64",
+        "m_innocent_id": "UInt64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MItemId": "UInt64",
+        "MInnocentId": "UInt64"
+    }
+}

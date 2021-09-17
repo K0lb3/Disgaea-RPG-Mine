@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "_culture": "CultureInfo"
+    },
+    "properties": {
+        "CaseSensitive": "Boolean",
+        "RemotingFormat": "SerializationFormat",
+        "ChildRelations": "DataRelationCollection",
+        "Columns": "DataColumnCollection",
+        "Constraints": "ConstraintCollection",
+        "DataSet": "DataSet",
+        "ExtendedProperties": "PropertyCollection",
+        "Locale": "CultureInfo",
+        "MinimumCapacity": "Int32",
+        "ParentRelations": "DataRelationCollection",
+        "PrimaryKey": "DataColumn[]",
+        "Rows": "DataRowCollection",
+        "TableName": "String",
+        "Namespace": "String",
+        "Prefix": "String"
+    }
+}

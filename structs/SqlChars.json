@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "_state": "SqlBytesCharsState"
+    },
+    "properties": {
+        "IsNull": "Boolean",
+        "Buffer": "Char[]",
+        "Length": "Int64",
+        "Value": "Char[]"
+    }
+}

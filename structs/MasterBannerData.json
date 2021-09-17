@@ -1,47 +1,26 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "action_type": "String",
+        "action_param": "String",
+        "option_param": "String",
+        "period_text": "String",
+        "sort": "Int32",
+        "resource_name": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "action_type",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "action_param",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "option_param",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "period_text",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 64
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 72
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 80
+    "properties": {
+        "Id": "UInt64",
+        "ActionType": "eActionType",
+        "ActionParam": "String",
+        "OptionParam": "String",
+        "PeriodText": "String",
+        "Sort": "Int32",
+        "ResourceName": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

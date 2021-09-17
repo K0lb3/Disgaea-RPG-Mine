@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "ns": "XNamespace"
+    },
+    "properties": {
+        "LocalName": "String",
+        "Namespace": "XNamespace",
+        "NamespaceName": "String"
+    }
+}

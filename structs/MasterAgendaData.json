@@ -1,72 +1,39 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "agenda_type": "Int32",
+        "agenda_rank": "Int32",
+        "point": "Int32",
+        "base_rate": "Int32",
+        "effect_value": "String",
+        "lowmaker_lv": "Int32",
+        "release_type": "Int32",
+        "release_param": "String",
+        "appear_m_agenda_id": "UInt64",
+        "title": "String",
+        "sort": "Int32",
+        "help_resource_name": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "int",
-        "name": "agenda_type",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "agenda_rank",
-        "offset": 28
-    },
-    {
-        "type": "int",
-        "name": "point",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "base_rate",
-        "offset": 36
-    },
-    {
-        "type": "string",
-        "name": "effect_value",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "lowmaker_lv",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "release_type",
-        "offset": 52
-    },
-    {
-        "type": "int",
-        "name": "release_param",
-        "offset": 56
-    },
-    {
-        "type": "ulong",
-        "name": "appear_m_agenda_id",
-        "offset": 64
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 80
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 88
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 96
+    "properties": {
+        "Id": "UInt64",
+        "AgendaType": "AgendaTypes",
+        "AgendaRank": "Int32",
+        "Point": "Int32",
+        "BaseRate": "Int32",
+        "EffectValue": "String",
+        "MSwitchResourceId": "UInt64",
+        "LowmakerLv": "Int32",
+        "ReleaseType": "Int32",
+        "ReleaseParam": "String",
+        "AppearMAgendaId": "UInt64",
+        "Title": "String",
+        "Sort": "Int32",
+        "HelpResourcesName": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

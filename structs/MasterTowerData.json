@@ -1,77 +1,37 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "no": "Int32",
+        "floor_type": "Int32",
+        "name": "String",
+        "description": "String",
+        "proper_level": "String",
+        "bgm": "String",
+        "boss_bgm": "String",
+        "bg_id": "Int32",
+        "sort": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "is_top": "Boolean"
     },
-    {
-        "type": "int",
-        "name": "no",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "floor_type",
-        "offset": 28
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "proper_level",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "bgm",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "boss_bgm",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "bg_id",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 80
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 88
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 100
-    },
-    {
-        "type": "bool",
-        "name": "is_top",
-        "offset": 104
+    "properties": {
+        "Id": "UInt64",
+        "No": "Int32",
+        "FloorType": "Int32",
+        "Name": "String",
+        "Description": "String",
+        "ProperLevel": "String",
+        "Bgm": "String",
+        "BossBgm": "String",
+        "BgId": "Int32",
+        "Sort": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "IsTop": "Boolean",
+        "Reward": "RewardData"
     }
-]
+}

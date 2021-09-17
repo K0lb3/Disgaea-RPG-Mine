@@ -400,6 +400,206 @@
         "present_num": 50
     },
     {
+        "id": 111,
+        "m_area_id": 111,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 112,
+        "m_area_id": 112,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 113,
+        "m_area_id": 113,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 114,
+        "m_area_id": 114,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 115,
+        "m_area_id": 115,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 121,
+        "m_area_id": 121,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 122,
+        "m_area_id": 122,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 123,
+        "m_area_id": 123,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 124,
+        "m_area_id": 124,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 125,
+        "m_area_id": 125,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 131,
+        "m_area_id": 131,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 132,
+        "m_area_id": 132,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 133,
+        "m_area_id": 133,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 134,
+        "m_area_id": 134,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 135,
+        "m_area_id": 135,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 141,
+        "m_area_id": 141,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 142,
+        "m_area_id": 142,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 143,
+        "m_area_id": 143,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 144,
+        "m_area_id": 144,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 145,
+        "m_area_id": 145,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 151,
+        "m_area_id": 151,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 152,
+        "m_area_id": 152,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 153,
+        "m_area_id": 153,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 154,
+        "m_area_id": 154,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 155,
+        "m_area_id": 155,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
         "id": 90101,
         "m_area_id": 90101,
         "present_type": 1,
@@ -506,6 +706,54 @@
     {
         "id": 90114,
         "m_area_id": 90114,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90401,
+        "m_area_id": 90401,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90402,
+        "m_area_id": 90402,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90403,
+        "m_area_id": 90403,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90404,
+        "m_area_id": 90404,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90405,
+        "m_area_id": 90405,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 90406,
+        "m_area_id": 90406,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
@@ -640,6 +888,14 @@
         "present_num": 50
     },
     {
+        "id": 90701,
+        "m_area_id": 90701,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
         "id": 200111,
         "m_area_id": 200111,
         "present_type": 1,
@@ -714,6 +970,46 @@
     {
         "id": 200215,
         "m_area_id": 200215,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 200311,
+        "m_area_id": 200311,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 200312,
+        "m_area_id": 200312,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 200313,
+        "m_area_id": 200313,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 200314,
+        "m_area_id": 200314,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 200315,
+        "m_area_id": 200315,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
@@ -1040,6 +1336,446 @@
         "present_num": 50
     },
     {
+        "id": 1038101,
+        "m_area_id": 1038101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1038102,
+        "m_area_id": 1038102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1038103,
+        "m_area_id": 1038103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1038104,
+        "m_area_id": 1038104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1038105,
+        "m_area_id": 1038105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1041101,
+        "m_area_id": 1041101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1041102,
+        "m_area_id": 1041102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1041103,
+        "m_area_id": 1041103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1041104,
+        "m_area_id": 1041104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1041105,
+        "m_area_id": 1041105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1047101,
+        "m_area_id": 1047101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1047102,
+        "m_area_id": 1047102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1047103,
+        "m_area_id": 1047103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1047104,
+        "m_area_id": 1047104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1047105,
+        "m_area_id": 1047105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1054101,
+        "m_area_id": 1054101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1054102,
+        "m_area_id": 1054102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1054103,
+        "m_area_id": 1054103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1054104,
+        "m_area_id": 1054104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1054105,
+        "m_area_id": 1054105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1058101,
+        "m_area_id": 1058101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1058102,
+        "m_area_id": 1058102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1058103,
+        "m_area_id": 1058103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1058104,
+        "m_area_id": 1058104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1058105,
+        "m_area_id": 1058105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1061101,
+        "m_area_id": 1061101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1061102,
+        "m_area_id": 1061102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1061103,
+        "m_area_id": 1061103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1061104,
+        "m_area_id": 1061104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1061105,
+        "m_area_id": 1061105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1066101,
+        "m_area_id": 1066101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1066102,
+        "m_area_id": 1066102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1066103,
+        "m_area_id": 1066103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1066104,
+        "m_area_id": 1066104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1066105,
+        "m_area_id": 1066105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1073101,
+        "m_area_id": 1073101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1073102,
+        "m_area_id": 1073102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1073103,
+        "m_area_id": 1073103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1073104,
+        "m_area_id": 1073104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1073105,
+        "m_area_id": 1073105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1079101,
+        "m_area_id": 1079101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1079102,
+        "m_area_id": 1079102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1079103,
+        "m_area_id": 1079103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1079104,
+        "m_area_id": 1079104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1079105,
+        "m_area_id": 1079105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1082101,
+        "m_area_id": 1082101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1082102,
+        "m_area_id": 1082102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1082103,
+        "m_area_id": 1082103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1082104,
+        "m_area_id": 1082104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1082105,
+        "m_area_id": 1082105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1090101,
+        "m_area_id": 1090101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1090102,
+        "m_area_id": 1090102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1090103,
+        "m_area_id": 1090103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1090104,
+        "m_area_id": 1090104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 1090105,
+        "m_area_id": 1090105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
         "id": 2001101,
         "m_area_id": 2001101,
         "present_type": 1,
@@ -1194,6 +1930,166 @@
     {
         "id": 2012105,
         "m_area_id": 2012105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2015101,
+        "m_area_id": 2015101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2015102,
+        "m_area_id": 2015102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2015103,
+        "m_area_id": 2015103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2015104,
+        "m_area_id": 2015104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2015105,
+        "m_area_id": 2015105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2021101,
+        "m_area_id": 2021101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2021102,
+        "m_area_id": 2021102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2021103,
+        "m_area_id": 2021103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2021104,
+        "m_area_id": 2021104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2021105,
+        "m_area_id": 2021105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2026101,
+        "m_area_id": 2026101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2026102,
+        "m_area_id": 2026102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2026103,
+        "m_area_id": 2026103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2026104,
+        "m_area_id": 2026104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2026105,
+        "m_area_id": 2026105,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2035101,
+        "m_area_id": 2035101,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2035102,
+        "m_area_id": 2035102,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2035103,
+        "m_area_id": 2035103,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2035104,
+        "m_area_id": 2035104,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 2035105,
+        "m_area_id": 2035105,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,

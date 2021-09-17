@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "magnitude": "Int32[]",
+        "sign": "Int32"
+    },
+    "properties": {
+        "BitCount": "Int32",
+        "BitLength": "Int32",
+        "IntValue": "Int32",
+        "LongValue": "Int64",
+        "SignValue": "Int32"
+    }
+}

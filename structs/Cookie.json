@@ -1,0 +1,28 @@
+{
+    "fields": {
+        "m_comment": "String",
+        "m_discard": "Boolean",
+        "m_domain": "String",
+        "m_domain_implicit": "Boolean",
+        "m_expires": "DateTime",
+        "m_name": "String",
+        "m_path": "String",
+        "m_path_implicit": "Boolean",
+        "m_port": "String",
+        "m_port_implicit": "Boolean",
+        "m_port_list": "Int32[]",
+        "m_secure": "Boolean",
+        "m_value": "String",
+        "m_version": "Int32"
+    },
+    "properties": {
+        "Comment": "String",
+        "Domain": "String",
+        "Expired": "Boolean",
+        "Name": "String",
+        "Path": "String",
+        "Secure": "Boolean",
+        "Value": "String",
+        "Version": "Int32"
+    }
+}

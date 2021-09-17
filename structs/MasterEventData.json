@@ -1,57 +1,47 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "resource_name": "String",
+        "event_type": "Int32",
+        "sort": "Int32",
+        "m_episode_id": "UInt64",
+        "m_item_shop_id": "UInt64",
+        "m_event_gacha_id": "UInt64",
+        "prologue_story_id": "UInt64",
+        "opening_story_id": "UInt64",
+        "ending_story_id": "UInt64",
+        "ending_story_end_at": "String",
+        "challenge_max": "Int32"
     },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "event_type",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 36
-    },
-    {
-        "type": "ulong",
-        "name": "m_episode_id",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_shop_id",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "m_event_gacha_id",
-        "offset": 56
-    },
-    {
-        "type": "ulong",
-        "name": "prologue_story_id",
-        "offset": 64
-    },
-    {
-        "type": "ulong",
-        "name": "opening_story_id",
-        "offset": 72
-    },
-    {
-        "type": "ulong",
-        "name": "ending_story_id",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "challenge_max",
-        "offset": 88
+    "properties": {
+        "Id": "UInt64",
+        "ResourceName": "String",
+        "EventType": "Int32",
+        "Sort": "Int32",
+        "OrginalMEpisodeId": "UInt64",
+        "MEpisodeId": "UInt64",
+        "MItemShopId": "UInt64",
+        "MEventGachaId": "UInt64",
+        "PrologueStoryId": "UInt64",
+        "OpeningStoryId": "UInt64",
+        "EndingStoryId": "UInt64",
+        "EndingStoryEndAt": "String",
+        "ChallengeMax": "Int32",
+        "TermData": "MasterEventTermData",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime",
+        "ShopCloseTime": "DateTime",
+        "CanExchange": "Boolean",
+        "IsShopEvent": "Boolean",
+        "IsRecycleEvent": "Boolean",
+        "Displayable": "Boolean",
+        "DisplayableAlsoArchive": "Boolean",
+        "IsInTermAlsoArchive": "Boolean",
+        "IsArchive": "Boolean",
+        "IsInExchangeTerm": "Boolean",
+        "DisplayableMemorial": "Boolean",
+        "IsOverTimePlayStory": "Boolean",
+        "SceneName": "SceneNames",
+        "IsNeedMemorialStoryConnection": "Boolean"
     }
-]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "King",
+        "m_item_id": 3101
+    },
+    {
+        "id": 2,
+        "name": "Pawn",
+        "m_item_id": 3102
+    },
+    {
+        "id": 3,
+        "name": "Rook",
+        "m_item_id": 3103
+    },
+    {
+        "id": 4,
+        "name": "Bishop",
+        "m_item_id": 3104
+    },
+    {
+        "id": 5,
+        "name": "Knight",
+        "m_item_id": 3105
+    },
+    {
+        "id": 6,
+        "name": "Queen",
+        "m_item_id": 3106
+    }
+]

@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "mana_rank": "Int32",
+        "need_mana": "Int32",
+        "up_param": "Single",
+        "up_spd": "Single"
     },
-    {
-        "type": "int",
-        "name": "mana_rank",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "need_mana",
-        "offset": 28
-    },
-    {
-        "type": "float",
-        "name": "up_param",
-        "offset": 32
-    },
-    {
-        "type": "float",
-        "name": "up_spd",
-        "offset": 36
+    "properties": {
+        "Id": "UInt64",
+        "ManaRank": "Int32",
+        "NeedMana": "Int32",
+        "UpParam": "Single",
+        "UpSpd": "Single"
     }
-]
+}

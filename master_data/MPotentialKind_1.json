@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Strength",
+        "effect_value": 0.019999999552965164,
+        "max_rank": 1500,
+        "max_rank_effect_value": 30.0
+    },
+    {
+        "id": 2,
+        "name": "Demeanor",
+        "effect_value": 0.10000000149011612,
+        "max_rank": 500,
+        "max_rank_effect_value": 50.0
+    },
+    {
+        "id": 3,
+        "name": "Passion",
+        "effect_value": 0.0020000000949949026,
+        "max_rank": 250,
+        "max_rank_effect_value": 0.5
+    }
+]

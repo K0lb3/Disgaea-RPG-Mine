@@ -132,11 +132,11 @@
     {
         "id": 14,
         "m_campaign_id": 2,
-        "name": "Gratitude Chocolate",
+        "name": "4★ Etna",
         "day": 2,
-        "present_type": 7,
-        "present_id": 10,
-        "present_rarity": 0,
+        "present_type": 2,
+        "present_id": 6,
+        "present_rarity": 4,
         "present_num": 1
     },
     {
@@ -172,32 +172,32 @@
     {
         "id": 18,
         "m_campaign_id": 2,
-        "name": "4★ Prinny x5",
+        "name": "4★ Etna",
         "day": 4,
         "present_type": 2,
-        "present_id": 30001,
+        "present_id": 6,
         "present_rarity": 4,
-        "present_num": 5
+        "present_num": 1
     },
     {
         "id": 19,
         "m_campaign_id": 2,
-        "name": "Nether Quartz x2000",
+        "name": "Nether Quartz x500",
         "day": 5,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
-        "present_num": 2000
+        "present_num": 500
     },
     {
         "id": 20,
         "m_campaign_id": 2,
-        "name": "4★ Etna",
+        "name": "4★ Prinny x5",
         "day": 5,
         "present_type": 2,
-        "present_id": 6,
+        "present_id": 30001,
         "present_rarity": 4,
-        "present_num": 2
+        "present_num": 5
     },
     {
         "id": 21,
@@ -1772,7 +1772,7 @@
     {
         "id": 178,
         "m_campaign_id": 19,
-        "name": "Prism Hide",
+        "name": "Prism Hides",
         "day": 7,
         "present_type": 1,
         "present_id": 1602,
@@ -1912,7 +1912,7 @@
     {
         "id": 192,
         "m_campaign_id": 21,
-        "name": "Prism Hide",
+        "name": "Prism Hides",
         "day": 1,
         "present_type": 1,
         "present_id": 1602,
@@ -1942,7 +1942,7 @@
     {
         "id": 195,
         "m_campaign_id": 21,
-        "name": "Prism Badge",
+        "name": "Prism Rangers Certification Badge",
         "day": 2,
         "present_type": 7,
         "present_id": 17,
@@ -2002,7 +2002,7 @@
     {
         "id": 201,
         "m_campaign_id": 21,
-        "name": "Prism Hide",
+        "name": "Prism Hides",
         "day": 4,
         "present_type": 1,
         "present_id": 1602,
@@ -2032,7 +2032,7 @@
     {
         "id": 204,
         "m_campaign_id": 21,
-        "name": "Prism Hide",
+        "name": "Prism Hides",
         "day": 5,
         "present_type": 1,
         "present_id": 1602,
@@ -2140,7 +2140,2537 @@
         "present_num": 5
     },
     {
-        "id": 215,
+        "id": 221,
+        "m_campaign_id": 24,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 222,
+        "m_campaign_id": 24,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 223,
+        "m_campaign_id": 24,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 224,
+        "m_campaign_id": 24,
+        "name": "Gate Key",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 225,
+        "m_campaign_id": 24,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 226,
+        "m_campaign_id": 24,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 227,
+        "m_campaign_id": 24,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 228,
+        "m_campaign_id": 24,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 229,
+        "m_campaign_id": 24,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 230,
+        "m_campaign_id": 24,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 231,
+        "m_campaign_id": 25,
+        "name": "DG Skip Coupon",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 232,
+        "m_campaign_id": 25,
+        "name": "Shining Reinc. Gem (Lv1)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 20
+    },
+    {
+        "id": 233,
+        "m_campaign_id": 25,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 500
+    },
+    {
+        "id": 234,
+        "m_campaign_id": 25,
+        "name": "Shining Reinc. Gem (Lv2)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 235,
+        "m_campaign_id": 25,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 250
+    },
+    {
+        "id": 236,
+        "m_campaign_id": 25,
+        "name": "Shining Reinc. Gem (Lv3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 237,
+        "m_campaign_id": 25,
+        "name": "4★ Prinny x5",
+        "day": 4,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 1
+    },
+    {
+        "id": 238,
+        "m_campaign_id": 25,
+        "name": "Shining Reinc. Gem (Lv4)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 239,
+        "m_campaign_id": 25,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 250
+    },
+    {
+        "id": 240,
+        "m_campaign_id": 25,
+        "name": "Shining Reinc. Gem (Lv5)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 241,
+        "m_campaign_id": 25,
+        "name": "4★ Prinny x5",
+        "day": 6,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 1
+    },
+    {
+        "id": 242,
+        "m_campaign_id": 25,
+        "name": "500000HL",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 500000
+    },
+    {
+        "id": 243,
+        "m_campaign_id": 25,
+        "name": "Nether Quartz (FREE)",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 500
+    },
+    {
+        "id": 244,
+        "m_campaign_id": 25,
+        "name": "4★ Prinny x5",
+        "day": 7,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 3
+    },
+    {
+        "id": 245,
+        "m_campaign_id": 26,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 246,
+        "m_campaign_id": 26,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 247,
+        "m_campaign_id": 26,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 248,
+        "m_campaign_id": 26,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 249,
+        "m_campaign_id": 26,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 250,
+        "m_campaign_id": 26,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 251,
+        "m_campaign_id": 26,
+        "name": "AP Potion",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 252,
+        "m_campaign_id": 26,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 253,
+        "m_campaign_id": 26,
+        "name": "Crab Miso",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 254,
+        "m_campaign_id": 26,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 255,
+        "m_campaign_id": 27,
+        "name": "Chinese Noodle",
+        "day": 1,
+        "present_type": 7,
+        "present_id": 20,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 256,
+        "m_campaign_id": 28,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 257,
+        "m_campaign_id": 28,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 258,
+        "m_campaign_id": 28,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 259,
+        "m_campaign_id": 28,
+        "name": "Gate Key",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 260,
+        "m_campaign_id": 28,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 261,
+        "m_campaign_id": 28,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 262,
+        "m_campaign_id": 28,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 263,
+        "m_campaign_id": 28,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 264,
+        "m_campaign_id": 28,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 265,
+        "m_campaign_id": 28,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 266,
+        "m_campaign_id": 29,
+        "name": "Fist Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 267,
+        "m_campaign_id": 29,
+        "name": "Sword Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 268,
+        "m_campaign_id": 29,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 269,
+        "m_campaign_id": 29,
+        "name": "Spear Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1533,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 270,
+        "m_campaign_id": 29,
+        "name": "Mon. Phys. Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1583,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 271,
+        "m_campaign_id": 29,
+        "name": "Prism Hides",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 272,
+        "m_campaign_id": 29,
+        "name": "Gun Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1553,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 273,
+        "m_campaign_id": 29,
+        "name": "Staff Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 274,
+        "m_campaign_id": 29,
+        "name": "Prism Hides",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 275,
+        "m_campaign_id": 29,
+        "name": "Bow Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1543,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 276,
+        "m_campaign_id": 29,
+        "name": "Axe Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 277,
+        "m_campaign_id": 29,
+        "name": "Prism Hides",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 278,
+        "m_campaign_id": 29,
+        "name": "Mon. Mag. Statue (Lv 3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1593,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 279,
+        "m_campaign_id": 29,
+        "name": "Skill Book (Lv3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 280,
+        "m_campaign_id": 29,
+        "name": "Mana Potion",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 281,
+        "m_campaign_id": 30,
+        "name": "Prinny Coin",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 2801,
+        "present_rarity": 0,
+        "present_num": 1500
+    },
+    {
+        "id": 282,
+        "m_campaign_id": 31,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 283,
+        "m_campaign_id": 31,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 284,
+        "m_campaign_id": 31,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 285,
+        "m_campaign_id": 31,
+        "name": "Gate Key",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 286,
+        "m_campaign_id": 31,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 287,
+        "m_campaign_id": 31,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 288,
+        "m_campaign_id": 31,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 289,
+        "m_campaign_id": 31,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 290,
+        "m_campaign_id": 31,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 291,
+        "m_campaign_id": 31,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 292,
+        "m_campaign_id": 32,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 293,
+        "m_campaign_id": 32,
+        "name": "Mon. Phys. Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1583,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 294,
+        "m_campaign_id": 32,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 295,
+        "m_campaign_id": 32,
+        "name": "Skill Book (Lv3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 296,
+        "m_campaign_id": 32,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 297,
+        "m_campaign_id": 32,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 298,
+        "m_campaign_id": 32,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 299,
+        "m_campaign_id": 32,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 300,
+        "m_campaign_id": 32,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 301,
+        "m_campaign_id": 32,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 302,
+        "m_campaign_id": 33,
+        "name": "Novice Summon Ticket",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1912,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 303,
+        "m_campaign_id": 33,
+        "name": "Gate Key",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 304,
+        "m_campaign_id": 33,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 305,
+        "m_campaign_id": 33,
+        "name": "Gate Key",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 306,
+        "m_campaign_id": 33,
+        "name": "Crab Miso",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 307,
+        "m_campaign_id": 33,
+        "name": "Gate Key",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 308,
+        "m_campaign_id": 33,
+        "name": "Novice Summon Ticket",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 1912,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 309,
+        "m_campaign_id": 33,
+        "name": "HL",
+        "day": 8,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50000
+    },
+    {
+        "id": 310,
+        "m_campaign_id": 33,
+        "name": "Nether Quartz",
+        "day": 9,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 200
+    },
+    {
+        "id": 311,
+        "m_campaign_id": 33,
+        "name": "HL",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 100000
+    },
+    {
+        "id": 312,
+        "m_campaign_id": 33,
+        "name": "Nether Quartz",
+        "day": 11,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 300
+    },
+    {
+        "id": 313,
+        "m_campaign_id": 33,
+        "name": "HL",
+        "day": 12,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 150000
+    },
+    {
+        "id": 314,
+        "m_campaign_id": 33,
+        "name": "Nether Quartz",
+        "day": 13,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 500
+    },
+    {
+        "id": 315,
+        "m_campaign_id": 33,
+        "name": "Novice Summon Ticket",
+        "day": 14,
+        "present_type": 1,
+        "present_id": 1912,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 316,
+        "m_campaign_id": 34,
+        "name": "Nether Quartz",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 317,
+        "m_campaign_id": 34,
+        "name": "Bow Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1543,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 318,
+        "m_campaign_id": 34,
+        "name": "Nether Quartz",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 319,
+        "m_campaign_id": 34,
+        "name": "Sword Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 320,
+        "m_campaign_id": 34,
+        "name": "Nether Quartz",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 321,
+        "m_campaign_id": 34,
+        "name": "Axe Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 322,
+        "m_campaign_id": 34,
+        "name": "Nether Quartz",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 323,
+        "m_campaign_id": 34,
+        "name": "Staff Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 324,
+        "m_campaign_id": 34,
+        "name": "Nether Quartz",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 325,
+        "m_campaign_id": 34,
+        "name": "Fist Statue (Lv 3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 326,
+        "m_campaign_id": 35,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 327,
+        "m_campaign_id": 35,
+        "name": "Spear Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1533,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 328,
+        "m_campaign_id": 35,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 329,
+        "m_campaign_id": 35,
+        "name": "Staff Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 330,
+        "m_campaign_id": 35,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 331,
+        "m_campaign_id": 35,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 332,
+        "m_campaign_id": 35,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 333,
+        "m_campaign_id": 35,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 334,
+        "m_campaign_id": 35,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 335,
+        "m_campaign_id": 35,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 336,
+        "m_campaign_id": 36,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 337,
+        "m_campaign_id": 36,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 338,
+        "m_campaign_id": 36,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 339,
+        "m_campaign_id": 36,
+        "name": "Sword Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 340,
+        "m_campaign_id": 36,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 341,
+        "m_campaign_id": 36,
+        "name": "Axe Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 342,
+        "m_campaign_id": 36,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 343,
+        "m_campaign_id": 36,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 344,
+        "m_campaign_id": 36,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 345,
+        "m_campaign_id": 36,
+        "name": "Prism Hides",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 346,
+        "m_campaign_id": 37,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 347,
+        "m_campaign_id": 37,
+        "name": "Axe Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 348,
+        "m_campaign_id": 37,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 349,
+        "m_campaign_id": 37,
+        "name": "Skill Book (Lv3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 350,
+        "m_campaign_id": 37,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 351,
+        "m_campaign_id": 37,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 352,
+        "m_campaign_id": 37,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 353,
+        "m_campaign_id": 37,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 354,
+        "m_campaign_id": 37,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 355,
+        "m_campaign_id": 37,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 356,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 357,
+        "m_campaign_id": 38,
+        "name": "Fist Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 358,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 359,
+        "m_campaign_id": 38,
+        "name": "Background \"Ultra Reinc.\"",
+        "day": 2,
+        "present_type": 6,
+        "present_id": 17,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 360,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 361,
+        "m_campaign_id": 38,
+        "name": "Gold Bar",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 402,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 362,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 363,
+        "m_campaign_id": 38,
+        "name": "Staff Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 364,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 365,
+        "m_campaign_id": 38,
+        "name": "Staff Statue (Lv 3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 366,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 367,
+        "m_campaign_id": 38,
+        "name": "Staff Statue (Lv 3)",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 368,
+        "m_campaign_id": 38,
+        "name": "Nether Quartz (FREE)",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 369,
+        "m_campaign_id": 38,
+        "name": "Special Ticket 1st",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 370,
+        "m_campaign_id": 39,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 371,
+        "m_campaign_id": 39,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 372,
+        "m_campaign_id": 40,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 373,
+        "m_campaign_id": 40,
+        "name": "Crab Miso",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 374,
+        "m_campaign_id": 41,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 375,
+        "m_campaign_id": 41,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 376,
+        "m_campaign_id": 42,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 377,
+        "m_campaign_id": 42,
+        "name": "Gate Key",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 378,
+        "m_campaign_id": 43,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 379,
+        "m_campaign_id": 43,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 380,
+        "m_campaign_id": 44,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 381,
+        "m_campaign_id": 44,
+        "name": "Skill Book (Lv3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 382,
+        "m_campaign_id": 45,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 383,
+        "m_campaign_id": 45,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 384,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Special Ticket",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 3401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 385,
+        "m_campaign_id": 46,
+        "name": "Horse DK",
+        "day": 1,
+        "present_type": 7,
+        "present_id": 30,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 386,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Special Ticket",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 3401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 387,
+        "m_campaign_id": 46,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 388,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Celebration Ticket",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1999,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 389,
+        "m_campaign_id": 46,
+        "name": "Little Shiny ☆ Star",
+        "day": 3,
+        "present_type": 6,
+        "present_id": 111,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 390,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Special Ticket",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 3401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 391,
+        "m_campaign_id": 46,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 392,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Celebration Ticket",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1999,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 393,
+        "m_campaign_id": 46,
+        "name": "Mana Potion",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 394,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Special Ticket",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 3401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 395,
+        "m_campaign_id": 46,
+        "name": "Nether Quartz (FREE)",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 396,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Celebration Ticket",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 1999,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 397,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Sardine Curry",
+        "day": 7,
+        "present_type": 7,
+        "present_id": 31,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 398,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Special Ticket",
+        "day": 8,
+        "present_type": 1,
+        "present_id": 3401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 399,
+        "m_campaign_id": 46,
+        "name": "Nether Quartz (FREE)",
+        "day": 8,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 400,
+        "m_campaign_id": 46,
+        "name": "Disgaea 6",
+        "day": 9,
+        "present_type": 7,
+        "present_id": 32,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 401,
+        "m_campaign_id": 46,
+        "name": "HL",
+        "day": 9,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 6666666
+    },
+    {
+        "id": 402,
+        "m_campaign_id": 46,
+        "name": "1st Anniversary Celebration Ticket",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 1999,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 403,
+        "m_campaign_id": 46,
+        "name": "Prism Hides",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 404,
+        "m_campaign_id": 46,
+        "name": "Nether Quartz (FREE)",
+        "day": 10,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 405,
+        "m_campaign_id": 47,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 406,
+        "m_campaign_id": 47,
+        "name": "Sword Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 407,
+        "m_campaign_id": 47,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 408,
+        "m_campaign_id": 47,
+        "name": "Staff Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 409,
+        "m_campaign_id": 47,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 410,
+        "m_campaign_id": 47,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 411,
+        "m_campaign_id": 47,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 412,
+        "m_campaign_id": 47,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 20
+    },
+    {
+        "id": 413,
+        "m_campaign_id": 47,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 414,
+        "m_campaign_id": 47,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 415,
+        "m_campaign_id": 48,
+        "name": "3☆ Santa Usalia",
+        "day": 1,
+        "present_type": 2,
+        "present_id": 20020,
+        "present_rarity": 3,
+        "present_num": 3
+    },
+    {
+        "id": 416,
+        "m_campaign_id": 48,
+        "name": "Special Cake Curry",
+        "day": 1,
+        "present_type": 7,
+        "present_id": 35,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 417,
+        "m_campaign_id": 49,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 418,
+        "m_campaign_id": 49,
+        "name": "Golden Candy",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 20
+    },
+    {
+        "id": 419,
+        "m_campaign_id": 50,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 420,
+        "m_campaign_id": 50,
+        "name": "DG Skip Coupon",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 421,
+        "m_campaign_id": 51,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 422,
+        "m_campaign_id": 51,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 423,
+        "m_campaign_id": 52,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 424,
+        "m_campaign_id": 52,
+        "name": "Sword Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1593,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 425,
+        "m_campaign_id": 52,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 426,
+        "m_campaign_id": 52,
+        "name": "Staff Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 427,
+        "m_campaign_id": 52,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 428,
+        "m_campaign_id": 52,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 429,
+        "m_campaign_id": 52,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 430,
+        "m_campaign_id": 52,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 431,
+        "m_campaign_id": 52,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 432,
+        "m_campaign_id": 52,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 433,
+        "m_campaign_id": 53,
+        "name": "Netherworld New Year Exchange Ticket",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 434,
+        "m_campaign_id": 53,
+        "name": "Horse Ball",
+        "day": 1,
+        "present_type": 7,
+        "present_id": 36,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 435,
+        "m_campaign_id": 53,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 436,
+        "m_campaign_id": 53,
+        "name": "Mana Potion",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 437,
+        "m_campaign_id": 53,
+        "name": "BGM[White Tiger]",
+        "day": 2,
+        "present_type": 6,
+        "present_id": 112,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 438,
+        "m_campaign_id": 53,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 439,
+        "m_campaign_id": 53,
+        "name": "Netherworld New Year Exchange Ticket",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 440,
+        "m_campaign_id": 53,
+        "name": "Raspberyl's Amulet",
+        "day": 3,
+        "present_type": 7,
+        "present_id": 37,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 441,
+        "m_campaign_id": 53,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 442,
+        "m_campaign_id": 53,
+        "name": "Prism Hides",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 443,
+        "m_campaign_id": 53,
+        "name": "New Year Sardine Dish",
+        "day": 4,
+        "present_type": 7,
+        "present_id": 38,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 444,
+        "m_campaign_id": 53,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 445,
+        "m_campaign_id": 53,
+        "name": "Netherworld New Year Exchange Ticket",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 446,
+        "m_campaign_id": 53,
+        "name": "HL",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 1000000
+    },
+    {
+        "id": 447,
+        "m_campaign_id": 53,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 448,
+        "m_campaign_id": 54,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 449,
+        "m_campaign_id": 54,
+        "name": "Overlord Ivar's Official Photo",
+        "day": 1,
+        "present_type": 7,
+        "present_id": 40,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 450,
+        "m_campaign_id": 54,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 451,
+        "m_campaign_id": 54,
+        "name": "AP Potion",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 452,
+        "m_campaign_id": 54,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 453,
+        "m_campaign_id": 54,
+        "name": "HL",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 1000000
+    },
+    {
+        "id": 454,
+        "m_campaign_id": 55,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 455,
+        "m_campaign_id": 55,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 456,
+        "m_campaign_id": 55,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 457,
+        "m_campaign_id": 55,
+        "name": "Memories of Love",
+        "day": 2,
+        "present_type": 7,
+        "present_id": 41,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 458,
+        "m_campaign_id": 55,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 459,
+        "m_campaign_id": 55,
+        "name": "Reinc. Statue (Lv5)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 460,
+        "m_campaign_id": 55,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 461,
+        "m_campaign_id": 55,
+        "name": "Bounded Sardine Sword",
+        "day": 4,
+        "present_type": 7,
+        "present_id": 42,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 462,
+        "m_campaign_id": 55,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 463,
+        "m_campaign_id": 55,
+        "name": "Splendid Love Curry",
+        "day": 5,
+        "present_type": 7,
+        "present_id": 43,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 464,
+        "m_campaign_id": 56,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 465,
+        "m_campaign_id": 56,
+        "name": "Sword Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1533,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 466,
+        "m_campaign_id": 56,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 467,
+        "m_campaign_id": 56,
+        "name": "Staff Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 468,
+        "m_campaign_id": 56,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 469,
+        "m_campaign_id": 56,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 470,
+        "m_campaign_id": 56,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 471,
+        "m_campaign_id": 56,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 472,
+        "m_campaign_id": 56,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 473,
+        "m_campaign_id": 56,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 101001,
         "m_campaign_id": 101,
         "name": "AP Potion",
         "day": 1,
@@ -2150,7 +4680,7 @@
         "present_num": 5
     },
     {
-        "id": 216,
+        "id": 101002,
         "m_campaign_id": 101,
         "name": "DG Skip Coupon",
         "day": 1,
@@ -2160,7 +4690,7 @@
         "present_num": 5
     },
     {
-        "id": 217,
+        "id": 101003,
         "m_campaign_id": 101,
         "name": "Gate Key",
         "day": 2,
@@ -2170,7 +4700,7 @@
         "present_num": 3
     },
     {
-        "id": 218,
+        "id": 101004,
         "m_campaign_id": 101,
         "name": "Demonic Curry",
         "day": 2,
@@ -2180,7 +4710,7 @@
         "present_num": 1
     },
     {
-        "id": 219,
+        "id": 101005,
         "m_campaign_id": 101,
         "name": "3★ Prinny",
         "day": 3,
@@ -2190,7 +4720,7 @@
         "present_num": 5
     },
     {
-        "id": 220,
+        "id": 101006,
         "m_campaign_id": 101,
         "name": "3★ Santa Usalia",
         "day": 3,
@@ -2200,7 +4730,7 @@
         "present_num": 1
     },
     {
-        "id": 221,
+        "id": 101007,
         "m_campaign_id": 101,
         "name": "Subdue Ticket",
         "day": 4,
@@ -2210,7 +4740,7 @@
         "present_num": 5
     },
     {
-        "id": 222,
+        "id": 101008,
         "m_campaign_id": 101,
         "name": "Skill Book (Lv2)",
         "day": 4,
@@ -2220,7 +4750,7 @@
         "present_num": 1
     },
     {
-        "id": 223,
+        "id": 101009,
         "m_campaign_id": 101,
         "name": "Mon. Mag. Statue (Lv2)",
         "day": 5,
@@ -2230,7 +4760,7 @@
         "present_num": 1
     },
     {
-        "id": 224,
+        "id": 101010,
         "m_campaign_id": 101,
         "name": "3★ or above Summon Ticket",
         "day": 5,
@@ -2240,7 +4770,7 @@
         "present_num": 1
     },
     {
-        "id": 225,
+        "id": 101011,
         "m_campaign_id": 101,
         "name": "Subdue Ticket",
         "day": 6,
@@ -2250,7 +4780,7 @@
         "present_num": 5
     },
     {
-        "id": 226,
+        "id": 101012,
         "m_campaign_id": 101,
         "name": "Skill Book (Lv2)",
         "day": 6,
@@ -2260,7 +4790,7 @@
         "present_num": 1
     },
     {
-        "id": 227,
+        "id": 101013,
         "m_campaign_id": 101,
         "name": "Mon. Mag. Statue (Lv2)",
         "day": 7,
@@ -2270,7 +4800,7 @@
         "present_num": 1
     },
     {
-        "id": 228,
+        "id": 101014,
         "m_campaign_id": 101,
         "name": "3★ Santa Usalia",
         "day": 7,
@@ -2280,7 +4810,7 @@
         "present_num": 1
     },
     {
-        "id": 229,
+        "id": 102001,
         "m_campaign_id": 102,
         "name": "Subdue Ticket",
         "day": 1,
@@ -2290,7 +4820,7 @@
         "present_num": 5
     },
     {
-        "id": 230,
+        "id": 102002,
         "m_campaign_id": 102,
         "name": "Nether Quartz (FREE)",
         "day": 1,
@@ -2300,7 +4830,7 @@
         "present_num": 500
     },
     {
-        "id": 231,
+        "id": 102003,
         "m_campaign_id": 102,
         "name": "Mon. Mag. Statue (Lv2)",
         "day": 2,
@@ -2310,7 +4840,7 @@
         "present_num": 1
     },
     {
-        "id": 232,
+        "id": 102004,
         "m_campaign_id": 102,
         "name": "Skill Book (Lv2)",
         "day": 2,
@@ -2320,7 +4850,7 @@
         "present_num": 1
     },
     {
-        "id": 233,
+        "id": 102005,
         "m_campaign_id": 102,
         "name": "Subdue Ticket",
         "day": 3,
@@ -2330,7 +4860,7 @@
         "present_num": 5
     },
     {
-        "id": 234,
+        "id": 102006,
         "m_campaign_id": 102,
         "name": "BGM (The Guilty Rose)",
         "day": 3,
@@ -2340,7 +4870,7 @@
         "present_num": 1
     },
     {
-        "id": 235,
+        "id": 102007,
         "m_campaign_id": 102,
         "name": "Mon. Mag. Statue (Lv2)",
         "day": 4,
@@ -2350,7 +4880,7 @@
         "present_num": 1
     },
     {
-        "id": 236,
+        "id": 102008,
         "m_campaign_id": 102,
         "name": "3★ Santa Usalia",
         "day": 4,
@@ -2360,7 +4890,7 @@
         "present_num": 1
     },
     {
-        "id": 237,
+        "id": 102009,
         "m_campaign_id": 102,
         "name": "Subdue Ticket",
         "day": 5,
@@ -2370,7 +4900,7 @@
         "present_num": 5
     },
     {
-        "id": 238,
+        "id": 102010,
         "m_campaign_id": 102,
         "name": "Nether Quartz (FREE)",
         "day": 5,
@@ -2380,7 +4910,7 @@
         "present_num": 500
     },
     {
-        "id": 239,
+        "id": 102011,
         "m_campaign_id": 102,
         "name": "Mon. Mag. Statue (Lv2)",
         "day": 6,
@@ -2390,7 +4920,7 @@
         "present_num": 1
     },
     {
-        "id": 240,
+        "id": 102012,
         "m_campaign_id": 102,
         "name": "Skill Book (Lv2)",
         "day": 6,
@@ -2400,7 +4930,7 @@
         "present_num": 1
     },
     {
-        "id": 241,
+        "id": 102013,
         "m_campaign_id": 102,
         "name": "Subdue Ticket",
         "day": 7,
@@ -2410,7 +4940,7 @@
         "present_num": 5
     },
     {
-        "id": 242,
+        "id": 102014,
         "m_campaign_id": 102,
         "name": "3★ Santa Usalia",
         "day": 7,
@@ -2418,5 +4948,635 @@
         "present_id": 20020,
         "present_rarity": 3,
         "present_num": 2
+    },
+    {
+        "id": 103001,
+        "m_campaign_id": 103,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 103002,
+        "m_campaign_id": 103,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 103003,
+        "m_campaign_id": 103,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 103004,
+        "m_campaign_id": 103,
+        "name": "AP Potion",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 103005,
+        "m_campaign_id": 103,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 103006,
+        "m_campaign_id": 103,
+        "name": "Gate Key",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 103007,
+        "m_campaign_id": 103,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 103008,
+        "m_campaign_id": 103,
+        "name": "Gate Key",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 103009,
+        "m_campaign_id": 103,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 103010,
+        "m_campaign_id": 103,
+        "name": "DG Skip Coupon",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 104001,
+        "m_campaign_id": 104,
+        "name": "DG Skip Coupon",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 104002,
+        "m_campaign_id": 104,
+        "name": "Shining Reinc. Gem (Lv1)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 20
+    },
+    {
+        "id": 104003,
+        "m_campaign_id": 104,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 500
+    },
+    {
+        "id": 104004,
+        "m_campaign_id": 104,
+        "name": "Shining Reinc. Gem (Lv2)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 104005,
+        "m_campaign_id": 104,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 250
+    },
+    {
+        "id": 104006,
+        "m_campaign_id": 104,
+        "name": "Shining Reinc. Gem (Lv3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 104007,
+        "m_campaign_id": 104,
+        "name": "4★ Prinny x5",
+        "day": 4,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 1
+    },
+    {
+        "id": 104008,
+        "m_campaign_id": 104,
+        "name": "Shining Reinc. Gem (Lv4)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 104009,
+        "m_campaign_id": 104,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 250
+    },
+    {
+        "id": 104010,
+        "m_campaign_id": 104,
+        "name": "Shining Reinc. Gem (Lv5)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 104011,
+        "m_campaign_id": 104,
+        "name": "4★ Prinny x5",
+        "day": 6,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 1
+    },
+    {
+        "id": 104012,
+        "m_campaign_id": 104,
+        "name": "500000HL",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 500000
+    },
+    {
+        "id": 104013,
+        "m_campaign_id": 104,
+        "name": "Nether Quartz (FREE)",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 500
+    },
+    {
+        "id": 104014,
+        "m_campaign_id": 104,
+        "name": "4★ Prinny x5",
+        "day": 7,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 3
+    },
+    {
+        "id": 105001,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105002,
+        "m_campaign_id": 105,
+        "name": "Fist Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 105003,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105004,
+        "m_campaign_id": 105,
+        "name": "Background \"Ultra Reinc.\"",
+        "day": 2,
+        "present_type": 6,
+        "present_id": 17,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 105005,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105006,
+        "m_campaign_id": 105,
+        "name": "Gold Bar",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 402,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 105007,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105008,
+        "m_campaign_id": 105,
+        "name": "Staff Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 105009,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105010,
+        "m_campaign_id": 105,
+        "name": "Staff Statue (Lv 3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 105011,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105012,
+        "m_campaign_id": 105,
+        "name": "Staff Statue (Lv 3)",
+        "day": 6,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10
+    },
+    {
+        "id": 105013,
+        "m_campaign_id": 105,
+        "name": "Nether Quartz (FREE)",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 105014,
+        "m_campaign_id": 105,
+        "name": "Special Ticket 1st",
+        "day": 7,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 106001,
+        "m_campaign_id": 106,
+        "name": "Nether Quartz (FREE)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 106002,
+        "m_campaign_id": 106,
+        "name": "AP Potion",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 106003,
+        "m_campaign_id": 106,
+        "name": "Nether Quartz (FREE)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 106004,
+        "m_campaign_id": 106,
+        "name": "Gate Key",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 106005,
+        "m_campaign_id": 106,
+        "name": "Nether Quartz (FREE)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 106006,
+        "m_campaign_id": 106,
+        "name": "Crab Miso",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 106007,
+        "m_campaign_id": 106,
+        "name": "Nether Quartz (FREE)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 106008,
+        "m_campaign_id": 106,
+        "name": "DG Skip Coupon",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 106009,
+        "m_campaign_id": 106,
+        "name": "Nether Quartz (FREE)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 106010,
+        "m_campaign_id": 106,
+        "name": "Gate Key",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 107001,
+        "m_campaign_id": 107,
+        "name": "Fist Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1523,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107002,
+        "m_campaign_id": 107,
+        "name": "Sword Statue (Lv 3)",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1513,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107003,
+        "m_campaign_id": 107,
+        "name": "Prism Hides",
+        "day": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 107004,
+        "m_campaign_id": 107,
+        "name": "Spear Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1533,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107005,
+        "m_campaign_id": 107,
+        "name": "Mon. Phys. Statue (Lv 3)",
+        "day": 2,
+        "present_type": 1,
+        "present_id": 1583,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107006,
+        "m_campaign_id": 107,
+        "name": "Prism Rangers Certification Badge",
+        "day": 2,
+        "present_type": 7,
+        "present_id": 17,
+        "present_rarity": 100,
+        "present_num": 1
+    },
+    {
+        "id": 107007,
+        "m_campaign_id": 107,
+        "name": "Gun Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1553,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107008,
+        "m_campaign_id": 107,
+        "name": "Staff Statue (Lv 3)",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 1573,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107009,
+        "m_campaign_id": 107,
+        "name": "Mana Potion",
+        "day": 3,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 107010,
+        "m_campaign_id": 107,
+        "name": "Bow Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1543,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107011,
+        "m_campaign_id": 107,
+        "name": "Axe Statue (Lv 3)",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1563,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107012,
+        "m_campaign_id": 107,
+        "name": "Prism Hides",
+        "day": 4,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 107013,
+        "m_campaign_id": 107,
+        "name": "Mon. Mag. Statue (Lv 3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1593,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 107014,
+        "m_campaign_id": 107,
+        "name": "Skill Book (Lv3)",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1703,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 107015,
+        "m_campaign_id": 107,
+        "name": "Prism Hides",
+        "day": 5,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
     }
 ]

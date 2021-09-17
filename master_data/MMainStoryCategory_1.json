@@ -12,11 +12,21 @@
     {
         "id": 12,
         "title": "Main Story Arc 1 Anecdote",
-        "priority": 1,
+        "priority": 2,
         "resource_name": "main_story_1_side_story",
         "open_condition_m_stage_id": 110512,
         "lock_msg": "Unlocked after clearing Arc 1",
         "open_at": "2019-12-01 00:00:00 -0400",
+        "close_at": "2119-01-01 00:00:00 -0400"
+    },
+    {
+        "id": 21,
+        "title": "Main Story Chapter 2",
+        "priority": 3,
+        "resource_name": "main_story_2",
+        "open_condition_m_stage_id": 110512,
+        "lock_msg": "Unlocked after clearing Arc 1",
+        "open_at": "2019-01-01 00:00:00 -0400",
         "close_at": "2119-01-01 00:00:00 -0400"
     }
 ]

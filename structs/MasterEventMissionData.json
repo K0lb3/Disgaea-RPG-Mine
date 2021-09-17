@@ -1,72 +1,34 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_event_id": "UInt64",
+        "condition_type": "Int32",
+        "condition_id": "UInt64",
+        "condition_num": "Int64",
+        "condition_unit_name": "String",
+        "title": "String",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "sheet_no": "Int32",
+        "sheet_name": "String",
+        "sort": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "condition_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "condition_id",
-        "offset": 40
-    },
-    {
-        "type": "long",
-        "name": "condition_num",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "condition_unit_name",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 72
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 88
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 92
-    },
-    {
-        "type": "int",
-        "name": "sheet_no",
-        "offset": 96
-    },
-    {
-        "type": "string",
-        "name": "sheet_name",
-        "offset": 104
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 112
+    "properties": {
+        "Id": "UInt64",
+        "EventId": "UInt64",
+        "ConditionType": "Int32",
+        "ConditionId": "UInt64",
+        "ConditionNum": "Int64",
+        "ConditionUnitName": "String",
+        "Title": "String",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "SheetNo": "Int32",
+        "SheetName": "String",
+        "Sort": "Int32"
     }
-]
+}

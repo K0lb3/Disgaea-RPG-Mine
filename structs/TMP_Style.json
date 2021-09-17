@@ -1,0 +1,11 @@
+{
+    "fields": {},
+    "properties": {
+        "name": "String",
+        "hashCode": "Int32",
+        "styleOpeningDefinition": "String",
+        "styleClosingDefinition": "String",
+        "styleOpeningTagArray": "Int32[]",
+        "styleClosingTagArray": "Int32[]"
+    }
+}

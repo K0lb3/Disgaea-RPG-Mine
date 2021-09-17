@@ -1891,7 +1891,7 @@
     },
     {
         "id": 7201,
-        "name": "[Main] Fallen Angel Vulcanus & Dark Hero Aurum",
+        "name": "[Main] Fallen Angel Vulcanus&Aurum the Dark Hero",
         "img_base": 72,
         "img_body": 1,
         "img_face": 0
@@ -2709,6 +2709,2225 @@
         "img_face": 3
     },
     {
+        "id": 10801,
+        "name": "[Event] Game Developer Asagi Emoji 01",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 10802,
+        "name": "[Event] Game Developer Asagi Emoji 02",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 10803,
+        "name": "[Event] Game Developer Asagi Emoji 03",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 10804,
+        "name": "[Event] Game Developer Asagi Emoji 04",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 10805,
+        "name": "[Event] Game Developer Asagi Emoji 05",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 10806,
+        "name": "[Event] Game Developer Asagi Emoji 06",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 10807,
+        "name": "[Event] Game Developer Asagi Emoji 07",
+        "img_base": 108,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 10901,
+        "name": "[Event] Overlord Asagi Emoji 01",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 10902,
+        "name": "[Event] Overlord Asagi Emoji 02",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 10903,
+        "name": "[Event] Overlord Asagi Emoji 03",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 10904,
+        "name": "[Event] Overlord Asagi Emoji 04",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 10905,
+        "name": "[Event] Overlord Asagi Emoji 05",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 10906,
+        "name": "[Event] Overlord Asagi Emoji 06",
+        "img_base": 109,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 11001,
+        "name": "[Event] Protagonist Asagi Emoji 01",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11002,
+        "name": "[Event] Protagonist Asagi Emoji 02",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11003,
+        "name": "[Event] Protagonist Asagi Emoji 03",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11004,
+        "name": "[Event] Protagonist Asagi Emoji 04",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11005,
+        "name": "[Event] Protagonist Asagi Emoji 05",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11006,
+        "name": "[Event] Protagonist Asagi Emoji 06",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 11007,
+        "name": "[Event] Protagonist Asagi Emoji 07",
+        "img_base": 110,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 11101,
+        "name": "[Main 2] No Glasses Mao Emoji 01",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11102,
+        "name": "[Main 2] No Glasses Mao Emoji 02",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11103,
+        "name": "[Main 2] No Glasses Mao Emoji 03",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11104,
+        "name": "[Main 2] No Glasses Mao Emoji 04",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11105,
+        "name": "[Main 2] No Glasses Mao Emoji 05",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11106,
+        "name": "[Main 2] No Glasses Mao Emoji 06",
+        "img_base": 111,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 11201,
+        "name": "[Main 2] Lucy Emoji 01",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11202,
+        "name": "[Main 2] Lucy Emoji 02",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11203,
+        "name": "[Main 2] Lucy Emoji 03",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11204,
+        "name": "[Main 2] Lucy Emoji 04",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11205,
+        "name": "[Main 2] Lucy Emoji 05",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11206,
+        "name": "[Main 2] Lucy Emoji 06",
+        "img_base": 112,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 11207,
+        "name": "[Main 2] Lucy Emoji 07",
+        "img_base": 112,
+        "img_body": 7,
+        "img_face": 0
+    },
+    {
+        "id": 11301,
+        "name": "[Main 2] Dias Emoji 01",
+        "img_base": 113,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11302,
+        "name": "[Main 2] Dias Emoji 02",
+        "img_base": 113,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11303,
+        "name": "[Main 2] Dias Emoji 03",
+        "img_base": 113,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11304,
+        "name": "[Main 2] Dias Emoji 04",
+        "img_base": 113,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11305,
+        "name": "[Main 2] Dias Emoji 05",
+        "img_base": 113,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11306,
+        "name": "[Main 2] Dias Emoji 06",
+        "img_base": 113,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 11401,
+        "name": "[Main 2] Torachiyo Emoji 01",
+        "img_base": 114,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11402,
+        "name": "[Main 2] Torachiyo Emoji 02",
+        "img_base": 114,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11403,
+        "name": "[Main 2] Torachiyo Emoji 03",
+        "img_base": 114,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11404,
+        "name": "[Main 2] Torachiyo Emoji 04",
+        "img_base": 114,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11405,
+        "name": "[Main 2] Torachiyo Emoji 05",
+        "img_base": 114,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11406,
+        "name": "[Main 2] Torachiyo Emoji 06",
+        "img_base": 114,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 11501,
+        "name": "[Event] Archer",
+        "img_base": 115,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11601,
+        "name": "[Event] Swimsuit Archer Emoji 01",
+        "img_base": 116,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11602,
+        "name": "[Event] Swimsuit Archer Emoji 02",
+        "img_base": 116,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11603,
+        "name": "[Event] Swimsuit Archer Emoji 03",
+        "img_base": 116,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11604,
+        "name": "[Event] Swimsuit Archer Emoji 04",
+        "img_base": 116,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11605,
+        "name": "[Event] Swimsuit Archer Emoji 05",
+        "img_base": 116,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11701,
+        "name": "[Event] Swimsuit Etna Emoji 01",
+        "img_base": 117,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11702,
+        "name": "[Event] Swimsuit Etna Emoji 02",
+        "img_base": 117,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11703,
+        "name": "[Event] Swimsuit Etna Emoji 03",
+        "img_base": 117,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11704,
+        "name": "[Event] Swimsuit Etna Emoji 04",
+        "img_base": 117,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11705,
+        "name": "[Event] Swimsuit Etna Emoji 05",
+        "img_base": 117,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11801,
+        "name": "[Event] Swimsuit Desco Emoji 01",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11802,
+        "name": "[Event] Swimsuit Desco Emoji 02",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11803,
+        "name": "[Event] Swimsuit Desco Emoji 03",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11804,
+        "name": "[Event] Swimsuit Desco Emoji 04",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11805,
+        "name": "[Event] Swimsuit Desco Emoji 05",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 11806,
+        "name": "[Event] Swimsuit Desco Emoji 06",
+        "img_base": 118,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 11901,
+        "name": "[Event] Swimsuit Girl Laharl Emoji 01",
+        "img_base": 119,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 11902,
+        "name": "[Event] Swimsuit Girl Laharl Emoji 02",
+        "img_base": 119,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 11903,
+        "name": "[Event] Swimsuit Girl Laharl Emoji 03",
+        "img_base": 119,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 11904,
+        "name": "[Event] Swimsuit Girl Laharl Emoji 04",
+        "img_base": 119,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 11905,
+        "name": "[Event] Swimsuit Girl Laharl Emoji 05",
+        "img_base": 119,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 12001,
+        "name": "[Event] Swimsuit Flonne Emoji 01",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12002,
+        "name": "[Event] Swimsuit Flonne Emoji 02",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12003,
+        "name": "[Event] Swimsuit Flonne Emoji 03",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12004,
+        "name": "[Event] Swimsuit Flonne Emoji 04",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 12005,
+        "name": "[Event] Swimsuit Flonne Emoji 05",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 12006,
+        "name": "[Event] Swimsuit Flonne Emoji 06",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 12007,
+        "name": "[Event] Swimsuit Flonne Emoji 07",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 12008,
+        "name": "[Event] Swimsuit Flonne Emoji 08",
+        "img_base": 120,
+        "img_body": 1,
+        "img_face": 8
+    },
+    {
+        "id": 12101,
+        "name": "[Event] Swimsuit Magic Knight Emoji 01",
+        "img_base": 121,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12102,
+        "name": "[Event] Swimsuit Magic Knight Emoji 02",
+        "img_base": 121,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12103,
+        "name": "[Event] Swimsuit Magic Knight Emoji 03",
+        "img_base": 121,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12104,
+        "name": "[Event] Swimsuit Magic Knight Emoji 04",
+        "img_base": 121,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 12105,
+        "name": "[Event] Swimsuit Magic Knight Emoji 05",
+        "img_base": 121,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 12201,
+        "name": "[Event] Swimsuit Prinny",
+        "img_base": 122,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12301,
+        "name": "[Event] Sea Club Demons",
+        "img_base": 123,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12401,
+        "name": "[Event] Girl Laharl's Bodyguards",
+        "img_base": 124,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12501,
+        "name": "[Main] Salvatore",
+        "img_base": 125,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12601,
+        "name": "[Event] Raspberyl XENO Emoji 01",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12602,
+        "name": "[Event] Raspberyl XENO Emoji 02",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12603,
+        "name": "[Event] Raspberyl XENO Emoji 03",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12604,
+        "name": "[Event] Raspberyl XENO Emoji 04",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 12605,
+        "name": "[Event] Raspberyl XENO Emoji 05",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 12606,
+        "name": "[Event] Raspberyl XENO Emoji 06",
+        "img_base": 126,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 12701,
+        "name": "[Event] Mao XENO Emoji 01",
+        "img_base": 127,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12702,
+        "name": "[Event] Mao XENO Emoji 02",
+        "img_base": 127,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12703,
+        "name": "[Event] Mao XENO Emoji 03",
+        "img_base": 127,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12801,
+        "name": "[Event] Yukata Valvatorez Emoji 01",
+        "img_base": 128,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12802,
+        "name": "[Event] Yukata Valvatorez Emoji 02",
+        "img_base": 128,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12803,
+        "name": "[Event] Yukata Valvatorez Emoji 03",
+        "img_base": 128,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12804,
+        "name": "[Event] Yukata Valvatorez Emoji 04",
+        "img_base": 128,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 12805,
+        "name": "[Event] Yukata Valvatorez Emoji 04",
+        "img_base": 128,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 12901,
+        "name": "[Event] Yukata Yukimaru Emoji 01",
+        "img_base": 129,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 12902,
+        "name": "[Event] Yukata Yukimaru Emoji 02",
+        "img_base": 129,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 12903,
+        "name": "[Event] Yukata Yukimaru Emoji 03",
+        "img_base": 129,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 12904,
+        "name": "[Event] Yukata Yukimaru Emoji 04",
+        "img_base": 129,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 12905,
+        "name": "[Event] Yukata Yukimaru Emoji 05",
+        "img_base": 129,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13001,
+        "name": "[Event] Sparkle Emoji 01",
+        "img_base": 130,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13002,
+        "name": "[Event] Sparkle Emoji 02",
+        "img_base": 130,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13003,
+        "name": "[Event] Sparkle Emoji 03",
+        "img_base": 130,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13004,
+        "name": "[Event] Sparkle Emoji 04",
+        "img_base": 130,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13005,
+        "name": "[Event] Sparkle Emoji 05",
+        "img_base": 130,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13101,
+        "name": "[Event] Sardine Head Fenrich Emoji 01",
+        "img_base": 131,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13201,
+        "name": "[Event] Etna (Elizabeth's Costume) Emoji 01",
+        "img_base": 132,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13202,
+        "name": "[Event] Etna (Elizabeth's Costume) Emoji 02",
+        "img_base": 132,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13203,
+        "name": "[Event] Etna (Elizabeth's Costume) Emoji 03",
+        "img_base": 132,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13204,
+        "name": "[Event] Etna (Elizabeth's Costume) Emoji 04",
+        "img_base": 132,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13205,
+        "name": "[Event] Etna (Elizabeth's Costume) Emoji 05",
+        "img_base": 132,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13301,
+        "name": "[Event] Elizabeth (Etna's Costume) Emoji 01",
+        "img_base": 133,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13302,
+        "name": "[Event] Elizabeth (Etna's Costume) Emoji 02",
+        "img_base": 133,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13303,
+        "name": "[Event] Elizabeth (Etna's Costume) Emoji 03",
+        "img_base": 133,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13304,
+        "name": "[Event] Elizabeth (Etna's Costume) Emoji 04",
+        "img_base": 133,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13305,
+        "name": "[Event] Elizabeth (Etna's Costume) Emoji 05",
+        "img_base": 133,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13401,
+        "name": "[Event] Meliodas Emoji 01",
+        "img_base": 134,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13402,
+        "name": "[Event] Meliodas Emoji 02",
+        "img_base": 134,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13403,
+        "name": "[Event] Meliodas Emoji 03",
+        "img_base": 134,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13404,
+        "name": "[Event] Meliodas Emoji 04",
+        "img_base": 134,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13405,
+        "name": "[Event] Meliodas Emoji 05",
+        "img_base": 134,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13501,
+        "name": "[Event] Elizabeth Emoji 01",
+        "img_base": 135,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13502,
+        "name": "[Event] Elizabeth Emoji 02",
+        "img_base": 135,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13503,
+        "name": "[Event] Elizabeth Emoji 03",
+        "img_base": 135,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13504,
+        "name": "[Event] Elizabeth Emoji 04",
+        "img_base": 135,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13505,
+        "name": "[Event] Elizabeth Emoji 05",
+        "img_base": 135,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13601,
+        "name": "[Event] Ban Emoji 01",
+        "img_base": 136,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13602,
+        "name": "[Event] Ban Emoji 02",
+        "img_base": 136,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13603,
+        "name": "[Event] Ban Emoji 03",
+        "img_base": 136,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13604,
+        "name": "[Event] Ban Emoji 04",
+        "img_base": 136,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13605,
+        "name": "[Event] Ban Emoji 05",
+        "img_base": 136,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13701,
+        "name": "[Event] Diane Emoji 01",
+        "img_base": 137,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13702,
+        "name": "[Event] Diane Emoji 02",
+        "img_base": 137,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13703,
+        "name": "[Event] Diane Emoji 03",
+        "img_base": 137,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13704,
+        "name": "[Event] Diane Emoji 04",
+        "img_base": 137,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13705,
+        "name": "[Event] Diane Emoji 05",
+        "img_base": 137,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 13801,
+        "name": "[Event] Gowther Emoji 01",
+        "img_base": 138,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13802,
+        "name": "[Event] Gowther Emoji 02",
+        "img_base": 138,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13803,
+        "name": "[Event] Gowther Emoji 03",
+        "img_base": 138,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13901,
+        "name": "[Event] Merlin Emoji 01",
+        "img_base": 139,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 13902,
+        "name": "[Event] Merlin Emoji 02",
+        "img_base": 139,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 13903,
+        "name": "[Event] Merlin Emoji 03",
+        "img_base": 139,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 13904,
+        "name": "[Event] Merlin Emoji 04",
+        "img_base": 139,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 13905,
+        "name": "[Event] Merlin Emoji 05",
+        "img_base": 139,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14001,
+        "name": "[Event] King Emoji 01",
+        "img_base": 140,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14002,
+        "name": "[Event] King Emoji 02",
+        "img_base": 140,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14003,
+        "name": "[Event] King Emoji 03",
+        "img_base": 140,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14004,
+        "name": "[Event] King Emoji 04",
+        "img_base": 140,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14005,
+        "name": "[Event] King Emoji 05",
+        "img_base": 140,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14101,
+        "name": "[Event] Hawk Emoji 01",
+        "img_base": 141,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14102,
+        "name": "[Event] Hawk Emoji 02",
+        "img_base": 141,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14103,
+        "name": "[Event] Hawk Emoji 03",
+        "img_base": 141,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14104,
+        "name": "[Event] Hawk Emoji 04",
+        "img_base": 141,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14105,
+        "name": "[Event] Hawk Emoji 05",
+        "img_base": 141,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14201,
+        "name": "[Event] Matt Emoji 01",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14202,
+        "name": "[Event] Matt Emoji 02",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14203,
+        "name": "[Event] Matt Emoji 03",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14204,
+        "name": "[Event] Matt Emoji 04",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14205,
+        "name": "[Event] Matt Emoji 05",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14206,
+        "name": "[Event] Matt Emoji 06",
+        "img_base": 142,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 14301,
+        "name": "[Event] Matt's Mirror Emoji 01",
+        "img_base": 143,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14401,
+        "name": "[Event] Matt's Dark Mirror Emoji 01",
+        "img_base": 144,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14501,
+        "name": "[Event] Cute Flonne Emoji 01",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14502,
+        "name": "[Event] Cute Flonne Emoji 02",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14503,
+        "name": "[Event] Cute Flonne Emoji 03",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14504,
+        "name": "[Event] Cute Flonne Emoji 04",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14505,
+        "name": "[Event] Cute Flonne Emoji 05",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14506,
+        "name": "[Event] Cute Flonne Emoji 06",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 14507,
+        "name": "[Event] Cute Flonne Emoji 07",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 14508,
+        "name": "[Event] Cute Flonne Emoji 08",
+        "img_base": 145,
+        "img_body": 1,
+        "img_face": 8
+    },
+    {
+        "id": 14601,
+        "name": "[Event] Cute Chacha Emoji 01",
+        "img_base": 146,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14602,
+        "name": "[Event] Cute Chacha Emoji 02",
+        "img_base": 146,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14603,
+        "name": "[Event] Cute Chacha Emoji 03",
+        "img_base": 146,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14604,
+        "name": "[Event] Cute Chacha Emoji 04",
+        "img_base": 146,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14605,
+        "name": "[Event] Cute Chacha Emoji 05",
+        "img_base": 146,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14701,
+        "name": "[Event] Cute Merlin Emoji 01",
+        "img_base": 147,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14702,
+        "name": "[Event] Cute Merlin Emoji 02",
+        "img_base": 147,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 14703,
+        "name": "[Event] Cute Merlin Emoji 03",
+        "img_base": 147,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 14704,
+        "name": "[Event] Cute Merlin Emoji 04",
+        "img_base": 147,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 14705,
+        "name": "[Event] Cute Merlin Emoji 05",
+        "img_base": 147,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 14801,
+        "name": "[Event] Matt Type Laharl Emoji 01",
+        "img_base": 148,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 14901,
+        "name": "[Event] Matt&Chacha&Merlin",
+        "img_base": 149,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15001,
+        "name": "[Event] Matt Type Mid-Boss Emoji 01",
+        "img_base": 150,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15101,
+        "name": "[Event] Matt Type Axel Emoji 01",
+        "img_base": 151,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15201,
+        "name": "[Event] Matt Type Vulcanus Emoji 01",
+        "img_base": 152,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15301,
+        "name": "[Event] Matt's Dark Mirror ×3",
+        "img_base": 153,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15401,
+        "name": "[Event] Matt's Dark Mirror (Aura)",
+        "img_base": 154,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15501,
+        "name": "[Event] Prinny ×2",
+        "img_base": 155,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15601,
+        "name": "[Event] Halloween Laharl Emoji 01",
+        "img_base": 156,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15602,
+        "name": "[Event] Halloween Laharl Emoji 02",
+        "img_base": 156,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 15603,
+        "name": "[Event] Halloween Laharl Emoji 03",
+        "img_base": 156,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 15604,
+        "name": "[Event] Halloween Laharl Emoji 04",
+        "img_base": 156,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 15605,
+        "name": "[Event] Halloween Laharl Emoji 05",
+        "img_base": 156,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 15701,
+        "name": "[Event] Halloween Majorita Emoji 01",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15702,
+        "name": "[Event] Halloween Majorita Emoji 02",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 15703,
+        "name": "[Event] Halloween Majorita Emoji 03",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 15704,
+        "name": "[Event] Halloween Majorita Emoji 04",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 15705,
+        "name": "[Event] Halloween Majorita Emoji 05",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 15706,
+        "name": "[Event] Halloween Majorita Emoji 06",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 15707,
+        "name": "[Event] Halloween Majorita Emoji 07",
+        "img_base": 157,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 15801,
+        "name": "[Event] Halloween Artina Emoji 01",
+        "img_base": 158,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 15802,
+        "name": "[Event] Halloween Artina Emoji 02",
+        "img_base": 158,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 15803,
+        "name": "[Event] Halloween Artina Emoji 03",
+        "img_base": 158,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 15804,
+        "name": "[Event] Halloween Artina Emoji 04",
+        "img_base": 158,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 15805,
+        "name": "[Event] Halloween Artina Emoji 05",
+        "img_base": 158,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 15901,
+        "name": "[Event] Zombie 1",
+        "img_base": 159,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16001,
+        "name": "[Event] Zombie 2",
+        "img_base": 160,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16101,
+        "name": "[Summer Resort] Sage",
+        "img_base": 161,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16201,
+        "name": "[Summer Resort] Beastmaster",
+        "img_base": 162,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16301,
+        "name": "[Summer Resort] Bouncer",
+        "img_base": 163,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16401,
+        "name": "[Summer Resort] Android",
+        "img_base": 164,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16601,
+        "name": "[Event] Des X Emoji 01",
+        "img_base": 166,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16602,
+        "name": "[Event] Des X Emoji 02",
+        "img_base": 166,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 16701,
+        "name": "[Event] Taro Emoji 01",
+        "img_base": 167,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16702,
+        "name": "[Event] Taro Emoji 02",
+        "img_base": 167,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 16703,
+        "name": "[Event] Taro Emoji 03",
+        "img_base": 167,
+        "img_body": 3,
+        "img_face": 0
+    },
+    {
+        "id": 16704,
+        "name": "[Event] Taro Emoji 04",
+        "img_base": 167,
+        "img_body": 4,
+        "img_face": 0
+    },
+    {
+        "id": 16801,
+        "name": "[Event] Hanako Emoji 01",
+        "img_base": 168,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 16802,
+        "name": "[Event] Hanako Emoji 02",
+        "img_base": 168,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 16803,
+        "name": "[Event] Hanako Emoji 03",
+        "img_base": 168,
+        "img_body": 3,
+        "img_face": 0
+    },
+    {
+        "id": 16901,
+        "name": "[Event] Lucy & Dias",
+        "img_base": 169,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17001,
+        "name": "[Event] Attired Seraphina Emoji 01",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17002,
+        "name": "[Event] Attired Seraphina Emoji 02",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17003,
+        "name": "[Event] Attired Seraphina Emoji 03",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17004,
+        "name": "[Event] Attired Seraphina Emoji 04",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17005,
+        "name": "[Event] Attired Seraphina Emoji 05",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17006,
+        "name": "[Event] Attired Seraphina Emoji 06",
+        "img_base": 170,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 17101,
+        "name": "[Event] Attired Killia Emoji 01",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17102,
+        "name": "[Event] Attired Killia Emoji 02",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17103,
+        "name": "[Event] Attired Killia Emoji 03",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17104,
+        "name": "[Event] Attired Killia Emoji 04",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17105,
+        "name": "[Event] Attired Killia Emoji 05",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17106,
+        "name": "[Event] Attired Killia Emoji 06",
+        "img_base": 171,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 17201,
+        "name": "[Event] Attired Prinny Emoji 01",
+        "img_base": 172,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17202,
+        "name": "[Event] Attired Prinny Emoji 02",
+        "img_base": 172,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 17301,
+        "name": "[Event] Buried Emizel",
+        "img_base": 173,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17401,
+        "name": "[Event] Sicily XENO Emoji 01",
+        "img_base": 174,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17402,
+        "name": "[Event] Sicily XENO Emoji 02",
+        "img_base": 174,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17403,
+        "name": "[Event] Sicily XENO Emoji 03",
+        "img_base": 174,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17404,
+        "name": "[Event] Sicily XENO Emoji 04",
+        "img_base": 174,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17405,
+        "name": "[Event] Sicily XENO Emoji 05",
+        "img_base": 174,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17501,
+        "name": "[Event] Thunderlord Laharl Emoji 01",
+        "img_base": 175,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17502,
+        "name": "[Event] Thunderlord Laharl Emoji 02",
+        "img_base": 175,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17503,
+        "name": "[Event] Thunderlord Laharl Emoji 03",
+        "img_base": 175,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17504,
+        "name": "[Event] Thunderlord Laharl Emoji 04",
+        "img_base": 175,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17505,
+        "name": "[Event] Thunderlord Laharl Emoji 05",
+        "img_base": 175,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17601,
+        "name": "[Event] Dark Santa Usalia Emoji 01",
+        "img_base": 176,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17602,
+        "name": "[Event] Dark Santa Usalia Emoji 02",
+        "img_base": 176,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17603,
+        "name": "[Event] Dark Santa Usalia Emoji 03",
+        "img_base": 176,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17604,
+        "name": "[Event] Dark Santa Usalia Emoji 04",
+        "img_base": 176,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17605,
+        "name": "[Event] Dark Santa Usalia Emoji 05",
+        "img_base": 176,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17701,
+        "name": "[Event] Santa Rozalin Emoji 01",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17702,
+        "name": "[Event] Santa Rozalin Emoji 02",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17703,
+        "name": "[Event] Santa Rozalin Emoji 03",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17704,
+        "name": "[Event] Santa Rozalin Emoji 04",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17705,
+        "name": "[Event] Santa Rozalin Emoji 05",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17706,
+        "name": "[Event] Santa Rozalin Emoji 05",
+        "img_base": 177,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 17801,
+        "name": "[Event] Santa Adell Emoji 01",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17802,
+        "name": "[Event] Santa Adell Emoji 02",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 17803,
+        "name": "[Event] Santa Adell Emoji 03",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 17804,
+        "name": "[Event] Santa Adell Emoji 04",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 17805,
+        "name": "[Event] Santa Adell Emoji 05",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 17806,
+        "name": "[Event] Santa Adell Emoji 06",
+        "img_base": 178,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 17901,
+        "name": "[Event] Tink Emoji 01",
+        "img_base": 179,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 17902,
+        "name": "[Event] Tink Emoji 02",
+        "img_base": 179,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 17903,
+        "name": "[Event] Tink Emoji 03",
+        "img_base": 179,
+        "img_body": 3,
+        "img_face": 0
+    },
+    {
+        "id": 17904,
+        "name": "[Event] Tink Emoji 04",
+        "img_base": 179,
+        "img_body": 4,
+        "img_face": 0
+    },
+    {
+        "id": 17905,
+        "name": "[Event] Tink Emoji 05",
+        "img_base": 179,
+        "img_body": 5,
+        "img_face": 0
+    },
+    {
+        "id": 17906,
+        "name": "[Event] Tink Emoji 06",
+        "img_base": 179,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 18001,
+        "name": "[Event] Reindeer Majorita Emoji 01",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18002,
+        "name": "[Event] Reindeer Majorita Emoji 02",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18003,
+        "name": "[Event] Reindeer Majorita Emoji 03",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18004,
+        "name": "[Event] Reindeer Majorita Emoji 04",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18005,
+        "name": "[Event] Reindeer Majorita Emoji 05",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18006,
+        "name": "[Event] Reindeer Majorita Emoji 06",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 18007,
+        "name": "[Event] Reindeer Majorita Emoji 07",
+        "img_base": 180,
+        "img_body": 1,
+        "img_face": 7
+    },
+    {
+        "id": 18101,
+        "name": "[Event] Falled Noel",
+        "img_base": 181,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18201,
+        "name": "[Event] Sakuya Emoji 01",
+        "img_base": 182,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18202,
+        "name": "[Event] Sakuya Emoji 02",
+        "img_base": 182,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18203,
+        "name": "[Event] Sakuya Emoji 03",
+        "img_base": 182,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18204,
+        "name": "[Event] Sakuya Emoji 04",
+        "img_base": 182,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18205,
+        "name": "[Event] Sakuya Emoji 05",
+        "img_base": 182,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18301,
+        "name": "[Event] Attired Girl Laharl Emoji 01",
+        "img_base": 183,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18302,
+        "name": "[Event] Attired Girl Laharl Emoji 02",
+        "img_base": 183,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18303,
+        "name": "[Event] Attired Girl Laharl Emoji 03",
+        "img_base": 183,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18304,
+        "name": "[Event] Attired Girl Laharl Emoji 04",
+        "img_base": 183,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18305,
+        "name": "[Event] Attired Girl Laharl Emoji 05",
+        "img_base": 183,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18401,
+        "name": "[Event] Mika Sicily Emoji 01",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18402,
+        "name": "[Event] Mika Sicily Emoji 02",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18403,
+        "name": "[Event] Mika Sicily Emoji 03",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18404,
+        "name": "[Event] Mika Sicily Emoji 04",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18405,
+        "name": "[Event] Mika Sicily Emoji 05",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18406,
+        "name": "[Event] Mika Sicily Emoji 06",
+        "img_base": 184,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 18501,
+        "name": "[Event] Pringer X",
+        "img_base": 185,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18701,
+        "name": "[Event] Three Killias",
+        "img_base": 187,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18801,
+        "name": "[Event] Sweetheart Omega Emoji 01",
+        "img_base": 188,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18802,
+        "name": "[Event] Sweetheart Omega Emoji 02",
+        "img_base": 188,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18803,
+        "name": "[Event] Sweetheart Omega Emoji 03",
+        "img_base": 188,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18804,
+        "name": "[Event] Sweetheart Omega Emoji 04",
+        "img_base": 188,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18805,
+        "name": "[Event] Sweetheart Omega Emoji 05",
+        "img_base": 188,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18901,
+        "name": "[Event] Trista Emoji 01",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 18902,
+        "name": "[Event] Trista Emoji 02",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 18903,
+        "name": "[Event] Trista Emoji 03",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 18904,
+        "name": "[Event] Trista Emoji 04",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 18905,
+        "name": "[Event] Trista Emoji 05",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 18906,
+        "name": "[Event] Trista Emoji 06",
+        "img_base": 189,
+        "img_body": 1,
+        "img_face": 6
+    },
+    {
+        "id": 19001,
+        "name": "[Event] Merome Emoji 01",
+        "img_base": 190,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 19002,
+        "name": "[Event] Merome Emoji 02",
+        "img_base": 190,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 19003,
+        "name": "[Event] Merome Emoji 03",
+        "img_base": 190,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 19004,
+        "name": "[Event] Merome Emoji 04",
+        "img_base": 190,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 19005,
+        "name": "[Event] Merome Emoji 05",
+        "img_base": 190,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 19101,
+        "name": "[Event] Mao in Love",
+        "img_base": 191,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 19201,
+        "name": "[Event] Sweetheart Omega&Trista&Merome",
+        "img_base": 192,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 19301,
+        "name": "[Event] Adell&Mao&Fake Zenon",
+        "img_base": 193,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
         "id": 100101,
         "name": "[Digest] D1 Laharl Emoji 01",
         "img_base": 1001,
@@ -3304,6 +5523,216 @@
         "img_face": 2
     },
     {
+        "id": 400101,
+        "name": "[Digest] D4 Special Force Emoji 01",
+        "img_base": 4001,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400201,
+        "name": "[Digest] D4 Prisoner Emoji 01",
+        "img_base": 4002,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400301,
+        "name": "[Digest] D4 Nemo Emoji 01",
+        "img_base": 4003,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400302,
+        "name": "[Digest] D4 Nemo Emoji 02",
+        "img_base": 4003,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 400303,
+        "name": "[Digest] D4 Nemo Emoji 03",
+        "img_base": 4003,
+        "img_body": 3,
+        "img_face": 0
+    },
+    {
+        "id": 400401,
+        "name": "[Digest] D4 Director",
+        "img_base": 4004,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400701,
+        "name": "[Digest] D4 Artina Valvatorez",
+        "img_base": 4007,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400801,
+        "name": "[Digest] D4 Inner Circle Monsters",
+        "img_base": 4008,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 400901,
+        "name": "[Digest] D4 Team D4",
+        "img_base": 4009,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401001,
+        "name": "[Digest] D4 Axel ×4",
+        "img_base": 4010,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401101,
+        "name": "[Digest] D4 Axel ×3",
+        "img_base": 4011,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401201,
+        "name": "[Digest] D4 Desco&Fuka&Emizel",
+        "img_base": 4012,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401301,
+        "name": "[Digest] D4 Psylos the Thunderlord Emoji 01",
+        "img_base": 4013,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401302,
+        "name": "[Digest] D4 Psylos the Thunderlord Emoji 02",
+        "img_base": 4013,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 401303,
+        "name": "[Digest] D4 Psylos the Thunderlord Emoji 03",
+        "img_base": 4013,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 401401,
+        "name": "[Digest] D4 Garatea, Guardian of the East Gate",
+        "img_base": 4014,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401501,
+        "name": "[Digest] D4 One of the Almighty Seven",
+        "img_base": 4015,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401601,
+        "name": "[Digest] D4 One of the Ten Overlords",
+        "img_base": 4016,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401701,
+        "name": "[Digest] D4 Battle Suit",
+        "img_base": 4017,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401801,
+        "name": "[Digest] D4 Orc x3",
+        "img_base": 4018,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401901,
+        "name": "[Digest] D4 Genjuro Kazamatsuri Emoji 01",
+        "img_base": 4019,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 401902,
+        "name": "[Digest] D4 Genjuro Kazamatsuri Emoji 02",
+        "img_base": 4019,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 402001,
+        "name": "[Digest] D4 Alien",
+        "img_base": 4020,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402101,
+        "name": "[Digest] D4 Axel (Animation)",
+        "img_base": 4021,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402201,
+        "name": "[Digest] D4 President of Nether World (Animation)",
+        "img_base": 4022,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402301,
+        "name": "[Digest] D4 Genjuro Kazamatsuri (Animation)",
+        "img_base": 4023,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402401,
+        "name": "[Digest] D4 Malice Nemo",
+        "img_base": 4024,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402501,
+        "name": "[Digest] D4 Nemo (Translucent)",
+        "img_base": 4025,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402601,
+        "name": "[Digest] D4 President of Nether World Emoji 01",
+        "img_base": 4026,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 402602,
+        "name": "[Digest] D4 President of Nether World Emoji 02",
+        "img_base": 4026,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
         "id": 600101,
         "name": "[Digest] Killidia (Awakened) Emoji 01",
         "img_base": 6001,
@@ -3840,6 +6269,307 @@
         "name": "[Digest] Brave the Overlord of Fortress de Gaulle",
         "img_base": 6034,
         "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700101,
+        "name": "[Digest] Zed Emoji 01",
+        "img_base": 7001,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700102,
+        "name": "[Digest] Zed Emoji 02",
+        "img_base": 7001,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700103,
+        "name": "[Digest] Zed Emoji 03",
+        "img_base": 7001,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 700104,
+        "name": "[Digest] Zed Emoji 04",
+        "img_base": 7001,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 700105,
+        "name": "[Digest] Zed Emoji 05",
+        "img_base": 7001,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 700106,
+        "name": "[Digest] Zed Emoji 06",
+        "img_base": 7001,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 700107,
+        "name": "[Digest] Zed Emoji 07",
+        "img_base": 7001,
+        "img_body": 7,
+        "img_face": 0
+    },
+    {
+        "id": 700108,
+        "name": "[Digest] Zed Emoji 08",
+        "img_base": 7001,
+        "img_body": 8,
+        "img_face": 0
+    },
+    {
+        "id": 700109,
+        "name": "[Digest] Zed Emoji 09",
+        "img_base": 7001,
+        "img_body": 9,
+        "img_face": 0
+    },
+    {
+        "id": 700110,
+        "name": "[Digest] Zed Emoji 10",
+        "img_base": 7001,
+        "img_body": 10,
+        "img_face": 0
+    },
+    {
+        "id": 700111,
+        "name": "[Digest] Zed Emoji 11",
+        "img_base": 7001,
+        "img_body": 11,
+        "img_face": 0
+    },
+    {
+        "id": 700201,
+        "name": "[Digest] Cerberus Emoji 01",
+        "img_base": 7002,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700202,
+        "name": "[Digest] Cerberus Emoji 02",
+        "img_base": 7002,
+        "img_body": 2,
+        "img_face": 0
+    },
+    {
+        "id": 700301,
+        "name": "[Digest] Overlord Ivar Emoji 01",
+        "img_base": 7003,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700302,
+        "name": "[Digest] Overlord Ivar Emoji 02",
+        "img_base": 7003,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700303,
+        "name": "[Digest] Overlord Ivar Emoji 03",
+        "img_base": 7003,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 700304,
+        "name": "[Digest] Overlord Ivar Emoji 04",
+        "img_base": 7003,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 700305,
+        "name": "[Digest] Overlord Ivar Emoji 05",
+        "img_base": 7003,
+        "img_body": 1,
+        "img_face": 5
+    },
+    {
+        "id": 700306,
+        "name": "[Digest] Overlord Ivar Emoji 06",
+        "img_base": 7003,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 700307,
+        "name": "[Digest] Overlord Ivar Emoji 07",
+        "img_base": 7003,
+        "img_body": 7,
+        "img_face": 0
+    },
+    {
+        "id": 700308,
+        "name": "[Digest] Overlord Ivar Emoji 08",
+        "img_base": 7003,
+        "img_body": 8,
+        "img_face": 0
+    },
+    {
+        "id": 700401,
+        "name": "[Digest] Bieko Emoji 01",
+        "img_base": 7004,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700402,
+        "name": "[Digest] Bieko Emoji 02",
+        "img_base": 7004,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700403,
+        "name": "[Digest] Bieko Emoji 03",
+        "img_base": 7004,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 700501,
+        "name": "[Digest] God of Destruction Emoji 01",
+        "img_base": 7005,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700502,
+        "name": "[Digest] God of Destruction Emoji 01",
+        "img_base": 7005,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700601,
+        "name": "[Digest] Majolene Emoji 01",
+        "img_base": 7006,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700602,
+        "name": "[Digest] Majolene Emoji 02",
+        "img_base": 7006,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700603,
+        "name": "[Digest] Majolene Emoji 03",
+        "img_base": 7006,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 700604,
+        "name": "[Digest] Majolene Emoji 04",
+        "img_base": 7006,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 700605,
+        "name": "[Digest] Majolene Emoji 05",
+        "img_base": 7006,
+        "img_body": 5,
+        "img_face": 0
+    },
+    {
+        "id": 700606,
+        "name": "[Digest] Majolene Emoji 06",
+        "img_base": 7006,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 700607,
+        "name": "[Digest] Majolene Emoji 07",
+        "img_base": 7006,
+        "img_body": 7,
+        "img_face": 0
+    },
+    {
+        "id": 700608,
+        "name": "[Digest] Majolene Emoji 08",
+        "img_base": 7006,
+        "img_body": 8,
+        "img_face": 0
+    },
+    {
+        "id": 700901,
+        "name": "[Digest] Melodia Emoji 01",
+        "img_base": 7009,
+        "img_body": 1,
+        "img_face": 0
+    },
+    {
+        "id": 700902,
+        "name": "[Digest] Melodia Emoji 02",
+        "img_base": 7009,
+        "img_body": 1,
+        "img_face": 2
+    },
+    {
+        "id": 700903,
+        "name": "[Digest] Melodia Emoji 03",
+        "img_base": 7009,
+        "img_body": 1,
+        "img_face": 3
+    },
+    {
+        "id": 700904,
+        "name": "[Digest] Melodia Emoji 04",
+        "img_base": 7009,
+        "img_body": 1,
+        "img_face": 4
+    },
+    {
+        "id": 700905,
+        "name": "[Digest] Melodia Emoji 05",
+        "img_base": 7009,
+        "img_body": 5,
+        "img_face": 0
+    },
+    {
+        "id": 700906,
+        "name": "[Digest] Melodia Emoji 06",
+        "img_base": 7009,
+        "img_body": 6,
+        "img_face": 0
+    },
+    {
+        "id": 700907,
+        "name": "[Digest] Melodia Emoji 07",
+        "img_base": 7009,
+        "img_body": 7,
+        "img_face": 0
+    },
+    {
+        "id": 700908,
+        "name": "[Digest] Melodia Emoji 08",
+        "img_base": 7009,
+        "img_body": 8,
+        "img_face": 0
+    },
+    {
+        "id": 700909,
+        "name": "[Digest] Melodia Emoji 09",
+        "img_base": 7009,
+        "img_body": 9,
         "img_face": 0
     }
 ]

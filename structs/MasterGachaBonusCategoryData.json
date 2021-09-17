@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "resource_name": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MGachaId": "UInt64",
+        "ResourceName": "String"
+    }
+}

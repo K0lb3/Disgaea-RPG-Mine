@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_coll": "NameObjectCollectionBase"
+    },
+    "properties": {
+        "Count": "Int32"
+    }
+}

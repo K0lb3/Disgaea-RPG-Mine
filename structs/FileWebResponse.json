@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "m_closed": "Boolean",
+        "m_headers": "WebHeaderCollection",
+        "m_stream": "Stream",
+        "m_uri": "Uri"
+    },
+    "properties": {}
+}

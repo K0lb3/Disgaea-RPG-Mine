@@ -1,17 +1,12 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "category": "Int32",
+        "word": "String"
     },
-    {
-        "type": "int",
-        "name": "category",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "word",
-        "offset": 32
+    "properties": {
+        "Id": "UInt64",
+        "Category": "Int32",
+        "Word": "String"
     }
-]
+}

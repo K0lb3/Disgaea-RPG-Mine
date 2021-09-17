@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "m_potential_class_id": "UInt64",
+        "rank": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "MPotentialClassId": "UInt64",
+        "Rank": "Int32",
+        "MPotentialClassData": "MasterPotentialClassData",
+        "CurrentMasterPotentialClassRankData": "MasterPotentialClassRankData",
+        "IsClassRankMax": "Boolean",
+        "NextMasterPotentialClassRankData": "MasterPotentialClassRankData",
+        "CurrentMasterPotentialClassConditionDataList": "List`1",
+        "NextMasterPotentialClassConditionDataList": "List`1"
+    }
+}

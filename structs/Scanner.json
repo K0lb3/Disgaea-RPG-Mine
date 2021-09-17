@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "indent": "Int32",
+        "previous": "Token"
+    },
+    "properties": {
+        "SkipComments": "Boolean",
+        "Current": "Token",
+        "CurrentPosition": "Mark"
+    }
+}

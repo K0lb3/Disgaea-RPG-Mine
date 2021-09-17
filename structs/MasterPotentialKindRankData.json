@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_potential_kind_id": "UInt64",
+        "rank": "Int32",
+        "require_exp": "Int64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MPotentialKindId": "UInt64",
+        "Rank": "Int32",
+        "TotalRequireExp": "Int64",
+        "CurrentRequireExp": "Int64"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "fields": {
+        "inext": "Int32",
+        "inextp": "Int32"
+    },
+    "properties": {}
+}

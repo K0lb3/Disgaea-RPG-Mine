@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_area_id": "UInt64",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_area_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 52
+    "properties": {
+        "Id": "UInt64",
+        "MAreaId": "UInt64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
     }
-]
+}

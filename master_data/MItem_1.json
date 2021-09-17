@@ -8,7 +8,8 @@
             0
         ],
         "description": "Currency of Netherworlds",
-        "max_num": 99999999
+        "max_num": 999999999,
+        "sell_price": 0
     },
     {
         "id": 201,
@@ -19,7 +20,8 @@
             0
         ],
         "description": "A magic stone with many uses, dood!",
-        "max_num": 999999999
+        "max_num": 999999999,
+        "sell_price": 0
     },
     {
         "id": 202,
@@ -30,7 +32,8 @@
             0
         ],
         "description": "A magic stone with many uses, dood!",
-        "max_num": 999999999
+        "max_num": 999999999,
+        "sell_price": 0
     },
     {
         "id": 301,
@@ -41,7 +44,8 @@
             100
         ],
         "description": "This'll pep you up a lot, dood!",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 302,
@@ -52,7 +56,8 @@
             50
         ],
         "description": "This'll pep you up a bit, dood!",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 303,
@@ -63,7 +68,8 @@
             100
         ],
         "description": "A delicious chocolate that fully restores AP.",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 304,
@@ -74,7 +80,8 @@
             50
         ],
         "description": "A chocolate with a familiar look that restores 50% AP.",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 305,
@@ -85,7 +92,8 @@
             100
         ],
         "description": "A heartfelt macaron that fully restores AP.",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 306,
@@ -96,7 +104,8 @@
             50
         ],
         "description": "A Marshmallow that might restore 50% AP...",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 307,
@@ -107,7 +116,8 @@
             100
         ],
         "description": "Fully restores AP. But it looks just like an egg...",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 308,
@@ -118,7 +128,32 @@
             50
         ],
         "description": "Restores 50% AP. It's a little cramped inside.",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 309,
+        "name": "Stump Cake",
+        "item_type": 3,
+        "icon_no": 309,
+        "effect_value": [
+            100
+        ],
+        "description": "A classic cake that fully restores your AP.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 310,
+        "name": "Netherworld Gingersnap",
+        "item_type": 3,
+        "icon_no": 310,
+        "effect_value": [
+            50
+        ],
+        "description": "A classic biscuit that restores 50% of your AP.",
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 401,
@@ -130,7 +165,8 @@
             25
         ],
         "description": "Increases affinity (mild).",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 402,
@@ -142,7 +178,8 @@
             50
         ],
         "description": "Increases affinity (great).",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 403,
@@ -154,7 +191,8 @@
             100
         ],
         "description": "Increases affinity (super).",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 501,
@@ -165,7 +203,8 @@
             5
         ],
         "description": "Character Slot +5",
-        "max_num": 799
+        "max_num": 799,
+        "sell_price": 0
     },
     {
         "id": 601,
@@ -176,7 +215,8 @@
             5
         ],
         "description": "Weapon Slot +5",
-        "max_num": 799
+        "max_num": 799,
+        "sell_price": 0
     },
     {
         "id": 701,
@@ -187,7 +227,8 @@
             5
         ],
         "description": "Armor Slot +5",
-        "max_num": 799
+        "max_num": 799,
+        "sell_price": 0
     },
     {
         "id": 801,
@@ -198,7 +239,8 @@
             5
         ],
         "description": "Innocent Slot +5",
-        "max_num": 799
+        "max_num": 799,
+        "sell_price": 0
     },
     {
         "id": 1001,
@@ -209,7 +251,8 @@
             1
         ],
         "description": "Used to participate in a lottery, dood!",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1401,
@@ -220,7 +263,8 @@
             1
         ],
         "description": "Used to unlock Dark Gates.",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 1511,
@@ -232,7 +276,8 @@
             1
         ],
         "description": "Slightly increases the WM Lv of Swords.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1512,
@@ -244,7 +289,8 @@
             1
         ],
         "description": "Moderately increases the WM Lv of Swords.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1513,
@@ -256,7 +302,8 @@
             1
         ],
         "description": "Significantly increases the WM Lv of Swords.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1521,
@@ -268,7 +315,8 @@
             2
         ],
         "description": "Slightly increases the WM Lv of Fists.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1522,
@@ -280,7 +328,8 @@
             2
         ],
         "description": "Moderately increases the WM Lv of Fists.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1523,
@@ -292,7 +341,8 @@
             2
         ],
         "description": "Significantly increases the WM Lv of Fists.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1531,
@@ -304,7 +354,8 @@
             3
         ],
         "description": "Slightly increases the WM Lv of Spears.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1532,
@@ -316,7 +367,8 @@
             3
         ],
         "description": "Moderately increases the WM Lv of Spears.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1533,
@@ -328,7 +380,8 @@
             3
         ],
         "description": "Significantly increases the WM Lv of Spears.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1541,
@@ -340,7 +393,8 @@
             4
         ],
         "description": "Slightly increases the WM Lv of Bows.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1542,
@@ -352,7 +406,8 @@
             4
         ],
         "description": "Moderately increases the WM Lv of Bows.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1543,
@@ -364,7 +419,8 @@
             4
         ],
         "description": "Significantly increases the WM Lv of Bows.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1551,
@@ -376,7 +432,8 @@
             5
         ],
         "description": "Slightly increases the WM Lv of Guns.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1552,
@@ -388,7 +445,8 @@
             5
         ],
         "description": "Moderately increases the WM Lv of Guns.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1553,
@@ -400,7 +458,8 @@
             5
         ],
         "description": "Significantly increases the WM Lv of Guns.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1561,
@@ -412,7 +471,8 @@
             6
         ],
         "description": "Slightly increases the WM Lv of Axes.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1562,
@@ -424,7 +484,8 @@
             6
         ],
         "description": "Moderately increases the WM Lv of Axes.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1563,
@@ -436,7 +497,8 @@
             6
         ],
         "description": "Significantly increases the WM Lv of Axes.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1571,
@@ -448,7 +510,8 @@
             7
         ],
         "description": "Slightly increases the WM Lv of Staffs.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1572,
@@ -460,7 +523,8 @@
             7
         ],
         "description": "Moderately increases the WM Lv of Staffs.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1573,
@@ -472,7 +536,8 @@
             7
         ],
         "description": "Significantly increases the WM Lv of Staffs.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1581,
@@ -484,7 +549,8 @@
             8
         ],
         "description": "Slightly increases the WM Lv of Mon. Phys.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1582,
@@ -496,7 +562,8 @@
             8
         ],
         "description": "Moderately increases the WM Lv of Mon. Phys.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1583,
@@ -508,7 +575,8 @@
             8
         ],
         "description": "Significantly increases the WM Lv of Mon. Phys.",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1591,
@@ -519,8 +587,9 @@
             10,
             9
         ],
-        "description": "Slightly increases the WM Lv of Mon. Mag. ",
-        "max_num": 999
+        "description": "Slightly increases the WM Lv of Mon. Mag.",
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1592,
@@ -531,8 +600,9 @@
             25,
             9
         ],
-        "description": "Moderately increases the WM Lv of Mon. Mag. ",
-        "max_num": 999
+        "description": "Moderately increases the WM Lv of Mon. Mag.",
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1593,
@@ -543,8 +613,9 @@
             100,
             9
         ],
-        "description": "Significantly increases the WM Lv of Mon. Mag. ",
-        "max_num": 999
+        "description": "Significantly increases the WM Lv of Mon. Mag.",
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1601,
@@ -555,18 +626,20 @@
             1
         ],
         "description": "It can N.E. anyone",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1602,
-        "name": "Prism Hide",
+        "name": "Prism Hides",
         "item_type": 16,
         "icon_no": 1602,
         "effect_value": [
             100
         ],
         "description": "Get 100 and turn them into an N.E. Prinny",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 0
     },
     {
         "id": 1701,
@@ -577,7 +650,8 @@
             10
         ],
         "description": "Slightly increases the EXP of skill",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1702,
@@ -588,7 +662,8 @@
             25
         ],
         "description": "Moderately  increases the EXP of skill",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1703,
@@ -599,7 +674,8 @@
             100
         ],
         "description": "Significantly increases the EXP of skill",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1801,
@@ -610,7 +686,8 @@
             0
         ],
         "description": "A small gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 50
     },
     {
         "id": 1802,
@@ -621,7 +698,8 @@
             0
         ],
         "description": "A medium gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 75
     },
     {
         "id": 1803,
@@ -632,7 +710,8 @@
             0
         ],
         "description": "A large gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 150
     },
     {
         "id": 1811,
@@ -643,7 +722,8 @@
             0
         ],
         "description": "A small gem used for Humanoid Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 75
     },
     {
         "id": 1812,
@@ -654,7 +734,8 @@
             0
         ],
         "description": "A medium gem used for Humanoid Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 150
     },
     {
         "id": 1813,
@@ -665,7 +746,8 @@
             0
         ],
         "description": "A large gem used for Humanoid Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 350
     },
     {
         "id": 1821,
@@ -676,7 +758,8 @@
             0
         ],
         "description": "A small gem used for Monster Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 75
     },
     {
         "id": 1822,
@@ -687,7 +770,8 @@
             0
         ],
         "description": "A medium gem used for Monster Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 150
     },
     {
         "id": 1823,
@@ -698,7 +782,8 @@
             0
         ],
         "description": "A large gem used for Monster Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 350
     },
     {
         "id": 1831,
@@ -709,7 +794,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1832,
@@ -720,7 +806,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1833,
@@ -731,7 +818,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1834,
@@ -742,7 +830,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1835,
@@ -753,7 +842,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1836,
@@ -764,7 +854,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1837,
@@ -775,7 +866,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1838,
@@ -786,7 +878,8 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1839,
@@ -797,128 +890,68 @@
             0
         ],
         "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 750
     },
     {
         "id": 1840,
-        "name": "Shining Reinc. Gem (Lv10)",
+        "name": "Reinc. Statue (Lv1)",
         "item_type": 18,
         "icon_no": 1840,
         "effect_value": [
             0
         ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "description": "A special statue used for reincarnation.",
+        "max_num": 99999,
+        "sell_price": 1000
     },
     {
         "id": 1841,
-        "name": "Shining Reinc. Gem (Lv11)",
+        "name": "Reinc. Statue (Lv2)",
         "item_type": 18,
         "icon_no": 1841,
         "effect_value": [
             0
         ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "description": "A special statue used for reincarnation.",
+        "max_num": 99999,
+        "sell_price": 1000
     },
     {
         "id": 1842,
-        "name": "Shining Reinc. Gem (Lv12)",
+        "name": "Reinc. Statue (Lv3)",
         "item_type": 18,
         "icon_no": 1842,
         "effect_value": [
             0
         ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "description": "A special statue used for reincarnation.",
+        "max_num": 99999,
+        "sell_price": 1000
     },
     {
         "id": 1843,
-        "name": "Shining Reinc. Gem (Lv13)",
+        "name": "Reinc. Statue (Lv4)",
         "item_type": 18,
         "icon_no": 1843,
         "effect_value": [
             0
         ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "description": "A special statue used for reincarnation.",
+        "max_num": 99999,
+        "sell_price": 1000
     },
     {
         "id": 1844,
-        "name": "Shining Reinc. Gem (Lv14)",
+        "name": "Reinc. Statue (Lv5)",
         "item_type": 18,
         "icon_no": 1844,
         "effect_value": [
             0
         ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1845,
-        "name": "Shining Reinc. Gem (Lv15)",
-        "item_type": 18,
-        "icon_no": 1845,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1846,
-        "name": "Shining Reinc. Gem (Lv16)",
-        "item_type": 18,
-        "icon_no": 1846,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1847,
-        "name": "Shining Reinc. Gem (Lv17)",
-        "item_type": 18,
-        "icon_no": 1847,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1848,
-        "name": "Shining Reinc. Gem (Lv18)",
-        "item_type": 18,
-        "icon_no": 1848,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1849,
-        "name": "Shining Reinc. Gem (Lv19)",
-        "item_type": 18,
-        "icon_no": 1849,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
-    },
-    {
-        "id": 1850,
-        "name": "Shining Reinc. Gem (Lv20)",
-        "item_type": 18,
-        "icon_no": 1850,
-        "effect_value": [
-            0
-        ],
-        "description": "A SP gem used for Reinc.",
-        "max_num": 99999
+        "description": "A special statue used for reincarnation.",
+        "max_num": 99999,
+        "sell_price": 1000
     },
     {
         "id": 1901,
@@ -929,7 +962,8 @@
             100001
         ],
         "description": "Make 1 Premium Summon",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1902,
@@ -940,7 +974,8 @@
             110001
         ],
         "description": "Summon 3★ or above characters",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1903,
@@ -951,40 +986,56 @@
             110002
         ],
         "description": "Summon characters of 4★",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1904,
-        "name": "1 & D2 Summon Ticket",
+        "name": "1&D2 Summon Ticket",
         "item_type": 19,
         "icon_no": 1904,
         "effect_value": [
             210001
         ],
         "description": "Summon characters of 1 & D2",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1905,
-        "name": "2 & 3 Summon Ticket",
+        "name": "2&3 Summon Ticket",
         "item_type": 19,
         "icon_no": 1905,
         "effect_value": [
             210002
         ],
         "description": "Summon characters of 2 & 3",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1906,
-        "name": "4 & 5 Summon Ticket",
+        "name": "4&5 Summon Ticket",
         "item_type": 19,
         "icon_no": 1906,
         "effect_value": [
             210003
         ],
         "description": "Summon characters of 4 & 5",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1907,
+        "name": "3★ or above Summon Ticket (4★: 150% Drop Rate)",
+        "item_type": 19,
+        "icon_no": 1902,
+        "effect_value": [
+            110005
+        ],
+        "description": "Summon 3★ or above characters",
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1909,
@@ -995,7 +1046,8 @@
             210004
         ],
         "description": "Make 1 Valentine Summon",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 1910,
@@ -1006,7 +1058,92 @@
             210005
         ],
         "description": "Make 1 White Day Summon",
-        "max_num": 999
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1911,
+        "name": "Premium Summon Ticket (10 times)",
+        "item_type": 19,
+        "icon_no": 1911,
+        "effect_value": [
+            110003
+        ],
+        "description": "A summon ticket for 10 Premium Summons.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1912,
+        "name": "Novice Summon Ticket (10 Times)",
+        "item_type": 19,
+        "icon_no": 1912,
+        "effect_value": [
+            110004
+        ],
+        "description": "A summon ticket for 10 Novice Summons.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1913,
+        "name": "New Hero Summon Ticket (PU Drop Rate Up)",
+        "item_type": 19,
+        "icon_no": 1913,
+        "effect_value": [
+            210006
+        ],
+        "description": "A summon ticket that grants you a better chance to summon Zed and Majolene.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1914,
+        "name": "New Hero Summon Ticket (PU Drop Rate Great Up)",
+        "item_type": 19,
+        "icon_no": 1914,
+        "effect_value": [
+            210007
+        ],
+        "description": "A summon ticket that grants you a significantly better chance to summon Zed and Majolene.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1915,
+        "name": "New Hero Summon Ticket (PU Guaranteed)",
+        "item_type": 19,
+        "icon_no": 1915,
+        "effect_value": [
+            210008
+        ],
+        "description": "A summon ticket that allows you to summon Zed and Majolene.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1916,
+        "name": "Dark Santa Summon Ticket",
+        "item_type": 19,
+        "icon_no": 1916,
+        "effect_value": [
+            210009
+        ],
+        "description": "A summon ticket for the Dark Santa Summon Party I.",
+        "max_num": 999,
+        "sell_price": 0
+    },
+    {
+        "id": 1999,
+        "name": "1st Anniversary Celebration Ticket",
+        "item_type": 19,
+        "icon_no": 1999,
+        "effect_value": [
+            0
+        ],
+        "description": "1 Year Anniversary! A summon ticket for the Biggest Badass Celebration event.",
+        "max_num": 999,
+        "sell_price": 0
     },
     {
         "id": 2001,
@@ -1017,7 +1154,8 @@
             1
         ],
         "description": "Magical Holy Night Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2002,
@@ -1028,7 +1166,8 @@
             4
         ],
         "description": "Snow Melody Rice Cake Festival Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2003,
@@ -1039,7 +1178,8 @@
             6
         ],
         "description": "The Metamorphosis of Green Bro Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2004,
@@ -1050,7 +1190,8 @@
             12
         ],
         "description": "Nether Beauty Pageant Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2005,
@@ -1061,7 +1202,8 @@
             15
         ],
         "description": "Ms. Raspberyl's Course on Chaos Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2006,
@@ -1072,7 +1214,8 @@
             17
         ],
         "description": "Desco XENO from Another Dimension Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2007,
@@ -1083,7 +1226,8 @@
             21
         ],
         "description": "Magic Cutie Purity Party ☆ Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2008,
@@ -1094,7 +1238,8 @@
             26
         ],
         "description": "Cat Cafe Crisis Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2009,
@@ -1105,7 +1250,8 @@
             35
         ],
         "description": "Fest-evil of Sport! Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2010,
@@ -1116,7 +1262,248 @@
             24
         ],
         "description": "Desco XENO from Another Dimension Pts",
-        "max_num": 99999999
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2011,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2011,
+        "effect_value": [
+            38
+        ],
+        "description": "Disgaea (Tentative) Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2012,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2012,
+        "effect_value": [
+            41
+        ],
+        "description": "Summer! Ocean! Scary Seaside Resort Opening?! Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2013,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2006,
+        "effect_value": [
+            42
+        ],
+        "description": "Desco XENO from Another Dimension Pts",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2014,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2014,
+        "effect_value": [
+            47
+        ],
+        "description": "Treasure Island! Treasure Hunting! Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2015,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2015,
+        "effect_value": [
+            50
+        ],
+        "description": "Mao XENO from Another Dimension Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2016,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2016,
+        "effect_value": [
+            54
+        ],
+        "description": "Sparkle! Splendid Sardine Fireworks Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2017,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2006,
+        "effect_value": [
+            55
+        ],
+        "description": "Desco XENO from Another Dimension Pts",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2018,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2018,
+        "effect_value": [
+            58
+        ],
+        "description": "Visitors to the Netherworld Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2019,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2019,
+        "effect_value": [
+            60
+        ],
+        "description": "Assault?! The Sin of Envy! Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2020,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2020,
+        "effect_value": [
+            61
+        ],
+        "description": "Matt and the Magic Mirror Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2021,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2015,
+        "effect_value": [
+            65
+        ],
+        "description": "Mao XENO from Another Dimension Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2022,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2022,
+        "effect_value": [
+            66
+        ],
+        "description": "Zombie Carnival - Halloween Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2023,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2023,
+        "effect_value": [
+            69
+        ],
+        "description": "Disgaea Protagonist Contest! Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2024,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2024,
+        "effect_value": [
+            72
+        ],
+        "description": "Sicily XENO Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2025,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2025,
+        "effect_value": [
+            73
+        ],
+        "description": "Luxurious Celebration Party Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2026,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2026,
+        "effect_value": [
+            79
+        ],
+        "description": "Dark Santa Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2027,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2027,
+        "effect_value": [
+            81
+        ],
+        "description": "Killidia's Assault Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2028,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2028,
+        "effect_value": [
+            82
+        ],
+        "description": "Unfailing Divination! Kitsune Talisman Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2029,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2006,
+        "effect_value": [
+            89
+        ],
+        "description": "Desco XENO's Assault Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2030,
+        "name": "Event Points",
+        "item_type": 20,
+        "icon_no": 2030,
+        "effect_value": [
+            90
+        ],
+        "description": "Disgaea 6 Challenge?! Exclusive PT",
+        "max_num": 99999999,
+        "sell_price": 0
     },
     {
         "id": 2101,
@@ -1127,7 +1514,8 @@
             1
         ],
         "description": "Shards used to recruit Majin Etna",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2102,
@@ -1138,7 +1526,8 @@
             1
         ],
         "description": "Shards used to recruit Pure Flonne",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2103,
@@ -1149,7 +1538,8 @@
             1
         ],
         "description": "Shards used to recruit Bloodis",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2104,
@@ -1160,7 +1550,32 @@
             1
         ],
         "description": "Shards used to recruit Sister Artina",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2105,
+        "name": "Awakened Killia Shard",
+        "item_type": 21,
+        "icon_no": 2105,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Awakened Killia.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2106,
+        "name": "Pringer X Shard",
+        "item_type": 21,
+        "icon_no": 2106,
+        "effect_value": [
+            1
+        ],
+        "description": "Shards used to recruit Pringer X.",
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2301,
@@ -1171,7 +1586,8 @@
             500
         ],
         "description": "A wondrous potion that grants mana when used",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2401,
@@ -1182,7 +1598,8 @@
             3
         ],
         "description": "Skip battles in Dark Gates",
-        "max_num": 9999
+        "max_num": 99999,
+        "sell_price": 0
     },
     {
         "id": 2501,
@@ -1193,7 +1610,8 @@
             9
         ],
         "description": "Restores AP when claimed",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 2601,
@@ -1204,7 +1622,429 @@
             1
         ],
         "description": "A mysterious item that can be used to redeem rewards at the Reminiscence Exchange",
-        "max_num": 99999
+        "max_num": 99999,
+        "sell_price": 0
+    },
+    {
+        "id": 2801,
+        "name": "Prinny Coin",
+        "item_type": 28,
+        "icon_no": 2801,
+        "effect_value": [
+            0
+        ],
+        "description": "A coin engraved with a Prinny's portrait can be exchanged for items at the Exchange.",
+        "max_num": 99999999,
+        "sell_price": 0
+    },
+    {
+        "id": 2901,
+        "name": "Miraculous Elixir (Lv1000)",
+        "item_type": 29,
+        "icon_no": 2901,
+        "effect_value": [
+            1000
+        ],
+        "description": "A bottle of miracle-working elixir that raises a character's level cap to 1000.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2902,
+        "name": "Miraculous Elixir (Lv3000)",
+        "item_type": 29,
+        "icon_no": 2902,
+        "effect_value": [
+            3000
+        ],
+        "description": "A bottle of miracle-working elixir that raises a character's level cap to 3000.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2903,
+        "name": "Miraculous Elixir (Lv5000)",
+        "item_type": 29,
+        "icon_no": 2903,
+        "effect_value": [
+            5000
+        ],
+        "description": "A bottle of miracle-working elixir that raises a character's level cap to 5000.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3001,
+        "name": "EXP Boost Pill",
+        "item_type": 30,
+        "icon_no": 3001,
+        "effect_value": [
+            1,
+            7000
+        ],
+        "description": "A miraculous pill that allows characters below level 7000 to get double EXP.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3101,
+        "name": "King's Scroll",
+        "item_type": 31,
+        "icon_no": 3101,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock King-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3102,
+        "name": "Pawn's Scroll",
+        "item_type": 31,
+        "icon_no": 3102,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Pawn-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3103,
+        "name": "Rook's Scroll",
+        "item_type": 31,
+        "icon_no": 3103,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Rook-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3104,
+        "name": "Bishop's Scroll",
+        "item_type": 31,
+        "icon_no": 3104,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Bishop-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3105,
+        "name": "Knight's Scroll",
+        "item_type": 31,
+        "icon_no": 3105,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Knight-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3106,
+        "name": "Queen's Scroll",
+        "item_type": 31,
+        "icon_no": 3106,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to unlock Queen-type abilities.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3201,
+        "name": "Prinny Steel",
+        "item_type": 32,
+        "icon_no": 3201,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to enhance equipment.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3301,
+        "name": "POP Booster",
+        "item_type": 33,
+        "icon_no": 3301,
+        "effect_value": [
+            1
+        ],
+        "description": "Instill a sincere wish into your equipment to increase POP.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3401,
+        "name": "1st Anniversary Special Ticket",
+        "item_type": 34,
+        "icon_no": 3401,
+        "effect_value": [
+            71
+        ],
+        "description": "Used in the 1st Anniversary Exchange.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3402,
+        "name": "Netherworld New Year Exchange Ticket",
+        "item_type": 34,
+        "icon_no": 3402,
+        "effect_value": [
+            87
+        ],
+        "description": "Used in the Netherworld New Year Exchange.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3501,
+        "name": "HP Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3501,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of HP Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3502,
+        "name": "ATK Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3502,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of ATK Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3503,
+        "name": "DEF Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3503,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of DEF Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3504,
+        "name": "INT Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3504,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of INT Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3505,
+        "name": "RES Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3505,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of RES Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3506,
+        "name": "SPD Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3506,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of SPD Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3507,
+        "name": "EXP Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3507,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of EXP Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3508,
+        "name": "HL Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3508,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of HL Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3509,
+        "name": "WM Enhancer Caretaker",
+        "item_type": 35,
+        "icon_no": 3509,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of WM Enhancer Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3510,
+        "name": "Skill Enhancer Caretaker",
+        "item_type": 35,
+        "icon_no": 3510,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of Skill Enhancer Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3511,
+        "name": "HP Amplifier Caretaker",
+        "item_type": 35,
+        "icon_no": 3511,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of HP Amplifier Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3512,
+        "name": "ATK Amplifier Caretaker",
+        "item_type": 35,
+        "icon_no": 3512,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of ATK Amplifier Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3513,
+        "name": "DEF Amplifier Caretaker",
+        "item_type": 35,
+        "icon_no": 3513,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of DEF Amplifier Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3514,
+        "name": "INT Amplifier Caretaker",
+        "item_type": 35,
+        "icon_no": 3514,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of INT Amplifier Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3515,
+        "name": "RES Amplifier Caretaker",
+        "item_type": 35,
+        "icon_no": 3515,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of RES Amplifier Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3516,
+        "name": "Axe ATK Boost Caretaker",
+        "item_type": 35,
+        "icon_no": 3516,
+        "effect_value": [
+            0
+        ],
+        "description": "This caretaker will take good care of Axe ATK Boost Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3601,
+        "name": "Cute Ranch Ticket",
+        "item_type": 36,
+        "icon_no": 3601,
+        "effect_value": [
+            1
+        ],
+        "description": "This ticket allows you to graze in the Cute Innocent area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3602,
+        "name": "Muscle Ranch Ticket",
+        "item_type": 36,
+        "icon_no": 3602,
+        "effect_value": [
+            2
+        ],
+        "description": "This ticket allows you to graze in the Muscle Innocent area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3603,
+        "name": "Handsome Ranch Ticket",
+        "item_type": 36,
+        "icon_no": 3603,
+        "effect_value": [
+            3
+        ],
+        "description": "This ticket allows you to graze in the Handsome Innocent area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 3901,
+        "name": "Medal of Obedience",
+        "item_type": 39,
+        "icon_no": 3901,
+        "effect_value": [
+            1
+        ],
+        "description": "Used to subdue Innocents stored in equipment.",
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 10001,
@@ -1216,7 +2056,8 @@
             100
         ],
         "description": "Auto-Subdue an Innocent",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
     },
     {
         "id": 10002,
@@ -1227,6 +2068,4999 @@
             1
         ],
         "description": "Skip a Story Event Stage",
-        "max_num": 9999
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37001,
+        "name": "[Imp 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37001,
+        "effect_value": [
+            30005
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37002,
+        "name": "[Imp 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37002,
+        "effect_value": [
+            30006
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37003,
+        "name": "[Imp 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37003,
+        "effect_value": [
+            30007
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37004,
+        "name": "[Imp 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37004,
+        "effect_value": [
+            30008
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37005,
+        "name": "[Orc 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37005,
+        "effect_value": [
+            30009
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37006,
+        "name": "[Orc 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37006,
+        "effect_value": [
+            30010
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37007,
+        "name": "[Orc 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37007,
+        "effect_value": [
+            30011
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37008,
+        "name": "[Orc 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37008,
+        "effect_value": [
+            30012
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37009,
+        "name": "[Rabbit 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37009,
+        "effect_value": [
+            30013
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37010,
+        "name": "[Rabbit 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37010,
+        "effect_value": [
+            30014
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37011,
+        "name": "[Rabbit 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37011,
+        "effect_value": [
+            30015
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37012,
+        "name": "[Rabbit 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37012,
+        "effect_value": [
+            30016
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37013,
+        "name": "[Fairy 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37013,
+        "effect_value": [
+            30017
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37014,
+        "name": "[Fairy 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37014,
+        "effect_value": [
+            30018
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37015,
+        "name": "[Fairy 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37015,
+        "effect_value": [
+            30019
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37016,
+        "name": "[Fairy 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37016,
+        "effect_value": [
+            30020
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37017,
+        "name": "[Sludge 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37017,
+        "effect_value": [
+            30021
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37018,
+        "name": "[Sludge 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37018,
+        "effect_value": [
+            30022
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37019,
+        "name": "[Sludge 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37019,
+        "effect_value": [
+            30023
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37020,
+        "name": "[Sludge 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37020,
+        "effect_value": [
+            30024
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37021,
+        "name": "[Slumber Cat 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37021,
+        "effect_value": [
+            30025
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37022,
+        "name": "[Slumber Cat 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37022,
+        "effect_value": [
+            30026
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37023,
+        "name": "[Slumber Cat 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37023,
+        "effect_value": [
+            30027
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37024,
+        "name": "[Slumber Cat 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37024,
+        "effect_value": [
+            30028
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37025,
+        "name": "[Shroom 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37025,
+        "effect_value": [
+            30037
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37026,
+        "name": "[Shroom 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37026,
+        "effect_value": [
+            30038
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37027,
+        "name": "[Shroom 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37027,
+        "effect_value": [
+            30039
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37028,
+        "name": "[Shroom 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37028,
+        "effect_value": [
+            30040
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37029,
+        "name": "[Undead 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37029,
+        "effect_value": [
+            30033
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37030,
+        "name": "[Undead 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37030,
+        "effect_value": [
+            30034
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37031,
+        "name": "[Undead 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37031,
+        "effect_value": [
+            30035
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37032,
+        "name": "[Undead 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37032,
+        "effect_value": [
+            30036
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37033,
+        "name": "[Living Armor 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37033,
+        "effect_value": [
+            30125
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37034,
+        "name": "[Living Armor 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37034,
+        "effect_value": [
+            30126
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37035,
+        "name": "[Living Armor 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37035,
+        "effect_value": [
+            30127
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37036,
+        "name": "[Living Armor 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37036,
+        "effect_value": [
+            30128
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37037,
+        "name": "[Gargoyle 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37037,
+        "effect_value": [
+            30089
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37038,
+        "name": "[Gargoyle 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37038,
+        "effect_value": [
+            30090
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37039,
+        "name": "[Gargoyle 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37039,
+        "effect_value": [
+            30091
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37040,
+        "name": "[Gargoyle 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37040,
+        "effect_value": [
+            30092
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37041,
+        "name": "[Spirit 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37041,
+        "effect_value": [
+            30085
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37042,
+        "name": "[Spirit 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37042,
+        "effect_value": [
+            30086
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37043,
+        "name": "[Spirit 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37043,
+        "effect_value": [
+            30087
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37044,
+        "name": "[Spirit 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37044,
+        "effect_value": [
+            30088
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37045,
+        "name": "[Felynn 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37045,
+        "effect_value": [
+            30045
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37046,
+        "name": "[Felynn 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37046,
+        "effect_value": [
+            30046
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37047,
+        "name": "[Felynn 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37047,
+        "effect_value": [
+            30047
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37048,
+        "name": "[Felynn 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37048,
+        "effect_value": [
+            30048
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37049,
+        "name": "[Winged Warrior 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37049,
+        "effect_value": [
+            30029
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37050,
+        "name": "[Winged Warrior 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37050,
+        "effect_value": [
+            30030
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37051,
+        "name": "[Winged Warrior 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37051,
+        "effect_value": [
+            30031
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37052,
+        "name": "[Winged Warrior 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37052,
+        "effect_value": [
+            30032
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37053,
+        "name": "[Flora Beast 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37053,
+        "effect_value": [
+            30041
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37054,
+        "name": "[Flora Beast 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37054,
+        "effect_value": [
+            30042
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37055,
+        "name": "[Flora Beast 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37055,
+        "effect_value": [
+            30043
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37056,
+        "name": "[Flora Beast 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37056,
+        "effect_value": [
+            30044
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37057,
+        "name": "[Nether Noble 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37057,
+        "effect_value": [
+            30061
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37058,
+        "name": "[Nether Noble 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37058,
+        "effect_value": [
+            30062
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37059,
+        "name": "[Nether Noble 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37059,
+        "effect_value": [
+            30063
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37060,
+        "name": "[Nether Noble 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37060,
+        "effect_value": [
+            30064
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37061,
+        "name": "[Death 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37061,
+        "effect_value": [
+            30097
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37062,
+        "name": "[Death 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37062,
+        "effect_value": [
+            30098
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37063,
+        "name": "[Death 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37063,
+        "effect_value": [
+            30099
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37064,
+        "name": "[Death 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37064,
+        "effect_value": [
+            30100
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37065,
+        "name": "[Chimera 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37065,
+        "effect_value": [
+            30057
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37066,
+        "name": "[Chimera 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37066,
+        "effect_value": [
+            30058
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37067,
+        "name": "[Chimera 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37067,
+        "effect_value": [
+            30059
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37068,
+        "name": "[Chimera 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37068,
+        "effect_value": [
+            30060
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37069,
+        "name": "[Bear 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37069,
+        "effect_value": [
+            30065
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37070,
+        "name": "[Bear 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37070,
+        "effect_value": [
+            30066
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37071,
+        "name": "[Bear 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37071,
+        "effect_value": [
+            30067
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37072,
+        "name": "[Bear 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37072,
+        "effect_value": [
+            30068
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37073,
+        "name": "[Horseman 1] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37073,
+        "effect_value": [
+            30081
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37074,
+        "name": "[Horseman 2] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37074,
+        "effect_value": [
+            30082
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37075,
+        "name": "[Horseman 3] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37075,
+        "effect_value": [
+            30083
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 37076,
+        "name": "[Horseman 4] Ranch Ticket",
+        "item_type": 37,
+        "icon_no": 37076,
+        "effect_value": [
+            30084
+        ],
+        "description": "This ticket allows you to graze in any area.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380001,
+        "name": "Super HP Boost Recipe 1",
+        "item_type": 38,
+        "icon_no": 380001,
+        "effect_value": [
+            1
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380002,
+        "name": "Super HP Boost Recipe 2",
+        "item_type": 38,
+        "icon_no": 380002,
+        "effect_value": [
+            2
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380003,
+        "name": "Super HP Boost Recipe 3",
+        "item_type": 38,
+        "icon_no": 380003,
+        "effect_value": [
+            3
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380004,
+        "name": "Super ATK Boost Recipe 1",
+        "item_type": 38,
+        "icon_no": 380004,
+        "effect_value": [
+            4
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380005,
+        "name": "Super ATK Boost Recipe 2",
+        "item_type": 38,
+        "icon_no": 380005,
+        "effect_value": [
+            5
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380006,
+        "name": "Super ATK Boost Recipe 3",
+        "item_type": 38,
+        "icon_no": 380006,
+        "effect_value": [
+            6
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380007,
+        "name": "Super DEF Boost Recipe 1",
+        "item_type": 38,
+        "icon_no": 380007,
+        "effect_value": [
+            7
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380008,
+        "name": "Super DEF Boost Recipe 2",
+        "item_type": 38,
+        "icon_no": 380008,
+        "effect_value": [
+            8
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380009,
+        "name": "Super DEF Boost Recipe 3",
+        "item_type": 38,
+        "icon_no": 380009,
+        "effect_value": [
+            9
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380010,
+        "name": "Super INT Boost Recipe 1",
+        "item_type": 38,
+        "icon_no": 380010,
+        "effect_value": [
+            10
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380011,
+        "name": "Super INT Boost Recipe 2",
+        "item_type": 38,
+        "icon_no": 380011,
+        "effect_value": [
+            11
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380012,
+        "name": "Super INT Boost Recipe 3",
+        "item_type": 38,
+        "icon_no": 380012,
+        "effect_value": [
+            12
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380013,
+        "name": "Super RES Boost Recipe 1",
+        "item_type": 38,
+        "icon_no": 380013,
+        "effect_value": [
+            13
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380014,
+        "name": "Super RES Boost Recipe 2",
+        "item_type": 38,
+        "icon_no": 380014,
+        "effect_value": [
+            14
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380015,
+        "name": "Super RES Boost Recipe 3",
+        "item_type": 38,
+        "icon_no": 380015,
+        "effect_value": [
+            15
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380016,
+        "name": "Super WM Enhancer Recipe 1",
+        "item_type": 38,
+        "icon_no": 380016,
+        "effect_value": [
+            16
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380017,
+        "name": "Super WM Enhancer Recipe 2",
+        "item_type": 38,
+        "icon_no": 380017,
+        "effect_value": [
+            17
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380018,
+        "name": "Super WM Enhancer Recipe 3",
+        "item_type": 38,
+        "icon_no": 380018,
+        "effect_value": [
+            18
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380019,
+        "name": "Super Skill Enhancer Recipe 1",
+        "item_type": 38,
+        "icon_no": 380019,
+        "effect_value": [
+            19
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380020,
+        "name": "Super Skill Enhancer Recipe 2",
+        "item_type": 38,
+        "icon_no": 380020,
+        "effect_value": [
+            20
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380021,
+        "name": "Super Skill Enhancer Recipe 3",
+        "item_type": 38,
+        "icon_no": 380021,
+        "effect_value": [
+            21
+        ],
+        "description": "A recipe used to breed Ancient Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380200,
+        "name": "ATK Amplifier [White] 1",
+        "item_type": 38,
+        "icon_no": 380200,
+        "effect_value": [
+            22
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380201,
+        "name": "ATK Amplifier [White] 2",
+        "item_type": 38,
+        "icon_no": 380201,
+        "effect_value": [
+            23
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380202,
+        "name": "ATK Amplifier [White] 3",
+        "item_type": 38,
+        "icon_no": 380202,
+        "effect_value": [
+            24
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380203,
+        "name": "ATK Amplifier [Silver] 1",
+        "item_type": 38,
+        "icon_no": 380203,
+        "effect_value": [
+            25
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380204,
+        "name": "ATK Amplifier [Silver] 2",
+        "item_type": 38,
+        "icon_no": 380204,
+        "effect_value": [
+            26
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380205,
+        "name": "ATK Amplifier [Silver] 3",
+        "item_type": 38,
+        "icon_no": 380205,
+        "effect_value": [
+            27
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380206,
+        "name": "ATK Amplifier [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380206,
+        "effect_value": [
+            28
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380207,
+        "name": "ATK Amplifier [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380207,
+        "effect_value": [
+            29
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380208,
+        "name": "ATK Amplifier [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380208,
+        "effect_value": [
+            30
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380209,
+        "name": "INT Amplifier [White] 1",
+        "item_type": 38,
+        "icon_no": 380209,
+        "effect_value": [
+            31
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380210,
+        "name": "INT Amplifier [White] 2",
+        "item_type": 38,
+        "icon_no": 380210,
+        "effect_value": [
+            32
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380211,
+        "name": "INT Amplifier [White] 3",
+        "item_type": 38,
+        "icon_no": 380211,
+        "effect_value": [
+            33
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380212,
+        "name": "INT Amplifier [Silver] 1",
+        "item_type": 38,
+        "icon_no": 380212,
+        "effect_value": [
+            34
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380213,
+        "name": "INT Amplifier [Silver] 2",
+        "item_type": 38,
+        "icon_no": 380213,
+        "effect_value": [
+            35
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380214,
+        "name": "INT Amplifier [Silver] 3",
+        "item_type": 38,
+        "icon_no": 380214,
+        "effect_value": [
+            36
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380215,
+        "name": "INT Amplifier [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380215,
+        "effect_value": [
+            37
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380216,
+        "name": "INT Amplifier [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380216,
+        "effect_value": [
+            38
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380217,
+        "name": "INT Amplifier [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380217,
+        "effect_value": [
+            39
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380218,
+        "name": "DEF Amplifier [White] 1",
+        "item_type": 38,
+        "icon_no": 380218,
+        "effect_value": [
+            40
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380219,
+        "name": "DEF Amplifier [White] 2",
+        "item_type": 38,
+        "icon_no": 380219,
+        "effect_value": [
+            41
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380220,
+        "name": "DEF Amplifier [White] 3",
+        "item_type": 38,
+        "icon_no": 380220,
+        "effect_value": [
+            42
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380221,
+        "name": "DEF Amplifier [Silver] 1",
+        "item_type": 38,
+        "icon_no": 380221,
+        "effect_value": [
+            43
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380222,
+        "name": "DEF Amplifier [Silver] 2",
+        "item_type": 38,
+        "icon_no": 380222,
+        "effect_value": [
+            44
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380223,
+        "name": "DEF Amplifier [Silver] 3",
+        "item_type": 38,
+        "icon_no": 380223,
+        "effect_value": [
+            45
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380224,
+        "name": "DEF Amplifier [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380224,
+        "effect_value": [
+            46
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380225,
+        "name": "DEF Amplifier [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380225,
+        "effect_value": [
+            47
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380226,
+        "name": "DEF Amplifier [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380226,
+        "effect_value": [
+            48
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380227,
+        "name": "RES Amplifier [White] 1",
+        "item_type": 38,
+        "icon_no": 380227,
+        "effect_value": [
+            49
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380228,
+        "name": "RES Amplifier [White] 2",
+        "item_type": 38,
+        "icon_no": 380228,
+        "effect_value": [
+            50
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380229,
+        "name": "RES Amplifier [White] 3",
+        "item_type": 38,
+        "icon_no": 380229,
+        "effect_value": [
+            51
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380230,
+        "name": "RES Amplifier [Silver] 1",
+        "item_type": 38,
+        "icon_no": 380230,
+        "effect_value": [
+            52
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380231,
+        "name": "RES Amplifier [Silver] 2",
+        "item_type": 38,
+        "icon_no": 380231,
+        "effect_value": [
+            53
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380232,
+        "name": "RES Amplifier [Silver] 3",
+        "item_type": 38,
+        "icon_no": 380232,
+        "effect_value": [
+            54
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380233,
+        "name": "RES Amplifier [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380233,
+        "effect_value": [
+            55
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380234,
+        "name": "RES Amplifier [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380234,
+        "effect_value": [
+            56
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380235,
+        "name": "RES Amplifier [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380235,
+        "effect_value": [
+            57
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380236,
+        "name": "Tutor [White] 1",
+        "item_type": 38,
+        "icon_no": 380236,
+        "effect_value": [
+            58
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380237,
+        "name": "Tutor [White] 2",
+        "item_type": 38,
+        "icon_no": 380237,
+        "effect_value": [
+            59
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380238,
+        "name": "Tutor [White] 3",
+        "item_type": 38,
+        "icon_no": 380238,
+        "effect_value": [
+            60
+        ],
+        "description": "A recipe used to breed Common Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380239,
+        "name": "Tutor [Silver] 1",
+        "item_type": 38,
+        "icon_no": 380239,
+        "effect_value": [
+            61
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380240,
+        "name": "Tutor [Silver] 2",
+        "item_type": 38,
+        "icon_no": 380240,
+        "effect_value": [
+            62
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380241,
+        "name": "Tutor [Silver] 3",
+        "item_type": 38,
+        "icon_no": 380241,
+        "effect_value": [
+            63
+        ],
+        "description": "A recipe used to breed Rare Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380242,
+        "name": "Tutor [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380242,
+        "effect_value": [
+            64
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380243,
+        "name": "Tutor [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380243,
+        "effect_value": [
+            65
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380244,
+        "name": "Tutor [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380244,
+        "effect_value": [
+            66
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380245,
+        "name": "Almighty [Gold] 1",
+        "item_type": 38,
+        "icon_no": 380245,
+        "effect_value": [
+            67
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380246,
+        "name": "Almighty [Gold] 2",
+        "item_type": 38,
+        "icon_no": 380246,
+        "effect_value": [
+            68
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 380247,
+        "name": "Almighty [Gold] 3",
+        "item_type": 38,
+        "icon_no": 380247,
+        "effect_value": [
+            69
+        ],
+        "description": "A recipe used to breed Legendary Combined Innocents.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700001,
+        "name": "Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700002,
+        "name": "Killia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Killia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700003,
+        "name": "Valvatorez Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Valvatorez's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700004,
+        "name": "Adell Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Adell's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700005,
+        "name": "Mao Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mao's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700006,
+        "name": "Etna Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Etna's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700007,
+        "name": "Fallen Angel Flonne Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fallen Angel Flonne's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700008,
+        "name": "Seraphina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Seraphina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700009,
+        "name": "Fuka Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fuka's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700010,
+        "name": "Rozalin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rozalin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700011,
+        "name": "Axel Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Axel's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700012,
+        "name": "Fenrich Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fenrich's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700013,
+        "name": "Majorita Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Majorita's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700014,
+        "name": "Emizel Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Emizel's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700015,
+        "name": "Barbara Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Barbara's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700016,
+        "name": "Girl Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Girl Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700017,
+        "name": "Christo Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Christo's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700018,
+        "name": "Zeroken Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Zeroken's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700019,
+        "name": "Red Magnus Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Red Magnus' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700021,
+        "name": "Sicily Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sicily's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700022,
+        "name": "Almaz Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Almaz's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700024,
+        "name": "Salvatore Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Salvatore's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700025,
+        "name": "Sapphire Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sapphire's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700027,
+        "name": "Bloodis Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bloodis' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700031,
+        "name": "Xenolith Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Xenolith's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700033,
+        "name": "Pure Flonne Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Pure Flonne's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700035,
+        "name": "Void Dark Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Void Dark's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700036,
+        "name": "Artina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Artina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700037,
+        "name": "Sister Artina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sister Artina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700038,
+        "name": "Tyrant Valvatorez Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Tyrant Valvatorez's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700039,
+        "name": "Awakened Killia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Awakened Killia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700040,
+        "name": "Tyrant Overlord Killidia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Tyrant Overlord Killidia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700042,
+        "name": "Majin Etna Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Majin Etna's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700043,
+        "name": "Protagonist Asagi Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Protagonist Asagi's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700044,
+        "name": "Gordon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gordon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700045,
+        "name": "Jennifer Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Jennifer's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700046,
+        "name": "Mr. Champloo Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mr. Champloo's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700047,
+        "name": "Yukimaru Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Yukimaru's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700048,
+        "name": "Fubuki Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fubuki's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700049,
+        "name": "Awakened Rozalin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Awakened Rozalin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700054,
+        "name": "Dark Santa Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dark Santa Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700055,
+        "name": "Noel Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Noel's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700056,
+        "name": "Attired Rozalin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Attired Rozalin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700057,
+        "name": "Pure Sicily Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Pure Sicily's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700058,
+        "name": "Dark Artina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dark Artina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700059,
+        "name": "Love Oracle Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Love Oracle's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700060,
+        "name": "Bunny Seraphina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bunny Seraphina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700061,
+        "name": "Easter Mao Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Easter Mao's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700062,
+        "name": "Gym Suits Fuka Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gym Suits Fuka's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700063,
+        "name": "Iris Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Iris's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700064,
+        "name": "Virunga Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Virunga's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700065,
+        "name": "Torachiyo Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Torachiyo's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700066,
+        "name": "Dias Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dias' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700067,
+        "name": "Lucy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lucy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700068,
+        "name": "Swimsuit Girl Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Swimsuit Girl Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700069,
+        "name": "Swimsuit Etna Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Swimsuit Etna's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700070,
+        "name": "Swimsuit Flonne Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Swimsuit Flonne's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700071,
+        "name": "Meaver Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Meaver's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700072,
+        "name": "Merlin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Merlin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700073,
+        "name": "Fuka XENO Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fuka XENO's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700074,
+        "name": "Raspberyl XENO Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Raspberyl XENO's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700075,
+        "name": "Yukata Valvatorez Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Yukata Valvatorez's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700076,
+        "name": "Bathrobe Yukimaru Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bathrobe Yukimaru's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700077,
+        "name": "Hibana Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Hibana's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700078,
+        "name": "Meliodas Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Meliodas' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700079,
+        "name": "Elizabeth Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Elizabeth's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700080,
+        "name": "Ban Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Ban's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700081,
+        "name": "Diane Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Diane's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700082,
+        "name": "Gowther Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gowther's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700085,
+        "name": "Merlin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Merlin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700086,
+        "name": "King Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for King's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700087,
+        "name": "Cute Flonne Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Cute Flonne's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700088,
+        "name": "Cute Chacha Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Cute Chacha's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700089,
+        "name": "Cute Merlin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Cute Merlin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700090,
+        "name": "Mao XENO Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mao XENO's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700091,
+        "name": "Halloween Majorita Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Halloween Majorita's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700092,
+        "name": "Halloween Artina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Halloween Artina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700093,
+        "name": "Halloween Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Halloween Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700094,
+        "name": "Zed Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Zed's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700095,
+        "name": "Majolene Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Majolene's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700096,
+        "name": "Attired Killia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Attired Killia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700098,
+        "name": "Attired Seraphina Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Attired Seraphina's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700099,
+        "name": "Thunderlord Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Thunderlord Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700100,
+        "name": "Sicily XENO Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sicily XENO's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700101,
+        "name": "Xmas Adell Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Xmas Adell's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700102,
+        "name": "Xmas Rozalin Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Xmas Rozalin's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700103,
+        "name": "Attired Girl Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Attired Girl Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700104,
+        "name": "Maiden Sicily Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Maiden Sicily's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700105,
+        "name": "Tyrant Overlord Laharl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Tyrant Overlord Laharl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700106,
+        "name": "Melodia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Melodia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2700107,
+        "name": "Ivar Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Ivar's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701001,
+        "name": "Prism Red Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Red's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701002,
+        "name": "Prism Blue Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Blue's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701003,
+        "name": "Prism Yellow Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Yellow's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701004,
+        "name": "Prism Green Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Green's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701005,
+        "name": "Prism Purple Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Purple's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701006,
+        "name": "Prism Orange Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Orange's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701007,
+        "name": "Prism Indigo Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Indigo's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701008,
+        "name": "Prism Pink Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Pink's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701009,
+        "name": "Prism White Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism White's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701010,
+        "name": "Prism Black Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prism Black's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701011,
+        "name": "Kyoko Needleworker Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Kyoko Needleworker's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2701012,
+        "name": "Asuka Cranekick Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Asuka Cranekick's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710001,
+        "name": "Warrior Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Warrior's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710002,
+        "name": "Valkyrie Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Valkyrie's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710003,
+        "name": "Martial Artist Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Martial Artist's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710004,
+        "name": "Fight Mistress Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fight Mistress' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710005,
+        "name": "Red Skull Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Red Skull's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710006,
+        "name": "Blue Skull Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Blue Skull's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710007,
+        "name": "Green Skull Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Green Skull's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710008,
+        "name": "Star Skull Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Star Skull's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710009,
+        "name": "Red Mage Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Red Mage's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710010,
+        "name": "Blue Mage Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Blue Mage's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710011,
+        "name": "Green Mage Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Green Mage's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710012,
+        "name": "Star Mage Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Star Mage's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710013,
+        "name": "Clergy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Clergy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710014,
+        "name": "Cleric Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Cleric's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710015,
+        "name": "Archer Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Archer's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710016,
+        "name": "Thief Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Thief's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710017,
+        "name": "Maid Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Maid's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710018,
+        "name": "Gunner Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gunner's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710019,
+        "name": "Ninja Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Ninja's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710020,
+        "name": "Lady Samurai Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lady Samurai's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710021,
+        "name": "Armor Knight Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Armor Knight's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710023,
+        "name": "Professor Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Professor's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710025,
+        "name": "Wrestler Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Wrestler's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710026,
+        "name": "Pirate Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Pirate's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710027,
+        "name": "Dark Knight Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dark Knight's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710038,
+        "name": "Celestial Host Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Celestial Host's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2710039,
+        "name": "Celestial Hostess Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Celestial Hostess' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720001,
+        "name": "Usalia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Usalia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720002,
+        "name": "Raspberyl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Raspberyl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720003,
+        "name": "Desco Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Desco's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720006,
+        "name": "Pringer V3 Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Pringer V3's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720008,
+        "name": "Thursday Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Thursday's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720014,
+        "name": "Kurtis Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Kurtis' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720017,
+        "name": "Mid Boss Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mid Boss' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720018,
+        "name": "Ms. Raspberyl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Ms. Raspberyl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720020,
+        "name": "Santa Usalia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Santa Usalia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720021,
+        "name": "Mirror Cake Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mirror Cake Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720022,
+        "name": "Gym Suits Raspberyl Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gym Suits Raspberyl's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720023,
+        "name": "Doomsday Overlord Asagi Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Doomsday Overlord Asagi's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720024,
+        "name": "Game Designer Asagi Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Game Designer Asagi's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720025,
+        "name": "Swimsuit Desco Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Swimsuit Desco's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720026,
+        "name": "Desco XENO Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Desco XENO's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720027,
+        "name": "Swimsuit Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Swimsuit Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720028,
+        "name": "Attired Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Attired Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720029,
+        "name": "Dark Santa Usalia Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dark Santa Usalia's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720030,
+        "name": "Liezerota Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Liezerota's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720031,
+        "name": "Saint Etna Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Saint Etna's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720032,
+        "name": "Sakuya Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sakuya's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2720036,
+        "name": "Pringer X Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Pringer X's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2721002,
+        "name": "Rainier Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rainier's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2721004,
+        "name": "Hoggmeiser Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Hoggmeiser's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730001,
+        "name": "Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730002,
+        "name": "Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730003,
+        "name": "Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730004,
+        "name": "Prinny Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Prinny's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730005,
+        "name": "Imp Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Imp's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730006,
+        "name": "Imp Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Imp's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730007,
+        "name": "Imp Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Imp's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730008,
+        "name": "Imp Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Imp's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730009,
+        "name": "Orc Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Orc's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730010,
+        "name": "Orc Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Orc's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730011,
+        "name": "Orc Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Orc's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730012,
+        "name": "Orc Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Orc's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730013,
+        "name": "Rabbit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rabbit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730014,
+        "name": "Rabbit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rabbit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730015,
+        "name": "Rabbit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rabbit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730016,
+        "name": "Rabbit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rabbit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730017,
+        "name": "Fairy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fairy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730018,
+        "name": "Fairy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fairy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730019,
+        "name": "Fairy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fairy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730020,
+        "name": "Fairy Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Fairy's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730021,
+        "name": "Sludge Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sludge's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730022,
+        "name": "Sludge Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sludge's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730023,
+        "name": "Sludge Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sludge's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730024,
+        "name": "Sludge Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Sludge's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730025,
+        "name": "Slumber Cat Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Slumber Cat's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730026,
+        "name": "Slumber Cat Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Slumber Cat's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730027,
+        "name": "Slumber Cat Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Slumber Cat's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730028,
+        "name": "Slumber Cat Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Slumber Cat's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730029,
+        "name": "Winged Warrior Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Winged Warrior's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730030,
+        "name": "Winged Warrior Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Winged Warrior's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730031,
+        "name": "Winged Warrior Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Winged Warrior's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730032,
+        "name": "Winged Warrior Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Winged Warrior's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730033,
+        "name": "Undead Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Undead's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730034,
+        "name": "Undead Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Undead's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730035,
+        "name": "Undead Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Undead's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730036,
+        "name": "Undead Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Undead's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730037,
+        "name": "Shroom Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Shroom's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730038,
+        "name": "Shroom Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Shroom's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730039,
+        "name": "Shroom Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Shroom's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730040,
+        "name": "Shroom Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Shroom's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730041,
+        "name": "Flora Beast Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Flora Beast's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730042,
+        "name": "Flora Beast Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Flora Beast's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730043,
+        "name": "Flora Beast Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Flora Beast's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730044,
+        "name": "Flora Beast Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Flora Beast's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730045,
+        "name": "Felynn Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Felynn's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730046,
+        "name": "Felynn Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Felynn's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730047,
+        "name": "Felynn Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Felynn's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730048,
+        "name": "Felynn Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Felynn's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730053,
+        "name": "Succubus Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Succubus' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730054,
+        "name": "Succubus Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Succubus' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730055,
+        "name": "Succubus Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Succubus' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730056,
+        "name": "Succubus Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Succubus' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730057,
+        "name": "Chimera Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Chimera's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730058,
+        "name": "Chimera Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Chimera's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730059,
+        "name": "Chimera Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Chimera's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730060,
+        "name": "Chimera Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Chimera's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730061,
+        "name": "Nether Noble Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nether Noble's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730062,
+        "name": "Nether Noble Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nether Noble's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730063,
+        "name": "Nether Noble Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nether Noble's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730064,
+        "name": "Nether Noble Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nether Noble's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730065,
+        "name": "Bear Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bear's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730066,
+        "name": "Bear Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bear's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730067,
+        "name": "Bear Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bear's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730068,
+        "name": "Bear Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Bear's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730069,
+        "name": "Dragon King Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon King's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730070,
+        "name": "Dragon King Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon King's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730071,
+        "name": "Dragon King Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon King's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730072,
+        "name": "Dragon King Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon King's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730073,
+        "name": "Nine-Tails Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nine-Tails' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730074,
+        "name": "Nine-Tails Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nine-Tails' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730075,
+        "name": "Nine-Tails Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nine-Tails' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730076,
+        "name": "Nine-Tails Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Nine-Tails' Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730077,
+        "name": "Twin Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Twin Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730078,
+        "name": "Twin Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Twin Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730079,
+        "name": "Twin Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Twin Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730080,
+        "name": "Twin Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Twin Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730081,
+        "name": "Horseman Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Horseman's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730082,
+        "name": "Horseman Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Horseman's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730083,
+        "name": "Horseman Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Horseman's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730084,
+        "name": "Horseman Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Horseman's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730085,
+        "name": "Spirit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Spirit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730086,
+        "name": "Spirit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Spirit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730087,
+        "name": "Spirit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Spirit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730088,
+        "name": "Spirit Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Spirit's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730089,
+        "name": "Gargoyle Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gargoyle's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730090,
+        "name": "Gargoyle Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gargoyle's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730091,
+        "name": "Gargoyle Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gargoyle's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730092,
+        "name": "Gargoyle Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Gargoyle's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730097,
+        "name": "Death Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Death's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730098,
+        "name": "Death Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Death's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730099,
+        "name": "Death Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Death's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730100,
+        "name": "Death Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Death's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730105,
+        "name": "Dragon Zombie Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon Zombie's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730106,
+        "name": "Dragon Zombie Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon Zombie's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730107,
+        "name": "Dragon Zombie Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon Zombie's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730108,
+        "name": "Dragon Zombie Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Dragon Zombie's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730113,
+        "name": "Rifle Demon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rifle Demon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730114,
+        "name": "Rifle Demon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rifle Demon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730115,
+        "name": "Rifle Demon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rifle Demon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730116,
+        "name": "Rifle Demon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Rifle Demon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730117,
+        "name": "Lantern Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lantern's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730118,
+        "name": "Lantern Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lantern's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730119,
+        "name": "Lantern Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lantern's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730120,
+        "name": "Lantern Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Lantern's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730125,
+        "name": "Living Armor Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Living Armor's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730126,
+        "name": "Living Armor Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Living Armor's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730127,
+        "name": "Living Armor Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Living Armor's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730128,
+        "name": "Living Armor Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Living Armor's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730129,
+        "name": "Serpent Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Serpent's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730130,
+        "name": "Serpent Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Serpent's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730131,
+        "name": "Serpent Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Serpent's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730132,
+        "name": "Serpent Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Serpent's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730133,
+        "name": "Mystic Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mystic Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730134,
+        "name": "Mystic Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mystic Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730135,
+        "name": "Mystic Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mystic Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730136,
+        "name": "Mystic Dragon Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Mystic Dragon's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
+    },
+    {
+        "id": 2730137,
+        "name": "Space Barila Crystal",
+        "item_type": 27,
+        "icon_no": 2701,
+        "effect_value": [
+            100
+        ],
+        "description": "A crystal used for Space Barila's Nether Enhancement.",
+        "max_num": 9999,
+        "sell_price": 0
     }
 ]

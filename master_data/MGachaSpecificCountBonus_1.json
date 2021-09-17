@@ -4,5 +4,371 @@
         "m_gacha_id": 1,
         "m_gacha_group_id": 1,
         "bonus_count": 3
+    },
+    {
+        "id": 2,
+        "m_gacha_id": 200089,
+        "m_gacha_group_id": 2000896,
+        "bonus_count": 2
+    },
+    {
+        "id": 3,
+        "m_gacha_id": 200089,
+        "m_gacha_group_id": 2000897,
+        "bonus_count": 3
+    },
+    {
+        "id": 4,
+        "m_gacha_id": 200089,
+        "m_gacha_group_id": 2000898,
+        "bonus_count": 4
+    },
+    {
+        "id": 5,
+        "m_gacha_id": 200090,
+        "m_gacha_group_id": 2000896,
+        "bonus_count": 2
+    },
+    {
+        "id": 6,
+        "m_gacha_id": 200090,
+        "m_gacha_group_id": 2000897,
+        "bonus_count": 3
+    },
+    {
+        "id": 7,
+        "m_gacha_id": 200090,
+        "m_gacha_group_id": 2000898,
+        "bonus_count": 4
+    },
+    {
+        "id": 8,
+        "m_gacha_id": 200102,
+        "m_gacha_group_id": 2001026,
+        "bonus_count": 2
+    },
+    {
+        "id": 9,
+        "m_gacha_id": 200102,
+        "m_gacha_group_id": 2001027,
+        "bonus_count": 3
+    },
+    {
+        "id": 10,
+        "m_gacha_id": 200102,
+        "m_gacha_group_id": 2001028,
+        "bonus_count": 4
+    },
+    {
+        "id": 11,
+        "m_gacha_id": 200103,
+        "m_gacha_group_id": 2001026,
+        "bonus_count": 2
+    },
+    {
+        "id": 12,
+        "m_gacha_id": 200103,
+        "m_gacha_group_id": 2001027,
+        "bonus_count": 3
+    },
+    {
+        "id": 13,
+        "m_gacha_id": 200103,
+        "m_gacha_group_id": 2001028,
+        "bonus_count": 4
+    },
+    {
+        "id": 14,
+        "m_gacha_id": 200111,
+        "m_gacha_group_id": 2001116,
+        "bonus_count": 4
+    },
+    {
+        "id": 15,
+        "m_gacha_id": 200112,
+        "m_gacha_group_id": 2001116,
+        "bonus_count": 6
+    },
+    {
+        "id": 16,
+        "m_gacha_id": 200115,
+        "m_gacha_group_id": 2001156,
+        "bonus_count": 2
+    },
+    {
+        "id": 17,
+        "m_gacha_id": 200115,
+        "m_gacha_group_id": 2001157,
+        "bonus_count": 3
+    },
+    {
+        "id": 18,
+        "m_gacha_id": 200115,
+        "m_gacha_group_id": 2001158,
+        "bonus_count": 4
+    },
+    {
+        "id": 19,
+        "m_gacha_id": 200116,
+        "m_gacha_group_id": 2001156,
+        "bonus_count": 2
+    },
+    {
+        "id": 20,
+        "m_gacha_id": 200116,
+        "m_gacha_group_id": 2001157,
+        "bonus_count": 3
+    },
+    {
+        "id": 21,
+        "m_gacha_id": 200116,
+        "m_gacha_group_id": 2001158,
+        "bonus_count": 4
+    },
+    {
+        "id": 22,
+        "m_gacha_id": 200127,
+        "m_gacha_group_id": 2001276,
+        "bonus_count": 2
+    },
+    {
+        "id": 23,
+        "m_gacha_id": 200127,
+        "m_gacha_group_id": 2001277,
+        "bonus_count": 3
+    },
+    {
+        "id": 24,
+        "m_gacha_id": 200127,
+        "m_gacha_group_id": 2001278,
+        "bonus_count": 4
+    },
+    {
+        "id": 25,
+        "m_gacha_id": 200128,
+        "m_gacha_group_id": 2001276,
+        "bonus_count": 2
+    },
+    {
+        "id": 26,
+        "m_gacha_id": 200128,
+        "m_gacha_group_id": 2001277,
+        "bonus_count": 3
+    },
+    {
+        "id": 27,
+        "m_gacha_id": 200128,
+        "m_gacha_group_id": 2001278,
+        "bonus_count": 4
+    },
+    {
+        "id": 28,
+        "m_gacha_id": 200141,
+        "m_gacha_group_id": 2001416,
+        "bonus_count": 2
+    },
+    {
+        "id": 29,
+        "m_gacha_id": 200141,
+        "m_gacha_group_id": 2001417,
+        "bonus_count": 3
+    },
+    {
+        "id": 30,
+        "m_gacha_id": 200141,
+        "m_gacha_group_id": 2001418,
+        "bonus_count": 4
+    },
+    {
+        "id": 31,
+        "m_gacha_id": 200142,
+        "m_gacha_group_id": 2001416,
+        "bonus_count": 2
+    },
+    {
+        "id": 32,
+        "m_gacha_id": 200142,
+        "m_gacha_group_id": 2001417,
+        "bonus_count": 3
+    },
+    {
+        "id": 33,
+        "m_gacha_id": 200142,
+        "m_gacha_group_id": 2001418,
+        "bonus_count": 4
+    },
+    {
+        "id": 34,
+        "m_gacha_id": 200149,
+        "m_gacha_group_id": 2001496,
+        "bonus_count": 2
+    },
+    {
+        "id": 35,
+        "m_gacha_id": 200149,
+        "m_gacha_group_id": 2001497,
+        "bonus_count": 3
+    },
+    {
+        "id": 36,
+        "m_gacha_id": 200149,
+        "m_gacha_group_id": 2001498,
+        "bonus_count": 4
+    },
+    {
+        "id": 37,
+        "m_gacha_id": 200150,
+        "m_gacha_group_id": 2001496,
+        "bonus_count": 2
+    },
+    {
+        "id": 38,
+        "m_gacha_id": 200150,
+        "m_gacha_group_id": 2001497,
+        "bonus_count": 3
+    },
+    {
+        "id": 39,
+        "m_gacha_id": 200150,
+        "m_gacha_group_id": 2001498,
+        "bonus_count": 4
+    },
+    {
+        "id": 40,
+        "m_gacha_id": 200168,
+        "m_gacha_group_id": 2001685,
+        "bonus_count": 6
+    },
+    {
+        "id": 41,
+        "m_gacha_id": 200168,
+        "m_gacha_group_id": 2001685,
+        "bonus_count": 12
+    },
+    {
+        "id": 42,
+        "m_gacha_id": 200168,
+        "m_gacha_group_id": 2001685,
+        "bonus_count": 18
+    },
+    {
+        "id": 43,
+        "m_gacha_id": 200168,
+        "m_gacha_group_id": 2001685,
+        "bonus_count": 24
+    },
+    {
+        "id": 44,
+        "m_gacha_id": 200168,
+        "m_gacha_group_id": 2001685,
+        "bonus_count": 30
+    },
+    {
+        "id": 45,
+        "m_gacha_id": 200181,
+        "m_gacha_group_id": 2001816,
+        "bonus_count": 2
+    },
+    {
+        "id": 46,
+        "m_gacha_id": 200181,
+        "m_gacha_group_id": 2001817,
+        "bonus_count": 3
+    },
+    {
+        "id": 47,
+        "m_gacha_id": 200181,
+        "m_gacha_group_id": 2001818,
+        "bonus_count": 4
+    },
+    {
+        "id": 48,
+        "m_gacha_id": 200182,
+        "m_gacha_group_id": 2001816,
+        "bonus_count": 2
+    },
+    {
+        "id": 49,
+        "m_gacha_id": 200182,
+        "m_gacha_group_id": 2001817,
+        "bonus_count": 3
+    },
+    {
+        "id": 50,
+        "m_gacha_id": 200182,
+        "m_gacha_group_id": 2001818,
+        "bonus_count": 4
+    },
+    {
+        "id": 51,
+        "m_gacha_id": 200201,
+        "m_gacha_group_id": 2002016,
+        "bonus_count": 2
+    },
+    {
+        "id": 52,
+        "m_gacha_id": 200201,
+        "m_gacha_group_id": 2002017,
+        "bonus_count": 3
+    },
+    {
+        "id": 53,
+        "m_gacha_id": 200201,
+        "m_gacha_group_id": 2002018,
+        "bonus_count": 4
+    },
+    {
+        "id": 54,
+        "m_gacha_id": 200202,
+        "m_gacha_group_id": 2002016,
+        "bonus_count": 2
+    },
+    {
+        "id": 55,
+        "m_gacha_id": 200202,
+        "m_gacha_group_id": 2002017,
+        "bonus_count": 3
+    },
+    {
+        "id": 56,
+        "m_gacha_id": 200202,
+        "m_gacha_group_id": 2002018,
+        "bonus_count": 4
+    },
+    {
+        "id": 12345921,
+        "m_gacha_id": 1234592,
+        "m_gacha_group_id": 2001276,
+        "bonus_count": 2
+    },
+    {
+        "id": 12345922,
+        "m_gacha_id": 1234592,
+        "m_gacha_group_id": 2001277,
+        "bonus_count": 3
+    },
+    {
+        "id": 12345923,
+        "m_gacha_id": 1234592,
+        "m_gacha_group_id": 2001278,
+        "bonus_count": 4
+    },
+    {
+        "id": 12345931,
+        "m_gacha_id": 1234593,
+        "m_gacha_group_id": 2001276,
+        "bonus_count": 2
+    },
+    {
+        "id": 12345932,
+        "m_gacha_id": 1234593,
+        "m_gacha_group_id": 2001277,
+        "bonus_count": 3
+    },
+    {
+        "id": 12345933,
+        "m_gacha_id": 1234593,
+        "m_gacha_group_id": 2001278,
+        "bonus_count": 4
     }
 ]

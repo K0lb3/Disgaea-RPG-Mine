@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "character_type": "Int32",
+        "rank": "Int32",
+        "max_lv": "Int32",
+        "need_mana": "Int32"
     },
-    {
-        "type": "int",
-        "name": "character_type",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "rank",
-        "offset": 28
-    },
-    {
-        "type": "int",
-        "name": "max_lv",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "need_mana",
-        "offset": 36
+    "properties": {
+        "Id": "UInt64",
+        "CharacterType": "Int32",
+        "Rank": "Int32",
+        "maxLv": "Int32",
+        "needMana": "Int32"
     }
-]
+}

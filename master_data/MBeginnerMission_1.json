@@ -15,7 +15,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 1,
-        "button_text": "Summoning Pot"
+        "button_text": "Summoning Vase",
+        "description": "null_s"
     },
     {
         "id": 11002,
@@ -33,7 +34,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 2,
-        "button_text": "Party"
+        "button_text": "Party",
+        "description": "null_s"
     },
     {
         "id": 11003,
@@ -51,7 +53,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 3,
-        "button_text": "Character Details"
+        "button_text": "Character Details",
+        "description": "null_s"
     },
     {
         "id": 11004,
@@ -62,14 +65,15 @@
         "condition_id": 101102,
         "condition_num": 1,
         "present_type": 1,
-        "present_id": 201,
+        "present_id": 101,
         "present_rarity": 0,
-        "present_num": 300,
+        "present_num": 20000,
         "sort": 4,
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 4,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 11005,
@@ -87,7 +91,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 5,
-        "button_text": "Gift BOX"
+        "button_text": "Gift BOX",
+        "description": "null_s"
     },
     {
         "id": 11006,
@@ -105,7 +110,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 6,
-        "button_text": "Friends"
+        "button_text": "Friends",
+        "description": "null_s"
     },
     {
         "id": 11007,
@@ -123,7 +129,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 7,
-        "button_text": "RQ Shop"
+        "button_text": "RQ Shop",
+        "description": "null_s"
     },
     {
         "id": 11008,
@@ -141,7 +148,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 8,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 11009,
@@ -159,7 +167,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 9,
-        "button_text": "Character Details"
+        "button_text": "Character Details",
+        "description": "null_s"
     },
     {
         "id": 11010,
@@ -177,7 +186,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 10,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 11011,
@@ -195,7 +205,8 @@
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 11,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 11012,
@@ -208,12 +219,13 @@
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
-        "present_num": 300,
+        "present_num": 25,
         "sort": 12,
         "sheet_type": 1,
         "sheet_no": 1,
         "priority": 12,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 12001,
@@ -231,7 +243,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 13,
-        "button_text": "Netherworld History"
+        "button_text": "Netherworld History",
+        "description": "null_s"
     },
     {
         "id": 12002,
@@ -249,7 +262,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 14,
-        "button_text": "Dark Gates"
+        "button_text": "Dark Gates",
+        "description": "null_s"
     },
     {
         "id": 12003,
@@ -267,7 +281,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 15,
-        "button_text": "Dark Gates"
+        "button_text": "Dark Gates",
+        "description": "null_s"
     },
     {
         "id": 12004,
@@ -285,7 +300,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 16,
-        "button_text": "Hospital"
+        "button_text": "Hospital",
+        "description": "null_s"
     },
     {
         "id": 12005,
@@ -303,7 +319,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 17,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 12006,
@@ -321,7 +338,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 18,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 12007,
@@ -339,7 +357,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 19,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 12008,
@@ -357,7 +376,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 20,
-        "button_text": "Memory Shop"
+        "button_text": "Memory Shop",
+        "description": "null_s"
     },
     {
         "id": 12009,
@@ -375,7 +395,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 21,
-        "button_text": "Data Shop"
+        "button_text": "Data Shop",
+        "description": "null_s"
     },
     {
         "id": 12010,
@@ -393,7 +414,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 22,
-        "button_text": "Player Details"
+        "button_text": "Player Details",
+        "description": "null_s"
     },
     {
         "id": 12011,
@@ -411,7 +433,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 23,
-        "button_text": "Character List"
+        "button_text": "Character List",
+        "description": "null_s"
     },
     {
         "id": 12012,
@@ -429,7 +452,8 @@
         "sheet_type": 1,
         "sheet_no": 2,
         "priority": 24,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 23001,
@@ -447,7 +471,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 25,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 23002,
@@ -465,7 +490,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 26,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 23003,
@@ -483,7 +509,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 27,
-        "button_text": "Equipment List"
+        "button_text": "Equipment List",
+        "description": "null_s"
     },
     {
         "id": 23004,
@@ -501,7 +528,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 28,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 23005,
@@ -519,7 +547,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 29,
-        "button_text": "RQ Shop"
+        "button_text": "RQ Shop",
+        "description": "null_s"
     },
     {
         "id": 23006,
@@ -537,7 +566,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 30,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 23007,
@@ -555,7 +585,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 31,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 23008,
@@ -573,7 +604,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 32,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 23009,
@@ -591,7 +623,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 33,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 23010,
@@ -609,7 +642,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 34,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 23011,
@@ -627,7 +661,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 35,
-        "button_text": "Dark Assembly"
+        "button_text": "Dark Assembly",
+        "description": "null_s"
     },
     {
         "id": 23012,
@@ -645,7 +680,8 @@
         "sheet_type": 2,
         "sheet_no": 3,
         "priority": 36,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24013,
@@ -663,7 +699,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 37,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 24014,
@@ -681,7 +718,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 38,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 24015,
@@ -699,7 +737,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 39,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 24016,
@@ -717,7 +756,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 40,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24017,
@@ -735,7 +775,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 41,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24018,
@@ -753,7 +794,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 42,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24019,
@@ -771,7 +813,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 43,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24020,
@@ -789,7 +832,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 44,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24021,
@@ -807,7 +851,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 45,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 24022,
@@ -825,7 +870,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 46,
-        "button_text": "Dark Gates"
+        "button_text": "Dark Gates",
+        "description": "null_s"
     },
     {
         "id": 24023,
@@ -843,7 +889,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 47,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 24024,
@@ -861,7 +908,8 @@
         "sheet_type": 2,
         "sheet_no": 4,
         "priority": 48,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25025,
@@ -879,7 +927,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 49,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25026,
@@ -897,7 +946,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 50,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25027,
@@ -915,7 +965,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 51,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25028,
@@ -933,7 +984,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 52,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25029,
@@ -951,7 +1003,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 53,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 25030,
@@ -969,7 +1022,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 54,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 25031,
@@ -987,7 +1041,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 55,
-        "button_text": "Item World"
+        "button_text": "Item World",
+        "description": "null_s"
     },
     {
         "id": 25032,
@@ -1005,7 +1060,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 56,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 25033,
@@ -1023,7 +1079,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 57,
-        "button_text": "Mao's Lab"
+        "button_text": "Mao's Lab",
+        "description": "null_s"
     },
     {
         "id": 25034,
@@ -1041,7 +1098,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 58,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25035,
@@ -1059,7 +1117,8 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 59,
-        "button_text": "Battle"
+        "button_text": "Battle",
+        "description": "null_s"
     },
     {
         "id": 25036,
@@ -1077,6 +1136,463 @@
         "sheet_type": 2,
         "sheet_no": 5,
         "priority": 60,
-        "button_text": "Overlord's Tower"
+        "button_text": "Overlord's Tower",
+        "description": "null_s"
+    },
+    {
+        "id": 31001,
+        "title": "Raise Weapon Mastery to Lv4",
+        "target_scene": "stage_select_scene",
+        "option_param": "null_s",
+        "condition_type": 53,
+        "condition_id": 0,
+        "condition_num": 4,
+        "present_type": 1,
+        "present_id": 1511,
+        "present_rarity": 0,
+        "present_num": 5,
+        "sort": 37,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 63,
+        "button_text": "Battle",
+        "description": "Accumulated Weapon EXP\ncan be used to raise Weapon Mastery.\n\nWhen your characters equip weapons,\nthey will gain Weapon EXP by clearing stages.\n\nUse weapons to clear stages\nand raise Weapon Mastery!"
+    },
+    {
+        "id": 31002,
+        "title": "Try using Weapon Statues",
+        "target_scene": "party_scene",
+        "option_param": "chara_info",
+        "condition_type": 55,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 38,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 64,
+        "button_text": "Character Details",
+        "description": "Apaer from clearing stages,\nyou can also use Statues to raise Weapon Mastery.\n\nEnter a character's details screen, select Weapon Mastery,\nthen use “Statues” to gain Weapon EXP.\n\nUse Statues\nto gain Weapon EXP now!"
+    },
+    {
+        "id": 31003,
+        "title": "Upgrade Skills to Lv4",
+        "target_scene": "stage_select_scene",
+        "option_param": "null_s",
+        "condition_type": 52,
+        "condition_id": 0,
+        "condition_num": 4,
+        "present_type": 1,
+        "present_id": 1701,
+        "present_rarity": 0,
+        "present_num": 5,
+        "sort": 39,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 65,
+        "button_text": "Battle",
+        "description": "Accumulated Skill EXP\ncan be used to enhance skills.\n\nWhen your characters are equipped with skills,\nthey will gain Skill EXP by clearing stages.\n\nConfigure skills for your characters,\nclear stages to enhance their skills!"
+    },
+    {
+        "id": 31004,
+        "title": "Try using Skill Books",
+        "target_scene": "party_scene",
+        "option_param": "chara_info",
+        "condition_type": 54,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 40,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 66,
+        "button_text": "Character Details",
+        "description": "As well as clearing stages,\nyou can also use Skill Books to enhance skills.\n\nEnter a character's details screen, select skills,\nthen use “Skills Books”\nto gain Skill EXP.\n\nUse Skill Books\nto gain Weapon EXP now!"
+    },
+    {
+        "id": 31005,
+        "title": "Level up Your Character to Lv100",
+        "target_scene": "stage_select_scene",
+        "option_param": "null_s",
+        "condition_type": 11,
+        "condition_id": 0,
+        "condition_num": 100,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 41,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 67,
+        "button_text": "Battle",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills."
+    },
+    {
+        "id": 31006,
+        "title": "Clear Gate of Gems (Hum.)",
+        "target_scene": "stage_select_scene",
+        "option_param": "gate_area",
+        "condition_type": 4,
+        "condition_id": 50107,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 42,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 68,
+        "button_text": "Dark Gates",
+        "description": "You can enter the Dark Gate\nto challenge the Gate of Gems (Hum.).\nOnce you've completed the challenge,\nyou will receive reincarnation materials for humanoid characters.\n\nYou can only challenge the Dark Gates\na limited number of times each day,\nthough you can use Gate Keys\nto gain additional challenge chances."
+    },
+    {
+        "id": 31007,
+        "title": "Clear Gate of Gems (Mon.)",
+        "target_scene": "stage_select_scene",
+        "option_param": "gate_area",
+        "condition_type": 4,
+        "condition_id": 50108,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 43,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 69,
+        "button_text": "Dark Gates",
+        "description": "You can enter the Dark Gate\nto challenge the Gate of Gems (Mon.).\nOnce you've completed the challenge,\nyou will receive reincarnation materials for monster characters.\n\nYou can only challenge the Dark Gates\na limited number of times each day,\nthough you can use Gate Keys\nto gain additional challenge chances."
+    },
+    {
+        "id": 31008,
+        "title": "Clear Stage Missions in Gate of EXP ①",
+        "target_scene": "stage_select_scene",
+        "option_param": "gate_area",
+        "condition_type": 56,
+        "condition_id": 5010101,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10,
+        "sort": 44,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 71,
+        "button_text": "Dark Gates",
+        "description": "You can check stage missions\nin the stage selection screen.\n\nOnce you have completed all stage missions,\nyou will be able to use DG Skip Coupons.\n\nDG Skip Coupons allow you to\nskip battles and receive\nrewards directly."
+    },
+    {
+        "id": 31009,
+        "title": "Clear Stage Missions in Gate of Gems (Hum.) ①",
+        "target_scene": "stage_select_scene",
+        "option_param": "gate_area",
+        "condition_type": 56,
+        "condition_id": 5010701,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10,
+        "sort": 45,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 73,
+        "button_text": "Dark Gates",
+        "description": "You can check stage missions\nin the stage selection screen.\n\nOnce you have completed all stage missions,\nyou will be able to use DG Skip Coupons.\n\nDG Skip Coupons allow you to\nskip battles and receive\nrewards directly."
+    },
+    {
+        "id": 31010,
+        "title": "Clear Stage Missions in Gate of Gems (Mon.) ①",
+        "target_scene": "stage_select_scene",
+        "option_param": "gate_area",
+        "condition_type": 56,
+        "condition_id": 5010801,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10,
+        "sort": 46,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 74,
+        "button_text": "Dark Gates",
+        "description": "You can check stage missions\nin the stage selection screen.\n\nOnce you have completed all stage missions,\nyou will be able to use DG Skip Coupons.\n\nDG Skip Coupons allow you to\nskip battles and receive\nrewards directly."
+    },
+    {
+        "id": 31011,
+        "title": "Reincarnate at Least 5 Characters",
+        "target_scene": "labo_scene",
+        "option_param": "null_s",
+        "condition_type": 21,
+        "condition_id": 0,
+        "condition_num": 5,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 150,
+        "sort": 47,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 79,
+        "button_text": "Mao's Lab",
+        "description": "Reincarnate at least 5 characters\nvia Mao's Lab - Reincarnate.\n\nReincarnation costs HL and Reinc. Gems.\nIf you don't have enough materials,\ntry collecting more from the Dark Gates."
+    },
+    {
+        "id": 31012,
+        "title": "Level up Your Character to Lv200",
+        "target_scene": "stage_select_scene",
+        "option_param": "null_s",
+        "condition_type": 11,
+        "condition_id": 0,
+        "condition_num": 200,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 48,
+        "sheet_type": 3,
+        "sheet_no": 31,
+        "priority": 80,
+        "button_text": "Battle",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills."
+    },
+    {
+        "id": 41001,
+        "title": "Enter Weapon Item Worlds 3 Times",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 66,
+        "condition_id": 0,
+        "condition_num": 3,
+        "present_type": 1,
+        "present_id": 401,
+        "present_rarity": 0,
+        "present_num": 5,
+        "sort": 49,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 82,
+        "button_text": "Item World",
+        "description": "All equipment has its Item World,\nwhether it is a weapon or a piece of armor.\n\nPlease enter the Item World\nfor weapons 3 times."
+    },
+    {
+        "id": 41002,
+        "title": "Enter Armor Item Worlds 3 Times",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 67,
+        "condition_id": 0,
+        "condition_num": 3,
+        "present_type": 1,
+        "present_id": 402,
+        "present_rarity": 0,
+        "present_num": 3,
+        "sort": 50,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 83,
+        "button_text": "Item World",
+        "description": "All equipment has its Item World,\nwhether it is a weapon or a piece of armor.\n\nPlease enter the Item World\nfor armor 3 times."
+    },
+    {
+        "id": 41003,
+        "title": "Clear Floor 10 in the Item World (Item General)",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 68,
+        "condition_id": 0,
+        "condition_num": 10,
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 10000,
+        "sort": 51,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 84,
+        "button_text": "Item World",
+        "description": "Whenever you clear 10 floors in the Item World,\nan Item General will appear.\n\nAn Item General will appear every 10 floors.\nDefeat the Item General\nto clear the 10F in the Item World!"
+    },
+    {
+        "id": 41004,
+        "title": "Clear Floor 30 in the Item World (Item King)",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 68,
+        "condition_id": 0,
+        "condition_num": 30,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 52,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 86,
+        "button_text": "Item World",
+        "description": "When you clear 30 floors in the Item World,\nan Item King will appear.\nAn Item King will appear every 30 floors.\nDefeat the Item King\nto clear the 30F in the Item World!"
+    },
+    {
+        "id": 41005,
+        "title": "Purchase<Rare>Equipment",
+        "target_scene": "shop_scene",
+        "option_param": "null_s",
+        "condition_type": 69,
+        "condition_id": 2,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 50,
+        "sort": 53,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 87,
+        "button_text": "RQ Shop",
+        "description": "Purchase a piece of\nRare equipment in the shop.\nIf there is no Rare equipment,\ntap \"Refresh\" at the top right\nto refresh items in the shop.\n\nEach day, you can refresh items\n5 times for free.\nAlso, all items are automatically refreshed daily at 00:00."
+    },
+    {
+        "id": 41006,
+        "title": "Clear Floor 60 in the Item World (Item King)",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 68,
+        "condition_id": 0,
+        "condition_num": 60,
+        "present_type": 1,
+        "present_id": 1901,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 54,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 90,
+        "button_text": "Item World",
+        "description": "Rare or better equipment has an Item World\nthat contains at least 60 floors.\nAn Item King will appear every 30 floors.\nDefeat the Item King\nto clear the 60F in the Item World!"
+    },
+    {
+        "id": 41007,
+        "title": "Subdue a Principle Innocent",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 70,
+        "condition_id": 1,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 55,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 91,
+        "button_text": "Item World",
+        "description": "Enter an Item World where a Principle Innocent lives\nand subdue it.\nYou can check what type of Innocents lives in the target equipment\non the equipment details screen.\n\nPrinciple Innocents\nincrease the\nHP and SPD bonuses of equipment."
+    },
+    {
+        "id": 41008,
+        "title": "Subdue a Grunt Innocent",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 70,
+        "condition_id": 2,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 56,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 92,
+        "button_text": "Item World",
+        "description": "Enter an Item World where a Grunt Innocent lives\nand subdue it.\nYou can check what type of Innocents lives in the target equipment\non the equipment details screen.\n\nGrunt Innocents\nincrease the\nATK and DEF bonuses of equipment."
+    },
+    {
+        "id": 41009,
+        "title": "Subdue an Egghead Innocent",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 70,
+        "condition_id": 3,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1,
+        "sort": 57,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 93,
+        "button_text": "Item World",
+        "description": "Enter an Item World where an Egghead Innocent lives\nand subdue it.\nYou can check what type of Innocents lives in the target equipment\non the equipment details screen.\n\nEgghead Innocents\nincrease the\nINT and RES bonuses of equipment."
+    },
+    {
+        "id": 41010,
+        "title": "Subdue a Greed Innocent",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 70,
+        "condition_id": 4,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_rarity": 0,
+        "present_num": 10,
+        "sort": 58,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 94,
+        "button_text": "Item World",
+        "description": "Enter an Item World where a Greed Innocent lives\nand subdue it.\nYou can check what type of Innocents lives in the target equipment\non the equipment details screen.\n\nGreed Innocents\nenable your equipment to bring you\nmore EXP and HL."
+    },
+    {
+        "id": 41011,
+        "title": "Purchase<Legendary>Equipment",
+        "target_scene": "shop_scene",
+        "option_param": "null_s",
+        "condition_type": 69,
+        "condition_id": 3,
+        "condition_num": 1,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 10,
+        "sort": 59,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 95,
+        "button_text": "RQ Shop",
+        "description": "Purchase a piece of\nLegendary equipment in the shop.\n\nIf there is no Legendary equipment,\ntap \"Refresh\" at the top right\nto refresh items in the shop.\nEach day, you can refresh items\n5 times for free.\nAlso, all items are automatically refreshed daily at 00:00."
+    },
+    {
+        "id": 41012,
+        "title": "Clear Floor 100 in the Item World (Item God)",
+        "target_scene": "item_world_scene",
+        "option_param": "null_s",
+        "condition_type": 68,
+        "condition_id": 0,
+        "condition_num": 100,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 100,
+        "sort": 60,
+        "sheet_type": 4,
+        "sheet_no": 41,
+        "priority": 99,
+        "button_text": "Item World",
+        "description": "Legendary equipment has an Item World\nthat contains 100 floors.\n\nThe Item God will appear every 100 floors.\nDefeat the Item God\nto clear the 100F in the Item World!"
     }
 ]

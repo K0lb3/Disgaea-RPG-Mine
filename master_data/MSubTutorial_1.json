@@ -250,5 +250,152 @@
         "condition_type": 0,
         "condition_value": 0,
         "created_at": "null_s"
+    },
+    {
+        "id": 111,
+        "name": "Potential Type Sub Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 112,
+        "name": "Potential Type Tutorial Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 121,
+        "name": "Unlocking Ultimate Demon Ritual",
+        "condition_type": 1,
+        "condition_value": 307509,
+        "created_at": "null_s"
+    },
+    {
+        "id": 122,
+        "name": "Ultimate Demon Ritual Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 123,
+        "name": "Ultimate Demon Ritual Tutorial Pop-Up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 124,
+        "name": "Ultimate Demon Ritual Unlocking Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 125,
+        "name": "All Training Missions Cleared",
+        "condition_type": 4,
+        "condition_value": 31,
+        "created_at": "null_s"
+    },
+    {
+        "id": 126,
+        "name": "Item World Sub Tutorial Complete",
+        "condition_type": 5,
+        "condition_value": 2,
+        "created_at": "null_s"
+    },
+    {
+        "id": 127,
+        "name": "Unlocking Fishing Fleet",
+        "condition_type": 1,
+        "condition_value": 105515,
+        "created_at": "null_s"
+    },
+    {
+        "id": 128,
+        "name": "Fishing Fleet Sub Tutorial Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 129,
+        "name": "Fishing Fleet Sub Tutorial Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 130,
+        "name": "Etna's Summer Resort - Top Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 131,
+        "name": "Etna's Summer Resort - Etna's Throne Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 132,
+        "name": "Etna's Summer Resort - Depository Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 133,
+        "name": "Etna's Summer Resort - Innocent Ranch Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 134,
+        "name": "Etna's Summer Resort - Equipment Workshop Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 135,
+        "name": "Etna's Summer Resort - Request Board Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 136,
+        "name": "Unlocking Etna's Summer Resort",
+        "condition_type": 4,
+        "condition_value": 41,
+        "created_at": "null_s"
+    },
+    {
+        "id": 137,
+        "name": "Unlocking Biggest Badass ○○ Contest",
+        "condition_type": 1,
+        "condition_value": 110512,
+        "created_at": "null_s"
+    },
+    {
+        "id": 138,
+        "name": "Biggest Badass ○○ Contest Dialogue",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
+    },
+    {
+        "id": 139,
+        "name": "Biggest Badass ○○ Contest Pop-up",
+        "condition_type": 0,
+        "condition_value": 0,
+        "created_at": "null_s"
     }
 ]

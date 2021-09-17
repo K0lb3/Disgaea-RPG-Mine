@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "Address": "Uri",
+        "Credentials": "ICredentials",
+        "UseDefaultCredentials": "Boolean"
+    }
+}

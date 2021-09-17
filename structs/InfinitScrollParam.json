@@ -1,0 +1,13 @@
+{
+    "fields": {},
+    "properties": {
+        "nodeAnchorMin": "Vector2",
+        "nodeAnchorMax": "Vector2",
+        "dispNodeNum": "Int32",
+        "dispNodeColmnNum": "Int32",
+        "padding": "Vector2",
+        "nodeSpace": "Vector2",
+        "ForceSetNodeScale": "Boolean",
+        "NodeScale": "Vector3"
+    }
+}

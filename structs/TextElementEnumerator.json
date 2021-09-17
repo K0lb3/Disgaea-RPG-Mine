@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "str": "String",
+        "index": "Int32",
+        "uc": "UnicodeCategory"
+    },
+    "properties": {
+        "Current": "Object"
+    }
+}

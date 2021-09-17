@@ -1,0 +1,11 @@
+{
+    "fields": {},
+    "properties": {
+        "materialType": "MaterialType",
+        "itemId": "UInt64",
+        "itemNum": "Int32",
+        "needItemNum": "Int32",
+        "characterUserData": "CharacterUserData",
+        "MItemData": "MasterItemData"
+    }
+}

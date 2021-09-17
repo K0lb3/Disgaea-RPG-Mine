@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "desire_type": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "DesireType": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "RewardData": "RewardData"
+    }
+}

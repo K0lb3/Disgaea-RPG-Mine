@@ -1,82 +1,42 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "title": "String",
+        "target_scene": "String",
+        "option_param": "String",
+        "condition_type": "Int32",
+        "condition_id": "UInt64",
+        "condition_num": "Int64",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "sort": "Int32",
+        "sheet_type": "Int32",
+        "sheet_no": "Int32",
+        "priority": "Int32",
+        "button_text": "String",
+        "description": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "target_scene",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "option_param",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "condition_type",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "condition_id",
-        "offset": 56
-    },
-    {
-        "type": "long",
-        "name": "condition_num",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 72
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 88
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 92
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "sheet_type",
-        "offset": 100
-    },
-    {
-        "type": "int",
-        "name": "sheet_no",
-        "offset": 104
-    },
-    {
-        "type": "int",
-        "name": "priority",
-        "offset": 108
-    },
-    {
-        "type": "string",
-        "name": "button_text",
-        "offset": 112
+    "properties": {
+        "Id": "UInt64",
+        "Title": "String",
+        "TargetScene": "String",
+        "OptionParam": "String",
+        "ConditionType": "Int32",
+        "ConditionId": "UInt64",
+        "ConditionNum": "Int64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "Sort": "Int32",
+        "SheetType": "Int32",
+        "SheetNo": "Int32",
+        "Priority": "Int32",
+        "ButtonText": "String",
+        "Description": "String"
     }
-]
+}

@@ -1,42 +1,25 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_event_gacha_id": "UInt64",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "animation_name": "String",
+        "rate": "Int32",
+        "effect_rank": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_event_gacha_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 52
-    },
-    {
-        "type": "string",
-        "name": "animation_name",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "rate",
-        "offset": 64
+    "properties": {
+        "Id": "UInt64",
+        "MEventGachaId": "UInt64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "AnimationName": "String",
+        "Rate": "Int32",
+        "EffectRank": "Int32",
+        "RewardData": "RewardData"
     }
-]
+}

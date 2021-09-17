@@ -1,0 +1,31 @@
+{
+    "fields": {},
+    "properties": {
+        "CurrencyDecimalDigits": "Int32",
+        "CurrencyDecimalSeparator": "String",
+        "IsReadOnly": "Boolean",
+        "CurrencyGroupSizes": "Int32[]",
+        "NumberGroupSizes": "Int32[]",
+        "PercentGroupSizes": "Int32[]",
+        "CurrencyGroupSeparator": "String",
+        "CurrencySymbol": "String",
+        "NaNSymbol": "String",
+        "CurrencyNegativePattern": "Int32",
+        "NumberNegativePattern": "Int32",
+        "PercentPositivePattern": "Int32",
+        "PercentNegativePattern": "Int32",
+        "NegativeInfinitySymbol": "String",
+        "NegativeSign": "String",
+        "NumberDecimalDigits": "Int32",
+        "NumberDecimalSeparator": "String",
+        "NumberGroupSeparator": "String",
+        "CurrencyPositivePattern": "Int32",
+        "PositiveInfinitySymbol": "String",
+        "PositiveSign": "String",
+        "PercentDecimalDigits": "Int32",
+        "PercentDecimalSeparator": "String",
+        "PercentGroupSeparator": "String",
+        "PercentSymbol": "String",
+        "PerMilleSymbol": "String"
+    }
+}

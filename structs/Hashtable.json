@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "buckets": "bucket[]",
+        "count": "Int32",
+        "occupancy": "Int32",
+        "loadsize": "Int32",
+        "version": "Int32",
+        "keys": "ICollection",
+        "values": "ICollection",
+        "_keycomparer": "IEqualityComparer"
+    },
+    "properties": {
+        "Item": "Object",
+        "IsReadOnly": "Boolean",
+        "IsFixedSize": "Boolean",
+        "IsSynchronized": "Boolean",
+        "Keys": "ICollection",
+        "Values": "ICollection",
+        "SyncRoot": "Object",
+        "Count": "Int32"
+    }
+}

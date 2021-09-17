@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "Comments": "CodeCommentStatementCollection",
+        "Imports": "CodeNamespaceImportCollection",
+        "Name": "String",
+        "Types": "CodeTypeDeclarationCollection"
+    }
+}

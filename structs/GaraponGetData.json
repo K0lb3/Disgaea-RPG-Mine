@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "buy_num_now": "Int32",
+        "buy_num_ticket": "Int32",
+        "buy_done_flg": "Boolean"
+    },
+    "properties": {
+        "BuyNumNow": "Int32",
+        "BuyNumTicket": "Int32",
+        "BuyDoneFlg": "Boolean"
+    }
+}

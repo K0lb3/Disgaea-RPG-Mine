@@ -1,0 +1,1010 @@
+[
+    {
+        "id": 10101,
+        "m_trophy_daily_request_group_id": 101,
+        "title": "Donate a piece of Equipment",
+        "description": "Donate a piece of equipment.",
+        "condition_type": 8,
+        "condition_id": "0",
+        "condition_num": 1
+    },
+    {
+        "id": 10201,
+        "m_trophy_daily_request_group_id": 102,
+        "title": "Raise Supply Stat by 300",
+        "description": "Raise Supply stat by 300.",
+        "condition_type": 9,
+        "condition_id": "0",
+        "condition_num": 300
+    },
+    {
+        "id": 10301,
+        "m_trophy_daily_request_group_id": 103,
+        "title": "Donate 4 Pieces of Common Equipment",
+        "description": "Donate 4 pieces of common equipment.",
+        "condition_type": 10,
+        "condition_id": "1",
+        "condition_num": 4
+    },
+    {
+        "id": 10401,
+        "m_trophy_daily_request_group_id": 104,
+        "title": "Refine Equipment Once",
+        "description": "Refine equipment once.",
+        "condition_type": 11,
+        "condition_id": "0",
+        "condition_num": 1
+    },
+    {
+        "id": 10501,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 1 (Sword)",
+        "description": "Donate 3 weapons of type 1 (Sword).",
+        "condition_type": 12,
+        "condition_id": "1",
+        "condition_num": 3
+    },
+    {
+        "id": 10502,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 2 (Fist)",
+        "description": "Donate 3 weapons of type 2 (Fist).",
+        "condition_type": 12,
+        "condition_id": "2",
+        "condition_num": 3
+    },
+    {
+        "id": 10503,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 3 (Spear)",
+        "description": "Donate 3 weapons of type 3 (Spear).",
+        "condition_type": 12,
+        "condition_id": "3",
+        "condition_num": 3
+    },
+    {
+        "id": 10504,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 4 (Bow)",
+        "description": "Donate 3 weapons of type 4 (Bow).",
+        "condition_type": 12,
+        "condition_id": "4",
+        "condition_num": 3
+    },
+    {
+        "id": 10505,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 5 (Gun)",
+        "description": "Donate 3 weapons of type 5 (Gun).",
+        "condition_type": 12,
+        "condition_id": "5",
+        "condition_num": 3
+    },
+    {
+        "id": 10506,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 6 (Axe)",
+        "description": "Donate 3 weapons of type 6 (Axe).",
+        "condition_type": 12,
+        "condition_id": "6",
+        "condition_num": 3
+    },
+    {
+        "id": 10507,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 7 (Staff)",
+        "description": "Donate 3 weapons of type 7 (Staff).",
+        "condition_type": 12,
+        "condition_id": "7",
+        "condition_num": 3
+    },
+    {
+        "id": 10508,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 8 (Mon. Phys.)",
+        "description": "Donate 3 weapons of type 8 (Mon. Phys.).",
+        "condition_type": 12,
+        "condition_id": "8",
+        "condition_num": 3
+    },
+    {
+        "id": 10509,
+        "m_trophy_daily_request_group_id": 105,
+        "title": "Donate 3 Weapons of Type 9 (Mon. Mag.)",
+        "description": "Donate 3 weapons of type 9 (Mon. Mag.).",
+        "condition_type": 12,
+        "condition_id": "9",
+        "condition_num": 3
+    },
+    {
+        "id": 10601,
+        "m_trophy_daily_request_group_id": 106,
+        "title": "Donate 2 Pieces of Rare Equipment",
+        "description": "Donate 2 pieces of rare equipment.",
+        "condition_type": 10,
+        "condition_id": "2",
+        "condition_num": 2
+    },
+    {
+        "id": 10701,
+        "m_trophy_daily_request_group_id": 107,
+        "title": "Donate 2 Pieces of Equipment above IR 33",
+        "description": "Donate 2 pieces of equipment above IR 33.",
+        "condition_type": 13,
+        "condition_id": "33",
+        "condition_num": 2
+    },
+    {
+        "id": 20101,
+        "m_trophy_daily_request_group_id": 201,
+        "title": "Put an Innocent",
+        "description": "Put an Innocent.",
+        "condition_type": 14,
+        "condition_id": "0",
+        "condition_num": 1
+    },
+    {
+        "id": 20201,
+        "m_trophy_daily_request_group_id": 202,
+        "title": "Raise Labor Stat by 300",
+        "description": "Raise Labor stat by 300.",
+        "condition_type": 15,
+        "condition_id": "0",
+        "condition_num": 300
+    },
+    {
+        "id": 20301,
+        "m_trophy_daily_request_group_id": 203,
+        "title": "Put 4 Common Innocents",
+        "description": "Put 4 Common Innocents.",
+        "condition_type": 16,
+        "condition_id": "1",
+        "condition_num": 4
+    },
+    {
+        "id": 20401,
+        "m_trophy_daily_request_group_id": 204,
+        "title": "Take Care of Innocent Once",
+        "description": "Take care of an Innocent once.",
+        "condition_type": 19,
+        "condition_id": "0",
+        "condition_num": 1
+    },
+    {
+        "id": 20501,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an HP Boost",
+        "description": "Put an HP Boost.",
+        "condition_type": 17,
+        "condition_id": "1",
+        "condition_num": 1
+    },
+    {
+        "id": 20502,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an ATK Boost",
+        "description": "Put an ATK Boost.",
+        "condition_type": 17,
+        "condition_id": "2",
+        "condition_num": 1
+    },
+    {
+        "id": 20503,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a DEF Boost",
+        "description": "Put a DEF Boost.",
+        "condition_type": 17,
+        "condition_id": "3",
+        "condition_num": 1
+    },
+    {
+        "id": 20504,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an INT Boost ",
+        "description": "Put an INT Boost.",
+        "condition_type": 17,
+        "condition_id": "4",
+        "condition_num": 1
+    },
+    {
+        "id": 20505,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a RES Boost ",
+        "description": "Put a RES Boost ",
+        "condition_type": 17,
+        "condition_id": "5",
+        "condition_num": 1
+    },
+    {
+        "id": 20506,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an SPD Boost ",
+        "description": "Put an SPD Boost ",
+        "condition_type": 17,
+        "condition_id": "6",
+        "condition_num": 1
+    },
+    {
+        "id": 20507,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an EXP Boost ",
+        "description": "Put an EXP Boost ",
+        "condition_type": 17,
+        "condition_id": "7",
+        "condition_num": 1
+    },
+    {
+        "id": 20508,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an HL Boost ",
+        "description": "Put an HL Boost ",
+        "condition_type": 17,
+        "condition_id": "8",
+        "condition_num": 1
+    },
+    {
+        "id": 20509,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a WM Enhancer ",
+        "description": "Put a WM Enhancer ",
+        "condition_type": 17,
+        "condition_id": "9",
+        "condition_num": 1
+    },
+    {
+        "id": 20510,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a Skill Enhancer ",
+        "description": "Put a Skill Enhancer ",
+        "condition_type": 17,
+        "condition_id": "10",
+        "condition_num": 1
+    },
+    {
+        "id": 20511,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an HP Amplifier ",
+        "description": "Put an HP Amplifier ",
+        "condition_type": 17,
+        "condition_id": "11",
+        "condition_num": 1
+    },
+    {
+        "id": 20512,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an ATK Amplifier ",
+        "description": "Put an ATK Amplifier ",
+        "condition_type": 17,
+        "condition_id": "12",
+        "condition_num": 1
+    },
+    {
+        "id": 20513,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a DEF Amplifier ",
+        "description": "Put a DEF Amplifier ",
+        "condition_type": 17,
+        "condition_id": "13",
+        "condition_num": 1
+    },
+    {
+        "id": 20514,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put an INT Amplifier ",
+        "description": "Put an INT Amplifier ",
+        "condition_type": 17,
+        "condition_id": "14",
+        "condition_num": 1
+    },
+    {
+        "id": 20515,
+        "m_trophy_daily_request_group_id": 205,
+        "title": "Put a RES Amplifier ",
+        "description": "Put a RES Amplifier ",
+        "condition_type": 17,
+        "condition_id": "15",
+        "condition_num": 1
+    },
+    {
+        "id": 20601,
+        "m_trophy_daily_request_group_id": 206,
+        "title": "Put 2 Rare Innocents ",
+        "description": "Put 2 Rare Innocents ",
+        "condition_type": 16,
+        "condition_id": "2",
+        "condition_num": 2
+    },
+    {
+        "id": 20701,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Imp 1 Innocent ",
+        "description": "Put an Imp 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30005",
+        "condition_num": 1
+    },
+    {
+        "id": 20702,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Imp 2 Innocent ",
+        "description": "Put an Imp 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30006",
+        "condition_num": 1
+    },
+    {
+        "id": 20703,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Imp 3 Innocent ",
+        "description": "Put an Imp 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30007",
+        "condition_num": 1
+    },
+    {
+        "id": 20704,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Imp 4 Innocent ",
+        "description": "Put an Imp 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30008",
+        "condition_num": 1
+    },
+    {
+        "id": 20705,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Orc 1 Innocent ",
+        "description": "Put an Orc 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30009",
+        "condition_num": 1
+    },
+    {
+        "id": 20706,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Orc 2 Innocent ",
+        "description": "Put an Orc 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30010",
+        "condition_num": 1
+    },
+    {
+        "id": 20707,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Orc 3 Innocent ",
+        "description": "Put an Orc 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30011",
+        "condition_num": 1
+    },
+    {
+        "id": 20708,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Orc 4 Innocent ",
+        "description": "Put an Orc 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30012",
+        "condition_num": 1
+    },
+    {
+        "id": 20709,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Rabbit 1 Innocent ",
+        "description": "Put a Rabbit 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30013",
+        "condition_num": 1
+    },
+    {
+        "id": 20710,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Rabbit 2 Innocent ",
+        "description": "Put a Rabbit 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30014",
+        "condition_num": 1
+    },
+    {
+        "id": 20711,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Rabbit 3 Innocent ",
+        "description": "Put a Rabbit 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30015",
+        "condition_num": 1
+    },
+    {
+        "id": 20712,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Rabbit 4 Innocent ",
+        "description": "Put a Rabbit 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30016",
+        "condition_num": 1
+    },
+    {
+        "id": 20713,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Fairy 1 Innocent ",
+        "description": "Put a Fairy 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30017",
+        "condition_num": 1
+    },
+    {
+        "id": 20714,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Fairy 2 Innocent ",
+        "description": "Put a Fairy 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30018",
+        "condition_num": 1
+    },
+    {
+        "id": 20715,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Fairy 3 Innocent ",
+        "description": "Put a Fairy 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30019",
+        "condition_num": 1
+    },
+    {
+        "id": 20716,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Fairy 4 Innocent ",
+        "description": "Put a Fairy 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30020",
+        "condition_num": 1
+    },
+    {
+        "id": 20717,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Sludge 1 Innocent ",
+        "description": "Put a Sludge 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30021",
+        "condition_num": 1
+    },
+    {
+        "id": 20718,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Sludge 2 Innocent ",
+        "description": "Put a Sludge 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30022",
+        "condition_num": 1
+    },
+    {
+        "id": 20719,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Sludge 3 Innocent ",
+        "description": "Put a Sludge 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30023",
+        "condition_num": 1
+    },
+    {
+        "id": 20720,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Sludge 4 Innocent ",
+        "description": "Put a Sludge 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30024",
+        "condition_num": 1
+    },
+    {
+        "id": 20721,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Slumber Cat 1 Innocent ",
+        "description": "Put a Slumber Cat 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30025",
+        "condition_num": 1
+    },
+    {
+        "id": 20722,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Slumber Cat 2 Innocent ",
+        "description": "Put a Slumber Cat 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30026",
+        "condition_num": 1
+    },
+    {
+        "id": 20723,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Slumber Cat 3 Innocent ",
+        "description": "Put a Slumber Cat 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30027",
+        "condition_num": 1
+    },
+    {
+        "id": 20724,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Slumber Cat 4 Innocent ",
+        "description": "Put a Slumber Cat 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30028",
+        "condition_num": 1
+    },
+    {
+        "id": 20725,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Shroom 1 Innocent ",
+        "description": "Put a Shroom 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30037",
+        "condition_num": 1
+    },
+    {
+        "id": 20726,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Shroom 2 Innocent ",
+        "description": "Put a Shroom 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30038",
+        "condition_num": 1
+    },
+    {
+        "id": 20727,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Shroom 3 Innocent ",
+        "description": "Put a Shroom 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30039",
+        "condition_num": 1
+    },
+    {
+        "id": 20728,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Shroom 4 Innocent ",
+        "description": "Put a Shroom 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30040",
+        "condition_num": 1
+    },
+    {
+        "id": 20729,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Undead 1 Innocent ",
+        "description": "Put an Undead 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30033",
+        "condition_num": 1
+    },
+    {
+        "id": 20730,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Undead 2 Innocent ",
+        "description": "Put an Undead 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30034",
+        "condition_num": 1
+    },
+    {
+        "id": 20731,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Undead 3 Innocent ",
+        "description": "Put an Undead 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30035",
+        "condition_num": 1
+    },
+    {
+        "id": 20732,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put an Undead 4 Innocent ",
+        "description": "Put an Undead 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30036",
+        "condition_num": 1
+    },
+    {
+        "id": 20733,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Living Armor 1 Innocent ",
+        "description": "Put a Living Armor 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30125",
+        "condition_num": 1
+    },
+    {
+        "id": 20734,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Living Armor 2 Innocent ",
+        "description": "Put a Living Armor 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30126",
+        "condition_num": 1
+    },
+    {
+        "id": 20735,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Living Armor 3 Innocent ",
+        "description": "Put a Living Armor 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30127",
+        "condition_num": 1
+    },
+    {
+        "id": 20736,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Living Armor 4 Innocent ",
+        "description": "Put a Living Armor 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30128",
+        "condition_num": 1
+    },
+    {
+        "id": 20737,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Gargoyle 1 Innocent ",
+        "description": "Put a Gargoyle 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30089",
+        "condition_num": 1
+    },
+    {
+        "id": 20738,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Gargoyle 2 Innocent ",
+        "description": "Put a Gargoyle 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30090",
+        "condition_num": 1
+    },
+    {
+        "id": 20739,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Gargoyle 3 Innocent ",
+        "description": "Put a Gargoyle 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30091",
+        "condition_num": 1
+    },
+    {
+        "id": 20740,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Gargoyle 4 Innocent ",
+        "description": "Put a Gargoyle 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30092",
+        "condition_num": 1
+    },
+    {
+        "id": 20741,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Spirit 1 Innocent ",
+        "description": "Put a Spirit 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30085",
+        "condition_num": 1
+    },
+    {
+        "id": 20742,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Spirit 2 Innocent ",
+        "description": "Put a Spirit 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30086",
+        "condition_num": 1
+    },
+    {
+        "id": 20743,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Spirit 3 Innocent ",
+        "description": "Put a Spirit 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30087",
+        "condition_num": 1
+    },
+    {
+        "id": 20744,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Spirit 4 Innocent ",
+        "description": "Put a Spirit 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30088",
+        "condition_num": 1
+    },
+    {
+        "id": 20745,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Felynn 1 Innocent ",
+        "description": "Put a Felynn 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30045",
+        "condition_num": 1
+    },
+    {
+        "id": 20746,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Felynn 2 Innocent ",
+        "description": "Put a Felynn 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30046",
+        "condition_num": 1
+    },
+    {
+        "id": 20747,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Felynn 3 Innocent ",
+        "description": "Put a Felynn 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30047",
+        "condition_num": 1
+    },
+    {
+        "id": 20748,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Felynn 4 Innocent ",
+        "description": "Put a Felynn 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30048",
+        "condition_num": 1
+    },
+    {
+        "id": 20749,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Winged Warrior 1 Innocent ",
+        "description": "Put a Winged Warrior 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30029",
+        "condition_num": 1
+    },
+    {
+        "id": 20750,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Winged Warrior 2 Innocent ",
+        "description": "Put a Winged Warrior 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30030",
+        "condition_num": 1
+    },
+    {
+        "id": 20751,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Winged Warrior 3 Innocent ",
+        "description": "Put a Winged Warrior 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30031",
+        "condition_num": 1
+    },
+    {
+        "id": 20752,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Winged Warrior 4 Innocent ",
+        "description": "Put a Winged Warrior 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30032",
+        "condition_num": 1
+    },
+    {
+        "id": 20753,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Flora Beast 1 Innocent ",
+        "description": "Put a Flora Beast 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30041",
+        "condition_num": 1
+    },
+    {
+        "id": 20754,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Flora Beast 2 Innocent ",
+        "description": "Put a Flora Beast 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30042",
+        "condition_num": 1
+    },
+    {
+        "id": 20755,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Flora Beast 3 Innocent ",
+        "description": "Put a Flora Beast 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30043",
+        "condition_num": 1
+    },
+    {
+        "id": 20756,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Flora Beast 4 Innocent ",
+        "description": "Put a Flora Beast 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30044",
+        "condition_num": 1
+    },
+    {
+        "id": 20757,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Nether Noble 1 Innocent ",
+        "description": "Put a Nether Noble 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30061",
+        "condition_num": 1
+    },
+    {
+        "id": 20758,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Nether Noble 2 Innocent ",
+        "description": "Put a Nether Noble 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30062",
+        "condition_num": 1
+    },
+    {
+        "id": 20759,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Nether Noble 3 Innocent ",
+        "description": "Put a Nether Noble 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30063",
+        "condition_num": 1
+    },
+    {
+        "id": 20760,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Nether Noble 4 Innocent ",
+        "description": "Put a Nether Noble 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30064",
+        "condition_num": 1
+    },
+    {
+        "id": 20761,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Death 1 Innocent ",
+        "description": "Put a Death 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30097",
+        "condition_num": 1
+    },
+    {
+        "id": 20762,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Death 2 Innocent ",
+        "description": "Put a Death 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30098",
+        "condition_num": 1
+    },
+    {
+        "id": 20763,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Death 3 Innocent ",
+        "description": "Put a Death 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30099",
+        "condition_num": 1
+    },
+    {
+        "id": 20764,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Death 4 Innocent ",
+        "description": "Put a Death 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30100",
+        "condition_num": 1
+    },
+    {
+        "id": 20765,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Chimera 1 Innocent ",
+        "description": "Put a Chimera 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30057",
+        "condition_num": 1
+    },
+    {
+        "id": 20766,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Chimera 2 Innocent ",
+        "description": "Put a Chimera 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30058",
+        "condition_num": 1
+    },
+    {
+        "id": 20767,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Chimera 3 Innocent ",
+        "description": "Put a Chimera 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30059",
+        "condition_num": 1
+    },
+    {
+        "id": 20768,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Chimera 4 Innocent ",
+        "description": "Put a Chimera 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30060",
+        "condition_num": 1
+    },
+    {
+        "id": 20769,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Bear 1 Innocent ",
+        "description": "Put a Bear 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30065",
+        "condition_num": 1
+    },
+    {
+        "id": 20770,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Bear 2 Innocent ",
+        "description": "Put a Bear 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30066",
+        "condition_num": 1
+    },
+    {
+        "id": 20771,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Bear 3 Innocent ",
+        "description": "Put a Bear 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30067",
+        "condition_num": 1
+    },
+    {
+        "id": 20772,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Bear 4 Innocent ",
+        "description": "Put a Bear 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30068",
+        "condition_num": 1
+    },
+    {
+        "id": 20773,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Horseman 1 Innocent ",
+        "description": "Put a Horseman 1 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30081",
+        "condition_num": 1
+    },
+    {
+        "id": 20774,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Horseman 2 Innocent ",
+        "description": "Put a Horseman 2 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30082",
+        "condition_num": 1
+    },
+    {
+        "id": 20775,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Horseman 3 Innocent ",
+        "description": "Put a Horseman 3 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30083",
+        "condition_num": 1
+    },
+    {
+        "id": 20776,
+        "m_trophy_daily_request_group_id": 207,
+        "title": "Put a Horseman 4 Innocent ",
+        "description": "Put a Horseman 4 Innocent ",
+        "condition_type": 18,
+        "condition_id": "30084",
+        "condition_num": 1
+    },
+    {
+        "id": 990101,
+        "m_trophy_daily_request_group_id": 9901,
+        "title": "Complete 5 Requests",
+        "description": "Complete 5 requests.",
+        "condition_type": 98,
+        "condition_id": "0",
+        "condition_num": 5
+    }
+]

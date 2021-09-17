@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_item_id": "UInt64",
+        "m_character_id": "UInt64",
+        "survey_flg": "Boolean",
+        "character_mission_flg": "Boolean"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MItemId": "UInt64",
+        "MCharacterId": "UInt64",
+        "SurveyFlg": "Boolean",
+        "CharacterMissionFlg": "Boolean"
+    }
+}

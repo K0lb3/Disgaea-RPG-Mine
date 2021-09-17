@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_all": "String[]"
+    },
+    "properties": {
+        "Item": "String"
+    }
+}

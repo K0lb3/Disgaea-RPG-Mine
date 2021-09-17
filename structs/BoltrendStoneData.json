@@ -1,77 +1,36 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "b_stone_group_id": "UInt64",
+        "rank": "Int32",
+        "title": "String",
+        "description": "String",
+        "condition_id": "Int32",
+        "condition_num": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "next_b_stone_id": "Int32",
+        "sort": "Int32",
+        "create_at": "String",
+        "update_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "b_stone_group_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "rank",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "condition_id",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "condition_num",
-        "offset": 60
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 64
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 84
-    },
-    {
-        "type": "int",
-        "name": "next_b_stone_id",
-        "offset": 88
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 92
-    },
-    {
-        "type": "string",
-        "name": "create_at",
-        "offset": 96
-    },
-    {
-        "type": "string",
-        "name": "update_at",
-        "offset": 104
+    "properties": {
+        "Id": "UInt64",
+        "GroupId": "UInt64",
+        "Rank": "Int32",
+        "Title": "String",
+        "Description": "String",
+        "ConditionId": "Int32",
+        "ConditionNum": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "NextBStoneId": "Int32",
+        "Sort": "Int32",
+        "CreateAt": "String",
+        "UpdateAt": "String"
     }
-]
+}

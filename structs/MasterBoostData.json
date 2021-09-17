@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "boost_type": "Int32",
+        "effect_value": "Int32",
+        "time_value": "Int32",
+        "boost_title": "String",
+        "boost_description": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "BoostType": "Int32",
+        "EffectValue": "Int32",
+        "TimeValue": "Int32",
+        "BoostTitle": "String",
+        "BoostDescription": "String"
+    }
+}

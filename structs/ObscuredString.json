@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "inited": "Boolean"
+    },
+    "properties": {
+        "Length": "Int32"
+    }
+}

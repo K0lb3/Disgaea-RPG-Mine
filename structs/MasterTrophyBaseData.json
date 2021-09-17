@@ -1,0 +1,19 @@
+{
+    "fields": {},
+    "properties": {
+        "Id": "UInt64",
+        "Rank": "Int32",
+        "Title": "String",
+        "Description": "String",
+        "ConditionType": "Int32",
+        "ConditionId": "UInt64",
+        "ConditionNum": "Int64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "Sort": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String"
+    }
+}

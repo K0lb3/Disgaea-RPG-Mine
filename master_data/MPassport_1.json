@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "m_product_id": 12001,
+        "m_product_id": 953002,
         "m_item_ids": [
             201,
             1401,
@@ -13,6 +13,13 @@
             12
         ],
         "days": 15
+    },
+    {
+        "id": 2,
+        "m_product_id": 12002,
+        "m_item_ids": [],
+        "m_item_nums": [],
+        "days": 7
     },
     {
         "id": 101,

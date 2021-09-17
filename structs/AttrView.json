@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "attrType": "Int32",
+        "resistValue": "TextMeshProUGUI"
+    }
+}

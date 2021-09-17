@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "flags": "ReflectionPermissionFlag"
+    },
+    "properties": {
+        "Flags": "ReflectionPermissionFlag"
+    }
+}

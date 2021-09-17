@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "bundleName": "String",
+        "isDownloading": "Boolean",
+        "unityWebRequest": "UnityWebRequest"
+    }
+}

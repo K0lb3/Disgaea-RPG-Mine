@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "effect_value": "Single",
+        "max_rank": "Int32",
+        "max_rank_effect_value": "Single"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "EffectValue": "Single",
+        "MaxRank": "Int32",
+        "MaxRankEffectValue": "Single"
+    }
+}

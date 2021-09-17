@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "title": "Equip a Character with Their Favorite Weapon",
+        "description": "Each character has his own Weapon Forte.\n\nYou can check a character's Weapon Forte\nvia the Weapon Mastery screen.\n\nCheck your characters and equip them\nwith their favorite weapon!",
+        "condition_type": 57,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 1
+    },
+    {
+        "id": 2,
+        "title": "Raise Weapon Mastery to Lv5",
+        "description": "You can raise your characters' Weapon Mastery\nby clearing stages with weapons equipped\nor using Statues.\n\nWhen Weapon Mastery is raised,\nweapons of that type will\ngrant better stat bonuses.\n\nIn addition, your characters will learn Weapon Skills\nwhen their Weapon Mastery reaches a certain level.",
+        "condition_type": 59,
+        "condition_id": 0,
+        "condition_num": 5,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 2
+    },
+    {
+        "id": 3,
+        "title": "Upgrade a Skill to Lv5",
+        "description": "Configure skills for your characters\nand clear stages,\nor use Skill Books\nto upgrade a skill to level 5!\n\nUpgraded skills\ndeal more damage and have more potent effects.\nAlso, their SP cost reduces as well.",
+        "condition_type": 58,
+        "condition_id": 0,
+        "condition_num": 5,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 3
+    },
+    {
+        "id": 4,
+        "title": "Learn Spells",
+        "description": "Increase the Weapon Mastery for\nStaff and Monster Magic\nto unlock new spells.\n\nDifferent from other weapon skills,\nlearned spells can be used any time,\neven if the character does not have a Staff or Monster Magic equipped.",
+        "condition_type": 60,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 4
+    },
+    {
+        "id": 5,
+        "title": "Configure Spells",
+        "description": "Spells can be configured\nin the character details screen.\n\nSkills with a Staff or Monster Magic icon\nare spells.\n\nDifferent from other weapon skills,\nlearned spells can be used any time,\neven if the character does not have a Staff or Monster Magic equipped.",
+        "condition_type": 61,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 5
+    },
+    {
+        "id": 6,
+        "title": "Upgrade a Spell to Lv5",
+        "description": "Configure spells for your characters\nand clear stages,\nor use Skill Books to upgrade a spell to level 5!\n\nUpgraded spells\ndeal more damage and have more potent effects.\nAlso, their SP cost reduces as well.",
+        "condition_type": 62,
+        "condition_id": 0,
+        "condition_num": 5,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 6
+    },
+    {
+        "id": 7,
+        "title": "Level up Your Character to Lv500",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 500,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 7
+    },
+    {
+        "id": 8,
+        "title": "Level up Your Character to Lv1000",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 1000,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 8
+    },
+    {
+        "id": 9,
+        "title": "Raise Weapon Mastery to Lv10",
+        "description": "You can raise your characters' Weapon Mastery to level 10\nby clearing stages with weapons equipped\nor using Statues.\n\nWhen Weapon Mastery (WM) is raised,\nweapons of that type will\ngrant better stat bonuses.\nIn addition, your characters will learn Weapon Skills\nwhen their Weapon Mastery reaches a certain level.",
+        "condition_type": 59,
+        "condition_id": 0,
+        "condition_num": 10,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 9
+    },
+    {
+        "id": 10,
+        "title": "Upgrade a Skill to Lv10",
+        "description": "Configure skills for your characters and clear stages,\nor use Skill Books\nto upgrade a skill to level 10!\n\nUpgraded skills\ndeal more damage and have more potent effects.\nAlso, their SP cost reduces as well.",
+        "condition_type": 58,
+        "condition_id": 0,
+        "condition_num": 10,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 10
+    },
+    {
+        "id": 11,
+        "title": "Allocate Mana",
+        "description": "You can allocate Mana\nvia Mao's Lab -\nMana Allocation.\n\nYour characters will gain Mana after reincarnation.\nAllocate Mana to enhance their stats\nand raises the level cap\nof Weapon Mastery.\n\nAllocate Mana and\nenhance your characters as you please!",
+        "condition_type": 64,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 11
+    },
+    {
+        "id": 12,
+        "title": "Level up Your Character to Lv1500",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 1500,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 12
+    },
+    {
+        "id": 13,
+        "title": "Awaken Characters",
+        "description": "You can awaken your characters\nvia Mao's Lab - Awaken.\n\nYou can awaken your characters by\nconsuming 5 other characters with the same ★.\n\nRaise your character's ★\nbefore further enhancing them.",
+        "condition_type": 63,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 10,
+        "replace_present_num": 3,
+        "sort": 13
+    },
+    {
+        "id": 14,
+        "title": "Level up Your Character to Lv2000",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 2000,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 14
+    },
+    {
+        "id": 15,
+        "title": "Nether Enhance Characters",
+        "description": "You can Nether Enhance your characters\nvia Mao's Lab - Nether Enhance.\n\nNether Enhancement costs\na character of the same name.\n\nAfter Nether Enhancement,\nyour character will learn\nnew skills and Sub Evilities\nand become more powerful.",
+        "condition_type": 37,
+        "condition_id": 0,
+        "condition_num": 1,
+        "present_num": 10,
+        "replace_present_num": 3,
+        "sort": 15
+    },
+    {
+        "id": 16,
+        "title": "Level up Your Character to Lv2500",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 2500,
+        "present_num": 5,
+        "replace_present_num": 1,
+        "sort": 16
+    },
+    {
+        "id": 17,
+        "title": "Level up Your Character to Lv3000",
+        "description": "Whenever you clear a stage,\nall participants will gain EXP.\n\nAfter a character accumulates enough EXP,\nthey will level up.\n\nLeveled up characters will have their stats increased\nand learn new unique skills.",
+        "condition_type": 38,
+        "condition_id": 0,
+        "condition_num": 3000,
+        "present_num": 10,
+        "replace_present_num": 5,
+        "sort": 17
+    }
+]

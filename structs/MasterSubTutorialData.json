@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "condition_type": "Int32",
+        "condition_value": "Int32",
+        "created_at": "String"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "condition_type",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "condition_value",
-        "offset": 36
-    },
-    {
-        "type": "string",
-        "name": "created_at",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "ConditionType": "Int32",
+        "ConditionValue": "Int32",
+        "CreatedAt": "String"
     }
-]
+}

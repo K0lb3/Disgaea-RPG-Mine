@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_item_id": "UInt64",
+        "num": "Int32",
+        "num_total": "Int32",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MItemId": "UInt64",
+        "Num": "Int32",
+        "NumTotal": "Int32",
+        "UpdatedAt": "String",
+        "ItemType": "Int32",
+        "MItem": "MasterItemData"
+    }
+}

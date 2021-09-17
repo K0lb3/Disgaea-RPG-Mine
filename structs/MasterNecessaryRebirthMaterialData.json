@@ -1,92 +1,42 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "rebirth_type": "Int32",
+        "rebirth_num": "Int32",
+        "m_item_id_1": "UInt64",
+        "necessary_num_1": "Int32",
+        "m_item_id_2": "UInt64",
+        "necessary_num_2": "Int32",
+        "m_item_id_3": "UInt64",
+        "necessary_num_3": "Int32",
+        "m_item_id_4": "UInt64",
+        "necessary_num_4": "Int32",
+        "m_item_id_5": "UInt64",
+        "necessary_num_5": "Int32",
+        "m_item_id_6": "UInt64",
+        "necessary_num_6": "Int32",
+        "m_item_id_7": "UInt64",
+        "necessary_num_7": "Int32",
+        "necessary_hl_num": "Int32"
     },
-    {
-        "type": "int",
-        "name": "rebirth_type",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "rebirth_num",
-        "offset": 28
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_1",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_1",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_2",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_2",
-        "offset": 56
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_3",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_3",
-        "offset": 72
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_4",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_4",
-        "offset": 88
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_5",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_5",
-        "offset": 104
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_6",
-        "offset": 112
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_6",
-        "offset": 120
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id_7",
-        "offset": 128
-    },
-    {
-        "type": "int",
-        "name": "necessary_num_7",
-        "offset": 136
-    },
-    {
-        "type": "int",
-        "name": "necessary_hl_num",
-        "offset": 140
+    "properties": {
+        "Id": "UInt64",
+        "RebirthType": "Int32",
+        "RebirthNum": "Int32",
+        "MItemId1": "UInt64",
+        "NecessaryNum1": "Int32",
+        "MItemId2": "UInt64",
+        "NecessaryNum2": "Int32",
+        "MItemId3": "UInt64",
+        "NecessaryNum3": "Int32",
+        "MItemId4": "UInt64",
+        "NecessaryNum4": "Int32",
+        "MItemId5": "UInt64",
+        "NecessaryNum5": "Int32",
+        "MItemId6": "UInt64",
+        "NecessaryNum6": "Int32",
+        "MItemId7": "UInt64",
+        "NecessaryNum7": "Int32",
+        "NecessaryHlNum": "Int32"
     }
-]
+}

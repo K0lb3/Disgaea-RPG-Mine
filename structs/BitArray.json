@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "m_array": "Int32[]",
+        "m_length": "Int32",
+        "_version": "Int32"
+    },
+    "properties": {
+        "Item": "Boolean",
+        "Length": "Int32",
+        "Count": "Int32",
+        "SyncRoot": "Object",
+        "IsSynchronized": "Boolean"
+    }
+}

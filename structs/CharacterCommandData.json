@@ -1,0 +1,31 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "t_character_id": "UInt64",
+        "m_command_id": "UInt64",
+        "lv": "Int32",
+        "exp": "Int32",
+        "mana_flg": "Boolean",
+        "new_flg": "Boolean"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "TCharacterId": "UInt64",
+        "MCommandId": "UInt64",
+        "commandLv": "Int32",
+        "commandExp": "Int32",
+        "ManaFlg": "Boolean",
+        "NewFlg": "Boolean",
+        "masterCommandData": "MasterCommandData",
+        "rank": "Int32",
+        "sp": "Int32",
+        "effectValues": "Int32[]",
+        "subEffectValues": "Int32[]",
+        "isMaxLevel": "Boolean",
+        "nowLvExp": "Int32",
+        "nowLvMaxExp": "Int32",
+        "nowLvMaxTotalExp": "Int32"
+    }
+}

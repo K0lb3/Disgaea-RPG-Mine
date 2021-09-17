@@ -1,0 +1,330 @@
+[
+    {
+        "id": 1,
+        "m_character_id": 69,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-06-30 12:00:00 -0400",
+        "close_at": "2020-07-14 11:59:59 -0400"
+    },
+    {
+        "id": 2,
+        "m_character_id": 71,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-06-30 12:00:00 -0400",
+        "close_at": "2020-07-14 11:59:59 -0400"
+    },
+    {
+        "id": 3,
+        "m_character_id": 20025,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-06-30 12:00:00 -0400",
+        "close_at": "2020-07-14 11:59:59 -0400"
+    },
+    {
+        "id": 4,
+        "m_character_id": 67,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-07-14 12:00:00 -0400",
+        "close_at": "2020-07-21 11:59:59 -0400"
+    },
+    {
+        "id": 5,
+        "m_character_id": 68,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-07-21 12:00:00 -0400",
+        "close_at": "2020-08-04 11:59:59 -0400"
+    },
+    {
+        "id": 6,
+        "m_character_id": 70,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-07-21 12:00:00 -0400",
+        "close_at": "2020-08-04 11:59:59 -0400"
+    },
+    {
+        "id": 7,
+        "m_character_id": 72,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-07-21 12:00:00 -0400",
+        "close_at": "2020-08-04 11:59:59 -0400"
+    },
+    {
+        "id": 8,
+        "m_character_id": 66,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-08-13 13:05:00 -0400",
+        "close_at": "2020-08-20 11:59:59 -0400"
+    },
+    {
+        "id": 9,
+        "m_character_id": 75,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-08-20 12:00:00 -0400",
+        "close_at": "2020-09-03 11:59:59 -0400"
+    },
+    {
+        "id": 10,
+        "m_character_id": 76,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-08-20 12:00:00 -0400",
+        "close_at": "2020-09-03 11:59:59 -0400"
+    },
+    {
+        "id": 11,
+        "m_character_id": 77,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-08-20 12:00:00 -0400",
+        "close_at": "2020-09-03 11:59:59 -0400"
+    },
+    {
+        "id": 12,
+        "m_character_id": 65,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-03 12:00:00 -0400",
+        "close_at": "2020-09-17 09:59:59 -0400"
+    },
+    {
+        "id": 13,
+        "m_character_id": 78,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 14,
+        "m_character_id": 79,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 15,
+        "m_character_id": 80,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 16,
+        "m_character_id": 81,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 17,
+        "m_character_id": 82,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 18,
+        "m_character_id": 85,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-23 12:00:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 19,
+        "m_character_id": 86,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-23 12:00:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 20,
+        "m_character_id": 83,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-26 00:00:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 21,
+        "m_character_id": 84,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-09-26 00:00:00 -0400",
+        "close_at": "2020-10-07 12:59:59 -0400"
+    },
+    {
+        "id": 22,
+        "m_character_id": 87,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-08 12:00:00 -0400",
+        "close_at": "2020-10-22 11:59:59 -0400"
+    },
+    {
+        "id": 23,
+        "m_character_id": 88,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-08 12:00:00 -0400",
+        "close_at": "2020-10-22 11:59:59 -0400"
+    },
+    {
+        "id": 24,
+        "m_character_id": 89,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-08 12:00:00 -0400",
+        "close_at": "2020-10-22 11:59:59 -0400"
+    },
+    {
+        "id": 25,
+        "m_character_id": 35,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-22 12:05:00 -0400",
+        "close_at": "2020-11-05 11:59:59 -0400"
+    },
+    {
+        "id": 26,
+        "m_character_id": 91,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-27 12:00:00 -0400",
+        "close_at": "2020-11-10 11:59:59 -0400"
+    },
+    {
+        "id": 27,
+        "m_character_id": 92,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-27 12:00:00 -0400",
+        "close_at": "2020-11-10 11:59:59 -0400"
+    },
+    {
+        "id": 28,
+        "m_character_id": 93,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-10-27 12:00:00 -0400",
+        "close_at": "2020-11-10 11:59:59 -0400"
+    },
+    {
+        "id": 29,
+        "m_character_id": 102,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-15 12:00:00 -0400",
+        "close_at": "2020-12-29 11:59:59 -0400"
+    },
+    {
+        "id": 30,
+        "m_character_id": 20029,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-15 12:00:00 -0400",
+        "close_at": "2020-12-29 11:59:59 -0400"
+    },
+    {
+        "id": 31,
+        "m_character_id": 101,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-15 12:00:00 -0400",
+        "close_at": "2020-12-29 11:59:59 -0400"
+    },
+    {
+        "id": 32,
+        "m_character_id": 103,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-31 12:00:00 -0400",
+        "close_at": "2021-01-14 11:59:59 -0400"
+    },
+    {
+        "id": 33,
+        "m_character_id": 104,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-31 12:00:00 -0400",
+        "close_at": "2021-01-14 11:59:59 -0400"
+    },
+    {
+        "id": 34,
+        "m_character_id": 20032,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2020-12-31 12:00:00 -0400",
+        "close_at": "2021-01-14 11:59:59 -0400"
+    },
+    {
+        "id": 35,
+        "m_character_id": 94,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-01-26 12:00:00 -0400",
+        "close_at": "2021-02-11 11:59:59 -0400"
+    },
+    {
+        "id": 36,
+        "m_character_id": 95,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-01-26 12:00:00 -0400",
+        "close_at": "2021-02-11 11:59:59 -0400"
+    },
+    {
+        "id": 37,
+        "m_character_id": 106,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-01-26 12:00:00 -0400",
+        "close_at": "2021-02-11 11:59:59 -0400"
+    },
+    {
+        "id": 38,
+        "m_character_id": 107,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-01-26 12:00:00 -0400",
+        "close_at": "2021-02-11 11:59:59 -0400"
+    },
+    {
+        "id": 1001,
+        "m_character_id": 69,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-10-07 00:00:00 -0400",
+        "close_at": "2021-10-21 23:59:59 -0400"
+    },
+    {
+        "id": 1002,
+        "m_character_id": 71,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-10-07 00:00:00 -0400",
+        "close_at": "2021-10-21 23:59:59 -0400"
+    },
+    {
+        "id": 1003,
+        "m_character_id": 20025,
+        "boost_type": 1,
+        "effect_value": 50,
+        "open_at": "2021-10-07 00:00:00 -0400",
+        "close_at": "2021-10-21 23:59:59 -0400"
+    }
+]

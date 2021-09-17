@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "Options": "RegexOptions",
+        "MatchTimeout": "TimeSpan",
+        "RightToLeft": "Boolean"
+    }
+}

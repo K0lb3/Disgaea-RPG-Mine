@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "uri": "Uri",
+        "method": "String",
+        "version": "Version",
+        "cookie_container": "CookieContainer",
+        "disposed": "Boolean",
+        "stream": "Stream"
+    },
+    "properties": {
+        "CharacterSet": "String",
+        "ContentEncoding": "String",
+        "StatusCode": "HttpStatusCode",
+        "StatusDescription": "String"
+    }
+}

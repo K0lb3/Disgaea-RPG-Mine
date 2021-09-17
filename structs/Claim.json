@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "m_issuer": "String",
+        "m_type": "String",
+        "m_value": "String",
+        "m_properties": "Dictionary`2",
+        "m_subject": "ClaimsIdentity"
+    },
+    "properties": {
+        "Properties": "IDictionary`2",
+        "Subject": "ClaimsIdentity",
+        "Type": "String",
+        "Value": "String"
+    }
+}

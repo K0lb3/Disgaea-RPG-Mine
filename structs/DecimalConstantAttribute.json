@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "dec": "Decimal"
+    },
+    "properties": {
+        "Value": "Decimal"
+    }
+}

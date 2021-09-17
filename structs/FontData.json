@@ -1,0 +1,17 @@
+{
+    "fields": {},
+    "properties": {
+        "font": "Font",
+        "fontSize": "Int32",
+        "fontStyle": "FontStyle",
+        "bestFit": "Boolean",
+        "minSize": "Int32",
+        "maxSize": "Int32",
+        "alignment": "TextAnchor",
+        "alignByGeometry": "Boolean",
+        "richText": "Boolean",
+        "horizontalOverflow": "HorizontalWrapMode",
+        "verticalOverflow": "VerticalWrapMode",
+        "lineSpacing": "Single"
+    }
+}

@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_stage_id": "UInt64",
+        "effect_type": "Int32",
+        "effect_type_params": "Int32[]",
+        "effect_values": "Int32[]",
+        "target_values": "Int32[]"
     },
-    {
-        "type": "ulong",
-        "name": "m_stage_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "effect_type",
-        "offset": 32
-    },
-    {
-        "type": "int[]",
-        "name": "effect_type_params",
-        "offset": 40
-    },
-    {
-        "type": "int[]",
-        "name": "effect_values",
-        "offset": 48
-    },
-    {
-        "type": "int[]",
-        "name": "target_values",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "MStageId": "UInt64",
+        "EffectType": "Int32",
+        "EffectParams": "Int32[]",
+        "EffectValues": "Int32[]",
+        "TargetValues": "Int32[]"
     }
-]
+}

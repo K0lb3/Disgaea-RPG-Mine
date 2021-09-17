@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Handle": "String",
+        "Prefix": "String"
+    }
+}

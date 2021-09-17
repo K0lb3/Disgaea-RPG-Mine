@@ -1,0 +1,10 @@
+{
+    "fields": {},
+    "properties": {
+        "doubleClickSelectsWord": "Boolean",
+        "tripleClickSelectsLine": "Boolean",
+        "cursorColor": "Color",
+        "cursorFlashSpeed": "Single",
+        "selectionColor": "Color"
+    }
+}

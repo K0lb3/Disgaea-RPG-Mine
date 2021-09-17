@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_equipment_effect_id": "UInt64",
+        "effect_type": "Int32",
+        "effect_type_param": "Int32",
+        "effect_value": "Int32",
+        "effect_value_sub": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MEquipmentEffectId": "UInt64",
+        "EffectType": "Int32",
+        "EffectTypeParam": "Int32",
+        "EffectValue": "Int32",
+        "EffectValueSub": "Int32"
+    }
+}

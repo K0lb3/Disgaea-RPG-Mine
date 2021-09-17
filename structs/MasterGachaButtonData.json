@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "gacha_num": "Int32",
+        "resource_name": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_gacha_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "gacha_num",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MGachaId": "UInt64",
+        "GachaNum": "Int32",
+        "ResourceName": "String"
     }
-]
+}

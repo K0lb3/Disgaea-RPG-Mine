@@ -1,0 +1,1346 @@
+[
+    {
+        "id": 1,
+        "m_trophy_daily_request_reward_group_id": 101,
+        "present_type": 1,
+        "present_id": 3201,
+        "present_rarity": 0,
+        "present_num": 3
+    },
+    {
+        "id": 2,
+        "m_trophy_daily_request_reward_group_id": 102,
+        "present_type": 1,
+        "present_id": 3301,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 3,
+        "m_trophy_daily_request_reward_group_id": 103,
+        "present_type": 1,
+        "present_id": 3901,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 4,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3501,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 5,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3502,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 6,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3503,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 7,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3504,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 8,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3505,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 9,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3506,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 10,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3507,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 11,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3508,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 12,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3509,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 13,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3510,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 14,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3511,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 15,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3512,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 16,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3513,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 17,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3514,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 18,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3515,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 19,
+        "m_trophy_daily_request_reward_group_id": 201,
+        "present_type": 1,
+        "present_id": 3516,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 20,
+        "m_trophy_daily_request_reward_group_id": 202,
+        "present_type": 1,
+        "present_id": 3601,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 21,
+        "m_trophy_daily_request_reward_group_id": 202,
+        "present_type": 1,
+        "present_id": 3602,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 22,
+        "m_trophy_daily_request_reward_group_id": 202,
+        "present_type": 1,
+        "present_id": 3603,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 23,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37001,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 24,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37002,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 25,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37003,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 26,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37004,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 27,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37005,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 28,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37006,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 29,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37007,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 30,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37008,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 31,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37009,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 32,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37010,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 33,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37011,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 34,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37012,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 35,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37013,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 36,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37014,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 37,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37015,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 38,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37016,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 39,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37017,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 40,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37018,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 41,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37019,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 42,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37020,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 43,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37021,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 44,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37022,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 45,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37023,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 46,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37024,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 47,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37025,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 48,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37026,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 49,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37027,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 50,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37028,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 51,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37029,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 52,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37030,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 53,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37031,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 54,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37032,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 55,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37033,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 56,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37034,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 57,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37035,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 58,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37036,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 59,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37037,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 60,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37038,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 61,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37039,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 62,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37040,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 63,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37041,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 64,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37042,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 65,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37043,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 66,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37044,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 67,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37045,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 68,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37046,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 69,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37047,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 70,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37048,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 71,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37049,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 72,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37050,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 73,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37051,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 74,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37052,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 75,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37053,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 76,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37054,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 77,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37055,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 78,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37056,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 79,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37057,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 80,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37058,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 81,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37059,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 82,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37060,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 83,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37061,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 84,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37062,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 85,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37063,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 86,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37064,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 87,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37065,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 88,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37066,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 89,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37067,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 90,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37068,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 91,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37069,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 92,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37070,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 93,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37071,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 94,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37072,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 95,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37073,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 96,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37074,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 97,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37075,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 98,
+        "m_trophy_daily_request_reward_group_id": 203,
+        "present_type": 1,
+        "present_id": 37076,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 99,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380001,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 100,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380002,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 101,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380003,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 102,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380004,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 103,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380005,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 104,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380006,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 105,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380007,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 106,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380008,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 107,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380009,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 108,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380010,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 109,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380011,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 110,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380012,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 111,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380013,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 112,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380014,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 113,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380015,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 114,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380016,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 115,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380017,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 116,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380018,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 117,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380019,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 118,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380020,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 119,
+        "m_trophy_daily_request_reward_group_id": 204,
+        "present_type": 1,
+        "present_id": 380021,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 120,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380200,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 121,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380201,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 122,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380202,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 123,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380203,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 124,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380204,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 125,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380205,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 126,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380206,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 127,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380207,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 128,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380208,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 129,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380209,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 130,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380210,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 131,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380211,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 132,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380212,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 133,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380213,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 134,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380214,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 135,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380215,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 136,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380216,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 137,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380217,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 138,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380218,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 139,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380219,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 140,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380220,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 141,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380221,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 142,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380222,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 143,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380223,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 144,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380224,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 145,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380225,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 146,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380226,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 147,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380227,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 148,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380228,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 149,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380229,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 150,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380230,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 151,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380231,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 152,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380232,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 153,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380233,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 154,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380234,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 155,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380235,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 156,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380236,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 157,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380237,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 158,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380238,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 159,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380239,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 160,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380240,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 161,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380241,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 162,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380242,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 163,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380243,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 164,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380244,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 165,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380245,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 166,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380246,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 167,
+        "m_trophy_daily_request_reward_group_id": 205,
+        "present_type": 1,
+        "present_id": 380247,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 168,
+        "m_trophy_daily_request_reward_group_id": 9901,
+        "present_type": 1,
+        "present_id": 3901,
+        "present_rarity": 0,
+        "present_num": 10
+    }
+]

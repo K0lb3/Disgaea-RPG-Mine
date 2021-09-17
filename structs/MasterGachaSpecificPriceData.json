@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "target_count": "Int32",
+        "price": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_gacha_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "target_count",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "price",
-        "offset": 36
+    "properties": {
+        "Id": "UInt64",
+        "GachaId": "UInt64",
+        "TargetCount": "Int32",
+        "Price": "Int32"
     }
-]
+}

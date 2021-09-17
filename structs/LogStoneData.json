@@ -1,0 +1,24 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "stone_type": "Int32",
+        "name": "String",
+        "num": "Int32",
+        "price": "String",
+        "use_type": "Int32",
+        "use_flg": "Boolean",
+        "updated_at": "String",
+        "created_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "StoneType": "Int32",
+        "Name": "String",
+        "Num": "Int32",
+        "Price": "String",
+        "UseType": "Int32",
+        "UseFlg": "Boolean",
+        "UpdatedAt": "String",
+        "CreatedAt": "String"
+    }
+}

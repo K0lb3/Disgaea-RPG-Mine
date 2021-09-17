@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "open_at": "String",
+        "close_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
+    }
+}

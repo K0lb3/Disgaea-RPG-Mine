@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "boost_type": 1,
+        "effect_value": 50,
+        "time_value": 1800,
+        "boost_title": "EXP Boost",
+        "boost_description": "#VALUE#x Character EXP from battle.(#TIME# mins)"
+    },
+    {
+        "id": 2,
+        "boost_type": 2,
+        "effect_value": 50,
+        "time_value": 1800,
+        "boost_title": "HL Boost",
+        "boost_description": "#VALUE#x HL from battle (#TIME# mins)"
+    },
+    {
+        "id": 3,
+        "boost_type": 3,
+        "effect_value": 100,
+        "time_value": 1800,
+        "boost_title": "Drop Rate Boost",
+        "boost_description": "#VALUE#x Item Drop Rate from battle (#TIME# mins)"
+    },
+    {
+        "id": 4,
+        "boost_type": 4,
+        "effect_value": 50,
+        "time_value": 1800,
+        "boost_title": "Event PT Boost",
+        "boost_description": "Pts gained from Story events increase by #VALUE#% (#TIME# mins)"
+    },
+    {
+        "id": 5,
+        "boost_type": 4,
+        "effect_value": 50,
+        "time_value": 1800,
+        "boost_title": "Event PT Boost",
+        "boost_description": "Pts gained from Story events increase by #VALUE#% (#TIME# mins)"
+    },
+    {
+        "id": 6,
+        "boost_type": 4,
+        "effect_value": 50,
+        "time_value": 900,
+        "boost_title": "Event PT Boost",
+        "boost_description": "Pts gained from Story events increase by #VALUE#% (#TIME# mins)"
+    },
+    {
+        "id": 7,
+        "boost_type": 1,
+        "effect_value": 50,
+        "time_value": 0,
+        "boost_title": "EXP Boost",
+        "boost_description": "Players get#VALUE#double character EXP from battles (during the event)"
+    },
+    {
+        "id": 8,
+        "boost_type": 2,
+        "effect_value": 50,
+        "time_value": 0,
+        "boost_title": "HL Boost",
+        "boost_description": "Players get#VALUE#double HL from battles (during the event)"
+    },
+    {
+        "id": 9,
+        "boost_type": 3,
+        "effect_value": 100,
+        "time_value": 0,
+        "boost_title": "Drop Rate Boost",
+        "boost_description": "Players get#VALUE#double Item Drop Rate from battles (during the event)"
+    },
+    {
+        "id": 10,
+        "boost_type": 1,
+        "effect_value": 50,
+        "time_value": 900,
+        "boost_title": "EXP Boost",
+        "boost_description": "#VALUE#x Character EXP from battle.(#TIME# mins)"
+    },
+    {
+        "id": 11,
+        "boost_type": 1,
+        "effect_value": 50,
+        "time_value": 3600,
+        "boost_title": "EXP Boost",
+        "boost_description": "#VALUE#x Character EXP from battle.(#TIME# mins)"
+    },
+    {
+        "id": 12,
+        "boost_type": 2,
+        "effect_value": 50,
+        "time_value": 900,
+        "boost_title": "HL Boost",
+        "boost_description": "#VALUE#x HL from battle (#TIME# mins)"
+    },
+    {
+        "id": 13,
+        "boost_type": 2,
+        "effect_value": 50,
+        "time_value": 3600,
+        "boost_title": "HL Boost",
+        "boost_description": "#VALUE#x HL from battle (#TIME# mins)"
+    },
+    {
+        "id": 14,
+        "boost_type": 3,
+        "effect_value": 100,
+        "time_value": 900,
+        "boost_title": "Drop Rate Boost",
+        "boost_description": "#VALUE#x Item Drop Rate from battle (#TIME# mins)"
+    },
+    {
+        "id": 15,
+        "boost_type": 3,
+        "effect_value": 100,
+        "time_value": 3600,
+        "boost_title": "Drop Rate Boost",
+        "boost_description": "#VALUE#x Item Drop Rate from battle (#TIME# mins)"
+    }
+]

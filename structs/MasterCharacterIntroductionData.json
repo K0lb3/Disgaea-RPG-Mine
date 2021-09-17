@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "img_id": "UInt64",
+        "name": "String",
+        "description": "String",
+        "color_no": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "img_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "color_no",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "ImgId": "UInt64",
+        "Name": "String",
+        "Description": "String",
+        "ColorNo": "Int32"
     }
-]
+}

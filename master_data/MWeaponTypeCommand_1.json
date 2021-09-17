@@ -208,5 +208,47 @@
         "weapon_mastery_lv": 30,
         "learn_type": 0,
         "m_command_id": 100040
+    },
+    {
+        "id": 106,
+        "weapon_type": 1,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100006
+    },
+    {
+        "id": 206,
+        "weapon_type": 2,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100013
+    },
+    {
+        "id": 306,
+        "weapon_type": 3,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100020
+    },
+    {
+        "id": 406,
+        "weapon_type": 4,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100027
+    },
+    {
+        "id": 506,
+        "weapon_type": 5,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100034
+    },
+    {
+        "id": 606,
+        "weapon_type": 6,
+        "weapon_mastery_lv": 40,
+        "learn_type": 0,
+        "m_command_id": 100041
     }
 ]

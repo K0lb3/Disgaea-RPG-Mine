@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_character_id": "UInt64",
+        "m_item_id": "UInt64",
+        "use_num": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TCharacterId": "UInt64",
+        "MItemId": "UInt64",
+        "UseNum": "Int32"
+    }
+}

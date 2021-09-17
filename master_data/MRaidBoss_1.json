@@ -1,14 +1,128 @@
 [
     {
         "id": 171,
-        "m_raid_id": 1
+        "m_raid_id": 1,
+        "m_character_id": 60001,
+        "resource_name": "ef60001"
     },
     {
         "id": 241,
-        "m_raid_id": 2
+        "m_raid_id": 2,
+        "m_character_id": 60001,
+        "resource_name": "ef60001"
     },
     {
         "id": 242,
-        "m_raid_id": 2
+        "m_raid_id": 2,
+        "m_character_id": 60002,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 421,
+        "m_raid_id": 3,
+        "m_character_id": 60001,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 422,
+        "m_raid_id": 3,
+        "m_character_id": 60002,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 501,
+        "m_raid_id": 4,
+        "m_character_id": 60003,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 502,
+        "m_raid_id": 4,
+        "m_character_id": 60004,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 551,
+        "m_raid_id": 5,
+        "m_character_id": 60001,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 552,
+        "m_raid_id": 5,
+        "m_character_id": 60002,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 601,
+        "m_raid_id": 6,
+        "m_character_id": 60005,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 602,
+        "m_raid_id": 6,
+        "m_character_id": 60006,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 651,
+        "m_raid_id": 7,
+        "m_character_id": 60003,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 652,
+        "m_raid_id": 7,
+        "m_character_id": 60004,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 691,
+        "m_raid_id": 8,
+        "m_character_id": 60007,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 692,
+        "m_raid_id": 8,
+        "m_character_id": 60008,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 721,
+        "m_raid_id": 9,
+        "m_character_id": 60009,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 722,
+        "m_raid_id": 9,
+        "m_character_id": 60010,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 811,
+        "m_raid_id": 10,
+        "m_character_id": 60011,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 812,
+        "m_raid_id": 10,
+        "m_character_id": 60012,
+        "resource_name": "ef60002"
+    },
+    {
+        "id": 891,
+        "m_raid_id": 11,
+        "m_character_id": 60001,
+        "resource_name": "ef60001"
+    },
+    {
+        "id": 892,
+        "m_raid_id": 11,
+        "m_character_id": 60002,
+        "resource_name": "ef60002"
     }
 ]

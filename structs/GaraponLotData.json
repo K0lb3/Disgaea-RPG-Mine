@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "m_garapon_lot_id": "UInt64",
+        "num": "Int32"
+    },
+    "properties": {
+        "MGaraponLotId": "UInt64",
+        "Num": "Int32"
+    }
+}

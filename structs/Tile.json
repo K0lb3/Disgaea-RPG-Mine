@@ -1,0 +1,11 @@
+{
+    "fields": {},
+    "properties": {
+        "sprite": "Sprite",
+        "color": "Color",
+        "transform": "Matrix4x4",
+        "gameObject": "GameObject",
+        "flags": "TileFlags",
+        "colliderType": "ColliderType"
+    }
+}

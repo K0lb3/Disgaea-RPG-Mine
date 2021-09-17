@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "InvalidCultureId": "Nullable`1",
+        "InvalidCultureName": "String"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "BaseTypes": "CodeTypeReferenceCollection",
+        "Members": "CodeTypeMemberCollection"
+    }
+}

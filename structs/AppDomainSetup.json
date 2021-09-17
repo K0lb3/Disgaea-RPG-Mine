@@ -1,0 +1,26 @@
+{
+    "fields": {
+        "application_base": "String",
+        "application_name": "String",
+        "cache_path": "String",
+        "configuration_file": "String",
+        "dynamic_base": "String",
+        "license_file": "String",
+        "private_bin_path": "String",
+        "private_bin_path_probe": "String",
+        "shadow_copy_directories": "String",
+        "shadow_copy_files": "String",
+        "publisher_policy": "Boolean",
+        "path_changed": "Boolean",
+        "loader_optimization": "Int32",
+        "disallow_binding_redirects": "Boolean",
+        "disallow_code_downloads": "Boolean",
+        "domain_initializer": "Object",
+        "application_trust": "Object",
+        "domain_initializer_args": "String[]",
+        "disallow_appbase_probe": "Boolean",
+        "configuration_bytes": "Byte[]",
+        "serialized_non_primitives": "Byte[]"
+    },
+    "properties": {}
+}

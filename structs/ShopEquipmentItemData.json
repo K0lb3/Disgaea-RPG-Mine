@@ -1,0 +1,27 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "lineup_date": "String",
+        "lineup_no": "Int32",
+        "lineup_update_num": "Int32",
+        "item_type": "Int32",
+        "item_id": "UInt64",
+        "rarity": "Int32",
+        "pop": "Int32",
+        "innocent_num": "Int32",
+        "sold_flg": "Boolean"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "LineupDate": "String",
+        "LineupNo": "Int32",
+        "LineupUpdateNum": "Int32",
+        "ItemType": "Int32",
+        "ItemId": "UInt64",
+        "Rarity": "Int32",
+        "Pop": "Int32",
+        "InnocentNum": "Int32",
+        "SoldFlg": "Boolean",
+        "LineupDateTime": "DateTime"
+    }
+}

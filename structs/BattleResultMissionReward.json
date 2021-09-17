@@ -1,12 +1,7 @@
-[
-    {
-        "type": "GameObject",
-        "name": "m_BaseObj",
-        "offset": 24
-    },
-    {
-        "type": "RewardIcon",
-        "name": "m_RewardImage",
-        "offset": 32
+{
+    "fields": {},
+    "properties": {
+        "baseObj": "GameObject",
+        "rewardImage": "RewardIcon"
     }
-]
+}

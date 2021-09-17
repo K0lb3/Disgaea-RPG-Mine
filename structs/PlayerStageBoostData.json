@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "m_stage_boost_id": "UInt64",
+        "num": "Int32",
+        "_m_stage_boost_data": "MasterStageBoostData",
+        "_m_stage_data": "MasterStageData",
+        "_description": "String",
+        "_m_area_id": "UInt64",
+        "_m_stage_id": "UInt64"
+    },
+    "properties": {
+        "MStageBoostId": "UInt64",
+        "Num": "Int32",
+        "MStageBoostData": "MasterStageBoostData",
+        "MStageData": "MasterStageData",
+        "isActive": "Boolean",
+        "isActiveNum": "Boolean",
+        "Description": "String",
+        "mAreaId": "UInt64",
+        "mStageId": "UInt64"
+    }
+}

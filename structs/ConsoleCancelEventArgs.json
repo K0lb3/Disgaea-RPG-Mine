@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "_type": "ConsoleSpecialKey",
+        "_cancel": "Boolean"
+    },
+    "properties": {
+        "Cancel": "Boolean"
+    }
+}

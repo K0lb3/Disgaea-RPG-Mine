@@ -1,7 +1,6 @@
-[
-    {
-        "type": "ulong",
-        "name": "b_product_id",
-        "offset": 56
-    }
-]
+{
+    "fields": {
+        "b_product_id": "UInt64"
+    },
+    "properties": {}
+}

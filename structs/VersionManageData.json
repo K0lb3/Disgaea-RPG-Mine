@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "current_app_version": "String",
+        "current_database_version": "String",
+        "newest_database_version": "String",
+        "current_resource_version": "String",
+        "newest_resource_version": "String"
+    },
+    "properties": {
+        "CurrentAppVersion": "String",
+        "CurrentDatabaseVersion": "String",
+        "NewestDatabaseVersion": "String",
+        "CurrentResourceVersion": "String",
+        "NewestResourceVersion": "String"
+    }
+}

@@ -72,6 +72,30 @@
         "created_at": "2020-04-20 11:45:00"
     },
     {
+        "id": 16,
+        "name": "Pegasus Throne",
+        "custom_type": 1,
+        "file_name": "16",
+        "default_flg": false,
+        "created_at": "2020-09-29 16:05:00"
+    },
+    {
+        "id": 17,
+        "name": "Super Reincarnation",
+        "custom_type": 1,
+        "file_name": "17",
+        "default_flg": false,
+        "created_at": "2020-11-05 10:05:00"
+    },
+    {
+        "id": 18,
+        "name": "Disgaea 6 Limited",
+        "custom_type": 1,
+        "file_name": "18",
+        "default_flg": false,
+        "created_at": "2020-12-23 11:30:00"
+    },
+    {
         "id": 101,
         "name": "Welcome to the Overlord's Castle",
         "custom_type": 2,
@@ -142,5 +166,37 @@
         "file_name": "bgm_2_6",
         "default_flg": false,
         "created_at": "2017-10-31 23:56:01"
+    },
+    {
+        "id": 110,
+        "name": "Rockin' Princess",
+        "custom_type": 2,
+        "file_name": "bgm_asg_01",
+        "default_flg": false,
+        "created_at": "2020-06-15 16:15:00"
+    },
+    {
+        "id": 111,
+        "name": "Little Shiny ☆ Star",
+        "custom_type": 2,
+        "file_name": "bgm_2_8",
+        "default_flg": false,
+        "created_at": "2020-11-11 18:43:00"
+    },
+    {
+        "id": 112,
+        "name": "White Tiger",
+        "custom_type": 2,
+        "file_name": "bgm_2_7",
+        "default_flg": false,
+        "created_at": "2020-12-23 11:30:00"
+    },
+    {
+        "id": 113,
+        "name": "Girl Power 2020",
+        "custom_type": 2,
+        "file_name": "bgm_dis6_prev",
+        "default_flg": false,
+        "created_at": "2020-12-23 11:30:00"
     }
 ]

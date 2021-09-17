@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "rate": "Single"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Rate": "Single"
+    }
+}

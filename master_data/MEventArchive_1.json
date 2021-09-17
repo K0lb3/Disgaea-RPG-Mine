@@ -7,7 +7,7 @@
         "m_episode_id": 20011,
         "reminiscent_m_area_id": 2001106,
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2021-01-01 01:00:00 -0400"
     },
     {
         "id": 2,
@@ -16,8 +16,8 @@
         "sort": 1,
         "m_episode_id": 20041,
         "reminiscent_m_area_id": 2004106,
-        "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "open_at": "2021-09-01 00:00:00 -0400",
+        "close_at": "2021-10-31 23:59:59 -0400"
     },
     {
         "id": 3,
@@ -26,8 +26,8 @@
         "sort": 2,
         "m_episode_id": 20061,
         "reminiscent_m_area_id": 2006106,
-        "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "open_at": "2021-09-01 00:00:00 -0400",
+        "close_at": "2021-10-31 23:59:59 -0400"
     },
     {
         "id": 4,
@@ -37,6 +37,46 @@
         "m_episode_id": 20121,
         "reminiscent_m_area_id": 2012106,
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2021-01-01 01:00:00 -0400"
+    },
+    {
+        "id": 5,
+        "original_m_event_id": 15,
+        "resource_name": "story_event_5_teacher",
+        "sort": 4,
+        "m_episode_id": 20151,
+        "reminiscent_m_area_id": 2015106,
+        "open_at": "2020-07-07 00:00:00 -0400",
+        "close_at": "2021-01-01 01:00:00 -0400"
+    },
+    {
+        "id": 6,
+        "original_m_event_id": 21,
+        "resource_name": "story_event_6_purepure",
+        "sort": 5,
+        "m_episode_id": 20211,
+        "reminiscent_m_area_id": 2021106,
+        "open_at": "2020-08-04 12:00:00 -0400",
+        "close_at": "2021-01-01 01:00:00 -0400"
+    },
+    {
+        "id": 7,
+        "original_m_event_id": 26,
+        "resource_name": "story_event_7_catcafe",
+        "sort": 6,
+        "m_episode_id": 20261,
+        "reminiscent_m_area_id": 2026106,
+        "open_at": "2020-09-10 12:00:00 -0400",
+        "close_at": "2021-01-01 01:00:00 -0400"
+    },
+    {
+        "id": 8,
+        "original_m_event_id": 35,
+        "resource_name": "story_event_8_sport",
+        "sort": 7,
+        "m_episode_id": 20351,
+        "reminiscent_m_area_id": 2035106,
+        "open_at": "2020-11-05 12:00:00 -0400",
+        "close_at": "2021-01-01 01:00:00 -0400"
     }
 ]

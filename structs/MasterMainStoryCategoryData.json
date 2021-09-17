@@ -1,42 +1,24 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "title": "String",
+        "priority": "Int32",
+        "resource_name": "String",
+        "open_condition_m_stage_id": "UInt64",
+        "lock_msg": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "priority",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "open_condition_m_stage_id",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "lock_msg",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 64
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 72
+    "properties": {
+        "Id": "UInt64",
+        "Title": "String",
+        "Priority": "Int32",
+        "ResourceName": "String",
+        "OpenConditionMStageId": "UInt64",
+        "LockMsg": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

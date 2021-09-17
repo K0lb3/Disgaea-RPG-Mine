@@ -1,27 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "price_type": "Int32",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "price_type",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "PriceType": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

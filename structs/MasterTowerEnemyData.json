@@ -1,152 +1,70 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "enemy_type": "Int32",
+        "floor_no": "Int32",
+        "m_character_id": "UInt64",
+        "name": "String",
+        "lv": "Int32",
+        "hp": "Int64",
+        "atk": "Int32",
+        "def": "Int32",
+        "inte": "Int32",
+        "res": "Int32",
+        "spd": "Int32",
+        "m_weapon_id": "UInt64",
+        "m_command_id_1": "UInt64",
+        "command_lv_1": "Int32",
+        "m_command_id_2": "UInt64",
+        "command_lv_2": "Int32",
+        "m_command_id_3": "UInt64",
+        "command_lv_3": "Int32",
+        "m_command_id_4": "UInt64",
+        "command_lv_4": "Int32",
+        "overwrite_attr": "Boolean",
+        "attr_fire": "Int32",
+        "attr_water": "Int32",
+        "attr_wind": "Int32",
+        "attr_star": "Int32",
+        "resist_poison": "Int32",
+        "resist_paralyze": "Int32",
+        "resist_sleep": "Int32",
+        "resist_forget": "Int32",
+        "t_character_commands": "CharacterCommandData[]"
     },
-    {
-        "type": "int",
-        "name": "enemy_type",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "floor_no",
-        "offset": 28
-    },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "lv",
-        "offset": 48
-    },
-    {
-        "type": "long",
-        "name": "hp",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "atk",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "def",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "inte",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "res",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "spd",
-        "offset": 80
-    },
-    {
-        "type": "ulong",
-        "name": "m_weapon_id",
-        "offset": 88
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_1",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "command_lv_1",
-        "offset": 104
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_2",
-        "offset": 112
-    },
-    {
-        "type": "int",
-        "name": "command_lv_2",
-        "offset": 120
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_3",
-        "offset": 128
-    },
-    {
-        "type": "int",
-        "name": "command_lv_3",
-        "offset": 136
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_4",
-        "offset": 144
-    },
-    {
-        "type": "int",
-        "name": "command_lv_4",
-        "offset": 152
-    },
-    {
-        "type": "bool",
-        "name": "overwrite_attr",
-        "offset": 156
-    },
-    {
-        "type": "int",
-        "name": "attr_fire",
-        "offset": 160
-    },
-    {
-        "type": "int",
-        "name": "attr_water",
-        "offset": 164
-    },
-    {
-        "type": "int",
-        "name": "attr_wind",
-        "offset": 168
-    },
-    {
-        "type": "int",
-        "name": "attr_star",
-        "offset": 172
-    },
-    {
-        "type": "int",
-        "name": "resist_poison",
-        "offset": 176
-    },
-    {
-        "type": "int",
-        "name": "resist_paralyze",
-        "offset": 180
-    },
-    {
-        "type": "int",
-        "name": "resist_sleep",
-        "offset": 184
-    },
-    {
-        "type": "int",
-        "name": "resist_forget",
-        "offset": 188
+    "properties": {
+        "Id": "UInt64",
+        "EnemyType": "Int32",
+        "FloorNo": "Int32",
+        "MCharacterId": "UInt64",
+        "Name": "String",
+        "Lv": "Int32",
+        "Hp": "Int64",
+        "Atk": "Int32",
+        "Def": "Int32",
+        "Inte": "Int32",
+        "Res": "Int32",
+        "Spd": "Int32",
+        "MWeaponId": "UInt64",
+        "MCommandId1": "UInt64",
+        "CommandLevel1": "Int32",
+        "MCommandId2": "UInt64",
+        "CommandLevel2": "Int32",
+        "MCommandId3": "UInt64",
+        "CommandLevel3": "Int32",
+        "MCommandId4": "UInt64",
+        "CommandLevel4": "Int32",
+        "OverwriteAttr": "Boolean",
+        "AttrFire": "Int32",
+        "AttrWater": "Int32",
+        "AttrWind": "Int32",
+        "AttrStar": "Int32",
+        "ResistPoison": "Int32",
+        "ResistParalyze": "Int32",
+        "ResistSleep": "Int32",
+        "ResistForget": "Int32",
+        "WeaponType": "Int32",
+        "BattleCommandList": "List`1",
+        "TCharacterCommands": "CharacterCommandData[]"
     }
-]
+}

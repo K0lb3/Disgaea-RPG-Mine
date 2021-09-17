@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "pos1": "UInt64",
+        "pos2": "UInt64",
+        "pos3": "UInt64",
+        "pos4": "UInt64",
+        "pos5": "UInt64"
+    },
+    "properties": {
+        "Pos1": "UInt64",
+        "Pos2": "UInt64",
+        "Pos3": "UInt64",
+        "Pos4": "UInt64",
+        "Pos5": "UInt64"
+    }
+}

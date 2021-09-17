@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Address": "IPAddress",
+        "Port": "Int32"
+    }
+}

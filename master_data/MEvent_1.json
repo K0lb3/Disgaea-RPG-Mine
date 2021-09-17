@@ -10,6 +10,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -23,6 +24,7 @@
         "prologue_story_id": 100211,
         "opening_story_id": 100212,
         "ending_story_id": 100213,
+        "ending_story_end_at": "null_s",
         "challenge_max": 3
     },
     {
@@ -36,6 +38,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -49,6 +52,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -62,6 +66,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -75,6 +80,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -88,6 +94,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -101,6 +108,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 1
     },
     {
@@ -114,6 +122,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -127,6 +136,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -140,6 +150,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -153,6 +164,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -166,6 +178,7 @@
         "prologue_story_id": 100411,
         "opening_story_id": 100412,
         "ending_story_id": 100413,
+        "ending_story_end_at": "null_s",
         "challenge_max": 3
     },
     {
@@ -179,6 +192,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -192,6 +206,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -205,6 +220,7 @@
         "prologue_story_id": 101711,
         "opening_story_id": 0,
         "ending_story_id": 101712,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -218,6 +234,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 1
     },
     {
@@ -231,6 +248,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -244,6 +262,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -257,6 +276,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -270,6 +290,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -283,6 +304,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -296,6 +318,7 @@
         "prologue_story_id": 101711,
         "opening_story_id": 0,
         "ending_story_id": 101712,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -309,6 +332,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 1
     },
     {
@@ -322,6 +346,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -335,7 +360,50 @@
         "prologue_story_id": 102711,
         "opening_story_id": 102712,
         "ending_story_id": 102713,
+        "ending_story_end_at": "null_s",
         "challenge_max": 3
+    },
+    {
+        "id": 28,
+        "resource_name": "serial_battle_event_2",
+        "event_type": 4,
+        "sort": 2,
+        "m_episode_id": 10281,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 29,
+        "resource_name": "serial_battle_event_3",
+        "event_type": 4,
+        "sort": 3,
+        "m_episode_id": 10291,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 30,
+        "resource_name": "serial_battle_event_4",
+        "event_type": 4,
+        "sort": 4,
+        "m_episode_id": 10301,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
     },
     {
         "id": 31,
@@ -348,6 +416,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 1
     },
     {
@@ -361,6 +430,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -374,6 +444,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -387,6 +458,7 @@
         "prologue_story_id": 103411,
         "opening_story_id": 103412,
         "ending_story_id": 103413,
+        "ending_story_end_at": "null_s",
         "challenge_max": 3
     },
     {
@@ -400,6 +472,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -413,6 +486,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 1
     },
     {
@@ -426,6 +500,777 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 38,
+        "resource_name": "story_event_9_mgs",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10381,
+        "m_item_shop_id": 138,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 39,
+        "resource_name": "mission_event_13",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 40,
+        "resource_name": "mission_event_14",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 41,
+        "resource_name": "story_event_10_sea",
+        "event_type": 1,
+        "sort": 101,
+        "m_episode_id": 10411,
+        "m_item_shop_id": 141,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 42,
+        "resource_name": "raid_event_1_re",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10421,
+        "m_item_shop_id": 142,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 101711,
+        "opening_story_id": 0,
+        "ending_story_id": 101712,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 43,
+        "resource_name": "special_gate_event_6",
+        "event_type": 5,
+        "sort": 0,
+        "m_episode_id": 10431,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 44,
+        "resource_name": "empty",
+        "event_type": 8,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 45,
+        "resource_name": "gate_event_5_epiphany_kiria",
+        "event_type": 2,
+        "sort": 0,
+        "m_episode_id": 10451,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 104511,
+        "opening_story_id": 104512,
+        "ending_story_id": 104513,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 3
+    },
+    {
+        "id": 46,
+        "resource_name": "mission_event_15",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 47,
+        "resource_name": "story_event_11_treasure",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10471,
+        "m_item_shop_id": 147,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 48,
+        "resource_name": "mission_event_16",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 49,
+        "resource_name": "empty",
+        "event_type": 8,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 50,
+        "resource_name": "raid_event_2",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10501,
+        "m_item_shop_id": 150,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 105011,
+        "opening_story_id": 0,
+        "ending_story_id": 105012,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 51,
+        "resource_name": "special_gate_event_7",
+        "event_type": 5,
+        "sort": 0,
+        "m_episode_id": 10511,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 52,
+        "resource_name": "mission_event_17",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 53,
+        "resource_name": "serial_battle_event_5",
+        "event_type": 4,
+        "sort": 5,
+        "m_episode_id": 10531,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 54,
+        "resource_name": "story_event_12_firework",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10541,
+        "m_item_shop_id": 154,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 55,
+        "resource_name": "raid_event_1_re",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10551,
+        "m_item_shop_id": 155,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 101711,
+        "opening_story_id": 0,
+        "ending_story_id": 101712,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 56,
+        "resource_name": "mission_event_18",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 57,
+        "resource_name": "empty",
+        "event_type": 8,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 58,
+        "resource_name": "story_event_13_collabo_seven_sins",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10581,
+        "m_item_shop_id": 158,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 59,
+        "resource_name": "special_gate_event_8",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10591,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 60,
+        "resource_name": "raid_event_3",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10601,
+        "m_item_shop_id": 160,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 106011,
+        "opening_story_id": 0,
+        "ending_story_id": 106012,
+        "ending_story_end_at": "2020-10-07 23:59:59 -0400",
+        "challenge_max": 0
+    },
+    {
+        "id": 61,
+        "resource_name": "story_event_14_lovely_vs_mirror",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10611,
+        "m_item_shop_id": 161,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 62,
+        "resource_name": "special_gate_event_9",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10621,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 63,
+        "resource_name": "mission_event_19",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 64,
+        "resource_name": "mission_event_20",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 65,
+        "resource_name": "raid_event_2",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10651,
+        "m_item_shop_id": 165,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 105011,
+        "opening_story_id": 0,
+        "ending_story_id": 105012,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 66,
+        "resource_name": "story_event_15_halloween2020",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10661,
+        "m_item_shop_id": 166,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 67,
+        "resource_name": "empty",
+        "event_type": 8,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 68,
+        "resource_name": "serial_battle_event_6",
+        "event_type": 4,
+        "sort": 6,
+        "m_episode_id": 10681,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 69,
+        "resource_name": "raid_event_4",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10691,
+        "m_item_shop_id": 169,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 106911,
+        "opening_story_id": 0,
+        "ending_story_id": 106912,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 70,
+        "resource_name": "mission_event_21",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 71,
+        "resource_name": "shop_event_1",
+        "event_type": 9,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 171,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 72,
+        "resource_name": "raid_event_5",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10721,
+        "m_item_shop_id": 172,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 107211,
+        "opening_story_id": 0,
+        "ending_story_id": 107212,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 73,
+        "resource_name": "story_event_16_1aniv_memorial_paty",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10731,
+        "m_item_shop_id": 173,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 74,
+        "resource_name": "special_gate_event_10",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10741,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 75,
+        "resource_name": "mission_event_22",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 76,
+        "resource_name": "special_gate_event_11",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10761,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 77,
+        "resource_name": "serial_battle_event_7",
+        "event_type": 4,
+        "sort": 7,
+        "m_episode_id": 10771,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 78,
+        "resource_name": "special_gate_event_12",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10781,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 5
+    },
+    {
+        "id": 79,
+        "resource_name": "story_event_17_blackxmas_of_fear",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10791,
+        "m_item_shop_id": 179,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 80,
+        "resource_name": "mission_event_23",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 81,
+        "resource_name": "raid_event_6",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10811,
+        "m_item_shop_id": 181,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 108111,
+        "opening_story_id": 0,
+        "ending_story_id": 108112,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 82,
+        "resource_name": "story_event_18_newyear2021",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10821,
+        "m_item_shop_id": 182,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 83,
+        "resource_name": "serial_battle_event_8",
+        "event_type": 4,
+        "sort": 8,
+        "m_episode_id": 10831,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 84,
+        "resource_name": "gate_event_6_puriniger_x",
+        "event_type": 2,
+        "sort": 0,
+        "m_episode_id": 10841,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 108411,
+        "opening_story_id": 108412,
+        "ending_story_id": 108413,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 3
+    },
+    {
+        "id": 85,
+        "resource_name": "special_gate_event_13",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10851,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 86,
+        "resource_name": "mission_event_24",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 87,
+        "resource_name": "shop_event_2",
+        "event_type": 9,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 187,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 88,
+        "resource_name": "special_gate_event_14",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10881,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 5
+    },
+    {
+        "id": 89,
+        "resource_name": "raid_event_1_re_inc",
+        "event_type": 6,
+        "sort": 0,
+        "m_episode_id": 10891,
+        "m_item_shop_id": 189,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 101711,
+        "opening_story_id": 0,
+        "ending_story_id": 101712,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 90,
+        "resource_name": "story_event_19_challenge_at_dis6",
+        "event_type": 1,
+        "sort": 100,
+        "m_episode_id": 10901,
+        "m_item_shop_id": 190,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 0
+    },
+    {
+        "id": 91,
+        "resource_name": "special_gate_event_15",
+        "event_type": 5,
+        "sort": 50,
+        "m_episode_id": 10911,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
+        "challenge_max": 1
+    },
+    {
+        "id": 92,
+        "resource_name": "mission_event_25",
+        "event_type": 3,
+        "sort": 0,
+        "m_episode_id": 0,
+        "m_item_shop_id": 0,
+        "m_event_gacha_id": 0,
+        "prologue_story_id": 0,
+        "opening_story_id": 0,
+        "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     },
     {
@@ -439,6 +1284,7 @@
         "prologue_story_id": 0,
         "opening_story_id": 0,
         "ending_story_id": 0,
+        "ending_story_end_at": "null_s",
         "challenge_max": 0
     }
 ]

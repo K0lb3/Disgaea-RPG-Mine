@@ -1,42 +1,24 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_stage_id": "UInt64",
+        "boost_type": "Int32",
+        "effect_value": "Int32",
+        "limit_type": "Int32",
+        "limit_num": "Int32",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_stage_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "boost_type",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "effect_value",
-        "offset": 36
-    },
-    {
-        "type": "int",
-        "name": "limit_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "limit_num",
-        "offset": 44
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "MStageId": "UInt64",
+        "BoostType": "Int32",
+        "EffectValue": "Int32",
+        "LimitType": "Int32",
+        "LimitNum": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

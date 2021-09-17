@@ -1,67 +1,33 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "title": "String",
+        "condition_type": "Int32",
+        "condition_id": "UInt64",
+        "condition_num": "UInt64",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "next_m_hospital_id": "Int32",
+        "sort": "Int32",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "condition_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "condition_id",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "condition_num",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 56
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "next_m_hospital_id",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 84
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 88
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 96
+    "properties": {
+        "Id": "UInt64",
+        "Title": "String",
+        "ConditionType": "Int32",
+        "ConditionId": "UInt64",
+        "ConditionNum": "UInt64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "NextMHospitalId": "Int32",
+        "Sort": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "Reward": "RewardData"
     }
-]
+}

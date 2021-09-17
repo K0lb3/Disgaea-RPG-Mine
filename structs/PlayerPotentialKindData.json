@@ -1,0 +1,27 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "m_potential_class_id": "UInt64",
+        "m_potential_kind_id": "UInt64",
+        "rank": "Int32",
+        "exp": "Int64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "MPotentialClassId": "UInt64",
+        "MPotentialKindId": "UInt64",
+        "Rank": "Int32",
+        "TotalExp": "Int64",
+        "CurrentExp": "Int64",
+        "MPotentialKindData": "MasterPotentialKindData",
+        "CurrentCorrectionValue": "Single",
+        "CurrentManaEffectValue": "Single",
+        "CurrentEffectValue": "Single",
+        "CurrentMasterPotentialKindRankData": "MasterPotentialKindRankData",
+        "NextMasterPotentialKindRankData": "MasterPotentialKindRankData",
+        "IsRankUp": "Boolean",
+        "IsMaxRank": "Boolean"
+    }
+}

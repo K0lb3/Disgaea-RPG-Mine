@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_ritual_training_id": "UInt64",
+        "m_item_id": "UInt64",
+        "item_quantity": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "RitualTrainigId": "UInt64",
+        "ItemId": "UInt64",
+        "ItemQuantity": "Int32"
+    }
+}

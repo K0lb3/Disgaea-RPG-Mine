@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "character_type": "Int32",
+        "gender": "Int32",
+        "name": "String",
+        "enabled": "Boolean"
     },
-    {
-        "type": "int",
-        "name": "character_type",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "gender",
-        "offset": 28
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 32
-    },
-    {
-        "type": "bool",
-        "name": "enabled",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "CharacterType": "Int32",
+        "Gender": "Int32",
+        "Name": "String",
+        "Enabled": "Boolean"
     }
-]
+}

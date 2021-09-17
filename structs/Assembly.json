@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "resolve_event_holder": "ResolveEventHolder",
+        "_evidence": "Object",
+        "_minimum": "Object",
+        "_optional": "Object",
+        "_refuse": "Object",
+        "_granted": "Object",
+        "_denied": "Object"
+    },
+    "properties": {
+        "CodeBase": "String",
+        "FullName": "String",
+        "Location": "String",
+        "ReflectionOnly": "Boolean",
+        "IsFullyTrusted": "Boolean",
+        "DefinedTypes": "IEnumerable`1"
+    }
+}

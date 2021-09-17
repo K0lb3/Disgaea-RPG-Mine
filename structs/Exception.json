@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "_data": "IDictionary",
+        "_source": "String",
+        "native_trace_ips": "IntPtr[]"
+    },
+    "properties": {
+        "Message": "String",
+        "Data": "IDictionary",
+        "InnerException": "Exception",
+        "StackTrace": "String",
+        "Source": "String",
+        "HResult": "Int32"
+    }
+}

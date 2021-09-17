@@ -1,0 +1,25 @@
+{
+    "fields": {
+        "name": "String",
+        "codebase": "String",
+        "major": "Int32",
+        "minor": "Int32",
+        "build": "Int32",
+        "revision": "Int32",
+        "cultureinfo": "CultureInfo",
+        "flags": "AssemblyNameFlags",
+        "hashalg": "AssemblyHashAlgorithm",
+        "keypair": "StrongNameKeyPair",
+        "versioncompat": "AssemblyVersionCompatibility",
+        "version": "Version",
+        "processor_architecture": "ProcessorArchitecture"
+    },
+    "properties": {
+        "Name": "String",
+        "CodeBase": "String",
+        "CultureInfo": "CultureInfo",
+        "Flags": "AssemblyNameFlags",
+        "FullName": "String",
+        "Version": "Version"
+    }
+}

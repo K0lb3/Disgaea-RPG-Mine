@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "Count": "Int32",
+        "SyncRoot": "Object",
+        "IsSynchronized": "Boolean",
+        "Item": "Match"
+    }
+}

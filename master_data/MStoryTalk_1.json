@@ -2690,7 +2690,7 @@
         "chara2_emotion": 0,
         "chara2_disabled": false,
         "chara2_in": 0,
-        "chara3_name": "Mysterious Chef",
+        "chara3_name": "Mysterious Cook",
         "chara3_direction": 1,
         "chara3_m_story_character_id": 3103,
         "chara3_emotion": 0,
@@ -3363,7 +3363,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -5250,7 +5250,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 4,
-        "talk_text": "Get ready!\nLove Knuckle!!",
+        "talk_text": "Get ready!\nLove Punch!!",
         "screen_color": 0
     },
     {
@@ -5287,7 +5287,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "Love Knuckle's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
+        "talk_text": "Love Punch's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
         "screen_color": 0
     },
     {
@@ -6323,7 +6323,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -8469,7 +8469,7 @@
         "chara3_disabled": false,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -10763,7 +10763,7 @@
         "chara3_disabled": false,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -12058,7 +12058,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Hehehehe...No trouble. I'd just like to give you a little something \nas thanks for all the cleaning you've done.",
+        "talk_text": "Hehehehe...\nNo trouble. I'd just like to give you a little something \nas thanks for all the cleaning you've done.",
         "screen_color": 0
     },
     {
@@ -12428,7 +12428,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "[Warning] \nDoping...",
+        "talk_text": "【警告】\nドーピングとは",
         "screen_color": 0
     },
     {
@@ -13538,7 +13538,7 @@
         "chara3_disabled": true,
         "chara3_in": 2,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -14352,7 +14352,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "But we've already taken as much as we possibly can. Do you have a problem with that? ",
+        "talk_text": "But we've already taken as much as we possibly can. Do you have a problem with that?",
         "screen_color": 0
     },
     {
@@ -17645,7 +17645,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -17682,7 +17682,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\"Love is a Battleground\" \nby Fuka Kazamatsuri",
+        "talk_text": "\"To love is to fight.\"\nby Fuka Kazamatsuri",
         "screen_color": 0
     },
     {
@@ -19347,7 +19347,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -19384,7 +19384,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\"There is no Word for Broken Love in my Dictionary\" \nby Fuka Kazamatsuri",
+        "talk_text": "\"There is no 'break up' in my dictionary.\"\nby Fuka Kazamatsuri",
         "screen_color": 0
     },
     {
@@ -20901,7 +20901,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "All you have to do is increase your Defense, and you can increase your Charm by as much as 120%!\nAnd then, you'll be getting asked out on dates left right and center! ",
+        "talk_text": "All you have to do is increase your Defense, and you can increase your Charm by as much as 120%!\nAnd then, you'll be getting asked out on dates left right and center!",
         "screen_color": 0
     },
     {
@@ -21345,7 +21345,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -23158,7 +23158,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -25119,7 +25119,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -27413,7 +27413,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n       *smooch smooch*\n",
+        "talk_text": "　　　　　　　　ムチュ♥",
         "screen_color": 0
     },
     {
@@ -28856,7 +28856,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -30965,7 +30965,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -32741,7 +32741,7 @@
         "chara3_disabled": false,
         "chara3_in": 2,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -34258,7 +34258,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -37181,7 +37181,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -39882,7 +39882,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -41991,7 +41991,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -44322,7 +44322,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -45580,7 +45580,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -47800,7 +47800,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -51463,7 +51463,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -51759,7 +51759,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "N-No don't, Etna!\nCalm down! ",
+        "talk_text": "N-No don't, Etna!\nCalm down!",
         "screen_color": 0
     },
     {
@@ -53683,7 +53683,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -55533,7 +55533,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -58345,7 +58345,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -60380,7 +60380,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -62563,7 +62563,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -64086,8 +64086,8 @@
     {
         "id": 1733,
         "m_story_id": 714,
-        "no": 12,
-        "bg_id": 52,
+        "no": 11,
+        "bg_id": 21,
         "bgm": "bgm_5_1",
         "se": "null_s",
         "effect": 0,
@@ -64123,8 +64123,8 @@
     {
         "id": 1734,
         "m_story_id": 714,
-        "no": 13,
-        "bg_id": 52,
+        "no": 12,
+        "bg_id": 21,
         "bgm": "bgm_5_1",
         "se": "null_s",
         "effect": 0,
@@ -64160,8 +64160,8 @@
     {
         "id": 1735,
         "m_story_id": 714,
-        "no": 14,
-        "bg_id": 52,
+        "no": 13,
+        "bg_id": 21,
         "bgm": "bgm_5_1",
         "se": "null_s",
         "effect": 4,
@@ -64191,7 +64191,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -64561,7 +64561,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "The screen suddenly turns black. \nAn effect sound then can be heard: Boom, pop, bang (attack sound).You then can hear a gun. \nIn the sky, there are some Meteor Sky Spears.",
+        "talk_text": "The screen suddenly turns black. \nAn effect sound then can be heard: Boom, pop, bang (attack sound).You then can hear a gun. \nIn the sky, there are some shooting stars.",
         "screen_color": 0
     },
     {
@@ -65893,7 +65893,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -69297,7 +69297,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -70148,7 +70148,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "But we've already been here fore an hour! ",
+        "talk_text": "But we've already been here fore an hour!",
         "screen_color": 0
     },
     {
@@ -70339,7 +70339,7 @@
     {
         "id": 1902,
         "m_story_id": 743,
-        "no": 5,
+        "no": 4,
         "bg_id": 14,
         "bgm": "bgm_5_2",
         "se": "se_0201",
@@ -70376,7 +70376,7 @@
     {
         "id": 1903,
         "m_story_id": 743,
-        "no": 7,
+        "no": 5,
         "bg_id": 14,
         "bgm": "bgm_5_2",
         "se": "null_s",
@@ -70413,7 +70413,7 @@
     {
         "id": 1904,
         "m_story_id": 743,
-        "no": 8,
+        "no": 6,
         "bg_id": 14,
         "bgm": "bgm_5_2",
         "se": "null_s",
@@ -70450,7 +70450,7 @@
     {
         "id": 1905,
         "m_story_id": 743,
-        "no": 9,
+        "no": 7,
         "bg_id": 14,
         "bgm": "bgm_5_2",
         "se": "null_s",
@@ -70487,7 +70487,7 @@
     {
         "id": 1906,
         "m_story_id": 743,
-        "no": 10,
+        "no": 8,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70524,7 +70524,7 @@
     {
         "id": 1907,
         "m_story_id": 743,
-        "no": 11,
+        "no": 9,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70561,7 +70561,7 @@
     {
         "id": 1908,
         "m_story_id": 743,
-        "no": 12,
+        "no": 10,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70598,7 +70598,7 @@
     {
         "id": 1909,
         "m_story_id": 743,
-        "no": 13,
+        "no": 11,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70635,7 +70635,7 @@
     {
         "id": 1910,
         "m_story_id": 743,
-        "no": 14,
+        "no": 12,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70672,7 +70672,7 @@
     {
         "id": 1911,
         "m_story_id": 743,
-        "no": 15,
+        "no": 13,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70709,7 +70709,7 @@
     {
         "id": 1912,
         "m_story_id": 743,
-        "no": 16,
+        "no": 14,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70746,7 +70746,7 @@
     {
         "id": 1913,
         "m_story_id": 743,
-        "no": 17,
+        "no": 15,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70783,7 +70783,7 @@
     {
         "id": 1914,
         "m_story_id": 743,
-        "no": 18,
+        "no": 16,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70820,7 +70820,7 @@
     {
         "id": 1915,
         "m_story_id": 743,
-        "no": 19,
+        "no": 17,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70857,7 +70857,7 @@
     {
         "id": 1916,
         "m_story_id": 743,
-        "no": 20,
+        "no": 18,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70894,7 +70894,7 @@
     {
         "id": 1917,
         "m_story_id": 743,
-        "no": 21,
+        "no": 19,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70931,7 +70931,7 @@
     {
         "id": 1918,
         "m_story_id": 743,
-        "no": 22,
+        "no": 20,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -70968,7 +70968,7 @@
     {
         "id": 1919,
         "m_story_id": 743,
-        "no": 23,
+        "no": 21,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -71005,7 +71005,7 @@
     {
         "id": 1920,
         "m_story_id": 743,
-        "no": 24,
+        "no": 22,
         "bg_id": 14,
         "bgm": "bgm_battle01_story",
         "se": "null_s",
@@ -71591,7 +71591,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -72997,7 +72997,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -74551,7 +74551,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -76179,7 +76179,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -77141,7 +77141,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -77881,7 +77881,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Urgh...\nYou know, this subplot is starting to look like a bit of a dead end. ",
+        "talk_text": "Urgh...\nYou know, this subplot is starting to look like a bit of a dead end.",
         "screen_color": 0
     },
     {
@@ -79472,7 +79472,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -81581,7 +81581,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Heh heh...\nOwning half of the universe you say... ",
+        "talk_text": "Heh heh...\nOwning half of the universe you say...",
         "screen_color": 0
     },
     {
@@ -81655,7 +81655,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -83320,7 +83320,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -84800,7 +84800,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -84948,7 +84948,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Argh...\nWhat are you up to? What are you plotting that involves the Prinnies \\nand the Red Moon?",
+        "talk_text": "Argh...\nWhat are you up to? What are you plotting that involves the Prinnies \nand the Red Moon?",
         "screen_color": 0
     },
     {
@@ -86280,7 +86280,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -87501,7 +87501,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -90720,7 +90720,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -91719,7 +91719,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 4,
-        "talk_text": "Get ready!\nLove Knuckle!!",
+        "talk_text": "Get ready!\nLove Punch!!",
         "screen_color": 1
     },
     {
@@ -91756,7 +91756,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "Love Knuckle's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
+        "talk_text": "Love Punch's effect \n(Flonne's voice can also be heard shouting \"Crab miso!\")",
         "screen_color": 1
     },
     {
@@ -92533,7 +92533,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -94383,7 +94383,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -96381,7 +96381,7 @@
         "chara3_disabled": true,
         "chara3_in": 4,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -98231,7 +98231,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "....Laharl has overcome his fear of fish bones. I guess that's a victory in itself. ",
+        "talk_text": "....Laharl has overcome his fear of fish bones. I guess that's a victory in itself.",
         "screen_color": 0
     },
     {
@@ -99415,7 +99415,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n\n               To be continued...",
+        "talk_text": "To be continued",
         "screen_color": 0
     },
     {
@@ -104003,7 +104003,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 1,
-        "talk_text": "\n  Disgaea does not end.\n    Disgaea never ends!",
+        "talk_text": "　　　　Disgaea does not end．\n　　　　　　　ディスガイアは終わらない",
         "screen_color": 0
     },
     {

@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "current": "String",
+        "parent": "String"
+    },
+    "properties": {
+        "Parent": "DirectoryInfo"
+    }
+}

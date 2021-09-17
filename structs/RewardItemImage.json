@@ -1,0 +1,16 @@
+{
+    "fields": {},
+    "properties": {
+        "ItemObject": "GameObject",
+        "ItemImage": "Image",
+        "EquipObject": "GameObject",
+        "EquipRareImage": "Image",
+        "EquipImage": "Image",
+        "CharacterObject": "GameObject",
+        "CharacterFaceImage": "Image",
+        "CharacterTypeImage": "Image",
+        "BestWeaponTypeImage": "Image",
+        "CharacterBorderImage": "Image",
+        "CharacterRareObjList": "List`1"
+    }
+}

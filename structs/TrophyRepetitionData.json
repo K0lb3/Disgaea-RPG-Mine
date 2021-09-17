@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "m_trophy_repetition_id": "UInt64"
+    },
+    "properties": {
+        "MTrophyRepetitionId": "UInt64"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "fields": {},
+    "properties": {
+        "left": "Int32",
+        "right": "Int32",
+        "top": "Int32",
+        "bottom": "Int32",
+        "horizontal": "Int32",
+        "vertical": "Int32"
+    }
+}

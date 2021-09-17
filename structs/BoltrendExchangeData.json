@@ -1,0 +1,24 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "exchange_type": "Int32",
+        "exchange_id": "Int32",
+        "sort": "Int32",
+        "open_at": "String",
+        "close_at": "String",
+        "created_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "ExchangeType": "Int32",
+        "ExchangeId": "Int32",
+        "Sort": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "CreatedAt": "String",
+        "UpdatedAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
+    }
+}

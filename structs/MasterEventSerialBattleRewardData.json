@@ -1,42 +1,13 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
-    },
-    {
-        "type": "ulong",
-        "name": "m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "reward_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "effect_value",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 68
+{
+    "fields": {},
+    "properties": {
+        "Id": "UInt64",
+        "EventId": "UInt64",
+        "RewardType": "Int32",
+        "EffectValue": "UInt64",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
     }
-]
+}

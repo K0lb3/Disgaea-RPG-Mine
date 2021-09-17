@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "m_list": "ArrayList",
+        "m_has_other_versions": "Boolean"
+    },
+    "properties": {
+        "Item": "Cookie",
+        "Count": "Int32",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object"
+    }
+}

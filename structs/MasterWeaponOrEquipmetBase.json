@@ -1,0 +1,27 @@
+{
+    "fields": {},
+    "properties": {
+        "Id": "UInt64",
+        "IconNo": "Int32",
+        "ItemRank": "Int32",
+        "Name": "String",
+        "Description": "String",
+        "Price": "Int32",
+        "HpMin": "Int32",
+        "HpPerStage": "Int32",
+        "AtkMin": "Int32",
+        "AtkPerStage": "Int32",
+        "DefMin": "Int32",
+        "DefPerStage": "Int32",
+        "InteMin": "Int32",
+        "IntePerStage": "Int32",
+        "ResMin": "Int32",
+        "ResPerStage": "Int32",
+        "SpdMin": "Int32",
+        "SpdPerStage": "Int32",
+        "BookFlg": "Boolean",
+        "BreedingLvupStage": "UInt32",
+        "CriticalRate": "Int32",
+        "CriticalDamage": "Int32"
+    }
+}

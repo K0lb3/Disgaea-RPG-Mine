@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "battle_type": "Int32",
+        "m_enemy_id": "UInt64",
+        "angry_params": "Int32[]",
+        "angry_commands": "UInt64[]"
     },
-    {
-        "type": "int",
-        "name": "battle_type",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_enemy_id",
-        "offset": 32
-    },
-    {
-        "type": "int[]",
-        "name": "angry_params",
-        "offset": 40
-    },
-    {
-        "type": "ulong[]",
-        "name": "angry_commands",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "BattleType": "Int32",
+        "MEnemyId": "UInt64",
+        "AngryParams": "Int32[]",
+        "AngryCommands": "UInt64[]"
     }
-]
+}

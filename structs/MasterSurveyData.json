@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "description": "String",
+        "sort": "Int32",
+        "exp_type": "Int32",
+        "available_character_material": "Boolean",
+        "presents": "MasterSurveyPresentData[]"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "Description": "String",
+        "Sort": "Int32",
+        "ExpType": "ExpTypes",
+        "AvailableCharacterMaterial": "Boolean",
+        "Presents": "MasterSurveyPresentData[]"
+    }
+}

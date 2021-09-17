@@ -1,42 +1,24 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "promotion_name": "String",
+        "resource_name": "String",
+        "bgm": "String",
+        "open_type": "Int32",
+        "priority": "Int32",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "promotion_name",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "bgm",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "open_type",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "priority",
-        "offset": 52
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 64
+    "properties": {
+        "Id": "UInt64",
+        "PromotionName": "String",
+        "ResourceName": "String",
+        "BGM": "String",
+        "OpenType": "PromotionOpenType",
+        "Priority": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

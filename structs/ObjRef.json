@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "channel_info": "IChannelInfo",
+        "uri": "String",
+        "flags": "Int32"
+    },
+    "properties": {
+        "ChannelInfo": "IChannelInfo",
+        "EnvoyInfo": "IEnvoyInfo",
+        "TypeInfo": "IRemotingTypeInfo",
+        "URI": "String"
+    }
+}

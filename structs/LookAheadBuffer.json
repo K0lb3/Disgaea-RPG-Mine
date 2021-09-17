@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "count": "Int32"
+    },
+    "properties": {
+        "EndOfInput": "Boolean"
+    }
+}

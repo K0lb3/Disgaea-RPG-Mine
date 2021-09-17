@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "m_weapon_id": 11001,
+        "name": "Demonsword - Lost Vayne",
+        "timing_type": 6,
+        "description": "Meliodas exclusive: Gains Action Gauge +25 when attacked."
+    },
+    {
+        "id": 2,
+        "m_weapon_id": 31001,
+        "name": "True Spirit Spear - Chastiefol",
+        "timing_type": 1,
+        "description": "Kim exclusive: Skills cost 10% less SP."
+    },
+    {
+        "id": 3,
+        "m_weapon_id": 41001,
+        "name": "Double Bow Harlit",
+        "timing_type": 1,
+        "description": "Gowther exclusive: Debuff skills become 30% more effective."
+    },
+    {
+        "id": 4,
+        "m_weapon_id": 61001,
+        "name": "Gavel Gideon - Replica",
+        "timing_type": 1,
+        "description": "Diane exclusive: Basic attacks deal 50% more DMG."
+    },
+    {
+        "id": 5,
+        "m_weapon_id": 71001,
+        "name": "Ardan Nova",
+        "timing_type": 1,
+        "description": "Marlene exclusive: Buff skills become 30% more effective."
+    },
+    {
+        "id": 6,
+        "m_weapon_id": 11002,
+        "name": "Sword of Fantasy",
+        "timing_type": 1,
+        "description": "Take 5% less damage."
+    },
+    {
+        "id": 7,
+        "m_weapon_id": 71002,
+        "name": "Staff of Dawn",
+        "timing_type": 1,
+        "description": "Gains +5 SP at the beginning of each battle."
+    }
+]

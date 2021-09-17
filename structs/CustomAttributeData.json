@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "Constructor": "ConstructorInfo",
+        "ConstructorArguments": "IList`1",
+        "NamedArguments": "IList`1",
+        "AttributeType": "Type"
+    }
+}

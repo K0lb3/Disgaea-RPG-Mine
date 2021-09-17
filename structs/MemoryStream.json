@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "_buffer": "Byte[]",
+        "_origin": "Int32",
+        "_position": "Int32",
+        "_length": "Int32",
+        "_capacity": "Int32",
+        "_expandable": "Boolean",
+        "_writable": "Boolean",
+        "_exposable": "Boolean"
+    },
+    "properties": {
+        "Capacity": "Int32"
+    }
+}

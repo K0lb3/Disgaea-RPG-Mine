@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "weapon_type": "Int32",
+        "base_rate": "Int32",
+        "base_damage": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "WeaponType": "Int32",
+        "BaseRate": "Int32",
+        "BaseDamage": "Int32"
+    }
+}

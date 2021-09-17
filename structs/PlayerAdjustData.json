@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "event_id": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "EventId": "Int32"
+    }
+}

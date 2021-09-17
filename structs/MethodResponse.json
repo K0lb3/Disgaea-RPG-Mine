@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "_uri": "String",
+        "_exception": "Exception",
+        "_args": "Object[]"
+    },
+    "properties": {
+        "ArgCount": "Int32",
+        "Args": "Object[]",
+        "Exception": "Exception",
+        "LogicalCallContext": "LogicalCallContext",
+        "MethodBase": "MethodBase",
+        "MethodName": "String",
+        "MethodSignature": "Object",
+        "OutArgs": "Object[]",
+        "Properties": "IDictionary",
+        "ReturnValue": "Object",
+        "TypeName": "String",
+        "Uri": "String"
+    }
+}

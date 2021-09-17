@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_stage_id": "UInt64",
+        "wave": "Int32",
+        "rate": "UInt64"
     },
-    {
-        "type": "ulong",
-        "name": "m_stage_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "wave",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "rate",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MStageId": "UInt64",
+        "Wave": "Int32",
+        "Rate": "UInt64"
     }
-]
+}

@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "m_sub_tutorial_id": "UInt64",
+        "status": "Int32",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "MSubTutorialId": "UInt64",
+        "Status": "Int32",
+        "UpdatedAt": "String"
+    }
+}

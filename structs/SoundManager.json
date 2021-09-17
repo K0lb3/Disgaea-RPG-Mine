@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "chanels": "Channel[]",
+        "text_asset": "TextAsset",
+        "dic": "Dictionary`2"
+    },
+    "properties": {}
+}

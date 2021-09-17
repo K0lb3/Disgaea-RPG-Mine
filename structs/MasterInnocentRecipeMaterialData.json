@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_innocent_recipe_id": "UInt64",
+        "m_character_id": "UInt64",
+        "m_innocent_id": "UInt64",
+        "rank": "Int32",
+        "count": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MInnocentRecipeId": "UInt64",
+        "MCharacterId": "UInt64",
+        "MInnocentId": "UInt64",
+        "Rank": "Int32",
+        "Count": "Int32"
+    }
+}

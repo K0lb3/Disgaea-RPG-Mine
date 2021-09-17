@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_product_id": "UInt64",
+        "m_item_ids": "UInt64[]",
+        "m_item_nums": "Int32[]",
+        "days": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_product_id",
-        "offset": 24
-    },
-    {
-        "type": "ulong[]",
-        "name": "m_item_ids",
-        "offset": 32
-    },
-    {
-        "type": "int[]",
-        "name": "m_item_nums",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "days",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MProductId": "UInt64",
+        "MItemIds": "UInt64[]",
+        "MItemNums": "Int32[]",
+        "Days": "Int32"
     }
-]
+}

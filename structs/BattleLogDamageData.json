@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "def_param": "Int64",
+        "chara_position": "Int32",
+        "damage_list": "List`1",
+        "is_critical_list": "List`1"
+    },
+    "properties": {}
+}

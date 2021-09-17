@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "String",
+        "transitions": "List`1"
+    },
+    "properties": {
+        "BaseUtcOffset": "TimeSpan",
+        "DisplayName": "String",
+        "Id": "String",
+        "SupportsDaylightSavingTime": "Boolean"
+    }
+}

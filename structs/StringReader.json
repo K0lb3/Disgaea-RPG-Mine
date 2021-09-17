@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_s": "String",
+        "_pos": "Int32",
+        "_length": "Int32"
+    },
+    "properties": {}
+}

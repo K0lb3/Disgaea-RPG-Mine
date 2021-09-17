@@ -1,0 +1,37 @@
+{
+    "fields": {
+        "certificates": "X509CertificateCollection",
+        "credentials": "ICredentials",
+        "method": "String",
+        "pipelined": "Boolean",
+        "version": "Version",
+        "force_version": "Boolean",
+        "proxy": "IWebProxy",
+        "timeout": "Int32",
+        "aborted": "Int32",
+        "redirects": "Int32",
+        "saved_exc": "Exception",
+        "locker": "Object",
+        "finished_reading": "Boolean",
+        "auto_decomp": "DecompressionMethods",
+        "auth_state": "AuthorizationState",
+        "proxy_auth_state": "AuthorizationState",
+        "host": "String",
+        "unsafe_auth_blah": "Boolean"
+    },
+    "properties": {
+        "Accept": "String",
+        "Address": "Uri",
+        "AllowWriteStreamBuffering": "Boolean",
+        "AutomaticDecompression": "DecompressionMethods",
+        "ClientCertificates": "X509CertificateCollection",
+        "Host": "String",
+        "KeepAlive": "Boolean",
+        "ReadWriteTimeout": "Int32",
+        "SendChunked": "Boolean",
+        "ServicePoint": "ServicePoint",
+        "TransferEncoding": "String",
+        "UserAgent": "String",
+        "UnsafeAuthenticatedConnectionSharing": "Boolean"
+    }
+}

@@ -1,42 +1,25 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "m_area_id": "UInt64",
+        "use_item_num": "Int32",
+        "use_item_at": "String",
+        "open_at": "String",
+        "close_at": "String",
+        "gate_stage_data": "GateStageData[]"
     },
-    {
-        "type": "ulong",
-        "name": "t_player_id",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_area_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "use_item_num",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "use_item_at",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 64
-    },
-    {
-        "type": "GateStageData[]",
-        "name": "gate_stage_data",
-        "offset": 72
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "MAreaId": "UInt64",
+        "UseItemAt": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "GateStageData": "GateStageData[]",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime",
+        "UseItemTime": "DateTime",
+        "LeftUseItemNum": "Int32"
     }
-]
+}

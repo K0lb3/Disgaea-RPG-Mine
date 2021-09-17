@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "Int32",
+        "b_exchange_id": "Int32",
+        "point": "Int32",
+        "total_point": "Int32",
+        "used_point": "Int32",
+        "badge": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "PlayerId": "Int32",
+        "ExchangeId": "Int32",
+        "Point": "Int32",
+        "TotalPoint": "Int32",
+        "UsedPoint": "Int32",
+        "Badge": "Int32"
+    }
+}

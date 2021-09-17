@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "m_product_id": "UInt64",
+        "buy_num": "Int32",
+        "limit_type": "Int32",
+        "date_key": "String"
+    },
+    "properties": {
+        "MProductId": "UInt64",
+        "BuyNum": "Int32",
+        "LimitType": "Int32",
+        "DateKey": "String"
+    }
+}

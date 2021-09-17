@@ -1,0 +1,25 @@
+{
+    "fields": {},
+    "properties": {
+        "AbsolutePath": "String",
+        "AbsoluteUri": "String",
+        "LocalPath": "String",
+        "Authority": "String",
+        "HostNameType": "UriHostNameType",
+        "IsDefaultPort": "Boolean",
+        "IsFile": "Boolean",
+        "IsLoopback": "Boolean",
+        "PathAndQuery": "String",
+        "IsUnc": "Boolean",
+        "Host": "String",
+        "Port": "Int32",
+        "Query": "String",
+        "Fragment": "String",
+        "Scheme": "String",
+        "OriginalString": "String",
+        "DnsSafeHost": "String",
+        "IsAbsoluteUri": "Boolean",
+        "UserEscaped": "Boolean",
+        "UserInfo": "String"
+    }
+}

@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "weapon_mastery_lv": "Int32",
+        "m_command_id": "UInt64"
     },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_lv",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "WeaponMasterty": "Int32",
+        "MCommandId": "UInt64"
     }
-]
+}

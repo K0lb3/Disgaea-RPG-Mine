@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "Capacity": "Int32",
+        "MaxCapacity": "Int32",
+        "Length": "Int32",
+        "Chars": "Char"
+    }
+}

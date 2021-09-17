@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "data": "ArrayList"
+    },
+    "properties": {
+        "Item": "String",
+        "Count": "Int32",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object"
+    }
+}

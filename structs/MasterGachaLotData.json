@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "m_gacha_group_id": "UInt64",
+        "rate": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_gacha_id",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_gacha_group_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "rate",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MGachaId": "UInt64",
+        "MGachaGroupId": "UInt64",
+        "Rate": "Int32"
     }
-]
+}

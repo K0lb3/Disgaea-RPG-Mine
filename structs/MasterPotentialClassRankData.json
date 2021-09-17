@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_potential_class_id": "UInt64",
+        "rank": "Int32",
+        "resource_name": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MPotentialClassId": "UInt64",
+        "Rank": "Int32",
+        "ResourceName": "String"
+    }
+}

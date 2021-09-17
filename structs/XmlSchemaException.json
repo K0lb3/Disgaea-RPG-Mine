@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "res": "String",
+        "args": "String[]",
+        "message": "String"
+    },
+    "properties": {
+        "SourceUri": "String",
+        "LineNumber": "Int32",
+        "LinePosition": "Int32",
+        "SourceSchemaObject": "XmlSchemaObject"
+    }
+}

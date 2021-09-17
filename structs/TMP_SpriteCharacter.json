@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "name": "String",
+        "hashCode": "Int32"
+    }
+}

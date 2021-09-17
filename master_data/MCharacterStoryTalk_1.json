@@ -3099,7 +3099,7 @@
         "effect": 0,
         "emotion": 0,
         "window_type": 1,
-        "talk_text": "In this school, the well-behaved students are the Evil Academy Delinquents \nand the naughty ones are honor students!"
+        "talk_text": "In this school, the well-behaved students are the Delinquent Students \nand the naughty ones are honor students!"
     },
     {
         "id": 283,
@@ -9468,7 +9468,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "It's called \"The Closing\". \nYou are wandering around the town \nfor groceries..."
+        "talk_text": "It's called \"The Cross\". \nYou are wandering around the town \nfor groceries..."
     },
     {
         "id": 862,
@@ -9490,7 +9490,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "\"Closed until further notice.\" \nThere are no groceries here... \nThere is the dreaded..."
+        "talk_text": "\"Coronavirus. Closed until further notice.\" \nCoronavirus... \nCoro...s..."
     },
     {
         "id": 864,
@@ -9501,7 +9501,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 4,
-        "talk_text": "Closing!!"
+        "talk_text": "Cross!!"
     },
     {
         "id": 865,
@@ -9831,7 +9831,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "Just like me myself, back when I was \na Evil Academy Delinquent."
+        "talk_text": "Just like me myself, back when I was \na Delinquent Student."
     },
     {
         "id": 895,
@@ -10084,7 +10084,7 @@
         "effect": 0,
         "emotion": 1,
         "window_type": 2,
-        "talk_text": "Mao is Evil Academy Dean Academy \nand the No.1 Freshman Leader. \nHe's no doubt the strongest honor student in the Netherworld."
+        "talk_text": "Mao is the Dean of Evil Academy \nand the No.1 Freshman Leader. \nHe's no doubt the strongest honor student in the Netherworld."
     },
     {
         "id": 918,

@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "Int64",
+        "t_player_id": "Int32",
+        "m_trophy_id": "UInt64",
+        "del_flg": "Boolean",
+        "created_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "Int64",
+        "TPlayerId": "Int32",
+        "MTrophyId": "UInt64",
+        "DelFlg": "Boolean",
+        "CreatedAt": "String",
+        "UpdatedAt": "String"
+    }
+}

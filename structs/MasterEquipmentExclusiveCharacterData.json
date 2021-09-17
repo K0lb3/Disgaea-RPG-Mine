@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_equipment_id": "UInt64",
+        "m_character_id": "UInt64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MEquipmentId": "UInt64",
+        "MCharacterId": "UInt64"
+    }
+}

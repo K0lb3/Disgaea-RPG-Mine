@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "firstAdjustmentRecord": "TMP_GlyphAdjustmentRecord",
+        "secondAdjustmentRecord": "TMP_GlyphAdjustmentRecord",
+        "featureLookupFlags": "FontFeatureLookupFlags"
+    }
+}

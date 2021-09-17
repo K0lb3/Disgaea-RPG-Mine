@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "_token": "IntPtr",
+        "_type": "String",
+        "_account": "WindowsAccountType",
+        "_authenticated": "Boolean",
+        "_name": "String",
+        "_info": "SerializationInfo"
+    },
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "BackKeyObserver": "BackKeyObserver",
+        "Callback": "UnityAction`1",
+        "OnCloseWindowCallback": "UnityAction`1"
+    }
+}

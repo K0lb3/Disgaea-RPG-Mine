@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "m_name": "String",
+        "culture": "Int32",
+        "collator": "SimpleCollator"
+    },
+    "properties": {
+        "Name": "String"
+    }
+}

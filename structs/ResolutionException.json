@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Member": "MemberReference",
+        "Scope": "IMetadataScope"
+    }
+}

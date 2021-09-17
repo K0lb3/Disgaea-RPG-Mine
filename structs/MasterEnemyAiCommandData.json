@@ -1,67 +1,32 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "battle_type": "Int32",
+        "m_enemy_id": "UInt64",
+        "priority": "Int32",
+        "m_command_id": "UInt64",
+        "command_lv": "Int32",
+        "trigger_target": "Int32",
+        "trigger_status": "Int32",
+        "trigger_param": "Int32",
+        "use_count": "Int32",
+        "rate": "Int32",
+        "target_status": "Int32",
+        "target_param": "Int32"
     },
-    {
-        "type": "int",
-        "name": "battle_type",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_enemy_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "priority",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "command_lv",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "trigger_target",
-        "offset": 60
-    },
-    {
-        "type": "int",
-        "name": "trigger_status",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "trigger_param",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "use_count",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "rate",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "target_status",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "target_param",
-        "offset": 84
+    "properties": {
+        "Id": "UInt64",
+        "BattleType": "Int32",
+        "MEnemyId": "UInt64",
+        "Priority": "Int32",
+        "MCommandId": "UInt64",
+        "CommandLv": "Int32",
+        "TriggerTarget": "Int32",
+        "TriggerStatus": "Int32",
+        "TriggerParam": "Int32",
+        "UseCount": "Int32",
+        "Rate": "Int32",
+        "TargetStatus": "Int32",
+        "TargetParam": "Int32"
     }
-]
+}

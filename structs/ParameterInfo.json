@@ -1,0 +1,15 @@
+{
+    "fields": {},
+    "properties": {
+        "ParameterType": "Type",
+        "Attributes": "ParameterAttributes",
+        "IsIn": "Boolean",
+        "IsOptional": "Boolean",
+        "IsOut": "Boolean",
+        "IsRetval": "Boolean",
+        "Member": "MemberInfo",
+        "Name": "String",
+        "Position": "Int32",
+        "DefaultValue": "Object"
+    }
+}

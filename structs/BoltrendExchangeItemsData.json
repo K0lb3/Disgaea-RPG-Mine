@@ -1,0 +1,28 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "b_exchange_id": "UInt64",
+        "item_type": "Int32",
+        "item_id": "Int32",
+        "item_num": "Int32",
+        "rarity": "Int32",
+        "limit_num": "Int32",
+        "price": "Int32",
+        "created_at": "String",
+        "updated_at": "String",
+        "data": "ExchangeItemData",
+        "is_limit": "Boolean"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "ExchangeId": "UInt64",
+        "ItemType": "Int32",
+        "ItemId": "Int32",
+        "ItemNum": "Int32",
+        "Rarity": "Int32",
+        "LimitNum": "Int32",
+        "Price": "Int32",
+        "CreatedAt": "String",
+        "UpdatedAt": "String"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "stone_type": "Int32",
+        "num": "Int32",
+        "num_used": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "StoneType": "Int32",
+        "Num": "Int32",
+        "NumUsed": "Int32"
+    }
+}

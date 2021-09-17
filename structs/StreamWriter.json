@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "stream": "Stream",
+        "encoding": "Encoding",
+        "encoder": "Encoder",
+        "closable": "Boolean"
+    },
+    "properties": {
+        "BaseStream": "Stream"
+    }
+}

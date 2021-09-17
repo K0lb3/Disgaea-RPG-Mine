@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "t_raid_status": "PlayerRaidData",
+        "exist_present": "Boolean",
+        "already_get_present": "Boolean"
+    },
+    "properties": {
+        "TRaidStatus": "PlayerRaidData",
+        "ExistPresent": "Boolean",
+        "AlreadyGetPresent": "Boolean"
+    }
+}

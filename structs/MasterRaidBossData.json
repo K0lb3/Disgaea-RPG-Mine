@@ -1,12 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_raid_id": "UInt64",
+        "m_character_id": "UInt64",
+        "resource_name": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_raid_id",
-        "offset": 24
+    "properties": {
+        "Id": "UInt64",
+        "MRaidId": "UInt64",
+        "MCharacterId": "UInt64",
+        "ResourceName": "String"
     }
-]
+}

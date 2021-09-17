@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "SyncRoot": "Object",
+        "IsSynchronized": "Boolean",
+        "Count": "Int32",
+        "Item": "Capture"
+    }
+}

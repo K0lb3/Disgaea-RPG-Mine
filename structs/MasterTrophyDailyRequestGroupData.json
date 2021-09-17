@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "category": "Int32",
+        "sort": "Int32",
+        "open_at": "String",
+        "close_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Category": "Int32",
+        "Sort": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String"
+    }
+}

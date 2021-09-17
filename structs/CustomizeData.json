@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "objs": "List`1",
+        "bytes": "Byte[]"
+    },
+    "properties": {
+        "TypeName": "String",
+        "refType": "RefType"
+    }
+}

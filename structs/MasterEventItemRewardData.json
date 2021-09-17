@@ -1,47 +1,25 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_event_id": "UInt64",
+        "step": "Int32",
+        "m_item_id": "UInt64",
+        "consume_num": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "step",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "consume_num",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 52
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 68
+    "properties": {
+        "Id": "UInt64",
+        "EventId": "UInt64",
+        "Step": "Int32",
+        "MItemId": "UInt64",
+        "ConsumeNum": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "rewardData": "RewardData"
     }
-]
+}

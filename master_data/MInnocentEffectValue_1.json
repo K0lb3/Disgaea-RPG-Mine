@@ -1,0 +1,1482 @@
+[
+    {
+        "id": 101,
+        "effect_type": 1,
+        "rank": 1,
+        "min_value": 1.5,
+        "max_value": 1.7999999523162842,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 102,
+        "effect_type": 1,
+        "rank": 2,
+        "min_value": 1.7999999523162842,
+        "max_value": 2.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 103,
+        "effect_type": 1,
+        "rank": 3,
+        "min_value": 2.0,
+        "max_value": 2.200000047683716,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 104,
+        "effect_type": 1,
+        "rank": 4,
+        "min_value": 2.200000047683716,
+        "max_value": 2.5,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 105,
+        "effect_type": 1,
+        "rank": 5,
+        "min_value": 3.0,
+        "max_value": 3.5,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 106,
+        "effect_type": 1,
+        "rank": 6,
+        "min_value": 3.5,
+        "max_value": 3.700000047683716,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 107,
+        "effect_type": 1,
+        "rank": 7,
+        "min_value": 3.700000047683716,
+        "max_value": 4.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 108,
+        "effect_type": 1,
+        "rank": 8,
+        "min_value": 4.0,
+        "max_value": 4.5,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 109,
+        "effect_type": 1,
+        "rank": 9,
+        "min_value": 5.5,
+        "max_value": 5.699999809265137,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 110,
+        "effect_type": 1,
+        "rank": 10,
+        "min_value": 5.800000190734863,
+        "max_value": 6.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 201,
+        "effect_type": 2,
+        "rank": 1,
+        "min_value": 0.30000001192092896,
+        "max_value": 0.4000000059604645,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 202,
+        "effect_type": 2,
+        "rank": 2,
+        "min_value": 0.4000000059604645,
+        "max_value": 0.5,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 203,
+        "effect_type": 2,
+        "rank": 3,
+        "min_value": 0.5,
+        "max_value": 0.6000000238418579,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 204,
+        "effect_type": 2,
+        "rank": 4,
+        "min_value": 0.6000000238418579,
+        "max_value": 0.699999988079071,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 205,
+        "effect_type": 2,
+        "rank": 5,
+        "min_value": 1.100000023841858,
+        "max_value": 1.2000000476837158,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 206,
+        "effect_type": 2,
+        "rank": 6,
+        "min_value": 1.2000000476837158,
+        "max_value": 1.2999999523162842,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 207,
+        "effect_type": 2,
+        "rank": 7,
+        "min_value": 1.2999999523162842,
+        "max_value": 1.399999976158142,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 208,
+        "effect_type": 2,
+        "rank": 8,
+        "min_value": 1.399999976158142,
+        "max_value": 1.5,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 209,
+        "effect_type": 2,
+        "rank": 9,
+        "min_value": 1.7999999523162842,
+        "max_value": 1.899999976158142,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 210,
+        "effect_type": 2,
+        "rank": 10,
+        "min_value": 1.899999976158142,
+        "max_value": 2.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 301,
+        "effect_type": 3,
+        "rank": 1,
+        "min_value": 0.20000000298023224,
+        "max_value": 0.30000001192092896,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 302,
+        "effect_type": 3,
+        "rank": 2,
+        "min_value": 0.20000000298023224,
+        "max_value": 0.30000001192092896,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 303,
+        "effect_type": 3,
+        "rank": 3,
+        "min_value": 0.30000001192092896,
+        "max_value": 0.4000000059604645,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 304,
+        "effect_type": 3,
+        "rank": 4,
+        "min_value": 0.30000001192092896,
+        "max_value": 0.4000000059604645,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 305,
+        "effect_type": 3,
+        "rank": 5,
+        "min_value": 0.5,
+        "max_value": 0.6000000238418579,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 306,
+        "effect_type": 3,
+        "rank": 6,
+        "min_value": 0.6000000238418579,
+        "max_value": 0.699999988079071,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 307,
+        "effect_type": 3,
+        "rank": 7,
+        "min_value": 0.6000000238418579,
+        "max_value": 0.699999988079071,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 308,
+        "effect_type": 3,
+        "rank": 8,
+        "min_value": 0.699999988079071,
+        "max_value": 0.800000011920929,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 309,
+        "effect_type": 3,
+        "rank": 9,
+        "min_value": 0.8999999761581421,
+        "max_value": 0.8999999761581421,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 310,
+        "effect_type": 3,
+        "rank": 10,
+        "min_value": 1.0,
+        "max_value": 1.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 401,
+        "effect_type": 4,
+        "rank": 1,
+        "min_value": 3200.0,
+        "max_value": 3200.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 402,
+        "effect_type": 4,
+        "rank": 2,
+        "min_value": 4800.0,
+        "max_value": 4800.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 403,
+        "effect_type": 4,
+        "rank": 3,
+        "min_value": 6400.0,
+        "max_value": 6400.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 404,
+        "effect_type": 4,
+        "rank": 4,
+        "min_value": 8000.0,
+        "max_value": 8000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 405,
+        "effect_type": 4,
+        "rank": 5,
+        "min_value": 16000.0,
+        "max_value": 16000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 406,
+        "effect_type": 4,
+        "rank": 6,
+        "min_value": 17600.0,
+        "max_value": 17600.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 407,
+        "effect_type": 4,
+        "rank": 7,
+        "min_value": 20800.0,
+        "max_value": 20800.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 408,
+        "effect_type": 4,
+        "rank": 8,
+        "min_value": 24000.0,
+        "max_value": 24000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 409,
+        "effect_type": 4,
+        "rank": 9,
+        "min_value": 28800.0,
+        "max_value": 28800.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 410,
+        "effect_type": 4,
+        "rank": 10,
+        "min_value": 32000.0,
+        "max_value": 32000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 501,
+        "effect_type": 5,
+        "rank": 1,
+        "min_value": 4800.0,
+        "max_value": 4800.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 502,
+        "effect_type": 5,
+        "rank": 2,
+        "min_value": 7200.0,
+        "max_value": 7200.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 503,
+        "effect_type": 5,
+        "rank": 3,
+        "min_value": 9600.0,
+        "max_value": 9600.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 504,
+        "effect_type": 5,
+        "rank": 4,
+        "min_value": 12000.0,
+        "max_value": 12000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 505,
+        "effect_type": 5,
+        "rank": 5,
+        "min_value": 24000.0,
+        "max_value": 24000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 506,
+        "effect_type": 5,
+        "rank": 6,
+        "min_value": 26400.0,
+        "max_value": 26400.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 507,
+        "effect_type": 5,
+        "rank": 7,
+        "min_value": 31200.0,
+        "max_value": 31200.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 508,
+        "effect_type": 5,
+        "rank": 8,
+        "min_value": 36000.0,
+        "max_value": 36000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 509,
+        "effect_type": 5,
+        "rank": 9,
+        "min_value": 43200.0,
+        "max_value": 43200.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 510,
+        "effect_type": 5,
+        "rank": 10,
+        "min_value": 48000.0,
+        "max_value": 48000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 601,
+        "effect_type": 6,
+        "rank": 1,
+        "min_value": 9600.0,
+        "max_value": 9600.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 602,
+        "effect_type": 6,
+        "rank": 2,
+        "min_value": 14400.0,
+        "max_value": 14400.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 603,
+        "effect_type": 6,
+        "rank": 3,
+        "min_value": 19200.0,
+        "max_value": 19200.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 604,
+        "effect_type": 6,
+        "rank": 4,
+        "min_value": 24000.0,
+        "max_value": 24000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 605,
+        "effect_type": 6,
+        "rank": 5,
+        "min_value": 48000.0,
+        "max_value": 48000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 606,
+        "effect_type": 6,
+        "rank": 6,
+        "min_value": 52800.0,
+        "max_value": 52800.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 607,
+        "effect_type": 6,
+        "rank": 7,
+        "min_value": 62400.0,
+        "max_value": 62400.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 608,
+        "effect_type": 6,
+        "rank": 8,
+        "min_value": 72000.0,
+        "max_value": 72000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 609,
+        "effect_type": 6,
+        "rank": 9,
+        "min_value": 86400.0,
+        "max_value": 86400.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 610,
+        "effect_type": 6,
+        "rank": 10,
+        "min_value": 96000.0,
+        "max_value": 96000.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 701,
+        "effect_type": 7,
+        "rank": 1,
+        "min_value": 10.0,
+        "max_value": 10.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 702,
+        "effect_type": 7,
+        "rank": 2,
+        "min_value": 15.0,
+        "max_value": 15.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 703,
+        "effect_type": 7,
+        "rank": 3,
+        "min_value": 20.0,
+        "max_value": 20.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 704,
+        "effect_type": 7,
+        "rank": 4,
+        "min_value": 25.0,
+        "max_value": 25.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 705,
+        "effect_type": 7,
+        "rank": 5,
+        "min_value": 50.0,
+        "max_value": 50.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 706,
+        "effect_type": 7,
+        "rank": 6,
+        "min_value": 55.0,
+        "max_value": 55.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 707,
+        "effect_type": 7,
+        "rank": 7,
+        "min_value": 65.0,
+        "max_value": 65.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 708,
+        "effect_type": 7,
+        "rank": 8,
+        "min_value": 75.0,
+        "max_value": 75.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 709,
+        "effect_type": 7,
+        "rank": 9,
+        "min_value": 90.0,
+        "max_value": 90.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 710,
+        "effect_type": 7,
+        "rank": 10,
+        "min_value": 100.0,
+        "max_value": 100.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 801,
+        "effect_type": 8,
+        "rank": 1,
+        "min_value": 3.0999999046325684,
+        "max_value": 3.200000047683716,
+        "weapon_additional_value": 1.7000000476837158,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 802,
+        "effect_type": 8,
+        "rank": 2,
+        "min_value": 3.299999952316284,
+        "max_value": 3.4000000953674316,
+        "weapon_additional_value": 1.7999999523162842,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 803,
+        "effect_type": 8,
+        "rank": 3,
+        "min_value": 3.5,
+        "max_value": 3.5999999046325684,
+        "weapon_additional_value": 1.899999976158142,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 804,
+        "effect_type": 8,
+        "rank": 4,
+        "min_value": 3.700000047683716,
+        "max_value": 3.799999952316284,
+        "weapon_additional_value": 2.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 805,
+        "effect_type": 8,
+        "rank": 5,
+        "min_value": 4.0,
+        "max_value": 4.099999904632568,
+        "weapon_additional_value": 2.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 806,
+        "effect_type": 8,
+        "rank": 6,
+        "min_value": 4.199999809265137,
+        "max_value": 4.400000095367432,
+        "weapon_additional_value": 2.5,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 807,
+        "effect_type": 8,
+        "rank": 7,
+        "min_value": 4.5,
+        "max_value": 4.800000190734863,
+        "weapon_additional_value": 2.700000047683716,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 808,
+        "effect_type": 8,
+        "rank": 8,
+        "min_value": 4.900000095367432,
+        "max_value": 5.199999809265137,
+        "weapon_additional_value": 3.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 809,
+        "effect_type": 8,
+        "rank": 9,
+        "min_value": 5.5,
+        "max_value": 5.5,
+        "weapon_additional_value": 3.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 810,
+        "effect_type": 8,
+        "rank": 10,
+        "min_value": 5.599999904632568,
+        "max_value": 6.0,
+        "weapon_additional_value": 3.5999999046325684,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 901,
+        "effect_type": 9,
+        "rank": 11,
+        "min_value": 9.0,
+        "max_value": 9.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 1001,
+        "effect_type": 10,
+        "rank": 11,
+        "min_value": 150.0,
+        "max_value": 150.0,
+        "weapon_additional_value": 0.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 1101,
+        "effect_type": 11,
+        "rank": 4,
+        "min_value": 12000.0,
+        "max_value": 12000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 2
+    },
+    {
+        "id": 1102,
+        "effect_type": 11,
+        "rank": 4,
+        "min_value": 18000.0,
+        "max_value": 18000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 1201,
+        "effect_type": 12,
+        "rank": 8,
+        "min_value": 36000.0,
+        "max_value": 36000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 2
+    },
+    {
+        "id": 1202,
+        "effect_type": 12,
+        "rank": 8,
+        "min_value": 54000.0,
+        "max_value": 54000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 1301,
+        "effect_type": 13,
+        "rank": 10,
+        "min_value": 48000.0,
+        "max_value": 48000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 2
+    },
+    {
+        "id": 1302,
+        "effect_type": 13,
+        "rank": 10,
+        "min_value": 72000.0,
+        "max_value": 72000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 1401,
+        "effect_type": 14,
+        "rank": 4,
+        "min_value": 12000.0,
+        "max_value": 12000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 4
+    },
+    {
+        "id": 1402,
+        "effect_type": 14,
+        "rank": 4,
+        "min_value": 18000.0,
+        "max_value": 18000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 1501,
+        "effect_type": 15,
+        "rank": 8,
+        "min_value": 36000.0,
+        "max_value": 36000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 4
+    },
+    {
+        "id": 1502,
+        "effect_type": 15,
+        "rank": 8,
+        "min_value": 54000.0,
+        "max_value": 54000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 1601,
+        "effect_type": 16,
+        "rank": 10,
+        "min_value": 48000.0,
+        "max_value": 48000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 4
+    },
+    {
+        "id": 1602,
+        "effect_type": 16,
+        "rank": 10,
+        "min_value": 72000.0,
+        "max_value": 72000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 1701,
+        "effect_type": 17,
+        "rank": 4,
+        "min_value": 36000.0,
+        "max_value": 36000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 1702,
+        "effect_type": 17,
+        "rank": 4,
+        "min_value": 18000.0,
+        "max_value": 18000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 1801,
+        "effect_type": 18,
+        "rank": 8,
+        "min_value": 108000.0,
+        "max_value": 108000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 1802,
+        "effect_type": 18,
+        "rank": 8,
+        "min_value": 54000.0,
+        "max_value": 54000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 1901,
+        "effect_type": 19,
+        "rank": 10,
+        "min_value": 144000.0,
+        "max_value": 144000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 1902,
+        "effect_type": 19,
+        "rank": 10,
+        "min_value": 72000.0,
+        "max_value": 72000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 3
+    },
+    {
+        "id": 2001,
+        "effect_type": 20,
+        "rank": 4,
+        "min_value": 36000.0,
+        "max_value": 36000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 2002,
+        "effect_type": 20,
+        "rank": 4,
+        "min_value": 18000.0,
+        "max_value": 18000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 2101,
+        "effect_type": 21,
+        "rank": 8,
+        "min_value": 108000.0,
+        "max_value": 108000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 2102,
+        "effect_type": 21,
+        "rank": 8,
+        "min_value": 54000.0,
+        "max_value": 54000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 2201,
+        "effect_type": 22,
+        "rank": 10,
+        "min_value": 144000.0,
+        "max_value": 144000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 2202,
+        "effect_type": 22,
+        "rank": 10,
+        "min_value": 72000.0,
+        "max_value": 72000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 5
+    },
+    {
+        "id": 2301,
+        "effect_type": 23,
+        "rank": 4,
+        "min_value": 0.6000000238418579,
+        "max_value": 0.6000000238418579,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 7
+    },
+    {
+        "id": 2302,
+        "effect_type": 23,
+        "rank": 4,
+        "min_value": 0.6000000238418579,
+        "max_value": 0.6000000238418579,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 8
+    },
+    {
+        "id": 2401,
+        "effect_type": 24,
+        "rank": 8,
+        "min_value": 1.5,
+        "max_value": 1.5,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 7
+    },
+    {
+        "id": 2402,
+        "effect_type": 24,
+        "rank": 8,
+        "min_value": 1.5,
+        "max_value": 1.5,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 8
+    },
+    {
+        "id": 2501,
+        "effect_type": 25,
+        "rank": 10,
+        "min_value": 2.0,
+        "max_value": 2.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 7
+    },
+    {
+        "id": 2502,
+        "effect_type": 25,
+        "rank": 10,
+        "min_value": 2.0,
+        "max_value": 2.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 8
+    },
+    {
+        "id": 2601,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 168000.0,
+        "max_value": 168000.0,
+        "weapon_additional_value": 0.0,
+        "position": 1,
+        "effect_kind": 1
+    },
+    {
+        "id": 2602,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 56000.0,
+        "max_value": 56000.0,
+        "weapon_additional_value": 0.0,
+        "position": 2,
+        "effect_kind": 2
+    },
+    {
+        "id": 2603,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 84000.0,
+        "max_value": 84000.0,
+        "weapon_additional_value": 0.0,
+        "position": 3,
+        "effect_kind": 3
+    },
+    {
+        "id": 2604,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 56000.0,
+        "max_value": 56000.0,
+        "weapon_additional_value": 0.0,
+        "position": 4,
+        "effect_kind": 4
+    },
+    {
+        "id": 2605,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 84000.0,
+        "max_value": 84000.0,
+        "weapon_additional_value": 0.0,
+        "position": 5,
+        "effect_kind": 5
+    },
+    {
+        "id": 2606,
+        "effect_type": 26,
+        "rank": 10,
+        "min_value": 1.0,
+        "max_value": 1.0,
+        "weapon_additional_value": 0.0,
+        "position": 6,
+        "effect_kind": 6
+    },
+    {
+        "id": 2701,
+        "effect_type": 27,
+        "rank": 1,
+        "min_value": 3.0999999046325684,
+        "max_value": 3.200000047683716,
+        "weapon_additional_value": 1.7000000476837158,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2702,
+        "effect_type": 27,
+        "rank": 2,
+        "min_value": 3.299999952316284,
+        "max_value": 3.4000000953674316,
+        "weapon_additional_value": 1.7999999523162842,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2703,
+        "effect_type": 27,
+        "rank": 3,
+        "min_value": 3.5,
+        "max_value": 3.5999999046325684,
+        "weapon_additional_value": 1.899999976158142,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2704,
+        "effect_type": 27,
+        "rank": 4,
+        "min_value": 3.700000047683716,
+        "max_value": 3.799999952316284,
+        "weapon_additional_value": 2.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2705,
+        "effect_type": 27,
+        "rank": 5,
+        "min_value": 4.0,
+        "max_value": 4.099999904632568,
+        "weapon_additional_value": 2.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2706,
+        "effect_type": 27,
+        "rank": 6,
+        "min_value": 4.199999809265137,
+        "max_value": 4.400000095367432,
+        "weapon_additional_value": 2.5,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2707,
+        "effect_type": 27,
+        "rank": 7,
+        "min_value": 4.5,
+        "max_value": 4.800000190734863,
+        "weapon_additional_value": 2.700000047683716,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2708,
+        "effect_type": 27,
+        "rank": 8,
+        "min_value": 4.900000095367432,
+        "max_value": 5.199999809265137,
+        "weapon_additional_value": 3.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2709,
+        "effect_type": 27,
+        "rank": 9,
+        "min_value": 5.5,
+        "max_value": 5.5,
+        "weapon_additional_value": 3.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2710,
+        "effect_type": 27,
+        "rank": 10,
+        "min_value": 5.599999904632568,
+        "max_value": 6.0,
+        "weapon_additional_value": 3.5999999046325684,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2801,
+        "effect_type": 28,
+        "rank": 1,
+        "min_value": 3.0999999046325684,
+        "max_value": 3.200000047683716,
+        "weapon_additional_value": 1.7000000476837158,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2802,
+        "effect_type": 28,
+        "rank": 2,
+        "min_value": 3.299999952316284,
+        "max_value": 3.4000000953674316,
+        "weapon_additional_value": 1.7999999523162842,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2803,
+        "effect_type": 28,
+        "rank": 3,
+        "min_value": 3.5,
+        "max_value": 3.5999999046325684,
+        "weapon_additional_value": 1.899999976158142,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2804,
+        "effect_type": 28,
+        "rank": 4,
+        "min_value": 3.700000047683716,
+        "max_value": 3.799999952316284,
+        "weapon_additional_value": 2.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2805,
+        "effect_type": 28,
+        "rank": 5,
+        "min_value": 4.0,
+        "max_value": 4.099999904632568,
+        "weapon_additional_value": 2.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2806,
+        "effect_type": 28,
+        "rank": 6,
+        "min_value": 4.199999809265137,
+        "max_value": 4.400000095367432,
+        "weapon_additional_value": 2.5,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2807,
+        "effect_type": 28,
+        "rank": 7,
+        "min_value": 4.5,
+        "max_value": 4.800000190734863,
+        "weapon_additional_value": 2.700000047683716,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2808,
+        "effect_type": 28,
+        "rank": 8,
+        "min_value": 4.900000095367432,
+        "max_value": 5.199999809265137,
+        "weapon_additional_value": 3.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2809,
+        "effect_type": 28,
+        "rank": 9,
+        "min_value": 5.5,
+        "max_value": 5.5,
+        "weapon_additional_value": 3.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2810,
+        "effect_type": 28,
+        "rank": 10,
+        "min_value": 5.599999904632568,
+        "max_value": 6.0,
+        "weapon_additional_value": 3.5999999046325684,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2901,
+        "effect_type": 29,
+        "rank": 1,
+        "min_value": 3.0999999046325684,
+        "max_value": 3.200000047683716,
+        "weapon_additional_value": 1.7000000476837158,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2902,
+        "effect_type": 29,
+        "rank": 2,
+        "min_value": 3.299999952316284,
+        "max_value": 3.4000000953674316,
+        "weapon_additional_value": 1.7999999523162842,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2903,
+        "effect_type": 29,
+        "rank": 3,
+        "min_value": 3.5,
+        "max_value": 3.5999999046325684,
+        "weapon_additional_value": 1.899999976158142,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2904,
+        "effect_type": 29,
+        "rank": 4,
+        "min_value": 3.700000047683716,
+        "max_value": 3.799999952316284,
+        "weapon_additional_value": 2.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2905,
+        "effect_type": 29,
+        "rank": 5,
+        "min_value": 4.0,
+        "max_value": 4.099999904632568,
+        "weapon_additional_value": 2.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2906,
+        "effect_type": 29,
+        "rank": 6,
+        "min_value": 4.199999809265137,
+        "max_value": 4.400000095367432,
+        "weapon_additional_value": 2.5,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2907,
+        "effect_type": 29,
+        "rank": 7,
+        "min_value": 4.5,
+        "max_value": 4.800000190734863,
+        "weapon_additional_value": 2.700000047683716,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2908,
+        "effect_type": 29,
+        "rank": 8,
+        "min_value": 4.900000095367432,
+        "max_value": 5.199999809265137,
+        "weapon_additional_value": 3.0,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2909,
+        "effect_type": 29,
+        "rank": 9,
+        "min_value": 5.5,
+        "max_value": 5.5,
+        "weapon_additional_value": 3.299999952316284,
+        "position": 0,
+        "effect_kind": 0
+    },
+    {
+        "id": 2910,
+        "effect_type": 29,
+        "rank": 10,
+        "min_value": 5.599999904632568,
+        "max_value": 6.0,
+        "weapon_additional_value": 3.5999999046325684,
+        "position": 0,
+        "effect_kind": 0
+    }
+]

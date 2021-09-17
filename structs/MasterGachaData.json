@@ -1,97 +1,51 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_series_id": "UInt64",
+        "m_gacha_series_order": "Int32",
+        "gacha_type": "Int32",
+        "name": "String",
+        "price_type": "Int32",
+        "prices": "Int32[]",
+        "gacha_nums": "Int32[]",
+        "limit_type": "Int32",
+        "limit_num": "Int32",
+        "fix_m_gacha_group_ids": "UInt64[]",
+        "campaign_type": "Int32",
+        "count_bonus_intervals": "Int32[]",
+        "count_bonus_loop_max": "Int32",
+        "count_bonus_m_gacha_group_ids": "UInt64[]",
+        "count_bonus_max": "Int32",
+        "resource_name": "String",
+        "sort": "Int32",
+        "probability_text": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "int",
-        "name": "gacha_type",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "price_type",
-        "offset": 40
-    },
-    {
-        "type": "int[]",
-        "name": "prices",
-        "offset": 48
-    },
-    {
-        "type": "int[]",
-        "name": "gacha_nums",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "limit_type",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "limit_num",
-        "offset": 68
-    },
-    {
-        "type": "ulong[]",
-        "name": "fix_m_gacha_group_ids",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "campaign_type",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "count_bonus_interval",
-        "offset": 84
-    },
-    {
-        "type": "int",
-        "name": "count_bonus_loop_max",
-        "offset": 88
-    },
-    {
-        "type": "ulong",
-        "name": "count_bonus_m_gacha_group_id",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "count_bonus_max",
-        "offset": 104
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 112
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 120
-    },
-    {
-        "type": "string",
-        "name": "probability_text",
-        "offset": 128
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 136
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 144
+    "properties": {
+        "Id": "UInt64",
+        "MGachaSeriesId": "UInt64",
+        "MGachaSeriesOrder": "Int32",
+        "GachaType": "Int32",
+        "Name": "String",
+        "PriceType": "Int32",
+        "Prices": "Int32[]",
+        "GachaNums": "Int32[]",
+        "LimitType": "Int32",
+        "LimitNum": "Int32",
+        "FixMGachaGroupIds": "UInt64[]",
+        "CampaignType": "Int32",
+        "CountBonusIntervals": "Int32[]",
+        "CountBonusLoopMax": "Int32",
+        "CountBonusMGachaGroupIds": "UInt64[]",
+        "CountBonusMax": "Int32",
+        "ResourceName": "String",
+        "Sort": "Int32",
+        "ProbabilityText": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime",
+        "IsPermanent": "Boolean"
     }
-]
+}

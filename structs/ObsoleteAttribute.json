@@ -1,0 +1,7 @@
+{
+    "fields": {
+        "_message": "String",
+        "_error": "Boolean"
+    },
+    "properties": {}
+}

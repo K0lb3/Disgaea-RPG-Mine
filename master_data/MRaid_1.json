@@ -10,5 +10,59 @@
         "m_event_id": 24,
         "appearing_time": 10800,
         "battle_time": 15
+    },
+    {
+        "id": 3,
+        "m_event_id": 42,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 4,
+        "m_event_id": 50,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 5,
+        "m_event_id": 55,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 6,
+        "m_event_id": 60,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 7,
+        "m_event_id": 65,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 8,
+        "m_event_id": 69,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 9,
+        "m_event_id": 72,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 10,
+        "m_event_id": 81,
+        "appearing_time": 10800,
+        "battle_time": 15
+    },
+    {
+        "id": 11,
+        "m_event_id": 89,
+        "appearing_time": 10800,
+        "battle_time": 15
     }
 ]

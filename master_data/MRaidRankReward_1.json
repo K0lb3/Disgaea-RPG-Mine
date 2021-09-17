@@ -158,5 +158,725 @@
         "minimum_rank": 10001,
         "maximum_rank": 0,
         "ribbon_rank": 4
+    },
+    {
+        "id": 4200001,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 4200002,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 4200003,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 4200004,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 4200005,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 4200006,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 4200007,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 4200008,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 4200009,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 4200010,
+        "m_raid_id": 3,
+        "m_raid_reward_group_id": 4200010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 5000001,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5000002,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5000003,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5000004,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 5000005,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 5000006,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5000007,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5000008,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5000009,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 5000010,
+        "m_raid_id": 4,
+        "m_raid_reward_group_id": 5000010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 5500001,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5500002,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5500003,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 5500004,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 5500005,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 5500006,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5500007,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5500008,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 5500009,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 5500010,
+        "m_raid_id": 5,
+        "m_raid_reward_group_id": 5500010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6000001,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6000002,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6000003,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6000004,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6000005,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6000006,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6000007,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6000008,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6000009,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6000010,
+        "m_raid_id": 6,
+        "m_raid_reward_group_id": 6000010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6500001,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6500002,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6500003,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6500004,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6500005,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6500006,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6500007,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6500008,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6500009,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6500010,
+        "m_raid_id": 7,
+        "m_raid_reward_group_id": 6500010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6900001,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6900002,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6900003,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 6900004,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6900005,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 6900006,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6900007,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6900008,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 6900009,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 6900010,
+        "m_raid_id": 8,
+        "m_raid_reward_group_id": 6900010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 7200001,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 7200002,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 7200003,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 7200004,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 7200005,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 7200006,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 7200007,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 7200008,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 7200009,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 7200010,
+        "m_raid_id": 9,
+        "m_raid_reward_group_id": 7200010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 8100001,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8100002,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8100003,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8100004,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 8100005,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 8100006,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8100007,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8100008,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8100009,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 8100010,
+        "m_raid_id": 10,
+        "m_raid_reward_group_id": 8100010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 8900001,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900001,
+        "minimum_rank": 1,
+        "maximum_rank": 1,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8900002,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900002,
+        "minimum_rank": 2,
+        "maximum_rank": 2,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8900003,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900003,
+        "minimum_rank": 3,
+        "maximum_rank": 3,
+        "ribbon_rank": 1
+    },
+    {
+        "id": 8900004,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900004,
+        "minimum_rank": 4,
+        "maximum_rank": 10,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 8900005,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900005,
+        "minimum_rank": 11,
+        "maximum_rank": 100,
+        "ribbon_rank": 2
+    },
+    {
+        "id": 8900006,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900006,
+        "minimum_rank": 101,
+        "maximum_rank": 500,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8900007,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900007,
+        "minimum_rank": 501,
+        "maximum_rank": 1000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8900008,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900008,
+        "minimum_rank": 1001,
+        "maximum_rank": 5000,
+        "ribbon_rank": 3
+    },
+    {
+        "id": 8900009,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900009,
+        "minimum_rank": 5001,
+        "maximum_rank": 10000,
+        "ribbon_rank": 4
+    },
+    {
+        "id": 8900010,
+        "m_raid_id": 11,
+        "m_raid_reward_group_id": 8900010,
+        "minimum_rank": 10001,
+        "maximum_rank": 0,
+        "ribbon_rank": 4
     }
 ]

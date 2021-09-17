@@ -1,17 +1,12 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "rarity": "Int32"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "rarity",
-        "offset": 32
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "Rarity": "Int32"
     }
-]
+}

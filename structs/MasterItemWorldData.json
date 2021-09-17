@@ -1,37 +1,20 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "no": "Int32",
+        "boss_type": "Int32",
+        "bgm": "String",
+        "boss_bgm": "String",
+        "bg_id": "Int32",
+        "correct_rank": "Int32"
     },
-    {
-        "type": "int",
-        "name": "no",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "boss_type",
-        "offset": 28
-    },
-    {
-        "type": "string",
-        "name": "bgm",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "boss_bgm",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "bg_id",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "correct_rank",
-        "offset": 52
+    "properties": {
+        "Id": "UInt64",
+        "No": "Int32",
+        "BossType": "Int32",
+        "Bgm": "String",
+        "BossBgm": "String",
+        "BgId": "Int32",
+        "CorrectRank": "Int32"
     }
-]
+}

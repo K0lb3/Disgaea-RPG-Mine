@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "_comparer": "IEqualityComparer"
+    },
+    "properties": {
+        "Count": "Int32",
+        "IsReadOnly": "Boolean",
+        "Keys": "ICollection",
+        "Item": "Object",
+        "Values": "ICollection"
+    }
+}

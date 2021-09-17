@@ -1,0 +1,18 @@
+{
+    "fields": {},
+    "properties": {
+        "CurrencyEnglishName": "String",
+        "CurrencySymbol": "String",
+        "DisplayName": "String",
+        "EnglishName": "String",
+        "GeoId": "Int32",
+        "IsMetric": "Boolean",
+        "ISOCurrencySymbol": "String",
+        "NativeName": "String",
+        "CurrencyNativeName": "String",
+        "Name": "String",
+        "ThreeLetterISORegionName": "String",
+        "ThreeLetterWindowsRegionName": "String",
+        "TwoLetterISORegionName": "String"
+    }
+}

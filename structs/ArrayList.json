@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "_items": "Object[]",
+        "_size": "Int32",
+        "_version": "Int32"
+    },
+    "properties": {
+        "Count": "Int32",
+        "IsFixedSize": "Boolean",
+        "IsReadOnly": "Boolean",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object",
+        "Item": "Object"
+    }
+}

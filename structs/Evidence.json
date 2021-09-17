@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "_locked": "Boolean"
+    },
+    "properties": {
+        "Count": "Int32",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object"
+    }
+}

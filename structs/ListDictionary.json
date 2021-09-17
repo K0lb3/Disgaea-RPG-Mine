@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "head": "DictionaryNode",
+        "version": "Int32",
+        "count": "Int32",
+        "comparer": "IComparer"
+    },
+    "properties": {
+        "Item": "Object",
+        "Count": "Int32",
+        "Keys": "ICollection",
+        "IsReadOnly": "Boolean",
+        "IsFixedSize": "Boolean",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object",
+        "Values": "ICollection"
+    }
+}

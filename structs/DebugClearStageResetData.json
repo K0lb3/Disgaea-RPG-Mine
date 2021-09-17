@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "clear_episodes": "ClearEpisodesData[]",
+        "clear_areas": "ClearAreasData[]",
+        "clear_stages": "ClearStageData[]",
+        "t_stage_missions": "PlayerStageMissionData[]",
+        "t_stage_currents": "PlayerStageCurrentData[]"
+    },
+    "properties": {
+        "ClearEpisodes": "ClearEpisodesData[]",
+        "ClearAreas": "ClearAreasData[]",
+        "ClearStages": "ClearStageData[]",
+        "TStageMissions": "PlayerStageMissionData[]",
+        "TStageCurrents": "PlayerStageCurrentData[]"
+    }
+}

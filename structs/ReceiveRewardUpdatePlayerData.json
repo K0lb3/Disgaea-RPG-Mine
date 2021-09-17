@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "items": "PlayerItemData[]",
+        "stones": "PlayerStoneSumData[]",
+        "characters": "CharacterUserData[]",
+        "weapons": "WeaponUserData[]",
+        "equipments": "EquipmentUserData[]",
+        "innocents": "UserInnocentData[]",
+        "t_character_collections": "PlayerCharacterCollectionData[]",
+        "t_weapon_collections": "PlayerWeaponCollectionData[]",
+        "t_equipment_collections": "PlayerEquipmentCollectionData[]",
+        "status": "PlayerStatusData",
+        "t_home_customizes": "PlayerHomeCustomizeData[]",
+        "t_events": "PlayerEventData[]",
+        "t_potential_kinds": "PlayerPotentialKindData[]",
+        "t_potential_kind_conditions": "PlayerCharacterPotentialConditionData[]",
+        "innocent_kingdom_entries": "PlayerInnocentKingdomEntryData[]",
+        "weapon_equipment_kingdom_entries": "PlayerWeaponEquipmentKingdomEntryData[]"
+    },
+    "properties": {
+        "Innocents": "UserInnocentData[]"
+    }
+}

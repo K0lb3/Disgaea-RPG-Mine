@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "m_trophy_weekly_id": "UInt64"
+    },
+    "properties": {
+        "MTrophyWeeklyId": "UInt64"
+    }
+}

@@ -1,37 +1,12 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
-    },
-    {
-        "type": "ulong",
-        "name": "m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "sheet_no",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 36
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 52
+{
+    "fields": {},
+    "properties": {
+        "Id": "UInt64",
+        "EventId": "UInt64",
+        "SheetNo": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
     }
-]
+}

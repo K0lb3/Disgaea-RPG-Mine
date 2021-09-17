@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_buffer": "Byte[]",
+        "_encoding": "Encoding",
+        "_encoder": "Encoder"
+    },
+    "properties": {}
+}

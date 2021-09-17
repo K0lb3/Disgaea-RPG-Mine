@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "res": "String",
+        "args": "String[]",
+        "message": "String"
+    },
+    "properties": {}
+}

@@ -1,7 +1,10 @@
-[
-    {
-        "type": "int",
-        "name": "select_count",
-        "offset": 160
+{
+    "fields": {
+        "select_count": "Int32",
+        "product_type": "Int32"
+    },
+    "properties": {
+        "SelectCount": "Int32",
+        "ProductType": "Int32"
     }
-]
+}

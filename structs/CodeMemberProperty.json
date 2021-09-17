@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "GetStatements": "CodeStatementCollection",
+        "SetStatements": "CodeStatementCollection"
+    }
+}

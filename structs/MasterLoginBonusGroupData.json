@@ -1,17 +1,12 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 32
+    "properties": {
+        "Id": "UInt64",
+        "OpenAt": "String",
+        "CloseAt": "String"
     }
-]
+}

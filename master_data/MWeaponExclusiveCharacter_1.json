@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "m_weapon_id": 11001,
+        "m_character_id": 78
+    },
+    {
+        "id": 2,
+        "m_weapon_id": 31001,
+        "m_character_id": 86
+    },
+    {
+        "id": 3,
+        "m_weapon_id": 41001,
+        "m_character_id": 82
+    },
+    {
+        "id": 4,
+        "m_weapon_id": 61001,
+        "m_character_id": 81
+    },
+    {
+        "id": 5,
+        "m_weapon_id": 71001,
+        "m_character_id": 85
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_passport_id": "UInt64",
+        "day": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MPassportId": "UInt64",
+        "Day": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
+    }
+}

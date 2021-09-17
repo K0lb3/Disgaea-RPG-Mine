@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "Index": "Int32",
+        "Line": "Int32",
+        "Column": "Int32"
+    }
+}

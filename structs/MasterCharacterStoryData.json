@@ -1,52 +1,26 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "lv": "Int32",
+        "number": "Int32",
+        "title": "String",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "del_flg": "Boolean"
     },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "lv",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "number",
-        "offset": 36
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 68
-    },
-    {
-        "type": "bool",
-        "name": "del_flg",
-        "offset": 72
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "Lv": "Int32",
+        "Number": "Int32",
+        "Title": "String",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "DelFlg": "Boolean"
     }
-]
+}

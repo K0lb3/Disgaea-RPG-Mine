@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "battle_type": "Int32",
+        "m_enemy_id": "UInt64",
+        "enemy_leader_skill_ids": "UInt64[]"
     },
-    {
-        "type": "int",
-        "name": "battle_type",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_enemy_id",
-        "offset": 32
-    },
-    {
-        "type": "ulong[]",
-        "name": "enemy_leader_skill_ids",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "BattleType": "Int32",
+        "MEnemyId": "UInt64",
+        "MLeaderSkillIds": "UInt64[]"
     }
-]
+}

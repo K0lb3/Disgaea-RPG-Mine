@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Major": "Int32",
+        "Minor": "Int32"
+    }
+}

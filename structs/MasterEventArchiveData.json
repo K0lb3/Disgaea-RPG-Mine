@@ -1,42 +1,24 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "original_m_event_id": "UInt64",
+        "resource_name": "String",
+        "sort": "Int32",
+        "m_episode_id": "UInt64",
+        "reminiscent_m_area_id": "UInt64",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "original_m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "resource_name",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "m_episode_id",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "reminiscent_m_area_id",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 64
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 72
+    "properties": {
+        "Id": "UInt64",
+        "OriginalMEventId": "UInt64",
+        "ResourceName": "String",
+        "Sort": "Int32",
+        "MEpisodeId": "UInt64",
+        "ReminiscentMAreaId": "UInt64",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

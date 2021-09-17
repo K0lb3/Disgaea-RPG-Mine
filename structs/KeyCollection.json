@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_dictionary": "SortedDictionary`2"
+    },
+    "properties": {
+        "Count": "Int32"
+    }
+}

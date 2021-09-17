@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "m_event_id": "UInt64",
+        "m_event_serial_battle_reward_id": "UInt64"
+    },
+    "properties": {
+        "MEventId": "UInt64",
+        "MEventSerialBattleRewardId": "UInt64"
+    }
+}

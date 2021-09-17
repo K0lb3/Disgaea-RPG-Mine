@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "m_event_id": "UInt64",
+        "m_stage_id": "UInt64",
+        "pos1_t_character_id": "UInt64",
+        "pos2_t_character_id": "UInt64",
+        "pos3_t_character_id": "UInt64",
+        "pos4_t_character_id": "UInt64",
+        "pos5_t_character_id": "UInt64"
+    },
+    "properties": {
+        "MEventId": "UInt64",
+        "MStageId": "UInt64",
+        "deckTCharacterIds": "List`1"
+    }
+}

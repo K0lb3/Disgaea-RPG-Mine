@@ -1,0 +1,26 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "rank": "Int32",
+        "m_stage_id": "UInt64",
+        "clear_num": "Int32",
+        "clear_flg": "Boolean",
+        "lose_num": "Int32",
+        "del_flg": "Boolean",
+        "created_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "Rank": "Int32",
+        "MStageId": "UInt64",
+        "ClearNum": "Int32",
+        "ClearFlg": "Boolean",
+        "LoseNum": "Int32",
+        "DelFlg": "Boolean",
+        "CreatedAt": "String",
+        "UpdatedAt": "String"
+    }
+}

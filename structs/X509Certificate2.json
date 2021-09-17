@@ -1,0 +1,16 @@
+{
+    "fields": {},
+    "properties": {
+        "Extensions": "X509ExtensionCollection",
+        "IssuerName": "X500DistinguishedName",
+        "NotAfter": "DateTime",
+        "NotBefore": "DateTime",
+        "PrivateKey": "AsymmetricAlgorithm",
+        "PublicKey": "PublicKey",
+        "SerialNumber": "String",
+        "SignatureAlgorithm": "Oid",
+        "SubjectName": "X500DistinguishedName",
+        "Thumbprint": "String",
+        "Version": "Int32"
+    }
+}

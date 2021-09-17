@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "list": "ListDictionary",
+        "hashtable": "Hashtable"
+    },
+    "properties": {
+        "Item": "Object",
+        "Count": "Int32",
+        "Keys": "ICollection",
+        "IsReadOnly": "Boolean",
+        "IsFixedSize": "Boolean",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object",
+        "Values": "ICollection"
+    }
+}

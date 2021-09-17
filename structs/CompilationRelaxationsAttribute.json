@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "m_relaxations": "Int32"
+    },
+    "properties": {
+        "CompilationRelaxations": "Int32"
+    }
+}

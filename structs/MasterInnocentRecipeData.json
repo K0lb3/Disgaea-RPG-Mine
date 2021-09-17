@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_innocent_id": "UInt64",
+        "rank": "Int32",
+        "name": "String",
+        "price": "Int32",
+        "kind": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MInnocentId": "UInt64",
+        "Rank": "Int32",
+        "Name": "String",
+        "Price": "Int32",
+        "Kind": "Int32"
+    }
+}

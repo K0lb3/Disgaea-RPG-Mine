@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "str": "String",
+        "index": "Int32"
+    },
+    "properties": {
+        "Current": "Char"
+    }
+}

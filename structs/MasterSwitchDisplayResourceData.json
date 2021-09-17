@@ -1,0 +1,27 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "resource_name": "String",
+        "enable_title": "Boolean",
+        "enable_loading": "Boolean",
+        "enable_shop_navi": "Boolean",
+        "enable_parliament_navi": "Boolean",
+        "enable_hospital_navi": "Boolean",
+        "open_at": "String",
+        "close_at": "String",
+        "agenda_is_necessary": "Boolean"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "ResourceName": "String",
+        "EnableTitle": "Boolean",
+        "EnableLoading": "Boolean",
+        "EnableShopNavi": "Boolean",
+        "EnableParliamentNavi": "Boolean",
+        "EnableHospitalNavi": "Boolean",
+        "OpenAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime",
+        "AgendaIsNecessary": "Boolean"
+    }
+}

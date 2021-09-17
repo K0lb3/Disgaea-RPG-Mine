@@ -1,52 +1,27 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_stage_id": "UInt64",
+        "title": "String",
+        "condition_type": "Int32",
+        "condition_num": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "sort": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_stage_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "condition_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "condition_num",
-        "offset": 44
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 48
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 72
+    "properties": {
+        "Id": "UInt64",
+        "MStageId": "UInt64",
+        "Title": "String",
+        "ConditionType": "Int32",
+        "ConditionNum": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32",
+        "Sort": "Int32",
+        "MissionReward": "RewardData"
     }
-]
+}

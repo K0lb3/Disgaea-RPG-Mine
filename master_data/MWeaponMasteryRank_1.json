@@ -418,5 +418,285 @@
         "rank": 30,
         "max_lv": 30,
         "need_mana": 380
+    },
+    {
+        "id": 61,
+        "character_type": 1,
+        "rank": 31,
+        "max_lv": 31,
+        "need_mana": 280
+    },
+    {
+        "id": 62,
+        "character_type": 1,
+        "rank": 32,
+        "max_lv": 32,
+        "need_mana": 280
+    },
+    {
+        "id": 63,
+        "character_type": 1,
+        "rank": 33,
+        "max_lv": 33,
+        "need_mana": 280
+    },
+    {
+        "id": 64,
+        "character_type": 1,
+        "rank": 34,
+        "max_lv": 34,
+        "need_mana": 280
+    },
+    {
+        "id": 65,
+        "character_type": 1,
+        "rank": 35,
+        "max_lv": 35,
+        "need_mana": 280
+    },
+    {
+        "id": 66,
+        "character_type": 1,
+        "rank": 36,
+        "max_lv": 36,
+        "need_mana": 280
+    },
+    {
+        "id": 67,
+        "character_type": 1,
+        "rank": 37,
+        "max_lv": 37,
+        "need_mana": 280
+    },
+    {
+        "id": 68,
+        "character_type": 1,
+        "rank": 38,
+        "max_lv": 38,
+        "need_mana": 280
+    },
+    {
+        "id": 69,
+        "character_type": 1,
+        "rank": 39,
+        "max_lv": 39,
+        "need_mana": 280
+    },
+    {
+        "id": 70,
+        "character_type": 1,
+        "rank": 40,
+        "max_lv": 40,
+        "need_mana": 350
+    },
+    {
+        "id": 71,
+        "character_type": 2,
+        "rank": 31,
+        "max_lv": 31,
+        "need_mana": 380
+    },
+    {
+        "id": 72,
+        "character_type": 2,
+        "rank": 32,
+        "max_lv": 32,
+        "need_mana": 380
+    },
+    {
+        "id": 73,
+        "character_type": 2,
+        "rank": 33,
+        "max_lv": 33,
+        "need_mana": 380
+    },
+    {
+        "id": 74,
+        "character_type": 2,
+        "rank": 34,
+        "max_lv": 34,
+        "need_mana": 380
+    },
+    {
+        "id": 75,
+        "character_type": 2,
+        "rank": 35,
+        "max_lv": 35,
+        "need_mana": 440
+    },
+    {
+        "id": 76,
+        "character_type": 2,
+        "rank": 36,
+        "max_lv": 36,
+        "need_mana": 440
+    },
+    {
+        "id": 77,
+        "character_type": 2,
+        "rank": 37,
+        "max_lv": 37,
+        "need_mana": 440
+    },
+    {
+        "id": 78,
+        "character_type": 2,
+        "rank": 38,
+        "max_lv": 38,
+        "need_mana": 440
+    },
+    {
+        "id": 79,
+        "character_type": 2,
+        "rank": 39,
+        "max_lv": 39,
+        "need_mana": 440
+    },
+    {
+        "id": 80,
+        "character_type": 2,
+        "rank": 40,
+        "max_lv": 40,
+        "need_mana": 500
+    },
+    {
+        "id": 81,
+        "character_type": 1,
+        "rank": 41,
+        "max_lv": 41,
+        "need_mana": 250
+    },
+    {
+        "id": 82,
+        "character_type": 1,
+        "rank": 42,
+        "max_lv": 42,
+        "need_mana": 250
+    },
+    {
+        "id": 83,
+        "character_type": 1,
+        "rank": 43,
+        "max_lv": 43,
+        "need_mana": 250
+    },
+    {
+        "id": 84,
+        "character_type": 1,
+        "rank": 44,
+        "max_lv": 44,
+        "need_mana": 250
+    },
+    {
+        "id": 85,
+        "character_type": 1,
+        "rank": 45,
+        "max_lv": 45,
+        "need_mana": 400
+    },
+    {
+        "id": 86,
+        "character_type": 1,
+        "rank": 46,
+        "max_lv": 46,
+        "need_mana": 250
+    },
+    {
+        "id": 87,
+        "character_type": 1,
+        "rank": 47,
+        "max_lv": 47,
+        "need_mana": 250
+    },
+    {
+        "id": 88,
+        "character_type": 1,
+        "rank": 48,
+        "max_lv": 48,
+        "need_mana": 250
+    },
+    {
+        "id": 89,
+        "character_type": 1,
+        "rank": 49,
+        "max_lv": 49,
+        "need_mana": 250
+    },
+    {
+        "id": 90,
+        "character_type": 1,
+        "rank": 50,
+        "max_lv": 50,
+        "need_mana": 400
+    },
+    {
+        "id": 91,
+        "character_type": 2,
+        "rank": 41,
+        "max_lv": 41,
+        "need_mana": 300
+    },
+    {
+        "id": 92,
+        "character_type": 2,
+        "rank": 42,
+        "max_lv": 42,
+        "need_mana": 300
+    },
+    {
+        "id": 93,
+        "character_type": 2,
+        "rank": 43,
+        "max_lv": 43,
+        "need_mana": 300
+    },
+    {
+        "id": 94,
+        "character_type": 2,
+        "rank": 44,
+        "max_lv": 44,
+        "need_mana": 300
+    },
+    {
+        "id": 95,
+        "character_type": 2,
+        "rank": 45,
+        "max_lv": 45,
+        "need_mana": 500
+    },
+    {
+        "id": 96,
+        "character_type": 2,
+        "rank": 46,
+        "max_lv": 46,
+        "need_mana": 300
+    },
+    {
+        "id": 97,
+        "character_type": 2,
+        "rank": 47,
+        "max_lv": 47,
+        "need_mana": 300
+    },
+    {
+        "id": 98,
+        "character_type": 2,
+        "rank": 48,
+        "max_lv": 48,
+        "need_mana": 300
+    },
+    {
+        "id": 99,
+        "character_type": 2,
+        "rank": 49,
+        "max_lv": 49,
+        "need_mana": 300
+    },
+    {
+        "id": 100,
+        "character_type": 2,
+        "rank": 50,
+        "max_lv": 50,
+        "need_mana": 500
     }
 ]

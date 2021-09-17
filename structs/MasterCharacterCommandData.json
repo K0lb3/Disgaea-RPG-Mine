@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "m_command_id": "UInt64",
+        "learn_type": "Int32",
+        "lv": "Int32",
+        "mana": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "learn_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "lv",
-        "offset": 44
-    },
-    {
-        "type": "int",
-        "name": "mana",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "MCommandId": "UInt64",
+        "LearnType": "Int32",
+        "Lv": "Int32",
+        "Mana": "Int32"
     }
-]
+}

@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_item_id": "UInt64",
+        "t_player_id": "UInt64",
+        "t_character_id": "UInt64",
+        "boost_type": "Int32",
+        "effect_value": "Int32",
+        "max_level": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MItemId": "UInt64",
+        "TPlayerId": "UInt64",
+        "TCharacterId": "UInt64",
+        "BoostType": "Int32",
+        "EffectValue": "Int32",
+        "MaxLevel": "Int32"
+    }
+}

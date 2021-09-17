@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "jsonrpc": "String",
+        "id": "String",
+        "method": "String",
+        "prms": "String"
+    },
+    "properties": {}
+}

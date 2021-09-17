@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_enemy_group_id": "UInt64",
+        "position": "Int32",
+        "m_enemy_id": "UInt64"
     },
-    {
-        "type": "ulong",
-        "name": "m_enemy_group_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "position",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "m_enemy_id",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MEnemyGroupId": "UInt64",
+        "Position": "Int32",
+        "MEnemyId": "UInt64"
     }
-]
+}

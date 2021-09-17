@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "eq_type": "Int32",
+        "eq_id": "UInt64",
+        "name": "String",
+        "rarity": "Int32",
+        "pop": "Int32"
     },
-    {
-        "type": "int",
-        "name": "eq_type",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "eq_id",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "rarity",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "pop",
-        "offset": 52
+    "properties": {
+        "Id": "UInt64",
+        "EqType": "Int32",
+        "EqId": "UInt64",
+        "Name": "String",
+        "Rarity": "Int32",
+        "Pop": "Int32"
     }
-]
+}

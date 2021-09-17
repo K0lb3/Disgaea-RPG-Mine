@@ -1,0 +1,26 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "no": "UInt64",
+        "bgm": "String",
+        "boss_bgm": "String",
+        "bg_id": "Int32",
+        "act": "Int32",
+        "effect_types": "Int32[]",
+        "effect_type_params": "Int32[]",
+        "effect_values": "Int32[]",
+        "target_values": "Int32[]"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "No": "UInt64",
+        "Bgm": "String",
+        "BossBgm": "String",
+        "BgId": "Int32",
+        "Act": "Int32",
+        "EffectTypes": "Int32[]",
+        "EffectParams": "Int32[]",
+        "EffectValues": "Int32[]",
+        "TargetValues": "Int32[]"
+    }
+}

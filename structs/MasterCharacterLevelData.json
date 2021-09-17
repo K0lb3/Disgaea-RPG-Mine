@@ -1,17 +1,12 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "lv": "Int32",
+        "need_exp": "Int64"
     },
-    {
-        "type": "int",
-        "name": "lv",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "need_exp",
-        "offset": 28
+    "properties": {
+        "Id": "UInt64",
+        "Lv": "Int32",
+        "NeedExp": "Int64"
     }
-]
+}

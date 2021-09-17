@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "m_trophy_daily_id": "UInt64",
+        "date": "String",
+        "del_flg": "Boolean",
+        "created_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "MTrophyDailyId": "UInt64",
+        "Date": "String",
+        "DelFlg": "Boolean",
+        "CreatedAt": "String",
+        "UpdatedAt": "String"
+    }
+}

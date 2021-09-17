@@ -1,227 +1,103 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "enemy_type": "Int32",
+        "m_character_id": "UInt64",
+        "name": "String",
+        "serif": "String",
+        "hp": "Int64",
+        "atk": "Int64",
+        "def": "Int64",
+        "inte": "Int64",
+        "res": "Int64",
+        "spd": "Int32",
+        "m_weapon_id": "UInt64",
+        "m_command_id_1": "UInt64",
+        "command_lv_1": "Int32",
+        "m_command_id_2": "UInt64",
+        "command_lv_2": "Int32",
+        "m_command_id_3": "UInt64",
+        "command_lv_3": "Int32",
+        "m_command_id_4": "UInt64",
+        "command_lv_4": "Int32",
+        "overwrite_attr": "Boolean",
+        "attr_fire": "Int32",
+        "attr_water": "Int32",
+        "attr_wind": "Int32",
+        "attr_star": "Int32",
+        "resist_poison": "Int32",
+        "resist_paralyze": "Int32",
+        "resist_sleep": "Int32",
+        "resist_forget": "Int32",
+        "exp": "Int64",
+        "drop_present_type": "Int32[]",
+        "drop_present_id": "UInt64[]",
+        "drop_present_rarity": "Int32[]",
+        "drop_present_num": "Int32[]",
+        "drop_present_rate": "Single[]",
+        "drop_point_min": "Int32",
+        "drop_point_max": "Int32",
+        "command_rate_fine": "Int32[]",
+        "command_rate_medium": "Int32[]",
+        "command_rate_desperate": "Int32[]",
+        "regularly_turn_command": "Int32",
+        "regularly_turn_command_turn": "Int32",
+        "fixed_turn_command": "Int32[]",
+        "fixed_turn_command_turn": "Int32[]",
+        "timeline_position": "Int32",
+        "m_enemy_parameter_id": "UInt64",
+        "t_character_commands": "CharacterCommandData[]"
     },
-    {
-        "type": "int",
-        "name": "enemy_type",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "serif",
-        "offset": 48
-    },
-    {
-        "type": "long",
-        "name": "hp",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "atk",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "def",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "inte",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "res",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "spd",
-        "offset": 80
-    },
-    {
-        "type": "ulong",
-        "name": "m_weapon_id",
-        "offset": 88
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_1",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "command_lv_1",
-        "offset": 104
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_2",
-        "offset": 112
-    },
-    {
-        "type": "int",
-        "name": "command_lv_2",
-        "offset": 120
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_3",
-        "offset": 128
-    },
-    {
-        "type": "int",
-        "name": "command_lv_3",
-        "offset": 136
-    },
-    {
-        "type": "ulong",
-        "name": "m_command_id_4",
-        "offset": 144
-    },
-    {
-        "type": "int",
-        "name": "command_lv_4",
-        "offset": 152
-    },
-    {
-        "type": "bool",
-        "name": "overwrite_attr",
-        "offset": 156
-    },
-    {
-        "type": "int",
-        "name": "attr_fire",
-        "offset": 160
-    },
-    {
-        "type": "int",
-        "name": "attr_water",
-        "offset": 164
-    },
-    {
-        "type": "int",
-        "name": "attr_wind",
-        "offset": 168
-    },
-    {
-        "type": "int",
-        "name": "attr_star",
-        "offset": 172
-    },
-    {
-        "type": "int",
-        "name": "resist_poison",
-        "offset": 176
-    },
-    {
-        "type": "int",
-        "name": "resist_paralyze",
-        "offset": 180
-    },
-    {
-        "type": "int",
-        "name": "resist_sleep",
-        "offset": 184
-    },
-    {
-        "type": "int",
-        "name": "resist_forget",
-        "offset": 188
-    },
-    {
-        "type": "int",
-        "name": "exp",
-        "offset": 192
-    },
-    {
-        "type": "int[]",
-        "name": "drop_present_type",
-        "offset": 200
-    },
-    {
-        "type": "ulong[]",
-        "name": "drop_present_id",
-        "offset": 208
-    },
-    {
-        "type": "int[]",
-        "name": "drop_present_rarity",
-        "offset": 216
-    },
-    {
-        "type": "int[]",
-        "name": "drop_present_num",
-        "offset": 224
-    },
-    {
-        "type": "float[]",
-        "name": "drop_present_rate",
-        "offset": 232
-    },
-    {
-        "type": "int",
-        "name": "drop_point_min",
-        "offset": 240
-    },
-    {
-        "type": "int",
-        "name": "drop_point_max",
-        "offset": 244
-    },
-    {
-        "type": "int[]",
-        "name": "command_rate_fine",
-        "offset": 248
-    },
-    {
-        "type": "int[]",
-        "name": "command_rate_medium",
-        "offset": 256
-    },
-    {
-        "type": "int[]",
-        "name": "command_rate_desperate",
-        "offset": 264
-    },
-    {
-        "type": "int",
-        "name": "regularly_turn_command",
-        "offset": 272
-    },
-    {
-        "type": "int",
-        "name": "regularly_turn_command_turn",
-        "offset": 276
-    },
-    {
-        "type": "int[]",
-        "name": "fixed_turn_command",
-        "offset": 280
-    },
-    {
-        "type": "int[]",
-        "name": "fixed_turn_command_turn",
-        "offset": 288
-    },
-    {
-        "type": "int",
-        "name": "timeline_position",
-        "offset": 296
+    "properties": {
+        "Id": "UInt64",
+        "EnemyType": "Int32",
+        "MCharacterId": "UInt64",
+        "Name": "String",
+        "Serif": "String",
+        "Hp": "Int64",
+        "Atk": "Int64",
+        "Def": "Int64",
+        "Inte": "Int64",
+        "Res": "Int64",
+        "Spd": "Int32",
+        "MWeaponId": "UInt64",
+        "MCommandId1": "UInt64",
+        "CommandLevel1": "Int32",
+        "MCommandId2": "UInt64",
+        "CommandLevel2": "Int32",
+        "MCommandId3": "UInt64",
+        "CommandLevel3": "Int32",
+        "MCommandId4": "UInt64",
+        "CommandLevel4": "Int32",
+        "OverwriteAttr": "Boolean",
+        "AttrFire": "Int32",
+        "AttrWater": "Int32",
+        "AttrWind": "Int32",
+        "AttrStar": "Int32",
+        "ResistPoison": "Int32",
+        "ResistParalyze": "Int32",
+        "ResistSleep": "Int32",
+        "ResistForget": "Int32",
+        "Exp": "Int64",
+        "DropPresentType": "Int32[]",
+        "DropPresentId": "UInt64[]",
+        "DropPresentRarity": "Int32[]",
+        "DropPresentNum": "Int32[]",
+        "DropPresentRate": "Single[]",
+        "DropPointMin": "Int32",
+        "DropPointMax": "Int32",
+        "CommandRateFine": "Int32[]",
+        "CommandRateMedium": "Int32[]",
+        "CommandRateDesperate": "Int32[]",
+        "RegularlyTurnCommand": "Int32",
+        "RegularlyTurnCommandTurn": "Int32",
+        "FixedTurnCommand": "Int32[]",
+        "FixedTurnCommandTurn": "Int32[]",
+        "TimelinePosition": "Int32",
+        "MEnemyParameterId": "UInt64",
+        "WeaponType": "Int32",
+        "BattleCommandList": "List`1",
+        "TCharacterCommands": "CharacterCommandData[]",
+        "MEnemyAiCommandList": "IList`1"
     }
-]
+}

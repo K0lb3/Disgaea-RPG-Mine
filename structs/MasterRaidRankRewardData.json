@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_raid_id": "UInt64",
+        "m_raid_reward_group_id": "UInt64",
+        "minimum_rank": "Int32",
+        "maximum_rank": "Int32",
+        "ribbon_rank": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_raid_id",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_raid_reward_group_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "minimum_rank",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "maximum_rank",
-        "offset": 44
-    },
-    {
-        "type": "int",
-        "name": "ribbon_rank",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MRaidId": "UInt64",
+        "MRaidRewardGroupId": "UInt64",
+        "MinimumRank": "Int32",
+        "MaximumRank": "Int32",
+        "RibbonRank": "Int32"
     }
-]
+}

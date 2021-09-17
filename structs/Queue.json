@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "_array": "Object[]",
+        "_head": "Int32",
+        "_tail": "Int32",
+        "_size": "Int32",
+        "_version": "Int32"
+    },
+    "properties": {
+        "Count": "Int32",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object"
+    }
+}

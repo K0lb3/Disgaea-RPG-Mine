@@ -1,0 +1,34 @@
+{
+    "fields": {
+        "battle_type": "Int32",
+        "t_deck_no": "Int32",
+        "status": "Int32",
+        "m_stage_id": "UInt64",
+        "help_t_player_id": "UInt64",
+        "help_t_character_id": "UInt64",
+        "help_t_character_lv": "UInt64",
+        "m_tower_no": "Int32",
+        "equipment_id": "UInt64",
+        "equipment_type": "Int32",
+        "t_raid_status_id": "UInt64",
+        "m_ritual_training_id": "UInt64",
+        "character_contest_m_character_id": "UInt64",
+        "character_contest_t_character_ids": "UInt64[]"
+    },
+    "properties": {
+        "BattleType": "Int32",
+        "TDeckNo": "Int32",
+        "Status": "Int32",
+        "MStageId": "UInt64",
+        "HelpTPlayerId": "UInt64",
+        "HelpTCharacterId": "UInt64",
+        "HelpTCharacterLv": "UInt64",
+        "MTowerNo": "Int32",
+        "EquipmentId": "UInt64",
+        "EquipmentType": "Int32",
+        "TRaidStatusId": "UInt64",
+        "MRitualTrainingId": "UInt64",
+        "CharaContestMCharacterId": "UInt64",
+        "CharaContestTCharacterIds": "UInt64[]"
+    }
+}

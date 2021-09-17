@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "sort": "Int32",
+        "information": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "information",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "Sort": "Int32",
+        "Information": "String"
     }
-]
+}

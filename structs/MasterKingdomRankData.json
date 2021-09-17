@@ -1,0 +1,35 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "kingdom_rank": "Int32",
+        "innocent_exp": "Int32",
+        "equipment_exp": "Int32",
+        "release_content_type": "Int32",
+        "release_content_value": "Int32",
+        "release_content_description": "String",
+        "breeding_num": "Int32",
+        "resource_name_office": "String",
+        "resource_name_equip_house": "String",
+        "resource_name_farm": "String",
+        "resource_name_breeding_center": "String",
+        "resource_name_board": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "KingdomRank": "Int32",
+        "InnocentExp": "Int32",
+        "EquipmentExp": "Int32",
+        "ReleaseContentType": "Int32",
+        "ReleaseContentValue": "Int32",
+        "ReleaseContentDescription": "String",
+        "BreedingNum": "Int32",
+        "ResourceNameOffice": "String",
+        "ResourceNameEquipHouse": "String",
+        "ResourceNameFarm": "String",
+        "ResourceNameBreedingCenter": "String",
+        "ResourceNameBoard": "String",
+        "NextKingdomRankData": "MasterKingdomRankData",
+        "PrevKingdomRankData": "MasterKingdomRankData",
+        "AcquiredKingdomRankDataList": "List`1"
+    }
+}

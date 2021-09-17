@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "AllowMultiple": "Boolean",
+        "Inherited": "Boolean"
+    }
+}

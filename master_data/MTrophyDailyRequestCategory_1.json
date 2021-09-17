@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "kingdom_rank": 1,
+        "category": 1,
+        "num": 3
+    },
+    {
+        "id": 2,
+        "kingdom_rank": 1,
+        "category": 2,
+        "num": 3
+    },
+    {
+        "id": 3,
+        "kingdom_rank": 1,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 4,
+        "kingdom_rank": 2,
+        "category": 1,
+        "num": 3
+    },
+    {
+        "id": 5,
+        "kingdom_rank": 2,
+        "category": 2,
+        "num": 3
+    },
+    {
+        "id": 6,
+        "kingdom_rank": 2,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 7,
+        "kingdom_rank": 3,
+        "category": 1,
+        "num": 3
+    },
+    {
+        "id": 8,
+        "kingdom_rank": 3,
+        "category": 2,
+        "num": 3
+    },
+    {
+        "id": 9,
+        "kingdom_rank": 3,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 10,
+        "kingdom_rank": 4,
+        "category": 1,
+        "num": 3
+    },
+    {
+        "id": 11,
+        "kingdom_rank": 4,
+        "category": 2,
+        "num": 3
+    },
+    {
+        "id": 12,
+        "kingdom_rank": 4,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 13,
+        "kingdom_rank": 5,
+        "category": 1,
+        "num": 3
+    },
+    {
+        "id": 14,
+        "kingdom_rank": 5,
+        "category": 2,
+        "num": 3
+    },
+    {
+        "id": 15,
+        "kingdom_rank": 5,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 16,
+        "kingdom_rank": 6,
+        "category": 1,
+        "num": 4
+    },
+    {
+        "id": 17,
+        "kingdom_rank": 6,
+        "category": 2,
+        "num": 4
+    },
+    {
+        "id": 18,
+        "kingdom_rank": 6,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 19,
+        "kingdom_rank": 7,
+        "category": 1,
+        "num": 4
+    },
+    {
+        "id": 20,
+        "kingdom_rank": 7,
+        "category": 2,
+        "num": 4
+    },
+    {
+        "id": 21,
+        "kingdom_rank": 7,
+        "category": 99,
+        "num": 1
+    },
+    {
+        "id": 22,
+        "kingdom_rank": 8,
+        "category": 1,
+        "num": 5
+    },
+    {
+        "id": 23,
+        "kingdom_rank": 8,
+        "category": 2,
+        "num": 5
+    },
+    {
+        "id": 24,
+        "kingdom_rank": 8,
+        "category": 99,
+        "num": 1
+    }
+]

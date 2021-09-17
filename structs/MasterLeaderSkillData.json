@@ -1,117 +1,52 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "unique_flg": "Boolean",
+        "lv_max": "Int32",
+        "timing_type": "Int32",
+        "trigger_target": "Int32",
+        "trigger_status": "Int32",
+        "trigger_param": "Int32",
+        "target_type": "Int32",
+        "target_params": "UInt64[]",
+        "effect_type": "Int32",
+        "effect_type_params": "Int32[]",
+        "limit_damage": "Int32",
+        "limit_characters": "Int32[]",
+        "effect_correct_type": "Int32",
+        "effect_correct_characters": "Int32[]",
+        "effect_value_min": "Int32",
+        "effect_value_max": "Int32",
+        "effect_turn": "Int32[]",
+        "bad_effect_type": "Int32",
+        "bad_effect_params": "Int32[]",
+        "bad_effect_value": "Int32",
+        "description": "String"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "bool",
-        "name": "unique_flg",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "lv_max",
-        "offset": 36
-    },
-    {
-        "type": "int",
-        "name": "timing_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "trigger_target",
-        "offset": 44
-    },
-    {
-        "type": "int",
-        "name": "trigger_status",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "trigger_param",
-        "offset": 52
-    },
-    {
-        "type": "int",
-        "name": "target_type",
-        "offset": 56
-    },
-    {
-        "type": "ulong[]",
-        "name": "target_params",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "effect_type",
-        "offset": 72
-    },
-    {
-        "type": "int[]",
-        "name": "effect_type_params",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "limit_damage",
-        "offset": 88
-    },
-    {
-        "type": "int[]",
-        "name": "limit_characters",
-        "offset": 96
-    },
-    {
-        "type": "int",
-        "name": "effect_correct_type",
-        "offset": 104
-    },
-    {
-        "type": "int[]",
-        "name": "effect_correct_characters",
-        "offset": 112
-    },
-    {
-        "type": "int",
-        "name": "effect_value_min",
-        "offset": 120
-    },
-    {
-        "type": "int",
-        "name": "effect_value_max",
-        "offset": 124
-    },
-    {
-        "type": "int[]",
-        "name": "effect_turn",
-        "offset": 128
-    },
-    {
-        "type": "int",
-        "name": "bad_effect_type",
-        "offset": 136
-    },
-    {
-        "type": "int[]",
-        "name": "bad_effect_params",
-        "offset": 144
-    },
-    {
-        "type": "int",
-        "name": "bad_effect_value",
-        "offset": 152
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 160
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "UniqueFlg": "Boolean",
+        "LvMax": "Int32",
+        "TimingType": "Int32",
+        "TriggerTarget": "Int32",
+        "TriggerStatus": "Int32",
+        "TriggerParam": "Int32",
+        "TargetType": "Int32",
+        "TargetParams": "UInt64[]",
+        "EffectType": "Int32",
+        "EffectTypeParams": "Int32[]",
+        "LimitDamage": "Int32",
+        "LimitCharacters": "Int32[]",
+        "EffectCorrectType": "Int32",
+        "EffectCorrectCharacters": "Int32[]",
+        "EffectValueMin": "Int32",
+        "EffectValueMax": "Int32",
+        "EffectTurn": "Int32[]",
+        "BadEffectType": "Int32",
+        "BadEffectParams": "Int32[]",
+        "BadEffectValue": "Int32",
+        "Description": "String"
     }
-]
+}

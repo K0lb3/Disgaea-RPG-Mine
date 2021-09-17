@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "t_player_id": "UInt64",
+        "lineup_date": "String",
+        "lineup_no": "Int32",
+        "lineup_update_num": "Int32",
+        "created_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "TPlayerId": "UInt64",
+        "LineupDate": "String",
+        "LineupNo": "Int32",
+        "LineupUpdateNum": "Int32",
+        "CreatedAt": "String",
+        "UpdatedAt": "String",
+        "LineupDateTime": "DateTime"
+    }
+}

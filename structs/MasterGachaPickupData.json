@@ -1,27 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "item_type": "Int32",
+        "item_id": "UInt64",
+        "rarity": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_gacha_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "item_type",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "item_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "rarity",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MGachaId": "UInt64",
+        "ItemType": "Int32",
+        "ItemId": "UInt64",
+        "Rarity": "Int32",
+        "CharacterType": "Int32",
+        "BestWeaponType": "Int32"
     }
-]
+}

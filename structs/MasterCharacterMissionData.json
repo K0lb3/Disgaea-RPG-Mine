@@ -1,0 +1,24 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "title": "String",
+        "description": "String",
+        "condition_type": "Int32",
+        "condition_id": "UInt64",
+        "condition_num": "Int32",
+        "present_num": "Int32",
+        "replace_present_num": "Int32",
+        "sort": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Title": "String",
+        "Description": "String",
+        "ConditionType": "Int32",
+        "ConditionId": "UInt64",
+        "ConditionNum": "Int32",
+        "PresentNum": "Int32",
+        "ReplacePresentNum": "Int32",
+        "Sort": "Int32"
+    }
+}

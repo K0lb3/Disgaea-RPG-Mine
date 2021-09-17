@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "m_version": "String",
+        "m_actor": "ClaimsIdentity",
+        "m_label": "String"
+    },
+    "properties": {
+        "AuthenticationType": "String",
+        "Actor": "ClaimsIdentity",
+        "Claims": "IEnumerable`1",
+        "Name": "String"
+    }
+}

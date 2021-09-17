@@ -1,0 +1,34 @@
+{
+    "fields": {
+        "m_box": "GUIStyle",
+        "m_button": "GUIStyle",
+        "m_toggle": "GUIStyle",
+        "m_label": "GUIStyle",
+        "m_window": "GUIStyle"
+    },
+    "properties": {
+        "font": "Font",
+        "box": "GUIStyle",
+        "label": "GUIStyle",
+        "textField": "GUIStyle",
+        "textArea": "GUIStyle",
+        "button": "GUIStyle",
+        "toggle": "GUIStyle",
+        "window": "GUIStyle",
+        "horizontalSlider": "GUIStyle",
+        "horizontalSliderThumb": "GUIStyle",
+        "verticalSlider": "GUIStyle",
+        "verticalSliderThumb": "GUIStyle",
+        "horizontalScrollbar": "GUIStyle",
+        "horizontalScrollbarThumb": "GUIStyle",
+        "horizontalScrollbarLeftButton": "GUIStyle",
+        "horizontalScrollbarRightButton": "GUIStyle",
+        "verticalScrollbar": "GUIStyle",
+        "verticalScrollbarThumb": "GUIStyle",
+        "verticalScrollbarUpButton": "GUIStyle",
+        "verticalScrollbarDownButton": "GUIStyle",
+        "scrollView": "GUIStyle",
+        "customStyles": "GUIStyle[]",
+        "settings": "GUISettings"
+    }
+}

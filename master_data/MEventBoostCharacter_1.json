@@ -4,482 +4,2095 @@
         "m_event_id": 1,
         "m_character_id": 54,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 102,
         "m_event_id": 1,
         "m_character_id": 55,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 103,
         "m_event_id": 1,
         "m_character_id": 21,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 104,
         "m_event_id": 1,
         "m_character_id": 20002,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 105,
         "m_event_id": 1,
         "m_character_id": 7,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 106,
         "m_event_id": 1,
         "m_character_id": 60,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 107,
         "m_event_id": 1,
         "m_character_id": 61,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 401,
         "m_event_id": 4,
         "m_character_id": 56,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 402,
         "m_event_id": 4,
         "m_character_id": 47,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 403,
         "m_event_id": 4,
         "m_character_id": 48,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 404,
         "m_event_id": 4,
         "m_character_id": 55,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 405,
         "m_event_id": 4,
         "m_character_id": 4,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 406,
         "m_event_id": 4,
         "m_character_id": 2,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 407,
         "m_event_id": 4,
         "m_character_id": 60,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 408,
         "m_event_id": 4,
         "m_character_id": 61,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 601,
         "m_event_id": 6,
         "m_character_id": 44,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 602,
         "m_event_id": 6,
         "m_character_id": 45,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 603,
         "m_event_id": 6,
         "m_character_id": 20008,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 604,
         "m_event_id": 6,
         "m_character_id": 20014,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 605,
         "m_event_id": 6,
         "m_character_id": 9,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 606,
         "m_event_id": 6,
         "m_character_id": 11,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 607,
         "m_event_id": 6,
         "m_character_id": 5,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 608,
         "m_event_id": 6,
         "m_character_id": 48,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 609,
         "m_event_id": 6,
         "m_character_id": 60,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 610,
         "m_event_id": 6,
         "m_character_id": 61,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1201,
         "m_event_id": 12,
         "m_character_id": 16,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1202,
         "m_event_id": 12,
         "m_character_id": 20017,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1203,
         "m_event_id": 12,
         "m_character_id": 21002,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1204,
         "m_event_id": 12,
         "m_character_id": 18,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1205,
         "m_event_id": 12,
         "m_character_id": 36,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1206,
         "m_event_id": 12,
         "m_character_id": 21,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1207,
         "m_event_id": 12,
         "m_character_id": 20014,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1208,
         "m_event_id": 12,
         "m_character_id": 60,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1209,
         "m_event_id": 12,
         "m_character_id": 61,
         "effect_value": 30,
-        "multiple_type": 1
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1501,
         "m_event_id": 15,
         "m_character_id": 1011,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1502,
         "m_event_id": 15,
         "m_character_id": 20018,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1503,
         "m_event_id": 15,
         "m_character_id": 1012,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1504,
         "m_event_id": 15,
         "m_character_id": 38,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1505,
         "m_event_id": 15,
         "m_character_id": 33,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1506,
         "m_event_id": 15,
         "m_character_id": 20003,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1507,
         "m_event_id": 15,
         "m_character_id": 21002,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 1508,
         "m_event_id": 15,
         "m_character_id": 20002,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2101,
         "m_event_id": 21,
         "m_character_id": 57,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2102,
         "m_event_id": 21,
         "m_character_id": 58,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2103,
         "m_event_id": 21,
         "m_character_id": 59,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2104,
         "m_event_id": 21,
         "m_character_id": 13,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2105,
         "m_event_id": 21,
         "m_character_id": 22,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2106,
         "m_event_id": 21,
         "m_character_id": 33,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2107,
         "m_event_id": 21,
         "m_character_id": 1,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2108,
         "m_event_id": 21,
         "m_character_id": 3,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2109,
         "m_event_id": 21,
         "m_character_id": 1012,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2601,
         "m_event_id": 26,
         "m_character_id": 15,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2602,
         "m_event_id": 26,
         "m_character_id": 31,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2603,
         "m_event_id": 26,
         "m_character_id": 64,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2604,
         "m_event_id": 26,
         "m_character_id": 19,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2605,
         "m_event_id": 26,
         "m_character_id": 42,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2606,
         "m_event_id": 26,
         "m_character_id": 59,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2607,
         "m_event_id": 26,
         "m_character_id": 61,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2608,
         "m_event_id": 26,
         "m_character_id": 60,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 2609,
         "m_event_id": 26,
         "m_character_id": 6,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3501,
         "m_event_id": 35,
         "m_character_id": 20022,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3502,
         "m_event_id": 35,
         "m_character_id": 62,
-        "effect_value": 50,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3503,
         "m_event_id": 35,
         "m_character_id": 63,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3504,
         "m_event_id": 35,
         "m_character_id": 25,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3505,
         "m_event_id": 35,
         "m_character_id": 14,
-        "effect_value": 20,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3506,
         "m_event_id": 35,
         "m_character_id": 27,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3507,
         "m_event_id": 35,
         "m_character_id": 64,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3508,
         "m_event_id": 35,
         "m_character_id": 5,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
     },
     {
         "id": 3509,
         "m_event_id": 35,
         "m_character_id": 49,
-        "effect_value": 10,
-        "multiple_type": 2
+        "effect_value": 30,
+        "multiple_type": 1,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3801,
+        "m_event_id": 38,
+        "m_character_id": 43,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3802,
+        "m_event_id": 38,
+        "m_character_id": 20023,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3803,
+        "m_event_id": 38,
+        "m_character_id": 20024,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3804,
+        "m_event_id": 38,
+        "m_character_id": 54,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3805,
+        "m_event_id": 38,
+        "m_character_id": 56,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3806,
+        "m_event_id": 38,
+        "m_character_id": 20020,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3807,
+        "m_event_id": 38,
+        "m_character_id": 37,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3808,
+        "m_event_id": 38,
+        "m_character_id": 63,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 3809,
+        "m_event_id": 38,
+        "m_character_id": 40,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4101,
+        "m_event_id": 41,
+        "m_character_id": 20025,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4102,
+        "m_event_id": 41,
+        "m_character_id": 71,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4103,
+        "m_event_id": 41,
+        "m_character_id": 69,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4104,
+        "m_event_id": 41,
+        "m_character_id": 24,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4105,
+        "m_event_id": 41,
+        "m_character_id": 17,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4106,
+        "m_event_id": 41,
+        "m_character_id": 20024,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4107,
+        "m_event_id": 41,
+        "m_character_id": 73,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4108,
+        "m_event_id": 41,
+        "m_character_id": 8,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4109,
+        "m_event_id": 41,
+        "m_character_id": 10,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4701,
+        "m_event_id": 47,
+        "m_character_id": 68,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4702,
+        "m_event_id": 47,
+        "m_character_id": 70,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4703,
+        "m_event_id": 47,
+        "m_character_id": 72,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4704,
+        "m_event_id": 47,
+        "m_character_id": 67,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4705,
+        "m_event_id": 47,
+        "m_character_id": 39,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4706,
+        "m_event_id": 47,
+        "m_character_id": 20025,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4707,
+        "m_event_id": 47,
+        "m_character_id": 71,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4708,
+        "m_event_id": 47,
+        "m_character_id": 69,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4709,
+        "m_event_id": 47,
+        "m_character_id": 20001,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4710,
+        "m_event_id": 47,
+        "m_character_id": 13,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4711,
+        "m_event_id": 47,
+        "m_character_id": 19,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4712,
+        "m_event_id": 47,
+        "m_character_id": 21002,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4713,
+        "m_event_id": 47,
+        "m_character_id": 30061,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4714,
+        "m_event_id": 47,
+        "m_character_id": 30062,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4715,
+        "m_event_id": 47,
+        "m_character_id": 30063,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4716,
+        "m_event_id": 47,
+        "m_character_id": 30064,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4717,
+        "m_event_id": 47,
+        "m_character_id": 30033,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4718,
+        "m_event_id": 47,
+        "m_character_id": 30034,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4719,
+        "m_event_id": 47,
+        "m_character_id": 30035,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 4720,
+        "m_event_id": 47,
+        "m_character_id": 30036,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5401,
+        "m_event_id": 54,
+        "m_character_id": 75,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5402,
+        "m_event_id": 54,
+        "m_character_id": 76,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5403,
+        "m_event_id": 54,
+        "m_character_id": 77,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5404,
+        "m_event_id": 54,
+        "m_character_id": 66,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5405,
+        "m_event_id": 54,
+        "m_character_id": 68,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5406,
+        "m_event_id": 54,
+        "m_character_id": 70,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5407,
+        "m_event_id": 54,
+        "m_character_id": 72,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5408,
+        "m_event_id": 54,
+        "m_character_id": 12,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5409,
+        "m_event_id": 54,
+        "m_character_id": 8,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5410,
+        "m_event_id": 54,
+        "m_character_id": 2,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5411,
+        "m_event_id": 54,
+        "m_character_id": 25,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5412,
+        "m_event_id": 54,
+        "m_character_id": 22,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5413,
+        "m_event_id": 54,
+        "m_character_id": 11,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5414,
+        "m_event_id": 54,
+        "m_character_id": 30073,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5415,
+        "m_event_id": 54,
+        "m_character_id": 30074,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5416,
+        "m_event_id": 54,
+        "m_character_id": 30075,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5417,
+        "m_event_id": 54,
+        "m_character_id": 30076,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5418,
+        "m_event_id": 54,
+        "m_character_id": 30005,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5419,
+        "m_event_id": 54,
+        "m_character_id": 30006,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5420,
+        "m_event_id": 54,
+        "m_character_id": 30007,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5421,
+        "m_event_id": 54,
+        "m_character_id": 30008,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": false
+    },
+    {
+        "id": 5801,
+        "m_event_id": 58,
+        "m_character_id": 78,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5802,
+        "m_event_id": 58,
+        "m_character_id": 79,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5803,
+        "m_event_id": 58,
+        "m_character_id": 80,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5804,
+        "m_event_id": 58,
+        "m_character_id": 81,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5805,
+        "m_event_id": 58,
+        "m_character_id": 82,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5806,
+        "m_event_id": 58,
+        "m_character_id": 85,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5807,
+        "m_event_id": 58,
+        "m_character_id": 86,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5808,
+        "m_event_id": 58,
+        "m_character_id": 65,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5809,
+        "m_event_id": 58,
+        "m_character_id": 75,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5810,
+        "m_event_id": 58,
+        "m_character_id": 76,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5811,
+        "m_event_id": 58,
+        "m_character_id": 77,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5812,
+        "m_event_id": 58,
+        "m_character_id": 1,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5813,
+        "m_event_id": 58,
+        "m_character_id": 6,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5814,
+        "m_event_id": 58,
+        "m_character_id": 7,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5815,
+        "m_event_id": 58,
+        "m_character_id": 4,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5816,
+        "m_event_id": 58,
+        "m_character_id": 5,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5817,
+        "m_event_id": 58,
+        "m_character_id": 3,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 5818,
+        "m_event_id": 58,
+        "m_character_id": 2,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6101,
+        "m_event_id": 61,
+        "m_character_id": 87,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6102,
+        "m_event_id": 61,
+        "m_character_id": 88,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6103,
+        "m_event_id": 61,
+        "m_character_id": 89,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6104,
+        "m_event_id": 61,
+        "m_character_id": 67,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6105,
+        "m_event_id": 61,
+        "m_character_id": 75,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6106,
+        "m_event_id": 61,
+        "m_character_id": 76,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6107,
+        "m_event_id": 61,
+        "m_character_id": 77,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6108,
+        "m_event_id": 61,
+        "m_character_id": 1,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6109,
+        "m_event_id": 61,
+        "m_character_id": 6,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6110,
+        "m_event_id": 61,
+        "m_character_id": 20017,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6111,
+        "m_event_id": 61,
+        "m_character_id": 11,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6112,
+        "m_event_id": 61,
+        "m_character_id": 1001,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6113,
+        "m_event_id": 61,
+        "m_character_id": 1002,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6114,
+        "m_event_id": 61,
+        "m_character_id": 1003,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6115,
+        "m_event_id": 61,
+        "m_character_id": 1004,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6116,
+        "m_event_id": 61,
+        "m_character_id": 1005,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6117,
+        "m_event_id": 61,
+        "m_character_id": 1006,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6118,
+        "m_event_id": 61,
+        "m_character_id": 1007,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6119,
+        "m_event_id": 61,
+        "m_character_id": 1008,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6120,
+        "m_event_id": 61,
+        "m_character_id": 1009,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6121,
+        "m_event_id": 61,
+        "m_character_id": 1010,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6601,
+        "m_event_id": 66,
+        "m_character_id": 91,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6602,
+        "m_event_id": 66,
+        "m_character_id": 92,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6603,
+        "m_event_id": 66,
+        "m_character_id": 93,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6604,
+        "m_event_id": 66,
+        "m_character_id": 35,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6605,
+        "m_event_id": 66,
+        "m_character_id": 87,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6606,
+        "m_event_id": 66,
+        "m_character_id": 88,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6607,
+        "m_event_id": 66,
+        "m_character_id": 89,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6608,
+        "m_event_id": 66,
+        "m_character_id": 20020,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6609,
+        "m_event_id": 66,
+        "m_character_id": 44,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6610,
+        "m_event_id": 66,
+        "m_character_id": 45,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6611,
+        "m_event_id": 66,
+        "m_character_id": 20008,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6612,
+        "m_event_id": 66,
+        "m_character_id": 3,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6613,
+        "m_event_id": 66,
+        "m_character_id": 12,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6614,
+        "m_event_id": 66,
+        "m_character_id": 30033,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6615,
+        "m_event_id": 66,
+        "m_character_id": 30034,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6616,
+        "m_event_id": 66,
+        "m_character_id": 30035,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6617,
+        "m_event_id": 66,
+        "m_character_id": 30036,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6618,
+        "m_event_id": 66,
+        "m_character_id": 30117,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6619,
+        "m_event_id": 66,
+        "m_character_id": 30118,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6620,
+        "m_event_id": 66,
+        "m_character_id": 30119,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 6621,
+        "m_event_id": 66,
+        "m_character_id": 30120,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7301,
+        "m_event_id": 73,
+        "m_character_id": 96,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7302,
+        "m_event_id": 73,
+        "m_character_id": 98,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7303,
+        "m_event_id": 73,
+        "m_character_id": 20028,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7304,
+        "m_event_id": 73,
+        "m_character_id": 94,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7305,
+        "m_event_id": 73,
+        "m_character_id": 95,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7306,
+        "m_event_id": 73,
+        "m_character_id": 91,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7307,
+        "m_event_id": 73,
+        "m_character_id": 92,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7308,
+        "m_event_id": 73,
+        "m_character_id": 93,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7309,
+        "m_event_id": 73,
+        "m_character_id": 11,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7310,
+        "m_event_id": 73,
+        "m_character_id": 19,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7311,
+        "m_event_id": 73,
+        "m_character_id": 17,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7312,
+        "m_event_id": 73,
+        "m_character_id": 54,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7313,
+        "m_event_id": 73,
+        "m_character_id": 20020,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7314,
+        "m_event_id": 73,
+        "m_character_id": 55,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7315,
+        "m_event_id": 73,
+        "m_character_id": 57,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7316,
+        "m_event_id": 73,
+        "m_character_id": 58,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7317,
+        "m_event_id": 73,
+        "m_character_id": 59,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7318,
+        "m_event_id": 73,
+        "m_character_id": 68,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7319,
+        "m_event_id": 73,
+        "m_character_id": 70,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7320,
+        "m_event_id": 73,
+        "m_character_id": 20025,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7321,
+        "m_event_id": 73,
+        "m_character_id": 71,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7901,
+        "m_event_id": 79,
+        "m_character_id": 102,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7902,
+        "m_event_id": 79,
+        "m_character_id": 20029,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7903,
+        "m_event_id": 79,
+        "m_character_id": 101,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7904,
+        "m_event_id": 79,
+        "m_character_id": 67,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7905,
+        "m_event_id": 79,
+        "m_character_id": 66,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7906,
+        "m_event_id": 79,
+        "m_character_id": 65,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7907,
+        "m_event_id": 79,
+        "m_character_id": 96,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7908,
+        "m_event_id": 79,
+        "m_character_id": 98,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7909,
+        "m_event_id": 79,
+        "m_character_id": 20028,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7910,
+        "m_event_id": 79,
+        "m_character_id": 55,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7911,
+        "m_event_id": 79,
+        "m_character_id": 11,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7912,
+        "m_event_id": 79,
+        "m_character_id": 25,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7913,
+        "m_event_id": 79,
+        "m_character_id": 13,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7914,
+        "m_event_id": 79,
+        "m_character_id": 31,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7915,
+        "m_event_id": 79,
+        "m_character_id": 20001,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7916,
+        "m_event_id": 79,
+        "m_character_id": 35,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7917,
+        "m_event_id": 79,
+        "m_character_id": 20018,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7918,
+        "m_event_id": 79,
+        "m_character_id": 1011,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7919,
+        "m_event_id": 79,
+        "m_character_id": 15,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7920,
+        "m_event_id": 79,
+        "m_character_id": 12,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 7921,
+        "m_event_id": 79,
+        "m_character_id": 22,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8201,
+        "m_event_id": 82,
+        "m_character_id": 103,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8202,
+        "m_event_id": 82,
+        "m_character_id": 104,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8203,
+        "m_event_id": 82,
+        "m_character_id": 20032,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8204,
+        "m_event_id": 82,
+        "m_character_id": 20030,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8205,
+        "m_event_id": 82,
+        "m_character_id": 102,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8206,
+        "m_event_id": 82,
+        "m_character_id": 20029,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8207,
+        "m_event_id": 82,
+        "m_character_id": 101,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8208,
+        "m_event_id": 82,
+        "m_character_id": 48,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8209,
+        "m_event_id": 82,
+        "m_character_id": 20021,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8210,
+        "m_event_id": 82,
+        "m_character_id": 31,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8211,
+        "m_event_id": 82,
+        "m_character_id": 44,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8212,
+        "m_event_id": 82,
+        "m_character_id": 47,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8213,
+        "m_event_id": 82,
+        "m_character_id": 24,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8214,
+        "m_event_id": 82,
+        "m_character_id": 9,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8215,
+        "m_event_id": 82,
+        "m_character_id": 17,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 8216,
+        "m_event_id": 82,
+        "m_character_id": 15,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9001,
+        "m_event_id": 90,
+        "m_character_id": 106,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9002,
+        "m_event_id": 90,
+        "m_character_id": 107,
+        "effect_value": 50,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9003,
+        "m_event_id": 90,
+        "m_character_id": 94,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9004,
+        "m_event_id": 90,
+        "m_character_id": 95,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9005,
+        "m_event_id": 90,
+        "m_character_id": 46,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9006,
+        "m_event_id": 90,
+        "m_character_id": 103,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9007,
+        "m_event_id": 90,
+        "m_character_id": 104,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9008,
+        "m_event_id": 90,
+        "m_character_id": 20032,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9009,
+        "m_event_id": 90,
+        "m_character_id": 1,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9010,
+        "m_event_id": 90,
+        "m_character_id": 19,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9011,
+        "m_event_id": 90,
+        "m_character_id": 25,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9012,
+        "m_event_id": 90,
+        "m_character_id": 22,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9013,
+        "m_event_id": 90,
+        "m_character_id": 33,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9014,
+        "m_event_id": 90,
+        "m_character_id": 57,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9015,
+        "m_event_id": 90,
+        "m_character_id": 58,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
+    },
+    {
+        "id": 9016,
+        "m_event_id": 90,
+        "m_character_id": 59,
+        "effect_value": 30,
+        "multiple_type": 2,
+        "retrofit_boost_flg": true
     }
 ]

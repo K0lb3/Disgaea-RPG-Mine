@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gate_id": "UInt64",
+        "sub_max_count": "Int32",
+        "sub_max_use_item": "Int32",
+        "create_at": "String",
+        "update_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_gate_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "sub_max_count",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "sub_max_use_item",
-        "offset": 36
-    },
-    {
-        "type": "string",
-        "name": "create_at",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "update_at",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MGateId": "UInt64",
+        "SubMaxCount": "Int32",
+        "SubMaxUseItem": "Int32",
+        "CreateAt": "String",
+        "UpdateAt": "String"
     }
-]
+}

@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "state": "PermissionState",
+        "list": "ArrayList",
+        "_ignored": "Boolean[]"
+    },
+    "properties": {
+        "Count": "Int32",
+        "IsSynchronized": "Boolean",
+        "SyncRoot": "Object"
+    }
+}

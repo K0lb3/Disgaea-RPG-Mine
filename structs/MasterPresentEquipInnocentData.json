@@ -1,42 +1,22 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_present_equip_id": "UInt64",
+        "place_no": "Int32",
+        "innocent_type": "Int32",
+        "m_character_id": "UInt64",
+        "effect_rank": "Int32",
+        "effect_value": "Single",
+        "status": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_present_equip_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "place_no",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "innocent_type",
-        "offset": 36
-    },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "effect_rank",
-        "offset": 48
-    },
-    {
-        "type": "float",
-        "name": "effect_value",
-        "offset": 52
-    },
-    {
-        "type": "int",
-        "name": "status",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "MPresentEquipId": "UInt64",
+        "PlaceNo": "Int32",
+        "InnocentType": "Int32",
+        "MCharacterId": "UInt64",
+        "EffectRank": "Int32",
+        "EffectValue": "Single",
+        "Status": "Int32"
     }
-]
+}

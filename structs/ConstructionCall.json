@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "_activator": "IActivator"
+    },
+    "properties": {
+        "ActivationType": "Type",
+        "ActivationTypeName": "String",
+        "Activator": "IActivator",
+        "CallSiteActivationAttributes": "Object[]",
+        "ContextProperties": "IList"
+    }
+}

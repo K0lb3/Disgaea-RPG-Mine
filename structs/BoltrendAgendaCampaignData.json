@@ -1,57 +1,30 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_agenda_id": "UInt64",
+        "point": "Int32",
+        "base_rate": "Int32",
+        "is_periodic": "Boolean",
+        "agree_begin": "String",
+        "agree_end": "String",
+        "open_at": "String",
+        "close_at": "String",
+        "create_at": "String",
+        "update_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_agenda_id",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "point",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "base_rate",
-        "offset": 36
-    },
-    {
-        "type": "bool",
-        "name": "is_periodic",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "agree_begin",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "agree_end",
-        "offset": 56
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 64
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 72
-    },
-    {
-        "type": "string",
-        "name": "create_at",
-        "offset": 80
-    },
-    {
-        "type": "string",
-        "name": "update_at",
-        "offset": 88
+    "properties": {
+        "Id": "UInt64",
+        "MAgendaId": "UInt64",
+        "Point": "Int32",
+        "BaseRate": "Int32",
+        "IsPeriodic": "Boolean",
+        "AgreeBegin": "String",
+        "AgreeEnd": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "CreateAt": "String",
+        "UpdateAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

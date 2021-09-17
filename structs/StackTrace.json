@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "frames": "StackFrame[]",
+        "debug_info": "Boolean"
+    },
+    "properties": {
+        "FrameCount": "Int32"
+    }
+}

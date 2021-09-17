@@ -1,0 +1,29 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "m_character_id": "UInt64",
+        "training_status": "Int32",
+        "training_type": "Int32",
+        "m_ritual_training_stage_id": "UInt64",
+        "ability_description": "String",
+        "ability_type": "Int32",
+        "ability_id": "UInt64",
+        "buff_value": "UInt64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "CharacterId": "UInt64",
+        "TrainingStatus": "Int32",
+        "TrainingType": "TrainingTypes",
+        "IsPlayableTraining": "Boolean",
+        "MRitualTrainingStageId": "UInt64",
+        "AbilityDescription": "String",
+        "AbilityType": "TrainingAbilityType",
+        "AbilityId": "UInt64",
+        "AbilityParamId": "TrainingAbilityParamId",
+        "BuffValue": "UInt64",
+        "ParamBuffValue": "Single"
+    }
+}

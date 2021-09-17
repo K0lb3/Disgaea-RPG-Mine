@@ -1,0 +1,31 @@
+{
+    "fields": {
+        "parent_lcid": "Int32",
+        "datetime_index": "Int32",
+        "number_index": "Int32",
+        "default_calendar_type": "Int32",
+        "englishname": "String",
+        "nativename": "String",
+        "iso3lang": "String",
+        "iso2lang": "String",
+        "win3lang": "String",
+        "territory": "String",
+        "native_calendar_names": "String[]",
+        "calendar": "Calendar",
+        "parent_culture": "CultureInfo",
+        "constructed": "Boolean"
+    },
+    "properties": {
+        "LCID": "Int32",
+        "Name": "String",
+        "Calendar": "Calendar",
+        "Parent": "CultureInfo",
+        "TextInfo": "TextInfo",
+        "CompareInfo": "CompareInfo",
+        "IsNeutralCulture": "Boolean",
+        "NumberFormat": "NumberFormatInfo",
+        "DateTimeFormat": "DateTimeFormatInfo",
+        "EnglishName": "String",
+        "IsReadOnly": "Boolean"
+    }
+}

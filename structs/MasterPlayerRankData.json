@@ -1,22 +1,22 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "rank": "Int32",
+        "need_exp": "Int64",
+        "follow_max": "Int32",
+        "follower_max": "Int32",
+        "friend_max": "Int32",
+        "extend_weapon_max": "Int32",
+        "extend_equipment_max": "Int32",
+        "extend_innocent_store_max": "Int32"
     },
-    {
-        "type": "int",
-        "name": "rank",
-        "offset": 24
-    },
-    {
-        "type": "long",
-        "name": "need_exp",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "friend_max",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "Rank": "Int32",
+        "NeedExp": "Int64",
+        "FriendMax": "Int32",
+        "ExtendWeaponMax": "Int32",
+        "ExtendEquipmentMax": "Int32",
+        "ExtendInnocentStoreMax": "Int32"
     }
-]
+}

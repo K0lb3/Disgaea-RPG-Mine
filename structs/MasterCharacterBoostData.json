@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "boost_type": "Int32",
+        "effect_value": "Int32",
+        "open_at": "String",
+        "close_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "BoostType": "Int32",
+        "EffectValue": "Int32",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
+    }
+}

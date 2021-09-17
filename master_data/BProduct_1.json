@@ -1,14 +1,34 @@
 [
     {
-        "select_count": 1234567
+        "select_count": 1234567,
+        "product_type": 0
     },
     {
-        "select_count": 0
+        "select_count": 1718960651,
+        "product_type": 544499046
     },
     {
-        "select_count": 1718960651
+        "select_count": 1801675088,
+        "product_type": 12345671
     },
     {
-        "select_count": 544499046
+        "select_count": 1819635206,
+        "product_type": 24338284
+    },
+    {
+        "select_count": 0,
+        "product_type": 50331648
+    },
+    {
+        "select_count": 16777216,
+        "product_type": 33554432
+    },
+    {
+        "select_count": 0,
+        "product_type": 0
+    },
+    {
+        "select_count": -201326592,
+        "product_type": 1
     }
 ]

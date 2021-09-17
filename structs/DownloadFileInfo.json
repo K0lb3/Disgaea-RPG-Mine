@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "_md5": "String"
+    },
+    "properties": {
+        "Path": "String",
+        "Size": "Int64",
+        "Md5": "String"
+    }
+}

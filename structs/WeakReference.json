@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "IsAlive": "Boolean",
+        "Target": "Object",
+        "TrackResurrection": "Boolean"
+    }
+}

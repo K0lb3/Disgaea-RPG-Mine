@@ -1,37 +1,22 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "item_type": "Int32",
+        "icon_no": "Int32",
+        "effect_value": "Int32[]",
+        "description": "String",
+        "max_num": "Int32",
+        "sell_price": "Int32"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "item_type",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "icon_no",
-        "offset": 36
-    },
-    {
-        "type": "int[]",
-        "name": "effect_value",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "max_num",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "ItemType": "Int32",
+        "IconNo": "Int32",
+        "EffectValue": "Int32[]",
+        "Description": "String",
+        "MaxNum": "Int32",
+        "SellPrice": "Int32"
     }
-]
+}

@@ -1,27 +1,16 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "order_no": "UInt64",
+        "m_character_id": "UInt64",
+        "retrofit_type": "Int32",
+        "retrofit_value": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "order_no",
-        "offset": 24
-    },
-    {
-        "type": "ulong",
-        "name": "m_character_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "retrofit_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "retrofit_value",
-        "offset": 44
+    "properties": {
+        "Id": "UInt64",
+        "OrderNo": "UInt64",
+        "MCharacterId": "UInt64",
+        "RetrofitType": "Int32",
+        "RetrofitValue": "Int32"
     }
-]
+}

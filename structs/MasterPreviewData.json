@@ -1,22 +1,14 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_area_id": "Int32",
+        "bgm": "String",
+        "voice_name": "String"
     },
-    {
-        "type": "int",
-        "name": "m_area_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "bgm",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "voice_name",
-        "offset": 40
+    "properties": {
+        "Id": "UInt64",
+        "MAreaId": "Int32",
+        "Bgm": "String",
+        "VoiceName": "String"
     }
-]
+}

@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "custom_type": "Int32",
+        "file_name": "String",
+        "default_flg": "Boolean",
+        "created_at": "String"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "custom_type",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "file_name",
-        "offset": 40
-    },
-    {
-        "type": "bool",
-        "name": "default_flg",
-        "offset": 48
-    },
-    {
-        "type": "string",
-        "name": "created_at",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "CustomType": "Int32",
+        "FileName": "String",
+        "DefaultFlg": "Boolean",
+        "CreatedAt": "String"
     }
-]
+}

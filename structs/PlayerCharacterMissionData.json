@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "m_character_id": "UInt64",
+        "status": "Boolean",
+        "received_m_character_mission_ids": "UInt64[]",
+        "progress": "CharacterMissionProgress[]"
+    },
+    "properties": {
+        "MCharacterId": "UInt64",
+        "Status": "Boolean",
+        "ReceivedMCharacterMissionIds": "List`1",
+        "Progress": "List`1"
+    }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "need_exp": 0,
+        "character_max": 3,
+        "hour_max": 6,
+        "resource_name": "survey_ship_icon_1"
+    },
+    {
+        "id": 2,
+        "rank": 2,
+        "need_exp": 50,
+        "character_max": 3,
+        "hour_max": 12,
+        "resource_name": "survey_ship_icon_1"
+    },
+    {
+        "id": 3,
+        "rank": 3,
+        "need_exp": 200,
+        "character_max": 3,
+        "hour_max": 12,
+        "resource_name": "survey_ship_icon_2"
+    },
+    {
+        "id": 4,
+        "rank": 4,
+        "need_exp": 250,
+        "character_max": 4,
+        "hour_max": 12,
+        "resource_name": "survey_ship_icon_2"
+    },
+    {
+        "id": 5,
+        "rank": 5,
+        "need_exp": 500,
+        "character_max": 4,
+        "hour_max": 18,
+        "resource_name": "survey_ship_icon_2"
+    },
+    {
+        "id": 6,
+        "rank": 6,
+        "need_exp": 1000,
+        "character_max": 4,
+        "hour_max": 18,
+        "resource_name": "survey_ship_icon_3"
+    },
+    {
+        "id": 7,
+        "rank": 7,
+        "need_exp": 1500,
+        "character_max": 5,
+        "hour_max": 18,
+        "resource_name": "survey_ship_icon_3"
+    },
+    {
+        "id": 8,
+        "rank": 8,
+        "need_exp": 3000,
+        "character_max": 5,
+        "hour_max": 24,
+        "resource_name": "survey_ship_icon_3"
+    },
+    {
+        "id": 9,
+        "rank": 9,
+        "need_exp": 3500,
+        "character_max": 5,
+        "hour_max": 24,
+        "resource_name": "survey_ship_icon_4"
+    }
+]

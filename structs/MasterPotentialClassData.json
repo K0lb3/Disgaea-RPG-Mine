@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "m_item_id": "UInt64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "ItemId": "UInt64"
+    }
+}

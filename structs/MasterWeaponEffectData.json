@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_weapon_id": "UInt64",
+        "name": "String",
+        "timing_type": "Int32",
+        "description": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MWeaponId": "UInt64",
+        "Name": "String",
+        "TimingType": "Int32",
+        "Description": "String"
+    }
+}

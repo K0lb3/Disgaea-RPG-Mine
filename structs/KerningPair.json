@@ -1,0 +1,10 @@
+{
+    "fields": {},
+    "properties": {
+        "firstGlyph": "UInt32",
+        "firstGlyphAdjustments": "GlyphValueRecord_Legacy",
+        "secondGlyph": "UInt32",
+        "secondGlyphAdjustments": "GlyphValueRecord_Legacy",
+        "ignoreSpacingAdjustments": "Boolean"
+    }
+}

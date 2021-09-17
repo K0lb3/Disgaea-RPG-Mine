@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "impl": "X509CertificateImpl",
+        "issuer_name": "String",
+        "subject_name": "String"
+    },
+    "properties": {
+        "Issuer": "String",
+        "Subject": "String"
+    }
+}

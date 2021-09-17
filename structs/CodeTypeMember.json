@@ -1,0 +1,8 @@
+{
+    "fields": {},
+    "properties": {
+        "Attributes": "MemberAttributes",
+        "Comments": "CodeCommentStatementCollection",
+        "Name": "String"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Status": "WebExceptionStatus",
+        "Response": "WebResponse"
+    }
+}

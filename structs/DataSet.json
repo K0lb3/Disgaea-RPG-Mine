@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "_culture": "CultureInfo"
+    },
+    "properties": {
+        "RemotingFormat": "SerializationFormat",
+        "SchemaSerializationMode": "SchemaSerializationMode",
+        "CaseSensitive": "Boolean",
+        "EnforceConstraints": "Boolean",
+        "DataSetName": "String",
+        "Namespace": "String",
+        "Prefix": "String",
+        "ExtendedProperties": "PropertyCollection",
+        "Locale": "CultureInfo",
+        "Relations": "DataRelationCollection",
+        "Tables": "DataTableCollection"
+    }
+}

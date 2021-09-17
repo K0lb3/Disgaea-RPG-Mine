@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "_stream": "Stream"
+    },
+    "properties": {
+        "IsNull": "Boolean"
+    }
+}

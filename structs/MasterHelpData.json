@@ -1,27 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "sort": "Int32",
+        "category": "String",
+        "title": "String",
+        "body": "String",
+        "platform": "Int32"
     },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "category",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "title",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "body",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "Sort": "Int32",
+        "Category": "String",
+        "Title": "String",
+        "Body": "String",
+        "DisplayPlatform": "Platform"
     }
-]
+}

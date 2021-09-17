@@ -1,12 +1,16 @@
-[
-    {
-        "type": "int",
-        "name": "max_count",
-        "offset": 40
+{
+    "fields": {
+        "id": "UInt64",
+        "m_area_id": "UInt64",
+        "m_item_id": "UInt64",
+        "max_count": "Int32",
+        "max_use_item": "Int32"
     },
-    {
-        "type": "int",
-        "name": "max_use_item",
-        "offset": 44
+    "properties": {
+        "Id": "UInt64",
+        "areaId": "UInt64",
+        "keyItemId": "UInt64",
+        "maxCount": "Int32",
+        "maxUseItem": "Int32"
     }
-]
+}

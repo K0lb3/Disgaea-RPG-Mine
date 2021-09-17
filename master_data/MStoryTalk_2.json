@@ -1112,7 +1112,7 @@
     {
         "id": 3031,
         "m_story_id": 901036,
-        "no": 2,
+        "no": 1,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1149,7 +1149,7 @@
     {
         "id": 3032,
         "m_story_id": 901036,
-        "no": 3,
+        "no": 2,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1186,7 +1186,7 @@
     {
         "id": 3033,
         "m_story_id": 901036,
-        "no": 4,
+        "no": 3,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1223,7 +1223,7 @@
     {
         "id": 3034,
         "m_story_id": 901036,
-        "no": 5,
+        "no": 4,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1260,7 +1260,7 @@
     {
         "id": 3035,
         "m_story_id": 901036,
-        "no": 6,
+        "no": 5,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1297,7 +1297,7 @@
     {
         "id": 3036,
         "m_story_id": 901036,
-        "no": 8,
+        "no": 6,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1334,7 +1334,7 @@
     {
         "id": 3037,
         "m_story_id": 901036,
-        "no": 9,
+        "no": 7,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1371,7 +1371,7 @@
     {
         "id": 3038,
         "m_story_id": 901036,
-        "no": 10,
+        "no": 8,
         "bg_id": 1009,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1408,7 +1408,7 @@
     {
         "id": 3039,
         "m_story_id": 901036,
-        "no": 12,
+        "no": 9,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1445,7 +1445,7 @@
     {
         "id": 3040,
         "m_story_id": 901036,
-        "no": 13,
+        "no": 10,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1482,7 +1482,7 @@
     {
         "id": 3041,
         "m_story_id": 901036,
-        "no": 14,
+        "no": 11,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1519,7 +1519,7 @@
     {
         "id": 3042,
         "m_story_id": 901036,
-        "no": 15,
+        "no": 12,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1556,7 +1556,7 @@
     {
         "id": 3043,
         "m_story_id": 901036,
-        "no": 16,
+        "no": 13,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1593,7 +1593,7 @@
     {
         "id": 3044,
         "m_story_id": 901036,
-        "no": 17,
+        "no": 14,
         "bg_id": 1002,
         "bgm": "bgm_1_13",
         "se": "null_s",
@@ -1852,7 +1852,7 @@
     {
         "id": 3051,
         "m_story_id": 901041,
-        "no": 8,
+        "no": 7,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -1889,7 +1889,7 @@
     {
         "id": 3052,
         "m_story_id": 901041,
-        "no": 9,
+        "no": 8,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -1926,7 +1926,7 @@
     {
         "id": 3053,
         "m_story_id": 901041,
-        "no": 10,
+        "no": 9,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -1963,7 +1963,7 @@
     {
         "id": 3054,
         "m_story_id": 901041,
-        "no": 11,
+        "no": 10,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2000,7 +2000,7 @@
     {
         "id": 3055,
         "m_story_id": 901041,
-        "no": 12,
+        "no": 11,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2037,7 +2037,7 @@
     {
         "id": 3056,
         "m_story_id": 901041,
-        "no": 13,
+        "no": 12,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2074,7 +2074,7 @@
     {
         "id": 3057,
         "m_story_id": 901041,
-        "no": 14,
+        "no": 13,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2111,7 +2111,7 @@
     {
         "id": 3058,
         "m_story_id": 901041,
-        "no": 15,
+        "no": 14,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2148,7 +2148,7 @@
     {
         "id": 3059,
         "m_story_id": 901041,
-        "no": 16,
+        "no": 15,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2185,7 +2185,7 @@
     {
         "id": 3060,
         "m_story_id": 901041,
-        "no": 17,
+        "no": 16,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2222,7 +2222,7 @@
     {
         "id": 3061,
         "m_story_id": 901041,
-        "no": 18,
+        "no": 17,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2259,7 +2259,7 @@
     {
         "id": 3062,
         "m_story_id": 901041,
-        "no": 19,
+        "no": 18,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2296,7 +2296,7 @@
     {
         "id": 3063,
         "m_story_id": 901041,
-        "no": 20,
+        "no": 19,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2333,7 +2333,7 @@
     {
         "id": 3064,
         "m_story_id": 901041,
-        "no": 21,
+        "no": 20,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2370,7 +2370,7 @@
     {
         "id": 3065,
         "m_story_id": 901041,
-        "no": 22,
+        "no": 21,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2407,7 +2407,7 @@
     {
         "id": 3066,
         "m_story_id": 901041,
-        "no": 23,
+        "no": 22,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -2444,7 +2444,7 @@
     {
         "id": 3067,
         "m_story_id": 901041,
-        "no": 24,
+        "no": 23,
         "bg_id": 1003,
         "bgm": "bgm_1_1",
         "se": "null_s",
@@ -12656,7 +12656,7 @@
     {
         "id": 3343,
         "m_story_id": 901065,
-        "no": 17,
+        "no": 16,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12693,7 +12693,7 @@
     {
         "id": 3344,
         "m_story_id": 901065,
-        "no": 18,
+        "no": 17,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12730,7 +12730,7 @@
     {
         "id": 3345,
         "m_story_id": 901065,
-        "no": 19,
+        "no": 18,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12767,7 +12767,7 @@
     {
         "id": 3346,
         "m_story_id": 901065,
-        "no": 20,
+        "no": 19,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12804,7 +12804,7 @@
     {
         "id": 3347,
         "m_story_id": 901065,
-        "no": 21,
+        "no": 20,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12841,7 +12841,7 @@
     {
         "id": 3348,
         "m_story_id": 901065,
-        "no": 22,
+        "no": 21,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12878,7 +12878,7 @@
     {
         "id": 3349,
         "m_story_id": 901065,
-        "no": 23,
+        "no": 22,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12915,7 +12915,7 @@
     {
         "id": 3350,
         "m_story_id": 901065,
-        "no": 24,
+        "no": 23,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12952,7 +12952,7 @@
     {
         "id": 3351,
         "m_story_id": 901065,
-        "no": 25,
+        "no": 24,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -12989,7 +12989,7 @@
     {
         "id": 3352,
         "m_story_id": 901065,
-        "no": 26,
+        "no": 25,
         "bg_id": 1022,
         "bgm": "bgm_1_16",
         "se": "null_s",
@@ -18761,7 +18761,7 @@
     {
         "id": 3508,
         "m_story_id": 901085,
-        "no": 2,
+        "no": 1,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18798,7 +18798,7 @@
     {
         "id": 3509,
         "m_story_id": 901085,
-        "no": 3,
+        "no": 2,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18835,7 +18835,7 @@
     {
         "id": 3510,
         "m_story_id": 901085,
-        "no": 4,
+        "no": 3,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18872,7 +18872,7 @@
     {
         "id": 3511,
         "m_story_id": 901085,
-        "no": 5,
+        "no": 4,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18909,7 +18909,7 @@
     {
         "id": 3512,
         "m_story_id": 901085,
-        "no": 6,
+        "no": 5,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18946,7 +18946,7 @@
     {
         "id": 3513,
         "m_story_id": 901085,
-        "no": 7,
+        "no": 6,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -18983,7 +18983,7 @@
     {
         "id": 3514,
         "m_story_id": 901085,
-        "no": 8,
+        "no": 7,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -19020,7 +19020,7 @@
     {
         "id": 3515,
         "m_story_id": 901085,
-        "no": 9,
+        "no": 8,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -19057,7 +19057,7 @@
     {
         "id": 3516,
         "m_story_id": 901085,
-        "no": 10,
+        "no": 9,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -19094,7 +19094,7 @@
     {
         "id": 3517,
         "m_story_id": 901085,
-        "no": 11,
+        "no": 10,
         "bg_id": 1025,
         "bgm": "bgm_1_8",
         "se": "null_s",
@@ -19131,7 +19131,7 @@
     {
         "id": 3518,
         "m_story_id": 901085,
-        "no": 12,
+        "no": 11,
         "bg_id": 1025,
         "bgm": "bgm_1_15",
         "se": "null_s",
@@ -19168,7 +19168,7 @@
     {
         "id": 3519,
         "m_story_id": 901085,
-        "no": 13,
+        "no": 12,
         "bg_id": 1025,
         "bgm": "bgm_1_15",
         "se": "null_s",
@@ -19205,7 +19205,7 @@
     {
         "id": 3520,
         "m_story_id": 901085,
-        "no": 14,
+        "no": 13,
         "bg_id": 1025,
         "bgm": "bgm_1_15",
         "se": "null_s",
@@ -19242,7 +19242,7 @@
     {
         "id": 3521,
         "m_story_id": 901085,
-        "no": 15,
+        "no": 14,
         "bg_id": 1025,
         "bgm": "bgm_1_15",
         "se": "null_s",
@@ -19279,7 +19279,7 @@
     {
         "id": 3522,
         "m_story_id": 901085,
-        "no": 16,
+        "no": 15,
         "bg_id": 1025,
         "bgm": "bgm_1_15",
         "se": "null_s",
@@ -61046,7 +61046,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "You're talking about someone who is practically unheard of in the Human World! Dark Santa!",
+        "talk_text": "You're talking about someone who is practically unheard of in the Human World! \nDark Santa!",
         "screen_color": 0
     },
     {
@@ -73737,7 +73737,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 0,
-        "talk_text": "Opening Subtitles (※ Please provide an image)\nA Nether Special\nThe Great Pursuit!\nFind out who the cursed Majin really is! \t",
+        "talk_text": "タイトルテロップ（※画像で用意お願いします）\n\n魔界スペシャル\n\n命がけの大追跡！\n呪われし魔神の正体を暴け！",
         "screen_color": 0
     },
     {
@@ -76734,7 +76734,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Yukimaru, this festival is an important opportunity to let people know the tradition and splendor \nof Snow Melody Village.",
+        "talk_text": "Yukimaru, this festival is an important opportunity to l\net people know the tradition and splendor \nof Snow Melody Village.",
         "screen_color": 0
     },
     {
@@ -81729,7 +81729,7 @@
         "chara3_disabled": true,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "Faced with the prospect of losing all the food I had so carefully crafted, from rare ingredients gathered from all over the Netherworld for this one special day...I just saw red... ",
+        "talk_text": "Faced with the prospect of losing all the food I had so carefully crafted, from rare ingredients gathered from all over the Netherworld for this one special day...I just saw red...",
         "screen_color": 0
     },
     {
@@ -94975,7 +94975,7 @@
         "chara3_disabled": false,
         "chara3_in": 0,
         "window_type": 2,
-        "talk_text": "I see! So both sides were happy. And that means they were able to stop fighting, right? ",
+        "talk_text": "I see! So both sides were happy. And that means they were able to stop fighting, right?",
         "screen_color": 0
     },
     {

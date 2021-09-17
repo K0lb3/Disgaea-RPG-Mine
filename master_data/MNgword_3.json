@@ -1,0 +1,5557 @@
+[
+    {
+        "id": 6001,
+        "category": 0,
+        "word": "まつり"
+    },
+    {
+        "id": 6002,
+        "category": 0,
+        "word": "マツリ"
+    },
+    {
+        "id": 6003,
+        "category": 0,
+        "word": "まどぐち"
+    },
+    {
+        "id": 6004,
+        "category": 0,
+        "word": "マドグチ"
+    },
+    {
+        "id": 6005,
+        "category": 0,
+        "word": "まめどろぼう"
+    },
+    {
+        "id": 6006,
+        "category": 0,
+        "word": "マメドロボウ"
+    },
+    {
+        "id": 6007,
+        "category": 0,
+        "word": "まやく"
+    },
+    {
+        "id": 6008,
+        "category": 0,
+        "word": "マヤク"
+    },
+    {
+        "id": 6009,
+        "category": 0,
+        "word": "ﾏﾔｸ"
+    },
+    {
+        "id": 6010,
+        "category": 0,
+        "word": "まらやましげき"
+    },
+    {
+        "id": 6011,
+        "category": 0,
+        "word": "マラ山刺激"
+    },
+    {
+        "id": 6012,
+        "category": 0,
+        "word": "まら山刺激"
+    },
+    {
+        "id": 6013,
+        "category": 0,
+        "word": "まりふぁな"
+    },
+    {
+        "id": 6014,
+        "category": 0,
+        "word": "マリファナ"
+    },
+    {
+        "id": 6015,
+        "category": 0,
+        "word": "ﾏﾘﾌｧﾅ"
+    },
+    {
+        "id": 6016,
+        "category": 0,
+        "word": "まりふあな"
+    },
+    {
+        "id": 6017,
+        "category": 0,
+        "word": "まりふぁﾅょ"
+    },
+    {
+        "id": 6018,
+        "category": 0,
+        "word": "まるせい"
+    },
+    {
+        "id": 6019,
+        "category": 0,
+        "word": "マルセイ"
+    },
+    {
+        "id": 6020,
+        "category": 0,
+        "word": "マル精"
+    },
+    {
+        "id": 6021,
+        "category": 0,
+        "word": "まる精"
+    },
+    {
+        "id": 6022,
+        "category": 0,
+        "word": "マワシ"
+    },
+    {
+        "id": 6023,
+        "category": 0,
+        "word": "ﾏﾜｼ"
+    },
+    {
+        "id": 6024,
+        "category": 0,
+        "word": "マンP"
+    },
+    {
+        "id": 6025,
+        "category": 0,
+        "word": "ﾏﾝP"
+    },
+    {
+        "id": 6026,
+        "category": 0,
+        "word": "まんＰ"
+    },
+    {
+        "id": 6027,
+        "category": 0,
+        "word": "まんP"
+    },
+    {
+        "id": 6028,
+        "category": 0,
+        "word": "まんえん"
+    },
+    {
+        "id": 6029,
+        "category": 0,
+        "word": "マンエン"
+    },
+    {
+        "id": 6030,
+        "category": 0,
+        "word": "マンカス"
+    },
+    {
+        "id": 6031,
+        "category": 0,
+        "word": "まんかす"
+    },
+    {
+        "id": 6032,
+        "category": 0,
+        "word": "まんカス"
+    },
+    {
+        "id": 6033,
+        "category": 0,
+        "word": "マンかす"
+    },
+    {
+        "id": 6034,
+        "category": 0,
+        "word": "まんかす"
+    },
+    {
+        "id": 6035,
+        "category": 0,
+        "word": "まんきつ"
+    },
+    {
+        "id": 6036,
+        "category": 0,
+        "word": "マンキツ"
+    },
+    {
+        "id": 6037,
+        "category": 0,
+        "word": "まんぐり"
+    },
+    {
+        "id": 6038,
+        "category": 0,
+        "word": "マングリ"
+    },
+    {
+        "id": 6039,
+        "category": 0,
+        "word": "ﾏﾝｸﾞﾘ"
+    },
+    {
+        "id": 6040,
+        "category": 0,
+        "word": "ﾏﾝｹﾞ"
+    },
+    {
+        "id": 6041,
+        "category": 0,
+        "word": "まんげ"
+    },
+    {
+        "id": 6042,
+        "category": 0,
+        "word": "マンゲ"
+    },
+    {
+        "id": 6043,
+        "category": 0,
+        "word": "まんゲ"
+    },
+    {
+        "id": 6044,
+        "category": 0,
+        "word": "マンコ"
+    },
+    {
+        "id": 6045,
+        "category": 0,
+        "word": "まんこ"
+    },
+    {
+        "id": 6046,
+        "category": 0,
+        "word": "まんしゅう"
+    },
+    {
+        "id": 6047,
+        "category": 0,
+        "word": "マンシュウ"
+    },
+    {
+        "id": 6048,
+        "category": 0,
+        "word": "ﾏﾝｼﾞｭｳ"
+    },
+    {
+        "id": 6049,
+        "category": 0,
+        "word": "まんじゅう"
+    },
+    {
+        "id": 6050,
+        "category": 0,
+        "word": "マンジュウ"
+    },
+    {
+        "id": 6051,
+        "category": 0,
+        "word": "まんじる"
+    },
+    {
+        "id": 6052,
+        "category": 0,
+        "word": "マンチ"
+    },
+    {
+        "id": 6053,
+        "category": 0,
+        "word": "まんちゃんじる"
+    },
+    {
+        "id": 6054,
+        "category": 0,
+        "word": "まんちょ"
+    },
+    {
+        "id": 6055,
+        "category": 0,
+        "word": "まんぴー"
+    },
+    {
+        "id": 6056,
+        "category": 0,
+        "word": "マンピー"
+    },
+    {
+        "id": 6057,
+        "category": 0,
+        "word": "ﾏﾝﾋﾟｰ"
+    },
+    {
+        "id": 6058,
+        "category": 0,
+        "word": "まんびき"
+    },
+    {
+        "id": 6059,
+        "category": 0,
+        "word": "まんぶ"
+    },
+    {
+        "id": 6060,
+        "category": 0,
+        "word": "マンブ"
+    },
+    {
+        "id": 6061,
+        "category": 0,
+        "word": "マン子"
+    },
+    {
+        "id": 6062,
+        "category": 0,
+        "word": "まん子"
+    },
+    {
+        "id": 6063,
+        "category": 0,
+        "word": "マン汁"
+    },
+    {
+        "id": 6064,
+        "category": 0,
+        "word": "まん汁"
+    },
+    {
+        "id": 6065,
+        "category": 0,
+        "word": "ﾏﾝ毛"
+    },
+    {
+        "id": 6066,
+        "category": 0,
+        "word": "まん毛"
+    },
+    {
+        "id": 6067,
+        "category": 0,
+        "word": "みかいじん"
+    },
+    {
+        "id": 6068,
+        "category": 0,
+        "word": "ミカイジン"
+    },
+    {
+        "id": 6069,
+        "category": 0,
+        "word": "ﾐｶｲｼﾞﾝ"
+    },
+    {
+        "id": 6070,
+        "category": 0,
+        "word": "みかいはつこく"
+    },
+    {
+        "id": 6071,
+        "category": 0,
+        "word": "ミカイハツコク"
+    },
+    {
+        "id": 6072,
+        "category": 0,
+        "word": "ﾐｶｲﾊﾂｺｸ"
+    },
+    {
+        "id": 6073,
+        "category": 0,
+        "word": "みこすり"
+    },
+    {
+        "id": 6074,
+        "category": 0,
+        "word": "ミコスリ"
+    },
+    {
+        "id": 6075,
+        "category": 0,
+        "word": "みこすりはん"
+    },
+    {
+        "id": 6076,
+        "category": 0,
+        "word": "ミコスリハン"
+    },
+    {
+        "id": 6077,
+        "category": 0,
+        "word": "ﾐｺｽﾘﾊﾝ"
+    },
+    {
+        "id": 6078,
+        "category": 0,
+        "word": "ミツクチ"
+    },
+    {
+        "id": 6079,
+        "category": 0,
+        "word": "ﾐﾂｸﾁ"
+    },
+    {
+        "id": 6080,
+        "category": 0,
+        "word": "みつくち"
+    },
+    {
+        "id": 6081,
+        "category": 0,
+        "word": "みつにゅうしゃ"
+    },
+    {
+        "id": 6082,
+        "category": 0,
+        "word": "みぼうじん"
+    },
+    {
+        "id": 6083,
+        "category": 0,
+        "word": "ミボウジン"
+    },
+    {
+        "id": 6084,
+        "category": 0,
+        "word": "みほうだい"
+    },
+    {
+        "id": 6085,
+        "category": 0,
+        "word": "ミホウダイ"
+    },
+    {
+        "id": 6086,
+        "category": 0,
+        "word": "みほとけ"
+    },
+    {
+        "id": 6087,
+        "category": 0,
+        "word": "みみあか"
+    },
+    {
+        "id": 6088,
+        "category": 0,
+        "word": "みみくそ"
+    },
+    {
+        "id": 6089,
+        "category": 0,
+        "word": "ミミクソ"
+    },
+    {
+        "id": 6090,
+        "category": 0,
+        "word": "ミミズ千匹"
+    },
+    {
+        "id": 6091,
+        "category": 0,
+        "word": "みみず千匹"
+    },
+    {
+        "id": 6092,
+        "category": 0,
+        "word": "みみだれ"
+    },
+    {
+        "id": 6093,
+        "category": 0,
+        "word": "みやこじま"
+    },
+    {
+        "id": 6094,
+        "category": 0,
+        "word": "ミヤコジマ"
+    },
+    {
+        "id": 6095,
+        "category": 0,
+        "word": "みやざきつとむ"
+    },
+    {
+        "id": 6096,
+        "category": 0,
+        "word": "みんぞくじょうか"
+    },
+    {
+        "id": 6097,
+        "category": 0,
+        "word": "ミンゾクジョウカ"
+    },
+    {
+        "id": 6098,
+        "category": 0,
+        "word": "むしゅうせい"
+    },
+    {
+        "id": 6099,
+        "category": 0,
+        "word": "ムシュウセイ"
+    },
+    {
+        "id": 6100,
+        "category": 0,
+        "word": "ﾑｼｭｳｾｲ"
+    },
+    {
+        "id": 6101,
+        "category": 0,
+        "word": "むすめあわ"
+    },
+    {
+        "id": 6102,
+        "category": 0,
+        "word": "むせい"
+    },
+    {
+        "id": 6103,
+        "category": 0,
+        "word": "むりやり"
+    },
+    {
+        "id": 6104,
+        "category": 0,
+        "word": "ムリヤリ"
+    },
+    {
+        "id": 6105,
+        "category": 0,
+        "word": "むりょう"
+    },
+    {
+        "id": 6106,
+        "category": 0,
+        "word": "ムリョウ"
+    },
+    {
+        "id": 6107,
+        "category": 0,
+        "word": "ﾑﾘｮｳ"
+    },
+    {
+        "id": 6108,
+        "category": 0,
+        "word": "むりょうどうが"
+    },
+    {
+        "id": 6109,
+        "category": 0,
+        "word": "ムリョウドウガ"
+    },
+    {
+        "id": 6110,
+        "category": 0,
+        "word": "メアド"
+    },
+    {
+        "id": 6111,
+        "category": 0,
+        "word": "めあど"
+    },
+    {
+        "id": 6112,
+        "category": 0,
+        "word": "ﾒｱﾄﾞ"
+    },
+    {
+        "id": 6113,
+        "category": 0,
+        "word": "メイキングラブ"
+    },
+    {
+        "id": 6114,
+        "category": 0,
+        "word": "めいきんぐらぶ"
+    },
+    {
+        "id": 6115,
+        "category": 0,
+        "word": "めいきんらぶ"
+    },
+    {
+        "id": 6116,
+        "category": 0,
+        "word": "メイキンラブ"
+    },
+    {
+        "id": 6117,
+        "category": 0,
+        "word": "メイクラブ"
+    },
+    {
+        "id": 6118,
+        "category": 0,
+        "word": "めいくらぶ"
+    },
+    {
+        "id": 6119,
+        "category": 0,
+        "word": "ﾒｲｸﾗﾌﾞ"
+    },
+    {
+        "id": 6120,
+        "category": 0,
+        "word": "めかけ"
+    },
+    {
+        "id": 6121,
+        "category": 0,
+        "word": "メカケ"
+    },
+    {
+        "id": 6122,
+        "category": 0,
+        "word": "めくそ"
+    },
+    {
+        "id": 6123,
+        "category": 0,
+        "word": "メクソ"
+    },
+    {
+        "id": 6124,
+        "category": 0,
+        "word": "めくら"
+    },
+    {
+        "id": 6125,
+        "category": 0,
+        "word": "メクラ"
+    },
+    {
+        "id": 6126,
+        "category": 0,
+        "word": "ﾒｸﾗ"
+    },
+    {
+        "id": 6127,
+        "category": 0,
+        "word": "めくらじま"
+    },
+    {
+        "id": 6128,
+        "category": 0,
+        "word": "メクラジマ"
+    },
+    {
+        "id": 6129,
+        "category": 0,
+        "word": "めくらばん"
+    },
+    {
+        "id": 6130,
+        "category": 0,
+        "word": "メクラバン"
+    },
+    {
+        "id": 6131,
+        "category": 0,
+        "word": "めくらへび"
+    },
+    {
+        "id": 6132,
+        "category": 0,
+        "word": "メクラヘビ"
+    },
+    {
+        "id": 6133,
+        "category": 0,
+        "word": "めくらめっぽう"
+    },
+    {
+        "id": 6134,
+        "category": 0,
+        "word": "メクラメッポウ"
+    },
+    {
+        "id": 6135,
+        "category": 0,
+        "word": "メコイミフ"
+    },
+    {
+        "id": 6136,
+        "category": 0,
+        "word": "ﾒｺｲﾐﾌ"
+    },
+    {
+        "id": 6137,
+        "category": 0,
+        "word": "ﾒｯｶﾁ"
+    },
+    {
+        "id": 6138,
+        "category": 0,
+        "word": "メッカチ"
+    },
+    {
+        "id": 6139,
+        "category": 0,
+        "word": "めっかち"
+    },
+    {
+        "id": 6140,
+        "category": 0,
+        "word": "ﾒﾙﾚ"
+    },
+    {
+        "id": 6141,
+        "category": 0,
+        "word": "メルレ"
+    },
+    {
+        "id": 6142,
+        "category": 0,
+        "word": "めるれ"
+    },
+    {
+        "id": 6143,
+        "category": 0,
+        "word": "メル友"
+    },
+    {
+        "id": 6144,
+        "category": 0,
+        "word": "めんず"
+    },
+    {
+        "id": 6145,
+        "category": 0,
+        "word": "メンズ"
+    },
+    {
+        "id": 6146,
+        "category": 0,
+        "word": "メンヘラ"
+    },
+    {
+        "id": 6147,
+        "category": 0,
+        "word": "めんへら"
+    },
+    {
+        "id": 6148,
+        "category": 0,
+        "word": "ﾒﾝﾍﾗ"
+    },
+    {
+        "id": 6149,
+        "category": 0,
+        "word": "もうか"
+    },
+    {
+        "id": 6150,
+        "category": 0,
+        "word": "モウカ"
+    },
+    {
+        "id": 6151,
+        "category": 0,
+        "word": "もうけ"
+    },
+    {
+        "id": 6152,
+        "category": 0,
+        "word": "モウケ"
+    },
+    {
+        "id": 6153,
+        "category": 0,
+        "word": "もうこしょう"
+    },
+    {
+        "id": 6154,
+        "category": 0,
+        "word": "モウコショウ"
+    },
+    {
+        "id": 6155,
+        "category": 0,
+        "word": "もうじん"
+    },
+    {
+        "id": 6156,
+        "category": 0,
+        "word": "モウジン"
+    },
+    {
+        "id": 6157,
+        "category": 0,
+        "word": "ﾓｳｼﾞﾝ"
+    },
+    {
+        "id": 6158,
+        "category": 0,
+        "word": "もうはつ"
+    },
+    {
+        "id": 6159,
+        "category": 0,
+        "word": "モウハツ"
+    },
+    {
+        "id": 6160,
+        "category": 0,
+        "word": "もうもく"
+    },
+    {
+        "id": 6161,
+        "category": 0,
+        "word": "モウモク"
+    },
+    {
+        "id": 6162,
+        "category": 0,
+        "word": "モサ"
+    },
+    {
+        "id": 6163,
+        "category": 0,
+        "word": "もっこり"
+    },
+    {
+        "id": 6164,
+        "category": 0,
+        "word": "モッコリ"
+    },
+    {
+        "id": 6165,
+        "category": 0,
+        "word": "もでる"
+    },
+    {
+        "id": 6166,
+        "category": 0,
+        "word": "モデル"
+    },
+    {
+        "id": 6167,
+        "category": 0,
+        "word": "モバＧ"
+    },
+    {
+        "id": 6168,
+        "category": 0,
+        "word": "もばＧ"
+    },
+    {
+        "id": 6169,
+        "category": 0,
+        "word": "ﾓﾊﾞG"
+    },
+    {
+        "id": 6170,
+        "category": 0,
+        "word": "ももじり"
+    },
+    {
+        "id": 6171,
+        "category": 0,
+        "word": "モリまん"
+    },
+    {
+        "id": 6172,
+        "category": 0,
+        "word": "モリマン"
+    },
+    {
+        "id": 6173,
+        "category": 0,
+        "word": "もりまん"
+    },
+    {
+        "id": 6174,
+        "category": 0,
+        "word": "もんもう"
+    },
+    {
+        "id": 6175,
+        "category": 0,
+        "word": "モンモウ"
+    },
+    {
+        "id": 6176,
+        "category": 0,
+        "word": "ﾓﾝﾓｳ"
+    },
+    {
+        "id": 6177,
+        "category": 0,
+        "word": "もんもう"
+    },
+    {
+        "id": 6178,
+        "category": 0,
+        "word": "やーさま"
+    },
+    {
+        "id": 6179,
+        "category": 0,
+        "word": "ヤーサマ"
+    },
+    {
+        "id": 6180,
+        "category": 0,
+        "word": "ヤクザ"
+    },
+    {
+        "id": 6181,
+        "category": 0,
+        "word": "やくざ"
+    },
+    {
+        "id": 6182,
+        "category": 0,
+        "word": "やさぐれ"
+    },
+    {
+        "id": 6183,
+        "category": 0,
+        "word": "ヤサグレ"
+    },
+    {
+        "id": 6184,
+        "category": 0,
+        "word": "やつはし"
+    },
+    {
+        "id": 6185,
+        "category": 0,
+        "word": "やぶいしゃ"
+    },
+    {
+        "id": 6186,
+        "category": 0,
+        "word": "ヤブイシャ"
+    },
+    {
+        "id": 6187,
+        "category": 0,
+        "word": "ヤブニラミ"
+    },
+    {
+        "id": 6188,
+        "category": 0,
+        "word": "ﾔﾌﾞﾆﾗﾐ"
+    },
+    {
+        "id": 6189,
+        "category": 0,
+        "word": "やぶにらみ"
+    },
+    {
+        "id": 6190,
+        "category": 0,
+        "word": "やりちん"
+    },
+    {
+        "id": 6191,
+        "category": 0,
+        "word": "ヤリチン"
+    },
+    {
+        "id": 6192,
+        "category": 0,
+        "word": "やりチン"
+    },
+    {
+        "id": 6193,
+        "category": 0,
+        "word": "ヤリちん"
+    },
+    {
+        "id": 6194,
+        "category": 0,
+        "word": "ﾔﾘﾄ"
+    },
+    {
+        "id": 6195,
+        "category": 0,
+        "word": "ヤリト"
+    },
+    {
+        "id": 6196,
+        "category": 0,
+        "word": "やりと"
+    },
+    {
+        "id": 6197,
+        "category": 0,
+        "word": "やりにげ"
+    },
+    {
+        "id": 6198,
+        "category": 0,
+        "word": "ヤリニゲ"
+    },
+    {
+        "id": 6199,
+        "category": 0,
+        "word": "ﾔﾘﾆｹﾞ"
+    },
+    {
+        "id": 6200,
+        "category": 0,
+        "word": "やりまん"
+    },
+    {
+        "id": 6201,
+        "category": 0,
+        "word": "ﾔﾘﾏﾝ"
+    },
+    {
+        "id": 6202,
+        "category": 0,
+        "word": "ヤリマン"
+    },
+    {
+        "id": 6203,
+        "category": 0,
+        "word": "やりめ"
+    },
+    {
+        "id": 6204,
+        "category": 0,
+        "word": "ﾔﾘﾒ"
+    },
+    {
+        "id": 6205,
+        "category": 0,
+        "word": "ヤリメ"
+    },
+    {
+        "id": 6206,
+        "category": 0,
+        "word": "ﾔﾘﾓｸ"
+    },
+    {
+        "id": 6207,
+        "category": 0,
+        "word": "ヤリモク"
+    },
+    {
+        "id": 6208,
+        "category": 0,
+        "word": "やりもく"
+    },
+    {
+        "id": 6209,
+        "category": 0,
+        "word": "ヤリ目"
+    },
+    {
+        "id": 6210,
+        "category": 0,
+        "word": "ヤリ友"
+    },
+    {
+        "id": 6211,
+        "category": 0,
+        "word": "やんきー"
+    },
+    {
+        "id": 6212,
+        "category": 0,
+        "word": "ヤンキー"
+    },
+    {
+        "id": 6213,
+        "category": 0,
+        "word": "ゆうびんふ"
+    },
+    {
+        "id": 6214,
+        "category": 0,
+        "word": "ﾕｷﾁ"
+    },
+    {
+        "id": 6215,
+        "category": 0,
+        "word": "ユキチ"
+    },
+    {
+        "id": 6216,
+        "category": 0,
+        "word": "ゆきち"
+    },
+    {
+        "id": 6217,
+        "category": 0,
+        "word": "ゆだや"
+    },
+    {
+        "id": 6218,
+        "category": 0,
+        "word": "ユダヤ"
+    },
+    {
+        "id": 6219,
+        "category": 0,
+        "word": "ゆびまん"
+    },
+    {
+        "id": 6220,
+        "category": 0,
+        "word": "ユビマン"
+    },
+    {
+        "id": 6221,
+        "category": 0,
+        "word": "ヨイヨイ"
+    },
+    {
+        "id": 6222,
+        "category": 0,
+        "word": "よいよい"
+    },
+    {
+        "id": 6223,
+        "category": 0,
+        "word": "ヨウゴ"
+    },
+    {
+        "id": 6224,
+        "category": 0,
+        "word": "ﾖｳｺﾞ"
+    },
+    {
+        "id": 6225,
+        "category": 0,
+        "word": "よがる"
+    },
+    {
+        "id": 6226,
+        "category": 0,
+        "word": "よこちん"
+    },
+    {
+        "id": 6227,
+        "category": 0,
+        "word": "ヨコチン"
+    },
+    {
+        "id": 6228,
+        "category": 0,
+        "word": "よつあし"
+    },
+    {
+        "id": 6229,
+        "category": 0,
+        "word": "ﾖﾂｱｼ"
+    },
+    {
+        "id": 6230,
+        "category": 0,
+        "word": "ヨツアシ"
+    },
+    {
+        "id": 6231,
+        "category": 0,
+        "word": "よりめ"
+    },
+    {
+        "id": 6232,
+        "category": 0,
+        "word": "らいびょう"
+    },
+    {
+        "id": 6233,
+        "category": 0,
+        "word": "らいびょう"
+    },
+    {
+        "id": 6234,
+        "category": 0,
+        "word": "ライビョウ"
+    },
+    {
+        "id": 6235,
+        "category": 0,
+        "word": "ライビョウ"
+    },
+    {
+        "id": 6236,
+        "category": 0,
+        "word": "ラィン"
+    },
+    {
+        "id": 6237,
+        "category": 0,
+        "word": "ﾗｨﾝ"
+    },
+    {
+        "id": 6238,
+        "category": 0,
+        "word": "らぃん"
+    },
+    {
+        "id": 6239,
+        "category": 0,
+        "word": "ライン"
+    },
+    {
+        "id": 6240,
+        "category": 0,
+        "word": "ﾗｲﾝ"
+    },
+    {
+        "id": 6241,
+        "category": 0,
+        "word": "らいん"
+    },
+    {
+        "id": 6242,
+        "category": 0,
+        "word": "ライ病"
+    },
+    {
+        "id": 6243,
+        "category": 0,
+        "word": "らい病"
+    },
+    {
+        "id": 6244,
+        "category": 0,
+        "word": "らっぷじん"
+    },
+    {
+        "id": 6245,
+        "category": 0,
+        "word": "ラップジン"
+    },
+    {
+        "id": 6246,
+        "category": 0,
+        "word": "ﾗｯﾌﾟｼﾞﾝ"
+    },
+    {
+        "id": 6247,
+        "category": 0,
+        "word": "ラップ人"
+    },
+    {
+        "id": 6248,
+        "category": 0,
+        "word": "ラディン"
+    },
+    {
+        "id": 6249,
+        "category": 0,
+        "word": "らでぃん"
+    },
+    {
+        "id": 6250,
+        "category": 0,
+        "word": "らぶじゅーす"
+    },
+    {
+        "id": 6251,
+        "category": 0,
+        "word": "ラブジュース"
+    },
+    {
+        "id": 6252,
+        "category": 0,
+        "word": "ﾗﾌﾞｼﾞｭｰｽ"
+    },
+    {
+        "id": 6253,
+        "category": 0,
+        "word": "らぶほ"
+    },
+    {
+        "id": 6254,
+        "category": 0,
+        "word": "ラブホ"
+    },
+    {
+        "id": 6255,
+        "category": 0,
+        "word": "ﾗﾌﾞﾎ"
+    },
+    {
+        "id": 6256,
+        "category": 0,
+        "word": "らんこう"
+    },
+    {
+        "id": 6257,
+        "category": 0,
+        "word": "ランコウ"
+    },
+    {
+        "id": 6258,
+        "category": 0,
+        "word": "ﾗﾝｺｳ"
+    },
+    {
+        "id": 6259,
+        "category": 0,
+        "word": "リアル厨房"
+    },
+    {
+        "id": 6260,
+        "category": 0,
+        "word": "リア工"
+    },
+    {
+        "id": 6261,
+        "category": 0,
+        "word": "リア厨"
+    },
+    {
+        "id": 6262,
+        "category": 0,
+        "word": "りすか"
+    },
+    {
+        "id": 6263,
+        "category": 0,
+        "word": "リスカ"
+    },
+    {
+        "id": 6264,
+        "category": 0,
+        "word": "ﾘｽｶ"
+    },
+    {
+        "id": 6265,
+        "category": 0,
+        "word": "りすとかっと"
+    },
+    {
+        "id": 6266,
+        "category": 0,
+        "word": "リストカット"
+    },
+    {
+        "id": 6267,
+        "category": 0,
+        "word": "ﾘｽﾄｶｯﾄ"
+    },
+    {
+        "id": 6268,
+        "category": 0,
+        "word": "りすとカット"
+    },
+    {
+        "id": 6269,
+        "category": 0,
+        "word": "リストかっと"
+    },
+    {
+        "id": 6270,
+        "category": 0,
+        "word": "リストラ"
+    },
+    {
+        "id": 6271,
+        "category": 0,
+        "word": "りすとら"
+    },
+    {
+        "id": 6272,
+        "category": 0,
+        "word": "リスト力ット"
+    },
+    {
+        "id": 6273,
+        "category": 0,
+        "word": "りそりそ"
+    },
+    {
+        "id": 6274,
+        "category": 0,
+        "word": "リソリソ"
+    },
+    {
+        "id": 6275,
+        "category": 0,
+        "word": "ﾘｿﾘｿ"
+    },
+    {
+        "id": 6276,
+        "category": 0,
+        "word": "リタリン"
+    },
+    {
+        "id": 6277,
+        "category": 0,
+        "word": "りゅうねん"
+    },
+    {
+        "id": 6278,
+        "category": 0,
+        "word": "りんかん"
+    },
+    {
+        "id": 6279,
+        "category": 0,
+        "word": "リンカン"
+    },
+    {
+        "id": 6280,
+        "category": 0,
+        "word": "ﾘﾝｶﾝ"
+    },
+    {
+        "id": 6281,
+        "category": 0,
+        "word": "リンチ"
+    },
+    {
+        "id": 6282,
+        "category": 0,
+        "word": "りんち"
+    },
+    {
+        "id": 6283,
+        "category": 0,
+        "word": "ﾘﾝﾁ"
+    },
+    {
+        "id": 6284,
+        "category": 0,
+        "word": "りんち"
+    },
+    {
+        "id": 6285,
+        "category": 0,
+        "word": "ﾘﾝﾁ"
+    },
+    {
+        "id": 6286,
+        "category": 0,
+        "word": "リンチ"
+    },
+    {
+        "id": 6287,
+        "category": 0,
+        "word": "ルンペン"
+    },
+    {
+        "id": 6288,
+        "category": 0,
+        "word": "るんぺん"
+    },
+    {
+        "id": 6289,
+        "category": 0,
+        "word": "ﾙﾝﾍﾟﾝ"
+    },
+    {
+        "id": 6290,
+        "category": 0,
+        "word": "れL1ぷ"
+    },
+    {
+        "id": 6291,
+        "category": 0,
+        "word": "れいかん"
+    },
+    {
+        "id": 6292,
+        "category": 0,
+        "word": "レイカン"
+    },
+    {
+        "id": 6293,
+        "category": 0,
+        "word": "レイプ"
+    },
+    {
+        "id": 6294,
+        "category": 0,
+        "word": "れいぷ"
+    },
+    {
+        "id": 6295,
+        "category": 0,
+        "word": "ﾚｲﾌﾟ"
+    },
+    {
+        "id": 6296,
+        "category": 0,
+        "word": "れず"
+    },
+    {
+        "id": 6297,
+        "category": 0,
+        "word": "レズ"
+    },
+    {
+        "id": 6298,
+        "category": 0,
+        "word": "れずびあん"
+    },
+    {
+        "id": 6299,
+        "category": 0,
+        "word": "レズビアン"
+    },
+    {
+        "id": 6300,
+        "category": 0,
+        "word": "れずびあん"
+    },
+    {
+        "id": 6301,
+        "category": 0,
+        "word": "ろう"
+    },
+    {
+        "id": 6302,
+        "category": 0,
+        "word": "ロウ"
+    },
+    {
+        "id": 6303,
+        "category": 0,
+        "word": "ろうあ"
+    },
+    {
+        "id": 6304,
+        "category": 0,
+        "word": "ロウア"
+    },
+    {
+        "id": 6305,
+        "category": 0,
+        "word": "ﾛｳｱ"
+    },
+    {
+        "id": 6306,
+        "category": 0,
+        "word": "ろうにん"
+    },
+    {
+        "id": 6307,
+        "category": 0,
+        "word": "ロウニン"
+    },
+    {
+        "id": 6308,
+        "category": 0,
+        "word": "ろうむしゃ"
+    },
+    {
+        "id": 6309,
+        "category": 0,
+        "word": "ろーしょん"
+    },
+    {
+        "id": 6310,
+        "category": 0,
+        "word": "ローション"
+    },
+    {
+        "id": 6311,
+        "category": 0,
+        "word": "ローター"
+    },
+    {
+        "id": 6312,
+        "category": 0,
+        "word": "ろーたー"
+    },
+    {
+        "id": 6313,
+        "category": 0,
+        "word": "ﾛｰﾀｰ"
+    },
+    {
+        "id": 6314,
+        "category": 0,
+        "word": "ろしゅつ"
+    },
+    {
+        "id": 6315,
+        "category": 0,
+        "word": "ロシュツ"
+    },
+    {
+        "id": 6316,
+        "category": 0,
+        "word": "ろしゅつきょう"
+    },
+    {
+        "id": 6317,
+        "category": 0,
+        "word": "ロスケ"
+    },
+    {
+        "id": 6318,
+        "category": 0,
+        "word": "ﾛｽｹ"
+    },
+    {
+        "id": 6319,
+        "category": 0,
+        "word": "ろすけ"
+    },
+    {
+        "id": 6320,
+        "category": 0,
+        "word": "ロヒ"
+    },
+    {
+        "id": 6321,
+        "category": 0,
+        "word": "ロヒプノール"
+    },
+    {
+        "id": 6322,
+        "category": 0,
+        "word": "ロリコン"
+    },
+    {
+        "id": 6323,
+        "category": 0,
+        "word": "ろりこん"
+    },
+    {
+        "id": 6324,
+        "category": 0,
+        "word": "ﾛﾘｺﾝ"
+    },
+    {
+        "id": 6325,
+        "category": 0,
+        "word": "ろりこン"
+    },
+    {
+        "id": 6326,
+        "category": 0,
+        "word": "ろリコン"
+    },
+    {
+        "id": 6327,
+        "category": 0,
+        "word": "ロリコん"
+    },
+    {
+        "id": 6328,
+        "category": 0,
+        "word": "ロリこん"
+    },
+    {
+        "id": 6329,
+        "category": 0,
+        "word": "ロりこん"
+    },
+    {
+        "id": 6330,
+        "category": 0,
+        "word": "ろリコん"
+    },
+    {
+        "id": 6331,
+        "category": 0,
+        "word": "ロりこン"
+    },
+    {
+        "id": 6332,
+        "category": 0,
+        "word": "ろりコん"
+    },
+    {
+        "id": 6333,
+        "category": 0,
+        "word": "ろリこん"
+    },
+    {
+        "id": 6334,
+        "category": 0,
+        "word": "ロリこン"
+    },
+    {
+        "id": 6335,
+        "category": 0,
+        "word": "ロりコン"
+    },
+    {
+        "id": 6336,
+        "category": 0,
+        "word": "ろれっくす"
+    },
+    {
+        "id": 6337,
+        "category": 0,
+        "word": "ロレックス"
+    },
+    {
+        "id": 6338,
+        "category": 0,
+        "word": "ろんぱり"
+    },
+    {
+        "id": 6339,
+        "category": 0,
+        "word": "ﾛﾝﾊﾟﾘ"
+    },
+    {
+        "id": 6340,
+        "category": 0,
+        "word": "ロンパリ"
+    },
+    {
+        "id": 6341,
+        "category": 0,
+        "word": "わいしょう"
+    },
+    {
+        "id": 6342,
+        "category": 0,
+        "word": "ワイショウ"
+    },
+    {
+        "id": 6343,
+        "category": 0,
+        "word": "ﾜｲｼｮｳ"
+    },
+    {
+        "id": 6344,
+        "category": 0,
+        "word": "わかた"
+    },
+    {
+        "id": 6345,
+        "category": 0,
+        "word": "ワカン"
+    },
+    {
+        "id": 6346,
+        "category": 0,
+        "word": "ﾜｶﾝ"
+    },
+    {
+        "id": 6347,
+        "category": 0,
+        "word": "わきが"
+    },
+    {
+        "id": 6348,
+        "category": 0,
+        "word": "ワキガ"
+    },
+    {
+        "id": 6349,
+        "category": 0,
+        "word": "わきじゅう"
+    },
+    {
+        "id": 6350,
+        "category": 0,
+        "word": "わきじる"
+    },
+    {
+        "id": 6351,
+        "category": 0,
+        "word": "ワキ汁"
+    },
+    {
+        "id": 6352,
+        "category": 0,
+        "word": "わき汁"
+    },
+    {
+        "id": 6353,
+        "category": 0,
+        "word": "わけあり"
+    },
+    {
+        "id": 6354,
+        "category": 0,
+        "word": "ワケアリ"
+    },
+    {
+        "id": 6355,
+        "category": 0,
+        "word": "わじん"
+    },
+    {
+        "id": 6356,
+        "category": 0,
+        "word": "わなわ"
+    },
+    {
+        "id": 6357,
+        "category": 0,
+        "word": "ワナワ"
+    },
+    {
+        "id": 6358,
+        "category": 0,
+        "word": "ﾜﾅﾜ"
+    },
+    {
+        "id": 6359,
+        "category": 0,
+        "word": "わまわ"
+    },
+    {
+        "id": 6360,
+        "category": 0,
+        "word": "ワマワ"
+    },
+    {
+        "id": 6361,
+        "category": 0,
+        "word": "ﾜﾏﾜ"
+    },
+    {
+        "id": 6362,
+        "category": 0,
+        "word": "わやわ"
+    },
+    {
+        "id": 6363,
+        "category": 0,
+        "word": "ワヤワ"
+    },
+    {
+        "id": 6364,
+        "category": 0,
+        "word": "ﾜﾔﾜ"
+    },
+    {
+        "id": 6365,
+        "category": 0,
+        "word": "わらわ"
+    },
+    {
+        "id": 6366,
+        "category": 0,
+        "word": "ワラワ"
+    },
+    {
+        "id": 6367,
+        "category": 0,
+        "word": "ﾜﾗﾜ"
+    },
+    {
+        "id": 6368,
+        "category": 0,
+        "word": "われめ"
+    },
+    {
+        "id": 6369,
+        "category": 0,
+        "word": "ワレメ"
+    },
+    {
+        "id": 6370,
+        "category": 0,
+        "word": "ﾜﾚﾒ"
+    },
+    {
+        "id": 6371,
+        "category": 0,
+        "word": "ゑろ"
+    },
+    {
+        "id": 6372,
+        "category": 0,
+        "word": "阿片"
+    },
+    {
+        "id": 6373,
+        "category": 0,
+        "word": "阿呆"
+    },
+    {
+        "id": 6374,
+        "category": 0,
+        "word": "阿弥陀"
+    },
+    {
+        "id": 6375,
+        "category": 0,
+        "word": "愛染明王"
+    },
+    {
+        "id": 6376,
+        "category": 0,
+        "word": "愛撫"
+    },
+    {
+        "id": 6377,
+        "category": 0,
+        "word": "悪性腫瘍"
+    },
+    {
+        "id": 6378,
+        "category": 0,
+        "word": "按摩"
+    },
+    {
+        "id": 6379,
+        "category": 0,
+        "word": "椅子洗い"
+    },
+    {
+        "id": 6380,
+        "category": 0,
+        "word": "異物挿入"
+    },
+    {
+        "id": 6381,
+        "category": 0,
+        "word": "移民"
+    },
+    {
+        "id": 6382,
+        "category": 0,
+        "word": "遺体"
+    },
+    {
+        "id": 6383,
+        "category": 0,
+        "word": "育ちより氏"
+    },
+    {
+        "id": 6384,
+        "category": 0,
+        "word": "引かれ者"
+    },
+    {
+        "id": 6385,
+        "category": 0,
+        "word": "飲尿"
+    },
+    {
+        "id": 6386,
+        "category": 0,
+        "word": "淫行"
+    },
+    {
+        "id": 6387,
+        "category": 0,
+        "word": "淫売"
+    },
+    {
+        "id": 6388,
+        "category": 0,
+        "word": "淫乱"
+    },
+    {
+        "id": 6389,
+        "category": 0,
+        "word": "陰核"
+    },
+    {
+        "id": 6390,
+        "category": 0,
+        "word": "陰茎"
+    },
+    {
+        "id": 6391,
+        "category": 0,
+        "word": "陰唇"
+    },
+    {
+        "id": 6392,
+        "category": 0,
+        "word": "陰毛"
+    },
+    {
+        "id": 6393,
+        "category": 0,
+        "word": "右翼"
+    },
+    {
+        "id": 6394,
+        "category": 0,
+        "word": "羽目鳥"
+    },
+    {
+        "id": 6395,
+        "category": 0,
+        "word": "瓜だよ"
+    },
+    {
+        "id": 6396,
+        "category": 0,
+        "word": "瓜希望"
+    },
+    {
+        "id": 6397,
+        "category": 0,
+        "word": "運ちゃん"
+    },
+    {
+        "id": 6398,
+        "category": 0,
+        "word": "永眠"
+    },
+    {
+        "id": 6399,
+        "category": 0,
+        "word": "液便"
+    },
+    {
+        "id": 6400,
+        "category": 0,
+        "word": "疫便"
+    },
+    {
+        "id": 6401,
+        "category": 0,
+        "word": "駅弁大学"
+    },
+    {
+        "id": 6402,
+        "category": 0,
+        "word": "円デリ"
+    },
+    {
+        "id": 6403,
+        "category": 0,
+        "word": "円交"
+    },
+    {
+        "id": 6404,
+        "category": 0,
+        "word": "円交寺"
+    },
+    {
+        "id": 6405,
+        "category": 0,
+        "word": "円光"
+    },
+    {
+        "id": 6406,
+        "category": 0,
+        "word": "円口"
+    },
+    {
+        "id": 6407,
+        "category": 0,
+        "word": "園校"
+    },
+    {
+        "id": 6408,
+        "category": 0,
+        "word": "援こう"
+    },
+    {
+        "id": 6409,
+        "category": 0,
+        "word": "援コウ"
+    },
+    {
+        "id": 6410,
+        "category": 0,
+        "word": "援ｺｳ"
+    },
+    {
+        "id": 6411,
+        "category": 0,
+        "word": "援さ"
+    },
+    {
+        "id": 6412,
+        "category": 0,
+        "word": "援す"
+    },
+    {
+        "id": 6413,
+        "category": 0,
+        "word": "援希望"
+    },
+    {
+        "id": 6414,
+        "category": 0,
+        "word": "援交"
+    },
+    {
+        "id": 6415,
+        "category": 0,
+        "word": "横ちん"
+    },
+    {
+        "id": 6416,
+        "category": 0,
+        "word": "屋外プレイ"
+    },
+    {
+        "id": 6417,
+        "category": 0,
+        "word": "下女"
+    },
+    {
+        "id": 6418,
+        "category": 0,
+        "word": "下男"
+    },
+    {
+        "id": 6419,
+        "category": 0,
+        "word": "下痢"
+    },
+    {
+        "id": 6420,
+        "category": 0,
+        "word": "仮性包形"
+    },
+    {
+        "id": 6421,
+        "category": 0,
+        "word": "仮性包茎"
+    },
+    {
+        "id": 6422,
+        "category": 0,
+        "word": "加齢臭"
+    },
+    {
+        "id": 6423,
+        "category": 0,
+        "word": "稼げます"
+    },
+    {
+        "id": 6424,
+        "category": 0,
+        "word": "花びら回転"
+    },
+    {
+        "id": 6425,
+        "category": 0,
+        "word": "花回転"
+    },
+    {
+        "id": 6426,
+        "category": 0,
+        "word": "過去帳"
+    },
+    {
+        "id": 6427,
+        "category": 0,
+        "word": "我慢汁"
+    },
+    {
+        "id": 6428,
+        "category": 0,
+        "word": "外出し"
+    },
+    {
+        "id": 6429,
+        "category": 0,
+        "word": "外人"
+    },
+    {
+        "id": 6430,
+        "category": 0,
+        "word": "骸骨"
+    },
+    {
+        "id": 6431,
+        "category": 0,
+        "word": "覚醒剤"
+    },
+    {
+        "id": 6432,
+        "category": 0,
+        "word": "姦国"
+    },
+    {
+        "id": 6433,
+        "category": 0,
+        "word": "姦酷"
+    },
+    {
+        "id": 6434,
+        "category": 0,
+        "word": "姦通"
+    },
+    {
+        "id": 6435,
+        "category": 0,
+        "word": "完落ち"
+    },
+    {
+        "id": 6436,
+        "category": 0,
+        "word": "官能"
+    },
+    {
+        "id": 6437,
+        "category": 0,
+        "word": "患国"
+    },
+    {
+        "id": 6438,
+        "category": 0,
+        "word": "漢族"
+    },
+    {
+        "id": 6439,
+        "category": 0,
+        "word": "監禁"
+    },
+    {
+        "id": 6440,
+        "category": 0,
+        "word": "観音"
+    },
+    {
+        "id": 6441,
+        "category": 0,
+        "word": "鑑真"
+    },
+    {
+        "id": 6442,
+        "category": 0,
+        "word": "癌細胞"
+    },
+    {
+        "id": 6443,
+        "category": 0,
+        "word": "眼球注射"
+    },
+    {
+        "id": 6444,
+        "category": 0,
+        "word": "顔射"
+    },
+    {
+        "id": 6445,
+        "category": 0,
+        "word": "顔面騎乗"
+    },
+    {
+        "id": 6446,
+        "category": 0,
+        "word": "顔面障害"
+    },
+    {
+        "id": 6447,
+        "category": 0,
+        "word": "顔面発射"
+    },
+    {
+        "id": 6448,
+        "category": 0,
+        "word": "基地"
+    },
+    {
+        "id": 6449,
+        "category": 0,
+        "word": "基盤"
+    },
+    {
+        "id": 6450,
+        "category": 0,
+        "word": "奇形児"
+    },
+    {
+        "id": 6451,
+        "category": 0,
+        "word": "寄目"
+    },
+    {
+        "id": 6452,
+        "category": 0,
+        "word": "気違い"
+    },
+    {
+        "id": 6453,
+        "category": 0,
+        "word": "気狂い"
+    },
+    {
+        "id": 6454,
+        "category": 0,
+        "word": "騎上位"
+    },
+    {
+        "id": 6455,
+        "category": 0,
+        "word": "騎乗位"
+    },
+    {
+        "id": 6456,
+        "category": 0,
+        "word": "鬼畜"
+    },
+    {
+        "id": 6457,
+        "category": 0,
+        "word": "亀甲縛り"
+    },
+    {
+        "id": 6458,
+        "category": 0,
+        "word": "亀頭"
+    },
+    {
+        "id": 6459,
+        "category": 0,
+        "word": "菊びら回転"
+    },
+    {
+        "id": 6460,
+        "category": 0,
+        "word": "菊門"
+    },
+    {
+        "id": 6461,
+        "category": 0,
+        "word": "吃音"
+    },
+    {
+        "id": 6462,
+        "category": 0,
+        "word": "脚ずり"
+    },
+    {
+        "id": 6463,
+        "category": 0,
+        "word": "脚ズリ"
+    },
+    {
+        "id": 6464,
+        "category": 0,
+        "word": "逆援"
+    },
+    {
+        "id": 6465,
+        "category": 0,
+        "word": "宮崎つとむ"
+    },
+    {
+        "id": 6466,
+        "category": 0,
+        "word": "宮崎勤"
+    },
+    {
+        "id": 6467,
+        "category": 0,
+        "word": "救苦天尊"
+    },
+    {
+        "id": 6468,
+        "category": 0,
+        "word": "汲み取り"
+    },
+    {
+        "id": 6469,
+        "category": 0,
+        "word": "窮民"
+    },
+    {
+        "id": 6470,
+        "category": 0,
+        "word": "居空き"
+    },
+    {
+        "id": 6471,
+        "category": 0,
+        "word": "巨根"
+    },
+    {
+        "id": 6472,
+        "category": 0,
+        "word": "巨乳"
+    },
+    {
+        "id": 6473,
+        "category": 0,
+        "word": "虚乳"
+    },
+    {
+        "id": 6474,
+        "category": 0,
+        "word": "漁夫"
+    },
+    {
+        "id": 6475,
+        "category": 0,
+        "word": "京城"
+    },
+    {
+        "id": 6476,
+        "category": 0,
+        "word": "強姦"
+    },
+    {
+        "id": 6477,
+        "category": 0,
+        "word": "狂気"
+    },
+    {
+        "id": 6478,
+        "category": 0,
+        "word": "狂々パ"
+    },
+    {
+        "id": 6479,
+        "category": 0,
+        "word": "狂々ぱ"
+    },
+    {
+        "id": 6480,
+        "category": 0,
+        "word": "狂犬"
+    },
+    {
+        "id": 6481,
+        "category": 0,
+        "word": "狂女"
+    },
+    {
+        "id": 6482,
+        "category": 0,
+        "word": "狂人"
+    },
+    {
+        "id": 6483,
+        "category": 0,
+        "word": "狂夜"
+    },
+    {
+        "id": 6484,
+        "category": 0,
+        "word": "業病"
+    },
+    {
+        "id": 6485,
+        "category": 0,
+        "word": "玉金"
+    },
+    {
+        "id": 6486,
+        "category": 0,
+        "word": "禁球"
+    },
+    {
+        "id": 6487,
+        "category": 0,
+        "word": "近親相姦"
+    },
+    {
+        "id": 6488,
+        "category": 0,
+        "word": "金王"
+    },
+    {
+        "id": 6489,
+        "category": 0,
+        "word": "金柑"
+    },
+    {
+        "id": 6490,
+        "category": 0,
+        "word": "金球"
+    },
+    {
+        "id": 6491,
+        "category": 0,
+        "word": "金魚ブス"
+    },
+    {
+        "id": 6492,
+        "category": 0,
+        "word": "金玉"
+    },
+    {
+        "id": 6493,
+        "category": 0,
+        "word": "金筋"
+    },
+    {
+        "id": 6494,
+        "category": 0,
+        "word": "金春"
+    },
+    {
+        "id": 6495,
+        "category": 0,
+        "word": "金正日"
+    },
+    {
+        "id": 6496,
+        "category": 0,
+        "word": "金太守"
+    },
+    {
+        "id": 6497,
+        "category": 0,
+        "word": "銀春"
+    },
+    {
+        "id": 6498,
+        "category": 0,
+        "word": "苦力"
+    },
+    {
+        "id": 6499,
+        "category": 0,
+        "word": "苦力"
+    },
+    {
+        "id": 6500,
+        "category": 0,
+        "word": "具合わせ"
+    },
+    {
+        "id": 6501,
+        "category": 0,
+        "word": "愚鈍"
+    },
+    {
+        "id": 6502,
+        "category": 0,
+        "word": "栗と"
+    },
+    {
+        "id": 6503,
+        "category": 0,
+        "word": "群盲象をなでる"
+    },
+    {
+        "id": 6504,
+        "category": 0,
+        "word": "刑務所"
+    },
+    {
+        "id": 6505,
+        "category": 0,
+        "word": "欠損家庭"
+    },
+    {
+        "id": 6506,
+        "category": 0,
+        "word": "血まみれ"
+    },
+    {
+        "id": 6507,
+        "category": 0,
+        "word": "月経"
+    },
+    {
+        "id": 6508,
+        "category": 0,
+        "word": "検便"
+    },
+    {
+        "id": 6509,
+        "category": 0,
+        "word": "元気汁"
+    },
+    {
+        "id": 6510,
+        "category": 0,
+        "word": "原人"
+    },
+    {
+        "id": 6511,
+        "category": 0,
+        "word": "原爆"
+    },
+    {
+        "id": 6512,
+        "category": 0,
+        "word": "幻覚きのこ"
+    },
+    {
+        "id": 6513,
+        "category": 0,
+        "word": "幻覚キノコ"
+    },
+    {
+        "id": 6514,
+        "category": 0,
+        "word": "幻覚ｷﾉｺ"
+    },
+    {
+        "id": 6515,
+        "category": 0,
+        "word": "現金"
+    },
+    {
+        "id": 6516,
+        "category": 0,
+        "word": "言葉責め"
+    },
+    {
+        "id": 6517,
+        "category": 0,
+        "word": "孤児"
+    },
+    {
+        "id": 6518,
+        "category": 0,
+        "word": "後進国"
+    },
+    {
+        "id": 6519,
+        "category": 0,
+        "word": "後背位"
+    },
+    {
+        "id": 6520,
+        "category": 0,
+        "word": "御地蔵"
+    },
+    {
+        "id": 6521,
+        "category": 0,
+        "word": "御仏"
+    },
+    {
+        "id": 6522,
+        "category": 0,
+        "word": "乞食"
+    },
+    {
+        "id": 6523,
+        "category": 0,
+        "word": "鯉の滝登り"
+    },
+    {
+        "id": 6524,
+        "category": 0,
+        "word": "口リコン"
+    },
+    {
+        "id": 6525,
+        "category": 0,
+        "word": "口リコん"
+    },
+    {
+        "id": 6526,
+        "category": 0,
+        "word": "口リこん"
+    },
+    {
+        "id": 6527,
+        "category": 0,
+        "word": "口りこん"
+    },
+    {
+        "id": 6528,
+        "category": 0,
+        "word": "口りこン"
+    },
+    {
+        "id": 6529,
+        "category": 0,
+        "word": "口リこン"
+    },
+    {
+        "id": 6530,
+        "category": 0,
+        "word": "口りコン"
+    },
+    {
+        "id": 6531,
+        "category": 0,
+        "word": "口内発射"
+    },
+    {
+        "id": 6532,
+        "category": 0,
+        "word": "工□"
+    },
+    {
+        "id": 6533,
+        "category": 0,
+        "word": "工ロ"
+    },
+    {
+        "id": 6534,
+        "category": 0,
+        "word": "工ろ"
+    },
+    {
+        "id": 6535,
+        "category": 0,
+        "word": "工口"
+    },
+    {
+        "id": 6536,
+        "category": 0,
+        "word": "工作員"
+    },
+    {
+        "id": 6537,
+        "category": 0,
+        "word": "工房"
+    },
+    {
+        "id": 6538,
+        "category": 0,
+        "word": "拘束プレイ"
+    },
+    {
+        "id": 6539,
+        "category": 0,
+        "word": "紅毛"
+    },
+    {
+        "id": 6540,
+        "category": 0,
+        "word": "国立駅弁"
+    },
+    {
+        "id": 6541,
+        "category": 0,
+        "word": "黒ムツ"
+    },
+    {
+        "id": 6542,
+        "category": 0,
+        "word": "黒んぼ"
+    },
+    {
+        "id": 6543,
+        "category": 0,
+        "word": "黒人"
+    },
+    {
+        "id": 6544,
+        "category": 0,
+        "word": "困大"
+    },
+    {
+        "id": 6545,
+        "category": 0,
+        "word": "混脳"
+    },
+    {
+        "id": 6546,
+        "category": 0,
+        "word": "佐保"
+    },
+    {
+        "id": 6547,
+        "category": 0,
+        "word": "佐母"
+    },
+    {
+        "id": 6548,
+        "category": 0,
+        "word": "左保"
+    },
+    {
+        "id": 6549,
+        "category": 0,
+        "word": "左翼ってる"
+    },
+    {
+        "id": 6550,
+        "category": 0,
+        "word": "差穂"
+    },
+    {
+        "id": 6551,
+        "category": 0,
+        "word": "詐欺"
+    },
+    {
+        "id": 6552,
+        "category": 0,
+        "word": "細民"
+    },
+    {
+        "id": 6553,
+        "category": 0,
+        "word": "殺さ"
+    },
+    {
+        "id": 6554,
+        "category": 0,
+        "word": "殺し"
+    },
+    {
+        "id": 6555,
+        "category": 0,
+        "word": "殺す"
+    },
+    {
+        "id": 6556,
+        "category": 0,
+        "word": "殺せ"
+    },
+    {
+        "id": 6557,
+        "category": 0,
+        "word": "殺そ"
+    },
+    {
+        "id": 6558,
+        "category": 0,
+        "word": "殺人"
+    },
+    {
+        "id": 6559,
+        "category": 0,
+        "word": "三コスリ半"
+    },
+    {
+        "id": 6560,
+        "category": 0,
+        "word": "三韓征伐"
+    },
+    {
+        "id": 6561,
+        "category": 0,
+        "word": "三国人"
+    },
+    {
+        "id": 6562,
+        "category": 0,
+        "word": "三擦り"
+    },
+    {
+        "id": 6563,
+        "category": 0,
+        "word": "三助"
+    },
+    {
+        "id": 6564,
+        "category": 0,
+        "word": "山窩"
+    },
+    {
+        "id": 6565,
+        "category": 0,
+        "word": "珊瑚礁"
+    },
+    {
+        "id": 6566,
+        "category": 0,
+        "word": "史ね"
+    },
+    {
+        "id": 6567,
+        "category": 0,
+        "word": "四つ足"
+    },
+    {
+        "id": 6568,
+        "category": 0,
+        "word": "士ね"
+    },
+    {
+        "id": 6569,
+        "category": 0,
+        "word": "士農工商"
+    },
+    {
+        "id": 6570,
+        "category": 0,
+        "word": "屍人"
+    },
+    {
+        "id": 6571,
+        "category": 0,
+        "word": "市ぬ"
+    },
+    {
+        "id": 6572,
+        "category": 0,
+        "word": "市ね"
+    },
+    {
+        "id": 6573,
+        "category": 0,
+        "word": "市ね"
+    },
+    {
+        "id": 6574,
+        "category": 0,
+        "word": "市ネ"
+    },
+    {
+        "id": 6575,
+        "category": 0,
+        "word": "市ﾈ"
+    },
+    {
+        "id": 6576,
+        "category": 0,
+        "word": "市のう"
+    },
+    {
+        "id": 6577,
+        "category": 0,
+        "word": "市んで"
+    },
+    {
+        "id": 6578,
+        "category": 0,
+        "word": "師ね"
+    },
+    {
+        "id": 6579,
+        "category": 0,
+        "word": "指の数"
+    },
+    {
+        "id": 6580,
+        "category": 0,
+        "word": "指マン"
+    },
+    {
+        "id": 6581,
+        "category": 0,
+        "word": "指入れ"
+    },
+    {
+        "id": 6582,
+        "category": 0,
+        "word": "支那"
+    },
+    {
+        "id": 6583,
+        "category": 0,
+        "word": "死にます"
+    },
+    {
+        "id": 6584,
+        "category": 0,
+        "word": "死に神"
+    },
+    {
+        "id": 6585,
+        "category": 0,
+        "word": "死ぬ"
+    },
+    {
+        "id": 6586,
+        "category": 0,
+        "word": "死ね"
+    },
+    {
+        "id": 6587,
+        "category": 0,
+        "word": "死ね"
+    },
+    {
+        "id": 6588,
+        "category": 0,
+        "word": "死ねばいいのに"
+    },
+    {
+        "id": 6589,
+        "category": 0,
+        "word": "死のう"
+    },
+    {
+        "id": 6590,
+        "category": 0,
+        "word": "死バス"
+    },
+    {
+        "id": 6591,
+        "category": 0,
+        "word": "死んで"
+    },
+    {
+        "id": 6592,
+        "category": 0,
+        "word": "死姦"
+    },
+    {
+        "id": 6593,
+        "category": 0,
+        "word": "死刑"
+    },
+    {
+        "id": 6594,
+        "category": 0,
+        "word": "死死"
+    },
+    {
+        "id": 6595,
+        "category": 0,
+        "word": "死神"
+    },
+    {
+        "id": 6596,
+        "category": 0,
+        "word": "死人"
+    },
+    {
+        "id": 6597,
+        "category": 0,
+        "word": "死体"
+    },
+    {
+        "id": 6598,
+        "category": 0,
+        "word": "氏ぬ"
+    },
+    {
+        "id": 6599,
+        "category": 0,
+        "word": "氏ね"
+    },
+    {
+        "id": 6600,
+        "category": 0,
+        "word": "氏ね"
+    },
+    {
+        "id": 6601,
+        "category": 0,
+        "word": "氏ネ"
+    },
+    {
+        "id": 6602,
+        "category": 0,
+        "word": "氏ﾈ"
+    },
+    {
+        "id": 6603,
+        "category": 0,
+        "word": "氏のう"
+    },
+    {
+        "id": 6604,
+        "category": 0,
+        "word": "氏んで"
+    },
+    {
+        "id": 6605,
+        "category": 0,
+        "word": "私刑"
+    },
+    {
+        "id": 6606,
+        "category": 0,
+        "word": "脂肪肝"
+    },
+    {
+        "id": 6607,
+        "category": 0,
+        "word": "視姦"
+    },
+    {
+        "id": 6608,
+        "category": 0,
+        "word": "誌ね"
+    },
+    {
+        "id": 6609,
+        "category": 0,
+        "word": "歯クソ"
+    },
+    {
+        "id": 6610,
+        "category": 0,
+        "word": "歯くそ"
+    },
+    {
+        "id": 6611,
+        "category": 0,
+        "word": "歯垢"
+    },
+    {
+        "id": 6612,
+        "category": 0,
+        "word": "字開脚"
+    },
+    {
+        "id": 6613,
+        "category": 0,
+        "word": "時間内無制限"
+    },
+    {
+        "id": 6614,
+        "category": 0,
+        "word": "耳クソ"
+    },
+    {
+        "id": 6615,
+        "category": 0,
+        "word": "耳くそ"
+    },
+    {
+        "id": 6616,
+        "category": 0,
+        "word": "耳だれ"
+    },
+    {
+        "id": 6617,
+        "category": 0,
+        "word": "耳垢"
+    },
+    {
+        "id": 6618,
+        "category": 0,
+        "word": "自○"
+    },
+    {
+        "id": 6619,
+        "category": 0,
+        "word": "自●"
+    },
+    {
+        "id": 6620,
+        "category": 0,
+        "word": "自〇"
+    },
+    {
+        "id": 6621,
+        "category": 0,
+        "word": "自慰"
+    },
+    {
+        "id": 6622,
+        "category": 0,
+        "word": "自殺"
+    },
+    {
+        "id": 6623,
+        "category": 0,
+        "word": "自爆テロ"
+    },
+    {
+        "id": 6624,
+        "category": 0,
+        "word": "自爆てろ"
+    },
+    {
+        "id": 6625,
+        "category": 0,
+        "word": "自閉症"
+    },
+    {
+        "id": 6626,
+        "category": 0,
+        "word": "七面大明神"
+    },
+    {
+        "id": 6627,
+        "category": 0,
+        "word": "執行猶予"
+    },
+    {
+        "id": 6628,
+        "category": 0,
+        "word": "写○"
+    },
+    {
+        "id": 6629,
+        "category": 0,
+        "word": "写●"
+    },
+    {
+        "id": 6630,
+        "category": 0,
+        "word": "写〇"
+    },
+    {
+        "id": 6631,
+        "category": 0,
+        "word": "写メ"
+    },
+    {
+        "id": 6632,
+        "category": 0,
+        "word": "写め"
+    },
+    {
+        "id": 6633,
+        "category": 0,
+        "word": "写ﾒ"
+    },
+    {
+        "id": 6634,
+        "category": 0,
+        "word": "射精"
+    },
+    {
+        "id": 6635,
+        "category": 0,
+        "word": "捨民党"
+    },
+    {
+        "id": 6636,
+        "category": 0,
+        "word": "尺る"
+    },
+    {
+        "id": 6637,
+        "category": 0,
+        "word": "尺れ"
+    },
+    {
+        "id": 6638,
+        "category": 0,
+        "word": "尺八"
+    },
+    {
+        "id": 6639,
+        "category": 0,
+        "word": "手コキ"
+    },
+    {
+        "id": 6640,
+        "category": 0,
+        "word": "手こき"
+    },
+    {
+        "id": 6641,
+        "category": 0,
+        "word": "手ｺｷ"
+    },
+    {
+        "id": 6642,
+        "category": 0,
+        "word": "手ﾏﾝ"
+    },
+    {
+        "id": 6643,
+        "category": 0,
+        "word": "手まん"
+    },
+    {
+        "id": 6644,
+        "category": 0,
+        "word": "手マン"
+    },
+    {
+        "id": 6645,
+        "category": 0,
+        "word": "手ん棒"
+    },
+    {
+        "id": 6646,
+        "category": 0,
+        "word": "手淫"
+    },
+    {
+        "id": 6647,
+        "category": 0,
+        "word": "手首の傷跡"
+    },
+    {
+        "id": 6648,
+        "category": 0,
+        "word": "酒鬼薔薇"
+    },
+    {
+        "id": 6649,
+        "category": 0,
+        "word": "酒鬼薔薇聖斗"
+    },
+    {
+        "id": 6650,
+        "category": 0,
+        "word": "首狩り"
+    },
+    {
+        "id": 6651,
+        "category": 0,
+        "word": "首切り"
+    },
+    {
+        "id": 6652,
+        "category": 0,
+        "word": "周旋屋"
+    },
+    {
+        "id": 6653,
+        "category": 0,
+        "word": "臭すぎ"
+    },
+    {
+        "id": 6654,
+        "category": 0,
+        "word": "臭過ぎ"
+    },
+    {
+        "id": 6655,
+        "category": 0,
+        "word": "集団リンチ"
+    },
+    {
+        "id": 6656,
+        "category": 0,
+        "word": "集団傷害"
+    },
+    {
+        "id": 6657,
+        "category": 0,
+        "word": "集団暴行"
+    },
+    {
+        "id": 6658,
+        "category": 0,
+        "word": "住所"
+    },
+    {
+        "id": 6659,
+        "category": 0,
+        "word": "縮れ毛"
+    },
+    {
+        "id": 6660,
+        "category": 0,
+        "word": "熟女"
+    },
+    {
+        "id": 6661,
+        "category": 0,
+        "word": "出稼ぎ"
+    },
+    {
+        "id": 6662,
+        "category": 0,
+        "word": "出会LI"
+    },
+    {
+        "id": 6663,
+        "category": 0,
+        "word": "出会い"
+    },
+    {
+        "id": 6664,
+        "category": 0,
+        "word": "出張風俗"
+    },
+    {
+        "id": 6665,
+        "category": 0,
+        "word": "純ﾄﾛ"
+    },
+    {
+        "id": 6666,
+        "category": 0,
+        "word": "純トロ"
+    },
+    {
+        "id": 6667,
+        "category": 0,
+        "word": "純とろ"
+    },
+    {
+        "id": 6668,
+        "category": 0,
+        "word": "処刑"
+    },
+    {
+        "id": 6669,
+        "category": 0,
+        "word": "処女"
+    },
+    {
+        "id": 6670,
+        "category": 0,
+        "word": "助けてください"
+    },
+    {
+        "id": 6671,
+        "category": 0,
+        "word": "女工"
+    },
+    {
+        "id": 6672,
+        "category": 0,
+        "word": "女体盛り"
+    },
+    {
+        "id": 6673,
+        "category": 0,
+        "word": "女中"
+    },
+    {
+        "id": 6674,
+        "category": 0,
+        "word": "小便"
+    },
+    {
+        "id": 6675,
+        "category": 0,
+        "word": "松葉くずし"
+    },
+    {
+        "id": 6676,
+        "category": 0,
+        "word": "消えろ"
+    },
+    {
+        "id": 6677,
+        "category": 0,
+        "word": "消防"
+    },
+    {
+        "id": 6678,
+        "category": 0,
+        "word": "障害者"
+    },
+    {
+        "id": 6679,
+        "category": 0,
+        "word": "上方のぜい六"
+    },
+    {
+        "id": 6680,
+        "category": 0,
+        "word": "上野クリニック"
+    },
+    {
+        "id": 6681,
+        "category": 0,
+        "word": "情夫"
+    },
+    {
+        "id": 6682,
+        "category": 0,
+        "word": "情婦"
+    },
+    {
+        "id": 6683,
+        "category": 0,
+        "word": "植物人間"
+    },
+    {
+        "id": 6684,
+        "category": 0,
+        "word": "色盲"
+    },
+    {
+        "id": 6685,
+        "category": 0,
+        "word": "触り放題"
+    },
+    {
+        "id": 6686,
+        "category": 0,
+        "word": "食い逃げ"
+    },
+    {
+        "id": 6687,
+        "category": 0,
+        "word": "尻ズリ"
+    },
+    {
+        "id": 6688,
+        "category": 0,
+        "word": "尻の穴"
+    },
+    {
+        "id": 6689,
+        "category": 0,
+        "word": "尻穴"
+    },
+    {
+        "id": 6690,
+        "category": 0,
+        "word": "心障"
+    },
+    {
+        "id": 6691,
+        "category": 0,
+        "word": "心身障害"
+    },
+    {
+        "id": 6692,
+        "category": 0,
+        "word": "新平民"
+    },
+    {
+        "id": 6693,
+        "category": 0,
+        "word": "神待ち"
+    },
+    {
+        "id": 6694,
+        "category": 0,
+        "word": "芯で"
+    },
+    {
+        "id": 6695,
+        "category": 0,
+        "word": "人足"
+    },
+    {
+        "id": 6696,
+        "category": 0,
+        "word": "人肉"
+    },
+    {
+        "id": 6697,
+        "category": 0,
+        "word": "人非人"
+    },
+    {
+        "id": 6698,
+        "category": 0,
+        "word": "人夫"
+    },
+    {
+        "id": 6699,
+        "category": 0,
+        "word": "須加"
+    },
+    {
+        "id": 6700,
+        "category": 0,
+        "word": "厨化"
+    },
+    {
+        "id": 6701,
+        "category": 0,
+        "word": "厨国"
+    },
+    {
+        "id": 6702,
+        "category": 0,
+        "word": "厨獄"
+    },
+    {
+        "id": 6703,
+        "category": 0,
+        "word": "厨房"
+    },
+    {
+        "id": 6704,
+        "category": 0,
+        "word": "水俣病"
+    },
+    {
+        "id": 6705,
+        "category": 0,
+        "word": "髄膜炎"
+    },
+    {
+        "id": 6706,
+        "category": 0,
+        "word": "崇り"
+    },
+    {
+        "id": 6707,
+        "category": 0,
+        "word": "数の子天井"
+    },
+    {
+        "id": 6708,
+        "category": 0,
+        "word": "雀鬼ぃ"
+    },
+    {
+        "id": 6709,
+        "category": 0,
+        "word": "性感"
+    },
+    {
+        "id": 6710,
+        "category": 0,
+        "word": "性器"
+    },
+    {
+        "id": 6711,
+        "category": 0,
+        "word": "性交"
+    },
+    {
+        "id": 6712,
+        "category": 0,
+        "word": "性行為"
+    },
+    {
+        "id": 6713,
+        "category": 0,
+        "word": "性病"
+    },
+    {
+        "id": 6714,
+        "category": 0,
+        "word": "性癖"
+    },
+    {
+        "id": 6715,
+        "category": 0,
+        "word": "正上位"
+    },
+    {
+        "id": 6716,
+        "category": 0,
+        "word": "生き埋め"
+    },
+    {
+        "id": 6717,
+        "category": 0,
+        "word": "生け贄"
+    },
+    {
+        "id": 6718,
+        "category": 0,
+        "word": "生セラ"
+    },
+    {
+        "id": 6719,
+        "category": 0,
+        "word": "生尺"
+    },
+    {
+        "id": 6720,
+        "category": 0,
+        "word": "生殖"
+    },
+    {
+        "id": 6721,
+        "category": 0,
+        "word": "生殖器"
+    },
+    {
+        "id": 6722,
+        "category": 0,
+        "word": "生理"
+    },
+    {
+        "id": 6723,
+        "category": 0,
+        "word": "生贄"
+    },
+    {
+        "id": 6724,
+        "category": 0,
+        "word": "精液"
+    },
+    {
+        "id": 6725,
+        "category": 0,
+        "word": "精子"
+    },
+    {
+        "id": 6726,
+        "category": 0,
+        "word": "精神異常"
+    },
+    {
+        "id": 6727,
+        "category": 0,
+        "word": "精神分裂"
+    },
+    {
+        "id": 6728,
+        "category": 0,
+        "word": "精薄"
+    },
+    {
+        "id": 6729,
+        "category": 0,
+        "word": "聖水"
+    },
+    {
+        "id": 6730,
+        "category": 0,
+        "word": "逝ってよし"
+    },
+    {
+        "id": 6731,
+        "category": 0,
+        "word": "逝ってらっしゃい"
+    },
+    {
+        "id": 6732,
+        "category": 0,
+        "word": "逝ね"
+    },
+    {
+        "id": 6733,
+        "category": 0,
+        "word": "青姦"
+    },
+    {
+        "id": 6734,
+        "category": 0,
+        "word": "石女"
+    },
+    {
+        "id": 6735,
+        "category": 0,
+        "word": "赤キャップ"
+    },
+    {
+        "id": 6736,
+        "category": 0,
+        "word": "切開"
+    },
+    {
+        "id": 6737,
+        "category": 0,
+        "word": "切腹"
+    },
+    {
+        "id": 6738,
+        "category": 0,
+        "word": "窃盗"
+    },
+    {
+        "id": 6739,
+        "category": 0,
+        "word": "絶倫"
+    },
+    {
+        "id": 6740,
+        "category": 0,
+        "word": "舌ヅカイ"
+    },
+    {
+        "id": 6741,
+        "category": 0,
+        "word": "舌技"
+    },
+    {
+        "id": 6742,
+        "category": 0,
+        "word": "舌入れ"
+    },
+    {
+        "id": 6743,
+        "category": 0,
+        "word": "先走り汁"
+    },
+    {
+        "id": 6744,
+        "category": 0,
+        "word": "潜望鏡"
+    },
+    {
+        "id": 6745,
+        "category": 0,
+        "word": "鮮人"
+    },
+    {
+        "id": 6746,
+        "category": 0,
+        "word": "鮮人"
+    },
+    {
+        "id": 6747,
+        "category": 0,
+        "word": "前戯"
+    },
+    {
+        "id": 6748,
+        "category": 0,
+        "word": "前立腺"
+    },
+    {
+        "id": 6749,
+        "category": 0,
+        "word": "前立腺マッサージ"
+    },
+    {
+        "id": 6750,
+        "category": 0,
+        "word": "曽我ひとみ"
+    },
+    {
+        "id": 6751,
+        "category": 0,
+        "word": "素股"
+    },
+    {
+        "id": 6752,
+        "category": 0,
+        "word": "僧正"
+    },
+    {
+        "id": 6753,
+        "category": 0,
+        "word": "創価学会"
+    },
+    {
+        "id": 6754,
+        "category": 0,
+        "word": "掃除婦"
+    },
+    {
+        "id": 6755,
+        "category": 0,
+        "word": "早漏"
+    },
+    {
+        "id": 6756,
+        "category": 0,
+        "word": "藻有"
+    },
+    {
+        "id": 6757,
+        "category": 0,
+        "word": "憎しみ"
+    },
+    {
+        "id": 6758,
+        "category": 0,
+        "word": "臓物"
+    },
+    {
+        "id": 6759,
+        "category": 0,
+        "word": "贈賄"
+    },
+    {
+        "id": 6760,
+        "category": 0,
+        "word": "即ハメ"
+    },
+    {
+        "id": 6761,
+        "category": 0,
+        "word": "即マン"
+    },
+    {
+        "id": 6762,
+        "category": 0,
+        "word": "即尺"
+    },
+    {
+        "id": 6763,
+        "category": 0,
+        "word": "息臭い"
+    },
+    {
+        "id": 6764,
+        "category": 0,
+        "word": "足ズリ"
+    },
+    {
+        "id": 6765,
+        "category": 0,
+        "word": "足ずり"
+    },
+    {
+        "id": 6766,
+        "category": 0,
+        "word": "足ズリ"
+    },
+    {
+        "id": 6767,
+        "category": 0,
+        "word": "足臭"
+    },
+    {
+        "id": 6768,
+        "category": 0,
+        "word": "足切り"
+    },
+    {
+        "id": 6769,
+        "category": 0,
+        "word": "多い日も安心"
+    },
+    {
+        "id": 6770,
+        "category": 0,
+        "word": "太上老君"
+    },
+    {
+        "id": 6771,
+        "category": 0,
+        "word": "対局"
+    },
+    {
+        "id": 6772,
+        "category": 0,
+        "word": "台湾ハゲ"
+    },
+    {
+        "id": 6773,
+        "category": 0,
+        "word": "大黒様"
+    },
+    {
+        "id": 6774,
+        "category": 0,
+        "word": "大人のおもちゃ"
+    },
+    {
+        "id": 6775,
+        "category": 0,
+        "word": "大人の付き合い"
+    },
+    {
+        "id": 6776,
+        "category": 0,
+        "word": "大善寺"
+    },
+    {
+        "id": 6777,
+        "category": 0,
+        "word": "大仏"
+    },
+    {
+        "id": 6778,
+        "category": 0,
+        "word": "大麻"
+    },
+    {
+        "id": 6779,
+        "category": 0,
+        "word": "大麻"
+    },
+    {
+        "id": 6780,
+        "category": 0,
+        "word": "蛸部屋"
+    },
+    {
+        "id": 6781,
+        "category": 0,
+        "word": "蛸薬師"
+    },
+    {
+        "id": 6782,
+        "category": 0,
+        "word": "脱国者"
+    },
+    {
+        "id": 6783,
+        "category": 0,
+        "word": "脱獄犯"
+    },
+    {
+        "id": 6784,
+        "category": 0,
+        "word": "脱糞"
+    },
+    {
+        "id": 6785,
+        "category": 0,
+        "word": "脱北者"
+    },
+    {
+        "id": 6786,
+        "category": 0,
+        "word": "炭疽菌"
+    },
+    {
+        "id": 6787,
+        "category": 0,
+        "word": "断腸"
+    },
+    {
+        "id": 6788,
+        "category": 0,
+        "word": "男根"
+    },
+    {
+        "id": 6789,
+        "category": 0,
+        "word": "地まわり"
+    },
+    {
+        "id": 6790,
+        "category": 0,
+        "word": "地蔵"
+    },
+    {
+        "id": 6791,
+        "category": 0,
+        "word": "地雷女"
+    },
+    {
+        "id": 6792,
+        "category": 0,
+        "word": "池沼"
+    },
+    {
+        "id": 6793,
+        "category": 0,
+        "word": "痴漢"
+    },
+    {
+        "id": 6794,
+        "category": 0,
+        "word": "痴女"
+    },
+    {
+        "id": 6795,
+        "category": 0,
+        "word": "遅漏"
+    },
+    {
+        "id": 6796,
+        "category": 0,
+        "word": "竹の子はぎ"
+    },
+    {
+        "id": 6797,
+        "category": 0,
+        "word": "茶瓶"
+    },
+    {
+        "id": 6798,
+        "category": 0,
+        "word": "着エロ"
+    },
+    {
+        "id": 6799,
+        "category": 0,
+        "word": "中共"
+    },
+    {
+        "id": 6800,
+        "category": 0,
+        "word": "中古女"
+    },
+    {
+        "id": 6801,
+        "category": 0,
+        "word": "中出し"
+    },
+    {
+        "id": 6802,
+        "category": 0,
+        "word": "中出汁"
+    },
+    {
+        "id": 6803,
+        "category": 0,
+        "word": "虫国"
+    },
+    {
+        "id": 6804,
+        "category": 0,
+        "word": "朝起ち"
+    },
+    {
+        "id": 6805,
+        "category": 0,
+        "word": "朝鮮征伐"
+    },
+    {
+        "id": 6806,
+        "category": 0,
+        "word": "潮吹"
+    },
+    {
+        "id": 6807,
+        "category": 0,
+        "word": "調教"
+    },
+    {
+        "id": 6808,
+        "category": 0,
+        "word": "超根"
+    },
+    {
+        "id": 6809,
+        "category": 0,
+        "word": "直メ"
+    },
+    {
+        "id": 6810,
+        "category": 0,
+        "word": "直ﾒ"
+    },
+    {
+        "id": 6811,
+        "category": 0,
+        "word": "直め"
+    },
+    {
+        "id": 6812,
+        "category": 0,
+        "word": "直メ"
+    },
+    {
+        "id": 6813,
+        "category": 0,
+        "word": "直電"
+    },
+    {
+        "id": 6814,
+        "category": 0,
+        "word": "珍珍武羅武羅"
+    },
+    {
+        "id": 6815,
+        "category": 0,
+        "word": "珍宝"
+    },
+    {
+        "id": 6816,
+        "category": 0,
+        "word": "追い焚き"
+    },
+    {
+        "id": 6817,
+        "category": 0,
+        "word": "痛風"
+    },
+    {
+        "id": 6818,
+        "category": 0,
+        "word": "潰瘍"
+    },
+    {
+        "id": 6819,
+        "category": 0,
+        "word": "低脳"
+    },
+    {
+        "id": 6820,
+        "category": 0,
+        "word": "剃毛"
+    },
+    {
+        "id": 6821,
+        "category": 0,
+        "word": "泥棒"
+    },
+    {
+        "id": 6822,
+        "category": 0,
+        "word": "店外デート"
+    },
+    {
+        "id": 6823,
+        "category": 0,
+        "word": "店泊"
+    },
+    {
+        "id": 6824,
+        "category": 0,
+        "word": "伝言ダイヤル"
+    },
+    {
+        "id": 6825,
+        "category": 0,
+        "word": "電動こけし"
+    },
+    {
+        "id": 6826,
+        "category": 0,
+        "word": "吐血"
+    },
+    {
+        "id": 6827,
+        "category": 0,
+        "word": "土建屋"
+    },
+    {
+        "id": 6828,
+        "category": 0,
+        "word": "土工"
+    },
+    {
+        "id": 6829,
+        "category": 0,
+        "word": "土左衛門"
+    },
+    {
+        "id": 6830,
+        "category": 0,
+        "word": "土左衛門"
+    },
+    {
+        "id": 6831,
+        "category": 0,
+        "word": "土挫衛門"
+    },
+    {
+        "id": 6832,
+        "category": 0,
+        "word": "土人"
+    },
+    {
+        "id": 6833,
+        "category": 0,
+        "word": "土方"
+    },
+    {
+        "id": 6834,
+        "category": 0,
+        "word": "奴隷"
+    },
+    {
+        "id": 6835,
+        "category": 0,
+        "word": "桃尻"
+    },
+    {
+        "id": 6836,
+        "category": 0,
+        "word": "盗撮"
+    },
+    {
+        "id": 6837,
+        "category": 0,
+        "word": "糖尿"
+    },
+    {
+        "id": 6838,
+        "category": 0,
+        "word": "豆泥棒"
+    },
+    {
+        "id": 6839,
+        "category": 0,
+        "word": "踏切工夫"
+    },
+    {
+        "id": 6840,
+        "category": 0,
+        "word": "同死者大"
+    },
+    {
+        "id": 6841,
+        "category": 0,
+        "word": "同伴出勤"
+    },
+    {
+        "id": 6842,
+        "category": 0,
+        "word": "童刺者大"
+    },
+    {
+        "id": 6843,
+        "category": 0,
+        "word": "童貞"
+    },
+    {
+        "id": 6844,
+        "category": 0,
+        "word": "特殊学級"
+    },
+    {
+        "id": 6845,
+        "category": 0,
+        "word": "特殊学校"
+    },
+    {
+        "id": 6846,
+        "category": 0,
+        "word": "突起物と穴"
+    },
+    {
+        "id": 6847,
+        "category": 0,
+        "word": "南鮮"
+    },
+    {
+        "id": 6848,
+        "category": 0,
+        "word": "南無阿弥蛇仏"
+    },
+    {
+        "id": 6849,
+        "category": 0,
+        "word": "尼さん"
+    },
+    {
+        "id": 6850,
+        "category": 0,
+        "word": "肉骨粉"
+    },
+    {
+        "id": 6851,
+        "category": 0,
+        "word": "肉体関係"
+    },
+    {
+        "id": 6852,
+        "category": 0,
+        "word": "肉壷"
+    },
+    {
+        "id": 6853,
+        "category": 0,
+        "word": "肉片"
+    },
+    {
+        "id": 6854,
+        "category": 0,
+        "word": "肉便器"
+    },
+    {
+        "id": 6855,
+        "category": 0,
+        "word": "肉棒"
+    },
+    {
+        "id": 6856,
+        "category": 0,
+        "word": "肉壺"
+    },
+    {
+        "id": 6857,
+        "category": 0,
+        "word": "日雇い人夫"
+    },
+    {
+        "id": 6858,
+        "category": 0,
+        "word": "日本のチベット"
+    },
+    {
+        "id": 6859,
+        "category": 0,
+        "word": "日本のちべっと"
+    },
+    {
+        "id": 6860,
+        "category": 0,
+        "word": "乳首"
+    },
+    {
+        "id": 6861,
+        "category": 0,
+        "word": "乳毛"
+    },
+    {
+        "id": 6862,
+        "category": 0,
+        "word": "如来"
+    },
+    {
+        "id": 6863,
+        "category": 0,
+        "word": "妊婦プレイ"
+    },
+    {
+        "id": 6864,
+        "category": 0,
+        "word": "念仏"
+    },
+    {
+        "id": 6865,
+        "category": 0,
+        "word": "納豆臭"
+    },
+    {
+        "id": 6866,
+        "category": 0,
+        "word": "覗き部屋"
+    },
+    {
+        "id": 6867,
+        "category": 0,
+        "word": "破邪顕正"
+    },
+    {
+        "id": 6868,
+        "category": 0,
+        "word": "馬の骨"
+    },
+    {
+        "id": 6869,
+        "category": 0,
+        "word": "馬丁"
+    },
+    {
+        "id": 6870,
+        "category": 0,
+        "word": "廃疾"
+    },
+    {
+        "id": 6871,
+        "category": 0,
+        "word": "廃人"
+    },
+    {
+        "id": 6872,
+        "category": 0,
+        "word": "肺気腫"
+    },
+    {
+        "id": 6873,
+        "category": 0,
+        "word": "買春"
+    },
+    {
+        "id": 6874,
+        "category": 0,
+        "word": "売春"
+    },
+    {
+        "id": 6875,
+        "category": 0,
+        "word": "売女"
+    },
+    {
+        "id": 6876,
+        "category": 0,
+        "word": "泊め男"
+    },
+    {
+        "id": 6877,
+        "category": 0,
+        "word": "白ムツ"
+    },
+    {
+        "id": 6878,
+        "category": 0,
+        "word": "白ろう病"
+    },
+    {
+        "id": 6879,
+        "category": 0,
+        "word": "白痴"
+    },
+    {
+        "id": 6880,
+        "category": 0,
+        "word": "白丁"
+    },
+    {
+        "id": 6881,
+        "category": 0,
+        "word": "白癡"
+    },
+    {
+        "id": 6882,
+        "category": 0,
+        "word": "爆乳"
+    },
+    {
+        "id": 6883,
+        "category": 0,
+        "word": "八つ橋"
+    },
+    {
+        "id": 6884,
+        "category": 0,
+        "word": "八九三"
+    },
+    {
+        "id": 6885,
+        "category": 0,
+        "word": "発情期"
+    },
+    {
+        "id": 6886,
+        "category": 0,
+        "word": "抜きキャバ"
+    },
+    {
+        "id": 6887,
+        "category": 0,
+        "word": "半殺し"
+    },
+    {
+        "id": 6888,
+        "category": 0,
+        "word": "半島人"
+    },
+    {
+        "id": 6889,
+        "category": 0,
+        "word": "犯す"
+    },
+    {
+        "id": 6890,
+        "category": 0,
+        "word": "犯罪者"
+    },
+    {
+        "id": 6891,
+        "category": 0,
+        "word": "番号"
+    },
+    {
+        "id": 6892,
+        "category": 0,
+        "word": "蛮族"
+    },
+    {
+        "id": 6893,
+        "category": 0,
+        "word": "卑猥"
+    },
+    {
+        "id": 6894,
+        "category": 0,
+        "word": "皮多"
+    },
+    {
+        "id": 6895,
+        "category": 0,
+        "word": "皮田"
+    },
+    {
+        "id": 6896,
+        "category": 0,
+        "word": "被爆"
+    },
+    {
+        "id": 6897,
+        "category": 0,
+        "word": "非人"
+    },
+    {
+        "id": 6898,
+        "category": 0,
+        "word": "飛燕"
+    },
+    {
+        "id": 6899,
+        "category": 0,
+        "word": "微乳"
+    },
+    {
+        "id": 6900,
+        "category": 0,
+        "word": "毘沙門天"
+    },
+    {
+        "id": 6901,
+        "category": 0,
+        "word": "美乳"
+    },
+    {
+        "id": 6902,
+        "category": 0,
+        "word": "鼻くそ"
+    },
+    {
+        "id": 6903,
+        "category": 0,
+        "word": "鼻クソ"
+    },
+    {
+        "id": 6904,
+        "category": 0,
+        "word": "百姓"
+    },
+    {
+        "id": 6905,
+        "category": 0,
+        "word": "表日本"
+    },
+    {
+        "id": 6906,
+        "category": 0,
+        "word": "貧乳"
+    },
+    {
+        "id": 6907,
+        "category": 0,
+        "word": "貧民"
+    },
+    {
+        "id": 6908,
+        "category": 0,
+        "word": "不可触民"
+    },
+    {
+        "id": 6909,
+        "category": 0,
+        "word": "不倫"
+    },
+    {
+        "id": 6910,
+        "category": 0,
+        "word": "不倫割り切り"
+    },
+    {
+        "id": 6911,
+        "category": 0,
+        "word": "婦女暴行"
+    },
+    {
+        "id": 6912,
+        "category": 0,
+        "word": "富山の三助"
+    },
+    {
+        "id": 6913,
+        "category": 0,
+        "word": "浮浪"
+    },
+    {
+        "id": 6914,
+        "category": 0,
+        "word": "浮浪者"
+    },
+    {
+        "id": 6915,
+        "category": 0,
+        "word": "父なし子"
+    },
+    {
+        "id": 6916,
+        "category": 0,
+        "word": "腐乱"
+    },
+    {
+        "id": 6917,
+        "category": 0,
+        "word": "部落"
+    },
+    {
+        "id": 6918,
+        "category": 0,
+        "word": "風俗"
+    },
+    {
+        "id": 6919,
+        "category": 0,
+        "word": "福沢"
+    },
+    {
+        "id": 6920,
+        "category": 0,
+        "word": "腹上死"
+    },
+    {
+        "id": 6921,
+        "category": 0,
+        "word": "腹切"
+    },
+    {
+        "id": 6922,
+        "category": 0,
+        "word": "糞"
+    },
+    {
+        "id": 6923,
+        "category": 0,
+        "word": "文言"
+    },
+    {
+        "id": 6924,
+        "category": 0,
+        "word": "文盲"
+    },
+    {
+        "id": 6925,
+        "category": 0,
+        "word": "平民"
+    },
+    {
+        "id": 6926,
+        "category": 0,
+        "word": "別〇"
+    },
+    {
+        "id": 6927,
+        "category": 0,
+        "word": "別ホ"
+    },
+    {
+        "id": 6928,
+        "category": 0,
+        "word": "変　態"
+    },
+    {
+        "id": 6929,
+        "category": 0,
+        "word": "変質者"
+    },
+    {
+        "id": 6930,
+        "category": 0,
+        "word": "変人"
+    },
+    {
+        "id": 6931,
+        "category": 0,
+        "word": "変態"
+    },
+    {
+        "id": 6932,
+        "category": 0,
+        "word": "片ちんば"
+    },
+    {
+        "id": 6933,
+        "category": 0,
+        "word": "片手落ち"
+    },
+    {
+        "id": 6934,
+        "category": 0,
+        "word": "片肺"
+    },
+    {
+        "id": 6935,
+        "category": 0,
+        "word": "片肺飛行"
+    },
+    {
+        "id": 6936,
+        "category": 0,
+        "word": "片目"
+    },
+    {
+        "id": 6937,
+        "category": 0,
+        "word": "便器"
+    },
+    {
+        "id": 6938,
+        "category": 0,
+        "word": "便所"
+    },
+    {
+        "id": 6939,
+        "category": 0,
+        "word": "弁財天"
+    },
+    {
+        "id": 6940,
+        "category": 0,
+        "word": "穂別"
+    },
+    {
+        "id": 6941,
+        "category": 0,
+        "word": "母乳"
+    },
+    {
+        "id": 6942,
+        "category": 0,
+        "word": "菩薩"
+    },
+    {
+        "id": 6943,
+        "category": 0,
+        "word": "包茎"
+    },
+    {
+        "id": 6944,
+        "category": 0,
+        "word": "包皮"
+    },
+    {
+        "id": 6945,
+        "category": 0,
+        "word": "放置プレイ"
+    },
+    {
+        "id": 6946,
+        "category": 0,
+        "word": "放尿"
+    },
+    {
+        "id": 6947,
+        "category": 0,
+        "word": "泡嬢"
+    },
+    {
+        "id": 6948,
+        "category": 0,
+        "word": "泡姫"
+    },
+    {
+        "id": 6949,
+        "category": 0,
+        "word": "泡踊り"
+    },
+    {
+        "id": 6950,
+        "category": 0,
+        "word": "坊さん"
+    },
+    {
+        "id": 6951,
+        "category": 0,
+        "word": "北チョン"
+    },
+    {
+        "id": 6952,
+        "category": 0,
+        "word": "北鮮"
+    },
+    {
+        "id": 6953,
+        "category": 0,
+        "word": "勃き"
+    },
+    {
+        "id": 6954,
+        "category": 0,
+        "word": "勃キ"
+    },
+    {
+        "id": 6955,
+        "category": 0,
+        "word": "勃起"
+    },
+    {
+        "id": 6956,
+        "category": 0,
+        "word": "堀江貴文"
+    },
+    {
+        "id": 6957,
+        "category": 0,
+        "word": "本番"
+    },
+    {
+        "id": 6958,
+        "category": 0,
+        "word": "本門寺"
+    },
+    {
+        "id": 6959,
+        "category": 0,
+        "word": "魔羅"
+    },
+    {
+        "id": 6960,
+        "category": 0,
+        "word": "麻原"
+    },
+    {
+        "id": 6961,
+        "category": 0,
+        "word": "麻薬"
+    },
+    {
+        "id": 6962,
+        "category": 0,
+        "word": "万引き"
+    },
+    {
+        "id": 6963,
+        "category": 0,
+        "word": "万円"
+    },
+    {
+        "id": 6964,
+        "category": 0,
+        "word": "満ちゃん汁"
+    },
+    {
+        "id": 6965,
+        "category": 0,
+        "word": "未開人"
+    },
+    {
+        "id": 6966,
+        "category": 0,
+        "word": "未亡人"
+    },
+    {
+        "id": 6967,
+        "category": 0,
+        "word": "密漁"
+    },
+    {
+        "id": 6968,
+        "category": 0,
+        "word": "密入者"
+    },
+    {
+        "id": 6969,
+        "category": 0,
+        "word": "夢精"
+    },
+    {
+        "id": 6970,
+        "category": 0,
+        "word": "無援"
+    },
+    {
+        "id": 6971,
+        "category": 0,
+        "word": "無修正"
+    },
+    {
+        "id": 6972,
+        "category": 0,
+        "word": "無料"
+    },
+    {
+        "id": 6973,
+        "category": 0,
+        "word": "娘泡"
+    },
+    {
+        "id": 6974,
+        "category": 0,
+        "word": "明盲"
+    },
+    {
+        "id": 6975,
+        "category": 0,
+        "word": "毛唐"
+    },
+    {
+        "id": 6976,
+        "category": 0,
+        "word": "毛虱"
+    },
+    {
+        "id": 6977,
+        "category": 0,
+        "word": "盲縞"
+    },
+    {
+        "id": 6978,
+        "category": 0,
+        "word": "盲蛇に怖じず"
+    },
+    {
+        "id": 6979,
+        "category": 0,
+        "word": "盲判を押す"
+    },
+    {
+        "id": 6980,
+        "category": 0,
+        "word": "盲滅法"
+    },
+    {
+        "id": 6981,
+        "category": 0,
+        "word": "目クソ"
+    },
+    {
+        "id": 6982,
+        "category": 0,
+        "word": "目くそ"
+    },
+    {
+        "id": 6983,
+        "category": 0,
+        "word": "目隠しプレイ"
+    },
+    {
+        "id": 6984,
+        "category": 0,
+        "word": "目眩まし"
+    },
+    {
+        "id": 6985,
+        "category": 0,
+        "word": "夜這い"
+    },
+    {
+        "id": 6986,
+        "category": 0,
+        "word": "野口先生"
+    },
+    {
+        "id": 6987,
+        "category": 0,
+        "word": "諭吉"
+    },
+    {
+        "id": 6988,
+        "category": 0,
+        "word": "有援"
+    },
+    {
+        "id": 6989,
+        "category": 0,
+        "word": "郵便夫"
+    },
+    {
+        "id": 6990,
+        "category": 0,
+        "word": "乱交"
+    },
+    {
+        "id": 6991,
+        "category": 0,
+        "word": "卵管"
+    },
+    {
+        "id": 6992,
+        "category": 0,
+        "word": "裏アプリ"
+    },
+    {
+        "id": 6993,
+        "category": 0,
+        "word": "裏ｱﾌﾟﾘ"
+    },
+    {
+        "id": 6994,
+        "category": 0,
+        "word": "裏ビデオ"
+    },
+    {
+        "id": 6995,
+        "category": 0,
+        "word": "裏筋"
+    },
+    {
+        "id": 6996,
+        "category": 0,
+        "word": "裏工作"
+    },
+    {
+        "id": 6997,
+        "category": 0,
+        "word": "裏日本"
+    },
+    {
+        "id": 6998,
+        "category": 0,
+        "word": "立ちバック"
+    },
+    {
+        "id": 6999,
+        "category": 0,
+        "word": "立ちんぼ"
+    },
+    {
+        "id": 7000,
+        "category": 0,
+        "word": "留年"
+    },
+    {
+        "id": 7001,
+        "category": 0,
+        "word": "林ますみ"
+    },
+    {
+        "id": 7002,
+        "category": 0,
+        "word": "林真須美"
+    },
+    {
+        "id": 7003,
+        "category": 0,
+        "word": "輪姦"
+    },
+    {
+        "id": 7004,
+        "category": 0,
+        "word": "例の間に蜂"
+    },
+    {
+        "id": 7005,
+        "category": 0,
+        "word": "露出狂"
+    },
+    {
+        "id": 7006,
+        "category": 0,
+        "word": "労務者"
+    },
+    {
+        "id": 7007,
+        "category": 0,
+        "word": "聾"
+    },
+    {
+        "id": 7008,
+        "category": 0,
+        "word": "倭人"
+    },
+    {
+        "id": 7009,
+        "category": 0,
+        "word": "和姦"
+    },
+    {
+        "id": 7010,
+        "category": 0,
+        "word": "話が早い人"
+    },
+    {
+        "id": 7011,
+        "category": 0,
+        "word": "卍ズリ"
+    },
+    {
+        "id": 7012,
+        "category": 0,
+        "word": "壺洗い"
+    },
+    {
+        "id": 7013,
+        "category": 0,
+        "word": "奸国"
+    },
+    {
+        "id": 7014,
+        "category": 0,
+        "word": "浣腸"
+    },
+    {
+        "id": 7015,
+        "category": 0,
+        "word": "疱疹"
+    },
+    {
+        "id": 7016,
+        "category": 0,
+        "word": "矮小"
+    },
+    {
+        "id": 7017,
+        "category": 0,
+        "word": "祟り"
+    },
+    {
+        "id": 7018,
+        "category": 0,
+        "word": "穢多"
+    },
+    {
+        "id": 7019,
+        "category": 0,
+        "word": "肛門"
+    },
+    {
+        "id": 7020,
+        "category": 0,
+        "word": "腋臭"
+    },
+    {
+        "id": 7021,
+        "category": 0,
+        "word": "腋汁"
+    },
+    {
+        "id": 7022,
+        "category": 0,
+        "word": "膣"
+    },
+    {
+        "id": 7023,
+        "category": 0,
+        "word": "膣序"
+    },
+    {
+        "id": 7024,
+        "category": 0,
+        "word": "苺佐保"
+    },
+    {
+        "id": 7025,
+        "category": 0,
+        "word": "藪睨み"
+    },
+    {
+        "id": 7026,
+        "category": 0,
+        "word": "蛆虫"
+    },
+    {
+        "id": 7027,
+        "category": 0,
+        "word": "贅缶"
+    },
+    {
+        "id": 7028,
+        "category": 0,
+        "word": "躄"
+    },
+    {
+        "id": 7029,
+        "category": 0,
+        "word": "轢逃げ"
+    },
+    {
+        "id": 7030,
+        "category": 1,
+        "word": "ソニー"
+    },
+    {
+        "id": 7031,
+        "category": 1,
+        "word": "ｿﾆｰ"
+    },
+    {
+        "id": 7032,
+        "category": 1,
+        "word": "そにー"
+    },
+    {
+        "id": 7033,
+        "category": 1,
+        "word": "Sony"
+    },
+    {
+        "id": 7034,
+        "category": 1,
+        "word": "SONY"
+    },
+    {
+        "id": 7035,
+        "category": 1,
+        "word": "sony"
+    },
+    {
+        "id": 7036,
+        "category": 1,
+        "word": "Ｓｏｎｙ"
+    },
+    {
+        "id": 7037,
+        "category": 1,
+        "word": "ＳＯＮＹ"
+    },
+    {
+        "id": 7038,
+        "category": 1,
+        "word": "ｓｏｎｙ"
+    },
+    {
+        "id": 7039,
+        "category": 1,
+        "word": "ソニー・インタラクティブエンタテインメント"
+    },
+    {
+        "id": 7040,
+        "category": 1,
+        "word": "ｿﾆｰ･ｲﾝﾀﾗｸﾃｨﾌﾞｴﾝﾀﾃｲﾝﾒﾝﾄ"
+    },
+    {
+        "id": 7041,
+        "category": 1,
+        "word": "そにー・いんたらくてぃぶえんたていんめんと"
+    },
+    {
+        "id": 7042,
+        "category": 1,
+        "word": "ソニー インタラクティブエンタテインメント"
+    },
+    {
+        "id": 7043,
+        "category": 1,
+        "word": "ｿﾆｰ ｲﾝﾀﾗｸﾃｨﾌﾞｴﾝﾀﾃｲﾝﾒﾝﾄ"
+    },
+    {
+        "id": 7044,
+        "category": 1,
+        "word": "そにー いんたらくてぃぶえんたていんめんと"
+    },
+    {
+        "id": 7045,
+        "category": 1,
+        "word": "ソニーインタラクティブエンタテインメント"
+    },
+    {
+        "id": 7046,
+        "category": 1,
+        "word": "ｿﾆｰｲﾝﾀﾗｸﾃｨﾌﾞｴﾝﾀﾃｲﾝﾒﾝﾄ"
+    },
+    {
+        "id": 7047,
+        "category": 1,
+        "word": "そにーいんたらくてぃぶえんたていんめんと"
+    },
+    {
+        "id": 7048,
+        "category": 1,
+        "word": "Sony Interactive Entertainment"
+    },
+    {
+        "id": 7049,
+        "category": 1,
+        "word": "SONY INTERACTIVE ENTERTAINMENT"
+    },
+    {
+        "id": 7050,
+        "category": 1,
+        "word": "sony interactive entertainment"
+    },
+    {
+        "id": 7051,
+        "category": 1,
+        "word": "SonyInteractiveEntertainment"
+    },
+    {
+        "id": 7052,
+        "category": 1,
+        "word": "SONYINTERACTIVEENTERTAINMENT"
+    },
+    {
+        "id": 7053,
+        "category": 1,
+        "word": "sonyinteractiveentertainment"
+    },
+    {
+        "id": 7054,
+        "category": 1,
+        "word": "Ｓｏｎｙ Ｉｎｔｅｒａｃｔｉｖｅ Ｅｎｔｅｒｔａｉｎｍｅｎｔ"
+    },
+    {
+        "id": 7055,
+        "category": 1,
+        "word": "ＳＯＮＹ ＩＮＴＥＲＡＣＴＩＶＥ ＥＮＴＥＲＴＡＩＮＭＥＮＴ"
+    },
+    {
+        "id": 7056,
+        "category": 1,
+        "word": "ｓｏｎｙ ｉｎｔｅｒａｃｔｉｖｅ ｅｎｔｅｒｔａｉｎｍｅｎｔ"
+    },
+    {
+        "id": 7057,
+        "category": 1,
+        "word": "ＳｏｎｙＩｎｔｅｒａｃｔｉｖｅＥｎｔｅｒｔａｉｎｍｅｎｔ"
+    },
+    {
+        "id": 7058,
+        "category": 1,
+        "word": "ＳＯＮＹＩＮＴＥＲＡＣＴＩＶＥＥＮＴＥＲＴＡＩＮＭＥＮＴ"
+    },
+    {
+        "id": 7059,
+        "category": 1,
+        "word": "ｓｏｎｙｉｎｔｅｒａｃｔｉｖｅｅｎｔｅｒｔａｉｎｍｅｎｔ"
+    },
+    {
+        "id": 7060,
+        "category": 1,
+        "word": "SIE"
+    },
+    {
+        "id": 7061,
+        "category": 1,
+        "word": "sie"
+    },
+    {
+        "id": 7062,
+        "category": 1,
+        "word": "ＳＩＥ"
+    },
+    {
+        "id": 7063,
+        "category": 1,
+        "word": "ｓｉｅ"
+    },
+    {
+        "id": 7064,
+        "category": 1,
+        "word": "フォワードワークス"
+    },
+    {
+        "id": 7065,
+        "category": 1,
+        "word": "ﾌｫﾜｰﾄﾞﾜｰｸｽ"
+    },
+    {
+        "id": 7066,
+        "category": 1,
+        "word": "ふぉわーどわーくす"
+    },
+    {
+        "id": 7067,
+        "category": 1,
+        "word": "ForwardWorks"
+    },
+    {
+        "id": 7068,
+        "category": 1,
+        "word": "FORWARDWORKS"
+    },
+    {
+        "id": 7069,
+        "category": 1,
+        "word": "forwardworks"
+    },
+    {
+        "id": 7070,
+        "category": 1,
+        "word": "ＦｏｒｗａｒｄＷｏｒｋｓ"
+    },
+    {
+        "id": 7071,
+        "category": 1,
+        "word": "ＦＯＲＷＡＲＤＷＯＲＫＳ"
+    },
+    {
+        "id": 7072,
+        "category": 1,
+        "word": "ｆｏｒｗａｒｄｗｏｒｋｓ"
+    },
+    {
+        "id": 7073,
+        "category": 1,
+        "word": "日本一ソフトウェア"
+    },
+    {
+        "id": 7074,
+        "category": 1,
+        "word": "日本一ソフト"
+    },
+    {
+        "id": 7075,
+        "category": 1,
+        "word": "日本一ｿﾌﾄｳｪｱ"
+    },
+    {
+        "id": 7076,
+        "category": 1,
+        "word": "日本一ｿﾌﾄ"
+    },
+    {
+        "id": 7077,
+        "category": 1,
+        "word": "NIS"
+    },
+    {
+        "id": 7078,
+        "category": 1,
+        "word": "nis"
+    },
+    {
+        "id": 7079,
+        "category": 1,
+        "word": "Nis"
+    },
+    {
+        "id": 7080,
+        "category": 1,
+        "word": "ＮＩＳ"
+    },
+    {
+        "id": 7081,
+        "category": 1,
+        "word": "Ｎｉｓ"
+    },
+    {
+        "id": 7082,
+        "category": 1,
+        "word": "ｎｉｓ"
+    },
+    {
+        "id": 7083,
+        "category": 1,
+        "word": "Nippon1"
+    },
+    {
+        "id": 7084,
+        "category": 1,
+        "word": "Nippon Ichi"
+    },
+    {
+        "id": 7085,
+        "category": 1,
+        "word": "Nippon Ichi Soft"
+    },
+    {
+        "id": 7086,
+        "category": 1,
+        "word": "Nippon Ichi Software"
+    },
+    {
+        "id": 7087,
+        "category": 1,
+        "word": "nippon ichi"
+    },
+    {
+        "id": 7088,
+        "category": 1,
+        "word": "nippon ichi soft"
+    },
+    {
+        "id": 7089,
+        "category": 1,
+        "word": "nippon ichi software"
+    },
+    {
+        "id": 7090,
+        "category": 1,
+        "word": "Nippon1.jp"
+    },
+    {
+        "id": 7091,
+        "category": 1,
+        "word": "nippon1.jp"
+    },
+    {
+        "id": 7092,
+        "category": 1,
+        "word": "ｎｉｐｐｏｎ１"
+    },
+    {
+        "id": 7093,
+        "category": 1,
+        "word": "Ｎｉｐｐｏｎ１"
+    },
+    {
+        "id": 7094,
+        "category": 1,
+        "word": "ＮＩＰＰＯＮ１"
+    },
+    {
+        "id": 7095,
+        "category": 1,
+        "word": "にっぽんいちそふと"
+    },
+    {
+        "id": 7096,
+        "category": 1,
+        "word": "にっぽんいちそふとうぇあ"
+    },
+    {
+        "id": 7097,
+        "category": 1,
+        "word": "ニッポンイチソフト"
+    },
+    {
+        "id": 7098,
+        "category": 1,
+        "word": "ニッポンイチソフトウェア"
+    },
+    {
+        "id": 7099,
+        "category": 1,
+        "word": "ﾆｯﾎﾟﾝｲﾁｿﾌﾄ"
+    },
+    {
+        "id": 7100,
+        "category": 1,
+        "word": "NISAmerica"
+    },
+    {
+        "id": 7101,
+        "category": 1,
+        "word": "NIS America"
+    },
+    {
+        "id": 7102,
+        "category": 1,
+        "word": "ＮＩＳＡｍｅｒｉｃａ"
+    },
+    {
+        "id": 7103,
+        "category": 1,
+        "word": "ＮＩＳ　Ａｍｅｒｉｃａ"
+    },
+    {
+        "id": 7104,
+        "category": 1,
+        "word": "NISAMERICA"
+    },
+    {
+        "id": 7105,
+        "category": 1,
+        "word": "ＮＩＳ　ＡＭＥＲＩＣＡ"
+    },
+    {
+        "id": 7106,
+        "category": 1,
+        "word": "NISA"
+    },
+    {
+        "id": 7107,
+        "category": 1,
+        "word": "Nisa"
+    },
+    {
+        "id": 7108,
+        "category": 1,
+        "word": "nisa"
+    },
+    {
+        "id": 7109,
+        "category": 1,
+        "word": "ＮＩＳＡ"
+    },
+    {
+        "id": 7110,
+        "category": 1,
+        "word": "Ｎｉｓａ"
+    },
+    {
+        "id": 7111,
+        "category": 1,
+        "word": "ｎｉｓａ"
+    }
+]

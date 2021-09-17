@@ -6,8 +6,8 @@
         "bgm": "bgm_battle01",
         "open_type": 1,
         "priority": 1,
-        "open_at": "2021-05-05 02:00:00 -0400",
-        "close_at": "2021-05-11 23:59:59 -0400"
+        "open_at": "2020-02-27 13:05:00 -0400",
+        "close_at": "2020-03-03 23:30:00 -0400"
     },
     {
         "id": 2,
@@ -58,5 +58,135 @@
         "priority": 2,
         "open_at": "2020-05-30 00:00:00 -0400",
         "close_at": "2020-06-03 23:30:00 -0400"
+    },
+    {
+        "id": 7,
+        "promotion_name": "Asagi Promotion",
+        "resource_name": "asagi",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2021-09-16 01:00:00 -0400",
+        "close_at": "2021-09-30 23:59:59 -0400"
+    },
+    {
+        "id": 8,
+        "promotion_name": "D2 Promotional Video",
+        "resource_name": "second_season_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-06-29 13:05:00 -0400",
+        "close_at": "2020-07-10 23:59:00 -0400"
+    },
+    {
+        "id": 9,
+        "promotion_name": "Fuka XENO Promotional Video",
+        "resource_name": "fuka_xeno_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-06-27 00:00:00 -0400",
+        "close_at": "2020-07-02 23:30:00 -0400"
+    },
+    {
+        "id": 10,
+        "promotion_name": "Raspberyl XENO Promotional Video",
+        "resource_name": "verill_xeno_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-07-30 00:00:00 -0400",
+        "close_at": "2020-08-04 23:30:00 -0400"
+    },
+    {
+        "id": 11,
+        "promotion_name": "Desco XENO Promotional Video",
+        "resource_name": "desco_xeno_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-08-29 00:00:00 -0400",
+        "close_at": "2020-09-03 23:30:00 -0400"
+    },
+    {
+        "id": 12,
+        "promotion_name": "Seven Deadly Sins Collab Promotional Video",
+        "resource_name": "taizai_collabo_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-09-17 10:05:00 -0400",
+        "close_at": "2020-10-07 12:30:00 -0400"
+    },
+    {
+        "id": 13,
+        "promotion_name": "Seven Deadly Sins Collab Fest Promotional Video",
+        "resource_name": "collabo_fes_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-09-26 00:00:00 -0400",
+        "close_at": "2020-10-07 12:30:00 -0400"
+    },
+    {
+        "id": 14,
+        "promotion_name": "Mao XENO Promotional Video",
+        "resource_name": "mao_xeno_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-10-30 00:00:00 -0400",
+        "close_at": "2020-11-03 23:30:00 -0400"
+    },
+    {
+        "id": 15,
+        "promotion_name": "1st Anniversary Promotional Video",
+        "resource_name": "1st_aniv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-11-19 00:00:00 -0400",
+        "close_at": "2020-11-26 23:59:00 -0400"
+    },
+    {
+        "id": 16,
+        "promotion_name": "1st Anniversary Fest Promotional Video",
+        "resource_name": "sisillyxeno_rahal_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-11-27 00:00:00 -0400",
+        "close_at": "2020-12-06 23:30:00 -0400"
+    },
+    {
+        "id": 17,
+        "promotion_name": "Saint Etna Promotional Video",
+        "resource_name": "seijo_etona_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2020-12-26 00:00:00 -0400",
+        "close_at": "2021-01-03 23:30:00 -0400"
+    },
+    {
+        "id": 18,
+        "promotion_name": "Disgaea 6 Promotional Video",
+        "resource_name": "dis6_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2021-01-28 00:00:00 -0400",
+        "close_at": "2021-02-11 11:30:00 -0400"
+    },
+    {
+        "id": 19,
+        "promotion_name": "Tyrant Overlord Laharl Promotional Video",
+        "resource_name": "cho_rahal_pv",
+        "bgm": "bgm_blank",
+        "open_type": 1,
+        "priority": 2,
+        "open_at": "2021-01-28 00:00:00 -0400",
+        "close_at": "2021-02-03 23:30:00 -0400"
     }
 ]

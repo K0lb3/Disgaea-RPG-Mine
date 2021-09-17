@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "weapon_type": 0,
+        "base_rate": 4,
+        "base_damage": 125
+    },
+    {
+        "id": 2,
+        "weapon_type": 1,
+        "base_rate": 10,
+        "base_damage": 140
+    },
+    {
+        "id": 3,
+        "weapon_type": 2,
+        "base_rate": 4,
+        "base_damage": 180
+    },
+    {
+        "id": 4,
+        "weapon_type": 3,
+        "base_rate": 8,
+        "base_damage": 150
+    },
+    {
+        "id": 5,
+        "weapon_type": 4,
+        "base_rate": 20,
+        "base_damage": 125
+    },
+    {
+        "id": 6,
+        "weapon_type": 5,
+        "base_rate": 20,
+        "base_damage": 125
+    },
+    {
+        "id": 7,
+        "weapon_type": 6,
+        "base_rate": 4,
+        "base_damage": 180
+    },
+    {
+        "id": 8,
+        "weapon_type": 7,
+        "base_rate": 10,
+        "base_damage": 140
+    },
+    {
+        "id": 9,
+        "weapon_type": 8,
+        "base_rate": 4,
+        "base_damage": 180
+    },
+    {
+        "id": 10,
+        "weapon_type": 9,
+        "base_rate": 10,
+        "base_damage": 140
+    }
+]

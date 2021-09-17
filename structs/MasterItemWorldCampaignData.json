@@ -1,27 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "campaign_type": "Int32",
+        "appeal_text": "String",
+        "open_at": "String",
+        "close_at": "String"
     },
-    {
-        "type": "int",
-        "name": "campaign_type",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "appeal_text",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "CampaignType": "Int32",
+        "AppealText": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

@@ -1,42 +1,22 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_login_bonus_group_id": "UInt64",
+        "name": "String",
+        "day": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
     },
-    {
-        "type": "ulong",
-        "name": "m_login_bonus_group_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "day",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 44
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 60
+    "properties": {
+        "Id": "UInt64",
+        "LoginBonusGroupId": "UInt64",
+        "Name": "String",
+        "Day": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
     }
-]
+}

@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "kingdom_rank": "Int32",
+        "category": "Int32",
+        "num": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "KingdomRank": "Int32",
+        "Category": "Int32",
+        "Num": "Int32"
+    }
+}

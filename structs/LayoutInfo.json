@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "enable": "Boolean",
+        "padding": "Single",
+        "min": "FloatNullable",
+        "max": "FloatNullable",
+        "flexible": "FloatNullable"
+    },
+    "properties": {
+        "Enable": "Boolean",
+        "Padding": "Single",
+        "Min": "FloatNullable",
+        "Max": "FloatNullable",
+        "Flexible": "FloatNullable"
+    }
+}

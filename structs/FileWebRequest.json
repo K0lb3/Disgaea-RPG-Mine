@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "m_credentials": "ICredentials",
+        "m_headers": "WebHeaderCollection",
+        "m_method": "String",
+        "m_proxy": "IWebProxy",
+        "m_response": "WebResponse",
+        "m_stream": "Stream",
+        "m_timeout": "Int32",
+        "m_uri": "Uri",
+        "m_writing": "Boolean"
+    },
+    "properties": {}
+}

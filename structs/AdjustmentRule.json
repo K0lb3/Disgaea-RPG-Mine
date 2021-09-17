@@ -1,0 +1,10 @@
+{
+    "fields": {},
+    "properties": {
+        "DateStart": "DateTime",
+        "DateEnd": "DateTime",
+        "DaylightDelta": "TimeSpan",
+        "DaylightTransitionStart": "TransitionTime",
+        "DaylightTransitionEnd": "TransitionTime"
+    }
+}

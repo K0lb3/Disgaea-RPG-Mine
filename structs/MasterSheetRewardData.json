@@ -1,32 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "sheet_no": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
     },
-    {
-        "type": "int",
-        "name": "sheet_no",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "present_type",
-        "offset": 28
-    },
-    {
-        "type": "ulong",
-        "name": "present_id",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "present_rarity",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "present_num",
-        "offset": 44
+    "properties": {
+        "Id": "UInt64",
+        "SheetNo": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentRarity": "Int32",
+        "PresentNum": "Int32"
     }
-]
+}

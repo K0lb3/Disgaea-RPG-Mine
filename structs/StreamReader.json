@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "stream": "Stream",
+        "encoding": "Encoding",
+        "decoder": "Decoder",
+        "_preamble": "Byte[]",
+        "_closable": "Boolean"
+    },
+    "properties": {
+        "CurrentEncoding": "Encoding",
+        "BaseStream": "Stream",
+        "EndOfStream": "Boolean"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_trophy_daily_request_group_id": "UInt64",
+        "title": "String",
+        "description": "String",
+        "condition_type": "Int32",
+        "condition_id": "String",
+        "condition_num": "Int64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MTrophyDailyRequestGroupId": "UInt64",
+        "Title": "String",
+        "Description": "String",
+        "ConditionType": "Int32",
+        "ConditionId": "String",
+        "ConditionNum": "Int64"
+    }
+}

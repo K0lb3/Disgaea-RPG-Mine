@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "limit_type": "Int32",
+        "limit_num": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "LimitType": "Int32",
+        "LimitNum": "Int32"
+    }
+}

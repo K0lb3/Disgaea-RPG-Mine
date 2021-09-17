@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_login_bonus_group_id": "UInt64",
+        "lap": "Int32",
+        "day": "Int32",
+        "updated_at": "String",
+        "created_at": "String"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "LoginBonusGroupId": "UInt64",
+        "Lap": "Int32",
+        "Day": "Int32",
+        "UpdatedAt": "String",
+        "CreatedAt": "String",
+        "UpdatedTime": "DateTime",
+        "CreatedTime": "DateTime"
+    }
+}

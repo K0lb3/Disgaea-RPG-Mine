@@ -1669,7 +1669,7 @@
         "id": 11239,
         "character_type": 1,
         "gender": 1,
-        "name": "Seth",
+        "name": "Zed",
         "enabled": true
     },
     {
@@ -8970,7 +8970,7 @@
         "id": 12282,
         "character_type": 2,
         "gender": 1,
-        "name": "Hawker",
+        "name": "Hawk",
         "enabled": true
     },
     {
@@ -9019,7 +9019,7 @@
         "id": 12289,
         "character_type": 2,
         "gender": 1,
-        "name": "Marin",
+        "name": "Merlin",
         "enabled": true
     },
     {

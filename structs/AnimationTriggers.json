@@ -1,0 +1,9 @@
+{
+    "fields": {},
+    "properties": {
+        "normalTrigger": "String",
+        "highlightedTrigger": "String",
+        "pressedTrigger": "String",
+        "disabledTrigger": "String"
+    }
+}

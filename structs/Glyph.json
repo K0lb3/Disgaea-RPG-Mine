@@ -1,0 +1,10 @@
+{
+    "fields": {},
+    "properties": {
+        "index": "UInt32",
+        "metrics": "GlyphMetrics",
+        "glyphRect": "GlyphRect",
+        "scale": "Single",
+        "atlasIndex": "Int32"
+    }
+}

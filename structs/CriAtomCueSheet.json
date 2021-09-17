@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "IsLoading": "Boolean",
+        "IsError": "Boolean"
+    }
+}

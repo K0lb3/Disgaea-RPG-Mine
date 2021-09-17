@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "guid": "String",
+        "text": "String"
+    },
+    "properties": {
+        "Guid": "String",
+        "Text": "String"
+    }
+}

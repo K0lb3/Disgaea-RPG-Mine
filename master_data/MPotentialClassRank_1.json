@@ -1,0 +1,218 @@
+[
+    {
+        "id": 11,
+        "m_potential_class_id": 1,
+        "rank": 1,
+        "resource_name": "king_1"
+    },
+    {
+        "id": 12,
+        "m_potential_class_id": 1,
+        "rank": 2,
+        "resource_name": "king_2"
+    },
+    {
+        "id": 13,
+        "m_potential_class_id": 1,
+        "rank": 3,
+        "resource_name": "king_3"
+    },
+    {
+        "id": 14,
+        "m_potential_class_id": 1,
+        "rank": 4,
+        "resource_name": "king_4"
+    },
+    {
+        "id": 15,
+        "m_potential_class_id": 1,
+        "rank": 5,
+        "resource_name": "king_5"
+    },
+    {
+        "id": 16,
+        "m_potential_class_id": 1,
+        "rank": 6,
+        "resource_name": "king_6"
+    },
+    {
+        "id": 21,
+        "m_potential_class_id": 2,
+        "rank": 1,
+        "resource_name": "pawn_1"
+    },
+    {
+        "id": 22,
+        "m_potential_class_id": 2,
+        "rank": 2,
+        "resource_name": "pawn_2"
+    },
+    {
+        "id": 23,
+        "m_potential_class_id": 2,
+        "rank": 3,
+        "resource_name": "pawn_3"
+    },
+    {
+        "id": 24,
+        "m_potential_class_id": 2,
+        "rank": 4,
+        "resource_name": "pawn_4"
+    },
+    {
+        "id": 25,
+        "m_potential_class_id": 2,
+        "rank": 5,
+        "resource_name": "pawn_5"
+    },
+    {
+        "id": 26,
+        "m_potential_class_id": 2,
+        "rank": 6,
+        "resource_name": "pawn_6"
+    },
+    {
+        "id": 31,
+        "m_potential_class_id": 3,
+        "rank": 1,
+        "resource_name": "rook_1"
+    },
+    {
+        "id": 32,
+        "m_potential_class_id": 3,
+        "rank": 2,
+        "resource_name": "rook_2"
+    },
+    {
+        "id": 33,
+        "m_potential_class_id": 3,
+        "rank": 3,
+        "resource_name": "rook_3"
+    },
+    {
+        "id": 34,
+        "m_potential_class_id": 3,
+        "rank": 4,
+        "resource_name": "rook_4"
+    },
+    {
+        "id": 35,
+        "m_potential_class_id": 3,
+        "rank": 5,
+        "resource_name": "rook_5"
+    },
+    {
+        "id": 36,
+        "m_potential_class_id": 3,
+        "rank": 6,
+        "resource_name": "rook_6"
+    },
+    {
+        "id": 41,
+        "m_potential_class_id": 4,
+        "rank": 1,
+        "resource_name": "bishop_1"
+    },
+    {
+        "id": 42,
+        "m_potential_class_id": 4,
+        "rank": 2,
+        "resource_name": "bishop_2"
+    },
+    {
+        "id": 43,
+        "m_potential_class_id": 4,
+        "rank": 3,
+        "resource_name": "bishop_3"
+    },
+    {
+        "id": 44,
+        "m_potential_class_id": 4,
+        "rank": 4,
+        "resource_name": "bishop_4"
+    },
+    {
+        "id": 45,
+        "m_potential_class_id": 4,
+        "rank": 5,
+        "resource_name": "bishop_5"
+    },
+    {
+        "id": 46,
+        "m_potential_class_id": 4,
+        "rank": 6,
+        "resource_name": "bishop_6"
+    },
+    {
+        "id": 51,
+        "m_potential_class_id": 5,
+        "rank": 1,
+        "resource_name": "knight_1"
+    },
+    {
+        "id": 52,
+        "m_potential_class_id": 5,
+        "rank": 2,
+        "resource_name": "knight_2"
+    },
+    {
+        "id": 53,
+        "m_potential_class_id": 5,
+        "rank": 3,
+        "resource_name": "knight_3"
+    },
+    {
+        "id": 54,
+        "m_potential_class_id": 5,
+        "rank": 4,
+        "resource_name": "knight_4"
+    },
+    {
+        "id": 55,
+        "m_potential_class_id": 5,
+        "rank": 5,
+        "resource_name": "knight_5"
+    },
+    {
+        "id": 56,
+        "m_potential_class_id": 5,
+        "rank": 6,
+        "resource_name": "knight_6"
+    },
+    {
+        "id": 61,
+        "m_potential_class_id": 6,
+        "rank": 1,
+        "resource_name": "queen_1"
+    },
+    {
+        "id": 62,
+        "m_potential_class_id": 6,
+        "rank": 2,
+        "resource_name": "queen_2"
+    },
+    {
+        "id": 63,
+        "m_potential_class_id": 6,
+        "rank": 3,
+        "resource_name": "queen_3"
+    },
+    {
+        "id": 64,
+        "m_potential_class_id": 6,
+        "rank": 4,
+        "resource_name": "queen_4"
+    },
+    {
+        "id": 65,
+        "m_potential_class_id": 6,
+        "rank": 5,
+        "resource_name": "queen_5"
+    },
+    {
+        "id": 66,
+        "m_potential_class_id": 6,
+        "rank": 6,
+        "resource_name": "queen_6"
+    }
+]

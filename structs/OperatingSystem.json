@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "_platform": "PlatformID",
+        "_version": "Version"
+    },
+    "properties": {
+        "Platform": "PlatformID",
+        "Version": "Version",
+        "ServicePack": "String"
+    }
+}

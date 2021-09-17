@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "effect_type": "Int32",
+        "rank": "Int32",
+        "min_value": "Single",
+        "max_value": "Single",
+        "weapon_additional_value": "Single",
+        "position": "Int32",
+        "effect_kind": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "EffectType": "Int32",
+        "Rank": "Int32",
+        "MinValue": "Single",
+        "MaxValue": "Single",
+        "WeaponAdditionalValue": "Single",
+        "Position": "Int32",
+        "EffectKind": "Int32"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "res": "String",
+        "args": "String[]",
+        "message": "String"
+    },
+    "properties": {
+        "LineNumber": "Int32",
+        "LinePosition": "Int32"
+    }
+}

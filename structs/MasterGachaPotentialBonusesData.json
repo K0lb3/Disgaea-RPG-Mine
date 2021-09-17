@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_gacha_id": "UInt64",
+        "m_character_id": "UInt64",
+        "rarity": "Int32",
+        "count": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "GachaId": "UInt64",
+        "MCharacterId": "UInt64",
+        "Rarity": "Int32",
+        "Count": "Int32"
+    }
+}

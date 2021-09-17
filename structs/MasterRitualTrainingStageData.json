@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "boss_lv_rate": "Int32",
+        "bgm": "String",
+        "boss_bgm": "String",
+        "bg_id": "Int32",
+        "effect_types": "Int32[]",
+        "effect_type_params": "Int32[]",
+        "base_level": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "BossLvRate": "Int32",
+        "Bgm": "String",
+        "BossBgm": "String",
+        "BgId": "Int32",
+        "EffectTypes": "Int32[]",
+        "EffectTypeParams": "Int32[]",
+        "BaseLevel": "Int32"
+    }
+}

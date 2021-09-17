@@ -1,0 +1,8222 @@
+[
+    {
+        "id": 1,
+        "m_ritual_training_id": 2,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 2,
+        "m_ritual_training_id": 4,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 3,
+        "m_ritual_training_id": 6,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 4,
+        "m_ritual_training_id": 8,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 5,
+        "m_ritual_training_id": 9,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 6,
+        "m_ritual_training_id": 12,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 7,
+        "m_ritual_training_id": 14,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 8,
+        "m_ritual_training_id": 16,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 9,
+        "m_ritual_training_id": 18,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 10,
+        "m_ritual_training_id": 19,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 11,
+        "m_ritual_training_id": 22,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 12,
+        "m_ritual_training_id": 24,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 13,
+        "m_ritual_training_id": 26,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 14,
+        "m_ritual_training_id": 28,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 15,
+        "m_ritual_training_id": 29,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 16,
+        "m_ritual_training_id": 32,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 17,
+        "m_ritual_training_id": 34,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 18,
+        "m_ritual_training_id": 36,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 19,
+        "m_ritual_training_id": 38,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 20,
+        "m_ritual_training_id": 39,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 21,
+        "m_ritual_training_id": 42,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 22,
+        "m_ritual_training_id": 44,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 23,
+        "m_ritual_training_id": 46,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 24,
+        "m_ritual_training_id": 48,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 25,
+        "m_ritual_training_id": 49,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 26,
+        "m_ritual_training_id": 52,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 27,
+        "m_ritual_training_id": 54,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 28,
+        "m_ritual_training_id": 56,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 29,
+        "m_ritual_training_id": 58,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 30,
+        "m_ritual_training_id": 59,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 31,
+        "m_ritual_training_id": 62,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 32,
+        "m_ritual_training_id": 64,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 33,
+        "m_ritual_training_id": 66,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 34,
+        "m_ritual_training_id": 68,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 35,
+        "m_ritual_training_id": 69,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 36,
+        "m_ritual_training_id": 72,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 37,
+        "m_ritual_training_id": 74,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 38,
+        "m_ritual_training_id": 76,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 39,
+        "m_ritual_training_id": 78,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 40,
+        "m_ritual_training_id": 79,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 41,
+        "m_ritual_training_id": 82,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 42,
+        "m_ritual_training_id": 84,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 43,
+        "m_ritual_training_id": 86,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 44,
+        "m_ritual_training_id": 88,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 45,
+        "m_ritual_training_id": 89,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 46,
+        "m_ritual_training_id": 92,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 47,
+        "m_ritual_training_id": 94,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 48,
+        "m_ritual_training_id": 96,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 49,
+        "m_ritual_training_id": 98,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 50,
+        "m_ritual_training_id": 99,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 51,
+        "m_ritual_training_id": 102,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 52,
+        "m_ritual_training_id": 104,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 53,
+        "m_ritual_training_id": 106,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 54,
+        "m_ritual_training_id": 108,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 55,
+        "m_ritual_training_id": 109,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 56,
+        "m_ritual_training_id": 112,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 57,
+        "m_ritual_training_id": 114,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 58,
+        "m_ritual_training_id": 116,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 59,
+        "m_ritual_training_id": 118,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 60,
+        "m_ritual_training_id": 119,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 61,
+        "m_ritual_training_id": 122,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 62,
+        "m_ritual_training_id": 124,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 63,
+        "m_ritual_training_id": 126,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 64,
+        "m_ritual_training_id": 128,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 65,
+        "m_ritual_training_id": 129,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 66,
+        "m_ritual_training_id": 132,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 67,
+        "m_ritual_training_id": 134,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 68,
+        "m_ritual_training_id": 136,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 69,
+        "m_ritual_training_id": 138,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 70,
+        "m_ritual_training_id": 139,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 71,
+        "m_ritual_training_id": 142,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 72,
+        "m_ritual_training_id": 144,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 73,
+        "m_ritual_training_id": 146,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 74,
+        "m_ritual_training_id": 148,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 75,
+        "m_ritual_training_id": 149,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 76,
+        "m_ritual_training_id": 152,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 77,
+        "m_ritual_training_id": 154,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 78,
+        "m_ritual_training_id": 156,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 79,
+        "m_ritual_training_id": 158,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 80,
+        "m_ritual_training_id": 159,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 81,
+        "m_ritual_training_id": 162,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 82,
+        "m_ritual_training_id": 164,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 83,
+        "m_ritual_training_id": 166,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 84,
+        "m_ritual_training_id": 168,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 85,
+        "m_ritual_training_id": 169,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 86,
+        "m_ritual_training_id": 172,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 87,
+        "m_ritual_training_id": 174,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 88,
+        "m_ritual_training_id": 176,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 89,
+        "m_ritual_training_id": 178,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 90,
+        "m_ritual_training_id": 179,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 91,
+        "m_ritual_training_id": 182,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 92,
+        "m_ritual_training_id": 184,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 93,
+        "m_ritual_training_id": 186,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 94,
+        "m_ritual_training_id": 188,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 95,
+        "m_ritual_training_id": 189,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 96,
+        "m_ritual_training_id": 192,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 97,
+        "m_ritual_training_id": 194,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 98,
+        "m_ritual_training_id": 196,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 99,
+        "m_ritual_training_id": 198,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 100,
+        "m_ritual_training_id": 199,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 101,
+        "m_ritual_training_id": 202,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 102,
+        "m_ritual_training_id": 204,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 103,
+        "m_ritual_training_id": 206,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 104,
+        "m_ritual_training_id": 208,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 105,
+        "m_ritual_training_id": 209,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 106,
+        "m_ritual_training_id": 212,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 107,
+        "m_ritual_training_id": 214,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 108,
+        "m_ritual_training_id": 216,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 109,
+        "m_ritual_training_id": 218,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 110,
+        "m_ritual_training_id": 219,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 111,
+        "m_ritual_training_id": 222,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 112,
+        "m_ritual_training_id": 224,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 113,
+        "m_ritual_training_id": 226,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 114,
+        "m_ritual_training_id": 228,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 115,
+        "m_ritual_training_id": 229,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 116,
+        "m_ritual_training_id": 232,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 117,
+        "m_ritual_training_id": 234,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 118,
+        "m_ritual_training_id": 236,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 119,
+        "m_ritual_training_id": 238,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 120,
+        "m_ritual_training_id": 239,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 121,
+        "m_ritual_training_id": 242,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 122,
+        "m_ritual_training_id": 244,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 123,
+        "m_ritual_training_id": 246,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 124,
+        "m_ritual_training_id": 248,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 125,
+        "m_ritual_training_id": 249,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 126,
+        "m_ritual_training_id": 252,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 127,
+        "m_ritual_training_id": 254,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 128,
+        "m_ritual_training_id": 256,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 129,
+        "m_ritual_training_id": 258,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 130,
+        "m_ritual_training_id": 259,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 131,
+        "m_ritual_training_id": 262,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 132,
+        "m_ritual_training_id": 264,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 133,
+        "m_ritual_training_id": 266,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 134,
+        "m_ritual_training_id": 268,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 135,
+        "m_ritual_training_id": 269,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 136,
+        "m_ritual_training_id": 272,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 137,
+        "m_ritual_training_id": 274,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 138,
+        "m_ritual_training_id": 276,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 139,
+        "m_ritual_training_id": 278,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 140,
+        "m_ritual_training_id": 279,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 141,
+        "m_ritual_training_id": 282,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 142,
+        "m_ritual_training_id": 284,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 143,
+        "m_ritual_training_id": 286,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 144,
+        "m_ritual_training_id": 288,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 145,
+        "m_ritual_training_id": 289,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 146,
+        "m_ritual_training_id": 292,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 147,
+        "m_ritual_training_id": 294,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 148,
+        "m_ritual_training_id": 296,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 149,
+        "m_ritual_training_id": 298,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 150,
+        "m_ritual_training_id": 299,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 151,
+        "m_ritual_training_id": 302,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 152,
+        "m_ritual_training_id": 304,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 153,
+        "m_ritual_training_id": 306,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 154,
+        "m_ritual_training_id": 308,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 155,
+        "m_ritual_training_id": 309,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 156,
+        "m_ritual_training_id": 312,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 157,
+        "m_ritual_training_id": 314,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 158,
+        "m_ritual_training_id": 316,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 159,
+        "m_ritual_training_id": 318,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 160,
+        "m_ritual_training_id": 319,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 161,
+        "m_ritual_training_id": 322,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 162,
+        "m_ritual_training_id": 324,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 163,
+        "m_ritual_training_id": 326,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 164,
+        "m_ritual_training_id": 328,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 165,
+        "m_ritual_training_id": 329,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 166,
+        "m_ritual_training_id": 332,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 167,
+        "m_ritual_training_id": 334,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 168,
+        "m_ritual_training_id": 336,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 169,
+        "m_ritual_training_id": 338,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 170,
+        "m_ritual_training_id": 339,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 171,
+        "m_ritual_training_id": 342,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 172,
+        "m_ritual_training_id": 344,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 173,
+        "m_ritual_training_id": 346,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 174,
+        "m_ritual_training_id": 348,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 175,
+        "m_ritual_training_id": 349,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 176,
+        "m_ritual_training_id": 352,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 177,
+        "m_ritual_training_id": 354,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 178,
+        "m_ritual_training_id": 356,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 179,
+        "m_ritual_training_id": 358,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 180,
+        "m_ritual_training_id": 359,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 181,
+        "m_ritual_training_id": 362,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 182,
+        "m_ritual_training_id": 364,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 183,
+        "m_ritual_training_id": 366,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 184,
+        "m_ritual_training_id": 368,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 185,
+        "m_ritual_training_id": 369,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 186,
+        "m_ritual_training_id": 372,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 187,
+        "m_ritual_training_id": 374,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 188,
+        "m_ritual_training_id": 376,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 189,
+        "m_ritual_training_id": 378,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 190,
+        "m_ritual_training_id": 379,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 191,
+        "m_ritual_training_id": 382,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 192,
+        "m_ritual_training_id": 384,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 193,
+        "m_ritual_training_id": 386,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 194,
+        "m_ritual_training_id": 388,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 195,
+        "m_ritual_training_id": 389,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 196,
+        "m_ritual_training_id": 392,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 197,
+        "m_ritual_training_id": 394,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 198,
+        "m_ritual_training_id": 396,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 199,
+        "m_ritual_training_id": 398,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 200,
+        "m_ritual_training_id": 399,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 201,
+        "m_ritual_training_id": 402,
+        "m_item_id": 3103,
+        "item_quantity": 1
+    },
+    {
+        "id": 202,
+        "m_ritual_training_id": 404,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 203,
+        "m_ritual_training_id": 406,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 204,
+        "m_ritual_training_id": 408,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 205,
+        "m_ritual_training_id": 409,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 206,
+        "m_ritual_training_id": 412,
+        "m_item_id": 3105,
+        "item_quantity": 1
+    },
+    {
+        "id": 207,
+        "m_ritual_training_id": 414,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 208,
+        "m_ritual_training_id": 416,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 209,
+        "m_ritual_training_id": 418,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 210,
+        "m_ritual_training_id": 419,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 211,
+        "m_ritual_training_id": 422,
+        "m_item_id": 3104,
+        "item_quantity": 1
+    },
+    {
+        "id": 212,
+        "m_ritual_training_id": 424,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 213,
+        "m_ritual_training_id": 426,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 214,
+        "m_ritual_training_id": 428,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 215,
+        "m_ritual_training_id": 429,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 216,
+        "m_ritual_training_id": 432,
+        "m_item_id": 3106,
+        "item_quantity": 1
+    },
+    {
+        "id": 217,
+        "m_ritual_training_id": 434,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 218,
+        "m_ritual_training_id": 436,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 219,
+        "m_ritual_training_id": 438,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 220,
+        "m_ritual_training_id": 439,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 221,
+        "m_ritual_training_id": 442,
+        "m_item_id": 3102,
+        "item_quantity": 1
+    },
+    {
+        "id": 222,
+        "m_ritual_training_id": 444,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 223,
+        "m_ritual_training_id": 446,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 224,
+        "m_ritual_training_id": 448,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 225,
+        "m_ritual_training_id": 449,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 226,
+        "m_ritual_training_id": 452,
+        "m_item_id": 3101,
+        "item_quantity": 1
+    },
+    {
+        "id": 227,
+        "m_ritual_training_id": 454,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 228,
+        "m_ritual_training_id": 456,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 229,
+        "m_ritual_training_id": 458,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 230,
+        "m_ritual_training_id": 459,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 231,
+        "m_ritual_training_id": 462,
+        "m_item_id": 3106,
+        "item_quantity": 1
+    },
+    {
+        "id": 232,
+        "m_ritual_training_id": 464,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 233,
+        "m_ritual_training_id": 466,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 234,
+        "m_ritual_training_id": 468,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 235,
+        "m_ritual_training_id": 469,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 236,
+        "m_ritual_training_id": 472,
+        "m_item_id": 3106,
+        "item_quantity": 1
+    },
+    {
+        "id": 237,
+        "m_ritual_training_id": 474,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 238,
+        "m_ritual_training_id": 476,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 239,
+        "m_ritual_training_id": 478,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 240,
+        "m_ritual_training_id": 479,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 241,
+        "m_ritual_training_id": 482,
+        "m_item_id": 3103,
+        "item_quantity": 1
+    },
+    {
+        "id": 242,
+        "m_ritual_training_id": 484,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 243,
+        "m_ritual_training_id": 486,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 244,
+        "m_ritual_training_id": 488,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 245,
+        "m_ritual_training_id": 489,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 246,
+        "m_ritual_training_id": 492,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 247,
+        "m_ritual_training_id": 494,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 248,
+        "m_ritual_training_id": 496,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 249,
+        "m_ritual_training_id": 498,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 250,
+        "m_ritual_training_id": 499,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 251,
+        "m_ritual_training_id": 502,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 252,
+        "m_ritual_training_id": 504,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 253,
+        "m_ritual_training_id": 506,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 254,
+        "m_ritual_training_id": 508,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 255,
+        "m_ritual_training_id": 509,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 256,
+        "m_ritual_training_id": 512,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 257,
+        "m_ritual_training_id": 514,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 258,
+        "m_ritual_training_id": 516,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 259,
+        "m_ritual_training_id": 518,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 260,
+        "m_ritual_training_id": 519,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 261,
+        "m_ritual_training_id": 522,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 262,
+        "m_ritual_training_id": 524,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 263,
+        "m_ritual_training_id": 526,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 264,
+        "m_ritual_training_id": 528,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 265,
+        "m_ritual_training_id": 529,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 266,
+        "m_ritual_training_id": 532,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 267,
+        "m_ritual_training_id": 534,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 268,
+        "m_ritual_training_id": 536,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 269,
+        "m_ritual_training_id": 538,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 270,
+        "m_ritual_training_id": 539,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 271,
+        "m_ritual_training_id": 542,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 272,
+        "m_ritual_training_id": 544,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 273,
+        "m_ritual_training_id": 546,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 274,
+        "m_ritual_training_id": 548,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 275,
+        "m_ritual_training_id": 549,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 276,
+        "m_ritual_training_id": 552,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 277,
+        "m_ritual_training_id": 554,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 278,
+        "m_ritual_training_id": 556,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 279,
+        "m_ritual_training_id": 558,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 280,
+        "m_ritual_training_id": 559,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 281,
+        "m_ritual_training_id": 562,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 282,
+        "m_ritual_training_id": 564,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 283,
+        "m_ritual_training_id": 566,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 284,
+        "m_ritual_training_id": 568,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 285,
+        "m_ritual_training_id": 569,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 286,
+        "m_ritual_training_id": 572,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 287,
+        "m_ritual_training_id": 574,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 288,
+        "m_ritual_training_id": 576,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 289,
+        "m_ritual_training_id": 578,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 290,
+        "m_ritual_training_id": 579,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 291,
+        "m_ritual_training_id": 582,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 292,
+        "m_ritual_training_id": 584,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 293,
+        "m_ritual_training_id": 586,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 294,
+        "m_ritual_training_id": 588,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 295,
+        "m_ritual_training_id": 589,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 296,
+        "m_ritual_training_id": 592,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 297,
+        "m_ritual_training_id": 594,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 298,
+        "m_ritual_training_id": 596,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 299,
+        "m_ritual_training_id": 598,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 300,
+        "m_ritual_training_id": 599,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 301,
+        "m_ritual_training_id": 602,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 302,
+        "m_ritual_training_id": 604,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 303,
+        "m_ritual_training_id": 606,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 304,
+        "m_ritual_training_id": 608,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 305,
+        "m_ritual_training_id": 609,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 306,
+        "m_ritual_training_id": 612,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 307,
+        "m_ritual_training_id": 614,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 308,
+        "m_ritual_training_id": 616,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 309,
+        "m_ritual_training_id": 618,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 310,
+        "m_ritual_training_id": 619,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 311,
+        "m_ritual_training_id": 622,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 312,
+        "m_ritual_training_id": 624,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 313,
+        "m_ritual_training_id": 626,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 314,
+        "m_ritual_training_id": 628,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 315,
+        "m_ritual_training_id": 629,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 316,
+        "m_ritual_training_id": 632,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 317,
+        "m_ritual_training_id": 634,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 318,
+        "m_ritual_training_id": 636,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 319,
+        "m_ritual_training_id": 638,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 320,
+        "m_ritual_training_id": 639,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 321,
+        "m_ritual_training_id": 642,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 322,
+        "m_ritual_training_id": 644,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 323,
+        "m_ritual_training_id": 646,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 324,
+        "m_ritual_training_id": 648,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 325,
+        "m_ritual_training_id": 649,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 326,
+        "m_ritual_training_id": 652,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 327,
+        "m_ritual_training_id": 654,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 328,
+        "m_ritual_training_id": 656,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 329,
+        "m_ritual_training_id": 658,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 330,
+        "m_ritual_training_id": 659,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 331,
+        "m_ritual_training_id": 662,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 332,
+        "m_ritual_training_id": 664,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 333,
+        "m_ritual_training_id": 666,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 334,
+        "m_ritual_training_id": 668,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 335,
+        "m_ritual_training_id": 669,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 336,
+        "m_ritual_training_id": 672,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 337,
+        "m_ritual_training_id": 674,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 338,
+        "m_ritual_training_id": 676,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 339,
+        "m_ritual_training_id": 678,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 340,
+        "m_ritual_training_id": 679,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 341,
+        "m_ritual_training_id": 682,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 342,
+        "m_ritual_training_id": 684,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 343,
+        "m_ritual_training_id": 686,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 344,
+        "m_ritual_training_id": 688,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 345,
+        "m_ritual_training_id": 689,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 346,
+        "m_ritual_training_id": 692,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 347,
+        "m_ritual_training_id": 694,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 348,
+        "m_ritual_training_id": 696,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 349,
+        "m_ritual_training_id": 698,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 350,
+        "m_ritual_training_id": 699,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 351,
+        "m_ritual_training_id": 702,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 352,
+        "m_ritual_training_id": 704,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 353,
+        "m_ritual_training_id": 706,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 354,
+        "m_ritual_training_id": 708,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 355,
+        "m_ritual_training_id": 709,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 356,
+        "m_ritual_training_id": 712,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 357,
+        "m_ritual_training_id": 714,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 358,
+        "m_ritual_training_id": 716,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 359,
+        "m_ritual_training_id": 718,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 360,
+        "m_ritual_training_id": 719,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 361,
+        "m_ritual_training_id": 722,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 362,
+        "m_ritual_training_id": 724,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 363,
+        "m_ritual_training_id": 726,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 364,
+        "m_ritual_training_id": 728,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 365,
+        "m_ritual_training_id": 729,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 366,
+        "m_ritual_training_id": 732,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 367,
+        "m_ritual_training_id": 734,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 368,
+        "m_ritual_training_id": 736,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 369,
+        "m_ritual_training_id": 738,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 370,
+        "m_ritual_training_id": 739,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 371,
+        "m_ritual_training_id": 742,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 372,
+        "m_ritual_training_id": 744,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 373,
+        "m_ritual_training_id": 746,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 374,
+        "m_ritual_training_id": 748,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 375,
+        "m_ritual_training_id": 749,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 376,
+        "m_ritual_training_id": 752,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 377,
+        "m_ritual_training_id": 754,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 378,
+        "m_ritual_training_id": 756,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 379,
+        "m_ritual_training_id": 758,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 380,
+        "m_ritual_training_id": 759,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 381,
+        "m_ritual_training_id": 762,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 382,
+        "m_ritual_training_id": 764,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 383,
+        "m_ritual_training_id": 766,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 384,
+        "m_ritual_training_id": 768,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 385,
+        "m_ritual_training_id": 769,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 386,
+        "m_ritual_training_id": 772,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 387,
+        "m_ritual_training_id": 774,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 388,
+        "m_ritual_training_id": 776,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 389,
+        "m_ritual_training_id": 778,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 390,
+        "m_ritual_training_id": 779,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 391,
+        "m_ritual_training_id": 782,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 392,
+        "m_ritual_training_id": 784,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 393,
+        "m_ritual_training_id": 786,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 394,
+        "m_ritual_training_id": 788,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 395,
+        "m_ritual_training_id": 789,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 396,
+        "m_ritual_training_id": 792,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 397,
+        "m_ritual_training_id": 794,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 398,
+        "m_ritual_training_id": 796,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 399,
+        "m_ritual_training_id": 798,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 400,
+        "m_ritual_training_id": 799,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 401,
+        "m_ritual_training_id": 802,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 402,
+        "m_ritual_training_id": 804,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 403,
+        "m_ritual_training_id": 806,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 404,
+        "m_ritual_training_id": 808,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 405,
+        "m_ritual_training_id": 809,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 406,
+        "m_ritual_training_id": 812,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 407,
+        "m_ritual_training_id": 814,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 408,
+        "m_ritual_training_id": 816,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 409,
+        "m_ritual_training_id": 818,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 410,
+        "m_ritual_training_id": 819,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 411,
+        "m_ritual_training_id": 822,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 412,
+        "m_ritual_training_id": 824,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 413,
+        "m_ritual_training_id": 826,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 414,
+        "m_ritual_training_id": 828,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 415,
+        "m_ritual_training_id": 829,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 416,
+        "m_ritual_training_id": 832,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 417,
+        "m_ritual_training_id": 834,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 418,
+        "m_ritual_training_id": 836,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 419,
+        "m_ritual_training_id": 838,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 420,
+        "m_ritual_training_id": 839,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 421,
+        "m_ritual_training_id": 842,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 422,
+        "m_ritual_training_id": 844,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 423,
+        "m_ritual_training_id": 846,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 424,
+        "m_ritual_training_id": 848,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 425,
+        "m_ritual_training_id": 849,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 426,
+        "m_ritual_training_id": 852,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 427,
+        "m_ritual_training_id": 854,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 428,
+        "m_ritual_training_id": 856,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 429,
+        "m_ritual_training_id": 858,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 430,
+        "m_ritual_training_id": 859,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 431,
+        "m_ritual_training_id": 862,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 432,
+        "m_ritual_training_id": 864,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 433,
+        "m_ritual_training_id": 866,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 434,
+        "m_ritual_training_id": 868,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 435,
+        "m_ritual_training_id": 869,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 436,
+        "m_ritual_training_id": 872,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 437,
+        "m_ritual_training_id": 874,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 438,
+        "m_ritual_training_id": 876,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 439,
+        "m_ritual_training_id": 878,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 440,
+        "m_ritual_training_id": 879,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 441,
+        "m_ritual_training_id": 882,
+        "m_item_id": 3102,
+        "item_quantity": 1
+    },
+    {
+        "id": 442,
+        "m_ritual_training_id": 884,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 443,
+        "m_ritual_training_id": 886,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 444,
+        "m_ritual_training_id": 888,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 445,
+        "m_ritual_training_id": 889,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 446,
+        "m_ritual_training_id": 892,
+        "m_item_id": 3102,
+        "item_quantity": 1
+    },
+    {
+        "id": 447,
+        "m_ritual_training_id": 894,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 448,
+        "m_ritual_training_id": 896,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 449,
+        "m_ritual_training_id": 898,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 450,
+        "m_ritual_training_id": 899,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 451,
+        "m_ritual_training_id": 902,
+        "m_item_id": 3102,
+        "item_quantity": 1
+    },
+    {
+        "id": 452,
+        "m_ritual_training_id": 904,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 453,
+        "m_ritual_training_id": 906,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 454,
+        "m_ritual_training_id": 908,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 455,
+        "m_ritual_training_id": 909,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 456,
+        "m_ritual_training_id": 912,
+        "m_item_id": 3102,
+        "item_quantity": 1
+    },
+    {
+        "id": 457,
+        "m_ritual_training_id": 914,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 458,
+        "m_ritual_training_id": 916,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 459,
+        "m_ritual_training_id": 918,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 460,
+        "m_ritual_training_id": 919,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 461,
+        "m_ritual_training_id": 922,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 462,
+        "m_ritual_training_id": 924,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 463,
+        "m_ritual_training_id": 926,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 464,
+        "m_ritual_training_id": 928,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 465,
+        "m_ritual_training_id": 929,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 466,
+        "m_ritual_training_id": 932,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 467,
+        "m_ritual_training_id": 934,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 468,
+        "m_ritual_training_id": 936,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 469,
+        "m_ritual_training_id": 938,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 470,
+        "m_ritual_training_id": 939,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 471,
+        "m_ritual_training_id": 942,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 472,
+        "m_ritual_training_id": 944,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 473,
+        "m_ritual_training_id": 946,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 474,
+        "m_ritual_training_id": 948,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 475,
+        "m_ritual_training_id": 949,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 476,
+        "m_ritual_training_id": 952,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 477,
+        "m_ritual_training_id": 954,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 478,
+        "m_ritual_training_id": 956,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 479,
+        "m_ritual_training_id": 958,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 480,
+        "m_ritual_training_id": 959,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 481,
+        "m_ritual_training_id": 962,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 482,
+        "m_ritual_training_id": 964,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 483,
+        "m_ritual_training_id": 966,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 484,
+        "m_ritual_training_id": 968,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 485,
+        "m_ritual_training_id": 969,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 486,
+        "m_ritual_training_id": 972,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 487,
+        "m_ritual_training_id": 974,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 488,
+        "m_ritual_training_id": 976,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 489,
+        "m_ritual_training_id": 978,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 490,
+        "m_ritual_training_id": 979,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 491,
+        "m_ritual_training_id": 982,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 492,
+        "m_ritual_training_id": 984,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 493,
+        "m_ritual_training_id": 986,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 494,
+        "m_ritual_training_id": 988,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 495,
+        "m_ritual_training_id": 989,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 496,
+        "m_ritual_training_id": 992,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 497,
+        "m_ritual_training_id": 994,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 498,
+        "m_ritual_training_id": 996,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 499,
+        "m_ritual_training_id": 998,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 500,
+        "m_ritual_training_id": 999,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 501,
+        "m_ritual_training_id": 1002,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 502,
+        "m_ritual_training_id": 1004,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 503,
+        "m_ritual_training_id": 1006,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 504,
+        "m_ritual_training_id": 1008,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 505,
+        "m_ritual_training_id": 1009,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 506,
+        "m_ritual_training_id": 1012,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 507,
+        "m_ritual_training_id": 1014,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 508,
+        "m_ritual_training_id": 1016,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 509,
+        "m_ritual_training_id": 1018,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 510,
+        "m_ritual_training_id": 1019,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 511,
+        "m_ritual_training_id": 1022,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 512,
+        "m_ritual_training_id": 1024,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 513,
+        "m_ritual_training_id": 1026,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 514,
+        "m_ritual_training_id": 1028,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 515,
+        "m_ritual_training_id": 1029,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 516,
+        "m_ritual_training_id": 1032,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 517,
+        "m_ritual_training_id": 1034,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 518,
+        "m_ritual_training_id": 1036,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 519,
+        "m_ritual_training_id": 1038,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 520,
+        "m_ritual_training_id": 1039,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 521,
+        "m_ritual_training_id": 1042,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 522,
+        "m_ritual_training_id": 1044,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 523,
+        "m_ritual_training_id": 1046,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 524,
+        "m_ritual_training_id": 1048,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 525,
+        "m_ritual_training_id": 1049,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 526,
+        "m_ritual_training_id": 1052,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 527,
+        "m_ritual_training_id": 1054,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 528,
+        "m_ritual_training_id": 1056,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 529,
+        "m_ritual_training_id": 1058,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 530,
+        "m_ritual_training_id": 1059,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 531,
+        "m_ritual_training_id": 1062,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 532,
+        "m_ritual_training_id": 1064,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 533,
+        "m_ritual_training_id": 1066,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 534,
+        "m_ritual_training_id": 1068,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 535,
+        "m_ritual_training_id": 1069,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 536,
+        "m_ritual_training_id": 1072,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 537,
+        "m_ritual_training_id": 1074,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 538,
+        "m_ritual_training_id": 1076,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 539,
+        "m_ritual_training_id": 1078,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 540,
+        "m_ritual_training_id": 1079,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 541,
+        "m_ritual_training_id": 1082,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 542,
+        "m_ritual_training_id": 1084,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 543,
+        "m_ritual_training_id": 1086,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 544,
+        "m_ritual_training_id": 1088,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 545,
+        "m_ritual_training_id": 1089,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 546,
+        "m_ritual_training_id": 1092,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 547,
+        "m_ritual_training_id": 1094,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 548,
+        "m_ritual_training_id": 1096,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 549,
+        "m_ritual_training_id": 1098,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 550,
+        "m_ritual_training_id": 1099,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 551,
+        "m_ritual_training_id": 1102,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 552,
+        "m_ritual_training_id": 1104,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 553,
+        "m_ritual_training_id": 1106,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 554,
+        "m_ritual_training_id": 1108,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 555,
+        "m_ritual_training_id": 1109,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 556,
+        "m_ritual_training_id": 1112,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 557,
+        "m_ritual_training_id": 1114,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 558,
+        "m_ritual_training_id": 1116,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 559,
+        "m_ritual_training_id": 1118,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 560,
+        "m_ritual_training_id": 1119,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 561,
+        "m_ritual_training_id": 1122,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 562,
+        "m_ritual_training_id": 1124,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 563,
+        "m_ritual_training_id": 1126,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 564,
+        "m_ritual_training_id": 1128,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 565,
+        "m_ritual_training_id": 1129,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 566,
+        "m_ritual_training_id": 1132,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 567,
+        "m_ritual_training_id": 1134,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 568,
+        "m_ritual_training_id": 1136,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 569,
+        "m_ritual_training_id": 1138,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 570,
+        "m_ritual_training_id": 1139,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 571,
+        "m_ritual_training_id": 1142,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 572,
+        "m_ritual_training_id": 1144,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 573,
+        "m_ritual_training_id": 1146,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 574,
+        "m_ritual_training_id": 1148,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 575,
+        "m_ritual_training_id": 1149,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 576,
+        "m_ritual_training_id": 1152,
+        "m_item_id": 3106,
+        "item_quantity": 3
+    },
+    {
+        "id": 577,
+        "m_ritual_training_id": 1154,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 578,
+        "m_ritual_training_id": 1156,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 579,
+        "m_ritual_training_id": 1158,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 580,
+        "m_ritual_training_id": 1159,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 581,
+        "m_ritual_training_id": 1162,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 582,
+        "m_ritual_training_id": 1164,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 583,
+        "m_ritual_training_id": 1166,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 584,
+        "m_ritual_training_id": 1168,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 585,
+        "m_ritual_training_id": 1169,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 586,
+        "m_ritual_training_id": 1172,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 587,
+        "m_ritual_training_id": 1174,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 588,
+        "m_ritual_training_id": 1176,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 589,
+        "m_ritual_training_id": 1178,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 590,
+        "m_ritual_training_id": 1179,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 591,
+        "m_ritual_training_id": 1182,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 592,
+        "m_ritual_training_id": 1184,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 593,
+        "m_ritual_training_id": 1186,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 594,
+        "m_ritual_training_id": 1188,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 595,
+        "m_ritual_training_id": 1189,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 596,
+        "m_ritual_training_id": 1192,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 597,
+        "m_ritual_training_id": 1194,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 598,
+        "m_ritual_training_id": 1196,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 599,
+        "m_ritual_training_id": 1198,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 600,
+        "m_ritual_training_id": 1199,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 601,
+        "m_ritual_training_id": 1202,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 602,
+        "m_ritual_training_id": 1204,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 603,
+        "m_ritual_training_id": 1206,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 604,
+        "m_ritual_training_id": 1208,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 605,
+        "m_ritual_training_id": 1209,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 606,
+        "m_ritual_training_id": 1212,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 607,
+        "m_ritual_training_id": 1214,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 608,
+        "m_ritual_training_id": 1216,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 609,
+        "m_ritual_training_id": 1218,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 610,
+        "m_ritual_training_id": 1219,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 611,
+        "m_ritual_training_id": 1222,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 612,
+        "m_ritual_training_id": 1224,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 613,
+        "m_ritual_training_id": 1226,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 614,
+        "m_ritual_training_id": 1228,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 615,
+        "m_ritual_training_id": 1229,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 616,
+        "m_ritual_training_id": 1232,
+        "m_item_id": 3102,
+        "item_quantity": 3
+    },
+    {
+        "id": 617,
+        "m_ritual_training_id": 1234,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 618,
+        "m_ritual_training_id": 1236,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 619,
+        "m_ritual_training_id": 1238,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 620,
+        "m_ritual_training_id": 1239,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 621,
+        "m_ritual_training_id": 1242,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 622,
+        "m_ritual_training_id": 1244,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 623,
+        "m_ritual_training_id": 1246,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 624,
+        "m_ritual_training_id": 1248,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 625,
+        "m_ritual_training_id": 1249,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 626,
+        "m_ritual_training_id": 1252,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 627,
+        "m_ritual_training_id": 1254,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 628,
+        "m_ritual_training_id": 1256,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 629,
+        "m_ritual_training_id": 1258,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 630,
+        "m_ritual_training_id": 1259,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 631,
+        "m_ritual_training_id": 1262,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 632,
+        "m_ritual_training_id": 1264,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 633,
+        "m_ritual_training_id": 1266,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 634,
+        "m_ritual_training_id": 1268,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 635,
+        "m_ritual_training_id": 1269,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 636,
+        "m_ritual_training_id": 1272,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 637,
+        "m_ritual_training_id": 1274,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 638,
+        "m_ritual_training_id": 1276,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 639,
+        "m_ritual_training_id": 1278,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 640,
+        "m_ritual_training_id": 1279,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 641,
+        "m_ritual_training_id": 1282,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 642,
+        "m_ritual_training_id": 1284,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 643,
+        "m_ritual_training_id": 1286,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 644,
+        "m_ritual_training_id": 1288,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 645,
+        "m_ritual_training_id": 1289,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 646,
+        "m_ritual_training_id": 1292,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 647,
+        "m_ritual_training_id": 1294,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 648,
+        "m_ritual_training_id": 1296,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 649,
+        "m_ritual_training_id": 1298,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 650,
+        "m_ritual_training_id": 1299,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 651,
+        "m_ritual_training_id": 1302,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 652,
+        "m_ritual_training_id": 1304,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 653,
+        "m_ritual_training_id": 1306,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 654,
+        "m_ritual_training_id": 1308,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 655,
+        "m_ritual_training_id": 1309,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 656,
+        "m_ritual_training_id": 1312,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 657,
+        "m_ritual_training_id": 1314,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 658,
+        "m_ritual_training_id": 1316,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 659,
+        "m_ritual_training_id": 1318,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 660,
+        "m_ritual_training_id": 1319,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 661,
+        "m_ritual_training_id": 1322,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 662,
+        "m_ritual_training_id": 1324,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 663,
+        "m_ritual_training_id": 1326,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 664,
+        "m_ritual_training_id": 1328,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 665,
+        "m_ritual_training_id": 1329,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 666,
+        "m_ritual_training_id": 1332,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 667,
+        "m_ritual_training_id": 1334,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 668,
+        "m_ritual_training_id": 1336,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 669,
+        "m_ritual_training_id": 1338,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 670,
+        "m_ritual_training_id": 1339,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 671,
+        "m_ritual_training_id": 1342,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 672,
+        "m_ritual_training_id": 1344,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 673,
+        "m_ritual_training_id": 1346,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 674,
+        "m_ritual_training_id": 1348,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 675,
+        "m_ritual_training_id": 1349,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 676,
+        "m_ritual_training_id": 1352,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 677,
+        "m_ritual_training_id": 1354,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 678,
+        "m_ritual_training_id": 1356,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 679,
+        "m_ritual_training_id": 1358,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 680,
+        "m_ritual_training_id": 1359,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 681,
+        "m_ritual_training_id": 1362,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 682,
+        "m_ritual_training_id": 1364,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 683,
+        "m_ritual_training_id": 1366,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 684,
+        "m_ritual_training_id": 1368,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 685,
+        "m_ritual_training_id": 1369,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 686,
+        "m_ritual_training_id": 1372,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 687,
+        "m_ritual_training_id": 1374,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 688,
+        "m_ritual_training_id": 1376,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 689,
+        "m_ritual_training_id": 1378,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 690,
+        "m_ritual_training_id": 1379,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 691,
+        "m_ritual_training_id": 1382,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 692,
+        "m_ritual_training_id": 1384,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 693,
+        "m_ritual_training_id": 1386,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 694,
+        "m_ritual_training_id": 1388,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 695,
+        "m_ritual_training_id": 1389,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 696,
+        "m_ritual_training_id": 1392,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 697,
+        "m_ritual_training_id": 1394,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 698,
+        "m_ritual_training_id": 1396,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 699,
+        "m_ritual_training_id": 1398,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 700,
+        "m_ritual_training_id": 1399,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 701,
+        "m_ritual_training_id": 1402,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 702,
+        "m_ritual_training_id": 1404,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 703,
+        "m_ritual_training_id": 1406,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 704,
+        "m_ritual_training_id": 1408,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 705,
+        "m_ritual_training_id": 1409,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 706,
+        "m_ritual_training_id": 1412,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 707,
+        "m_ritual_training_id": 1414,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 708,
+        "m_ritual_training_id": 1416,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 709,
+        "m_ritual_training_id": 1418,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 710,
+        "m_ritual_training_id": 1419,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 711,
+        "m_ritual_training_id": 1422,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 712,
+        "m_ritual_training_id": 1424,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 713,
+        "m_ritual_training_id": 1426,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 714,
+        "m_ritual_training_id": 1428,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 715,
+        "m_ritual_training_id": 1429,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 716,
+        "m_ritual_training_id": 1432,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 717,
+        "m_ritual_training_id": 1434,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 718,
+        "m_ritual_training_id": 1436,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 719,
+        "m_ritual_training_id": 1438,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 720,
+        "m_ritual_training_id": 1439,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 721,
+        "m_ritual_training_id": 1442,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 722,
+        "m_ritual_training_id": 1444,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 723,
+        "m_ritual_training_id": 1446,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 724,
+        "m_ritual_training_id": 1448,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 725,
+        "m_ritual_training_id": 1449,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 726,
+        "m_ritual_training_id": 1452,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 727,
+        "m_ritual_training_id": 1454,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 728,
+        "m_ritual_training_id": 1456,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 729,
+        "m_ritual_training_id": 1458,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 730,
+        "m_ritual_training_id": 1459,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 731,
+        "m_ritual_training_id": 1462,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 732,
+        "m_ritual_training_id": 1464,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 733,
+        "m_ritual_training_id": 1466,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 734,
+        "m_ritual_training_id": 1468,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 735,
+        "m_ritual_training_id": 1469,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 736,
+        "m_ritual_training_id": 1472,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 737,
+        "m_ritual_training_id": 1474,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 738,
+        "m_ritual_training_id": 1476,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 739,
+        "m_ritual_training_id": 1478,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 740,
+        "m_ritual_training_id": 1479,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 741,
+        "m_ritual_training_id": 1482,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 742,
+        "m_ritual_training_id": 1484,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 743,
+        "m_ritual_training_id": 1486,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 744,
+        "m_ritual_training_id": 1488,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 745,
+        "m_ritual_training_id": 1489,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 746,
+        "m_ritual_training_id": 1492,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 747,
+        "m_ritual_training_id": 1494,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 748,
+        "m_ritual_training_id": 1496,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 749,
+        "m_ritual_training_id": 1498,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 750,
+        "m_ritual_training_id": 1499,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 751,
+        "m_ritual_training_id": 1502,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 752,
+        "m_ritual_training_id": 1504,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 753,
+        "m_ritual_training_id": 1506,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 754,
+        "m_ritual_training_id": 1508,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 755,
+        "m_ritual_training_id": 1509,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 756,
+        "m_ritual_training_id": 1512,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 757,
+        "m_ritual_training_id": 1514,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 758,
+        "m_ritual_training_id": 1516,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 759,
+        "m_ritual_training_id": 1518,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 760,
+        "m_ritual_training_id": 1519,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 761,
+        "m_ritual_training_id": 1522,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 762,
+        "m_ritual_training_id": 1524,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 763,
+        "m_ritual_training_id": 1526,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 764,
+        "m_ritual_training_id": 1528,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 765,
+        "m_ritual_training_id": 1529,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 766,
+        "m_ritual_training_id": 1532,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 767,
+        "m_ritual_training_id": 1534,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 768,
+        "m_ritual_training_id": 1536,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 769,
+        "m_ritual_training_id": 1538,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 770,
+        "m_ritual_training_id": 1539,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 771,
+        "m_ritual_training_id": 1542,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 772,
+        "m_ritual_training_id": 1544,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 773,
+        "m_ritual_training_id": 1546,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 774,
+        "m_ritual_training_id": 1548,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 775,
+        "m_ritual_training_id": 1549,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 776,
+        "m_ritual_training_id": 1552,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 777,
+        "m_ritual_training_id": 1554,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 778,
+        "m_ritual_training_id": 1556,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 779,
+        "m_ritual_training_id": 1558,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 780,
+        "m_ritual_training_id": 1559,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 781,
+        "m_ritual_training_id": 1562,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 782,
+        "m_ritual_training_id": 1564,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 783,
+        "m_ritual_training_id": 1566,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 784,
+        "m_ritual_training_id": 1568,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 785,
+        "m_ritual_training_id": 1569,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 786,
+        "m_ritual_training_id": 1572,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 787,
+        "m_ritual_training_id": 1574,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 788,
+        "m_ritual_training_id": 1576,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 789,
+        "m_ritual_training_id": 1578,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 790,
+        "m_ritual_training_id": 1579,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 791,
+        "m_ritual_training_id": 1582,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 792,
+        "m_ritual_training_id": 1584,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 793,
+        "m_ritual_training_id": 1586,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 794,
+        "m_ritual_training_id": 1588,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 795,
+        "m_ritual_training_id": 1589,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 796,
+        "m_ritual_training_id": 1592,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 797,
+        "m_ritual_training_id": 1594,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 798,
+        "m_ritual_training_id": 1596,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 799,
+        "m_ritual_training_id": 1598,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 800,
+        "m_ritual_training_id": 1599,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 801,
+        "m_ritual_training_id": 1602,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 802,
+        "m_ritual_training_id": 1604,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 803,
+        "m_ritual_training_id": 1606,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 804,
+        "m_ritual_training_id": 1608,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 805,
+        "m_ritual_training_id": 1609,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 806,
+        "m_ritual_training_id": 1612,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 807,
+        "m_ritual_training_id": 1614,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 808,
+        "m_ritual_training_id": 1616,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 809,
+        "m_ritual_training_id": 1618,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 810,
+        "m_ritual_training_id": 1619,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 811,
+        "m_ritual_training_id": 1622,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 812,
+        "m_ritual_training_id": 1624,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 813,
+        "m_ritual_training_id": 1626,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 814,
+        "m_ritual_training_id": 1628,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 815,
+        "m_ritual_training_id": 1629,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 816,
+        "m_ritual_training_id": 1632,
+        "m_item_id": 3102,
+        "item_quantity": 5
+    },
+    {
+        "id": 817,
+        "m_ritual_training_id": 1634,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 818,
+        "m_ritual_training_id": 1636,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 819,
+        "m_ritual_training_id": 1638,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 820,
+        "m_ritual_training_id": 1639,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 821,
+        "m_ritual_training_id": 1642,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 822,
+        "m_ritual_training_id": 1644,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 823,
+        "m_ritual_training_id": 1646,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 824,
+        "m_ritual_training_id": 1648,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 825,
+        "m_ritual_training_id": 1649,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 826,
+        "m_ritual_training_id": 1652,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 827,
+        "m_ritual_training_id": 1654,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 828,
+        "m_ritual_training_id": 1656,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 829,
+        "m_ritual_training_id": 1658,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 830,
+        "m_ritual_training_id": 1659,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 831,
+        "m_ritual_training_id": 1662,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 832,
+        "m_ritual_training_id": 1664,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 833,
+        "m_ritual_training_id": 1666,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 834,
+        "m_ritual_training_id": 1668,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 835,
+        "m_ritual_training_id": 1669,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 836,
+        "m_ritual_training_id": 1672,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 837,
+        "m_ritual_training_id": 1674,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 838,
+        "m_ritual_training_id": 1676,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 839,
+        "m_ritual_training_id": 1678,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 840,
+        "m_ritual_training_id": 1679,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 841,
+        "m_ritual_training_id": 1682,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 842,
+        "m_ritual_training_id": 1684,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 843,
+        "m_ritual_training_id": 1686,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 844,
+        "m_ritual_training_id": 1688,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 845,
+        "m_ritual_training_id": 1689,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 846,
+        "m_ritual_training_id": 1692,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 847,
+        "m_ritual_training_id": 1694,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 848,
+        "m_ritual_training_id": 1696,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 849,
+        "m_ritual_training_id": 1698,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 850,
+        "m_ritual_training_id": 1699,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 851,
+        "m_ritual_training_id": 1702,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 852,
+        "m_ritual_training_id": 1704,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 853,
+        "m_ritual_training_id": 1706,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 854,
+        "m_ritual_training_id": 1708,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 855,
+        "m_ritual_training_id": 1709,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 856,
+        "m_ritual_training_id": 1712,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 857,
+        "m_ritual_training_id": 1714,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 858,
+        "m_ritual_training_id": 1716,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 859,
+        "m_ritual_training_id": 1718,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 860,
+        "m_ritual_training_id": 1719,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 861,
+        "m_ritual_training_id": 1722,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 862,
+        "m_ritual_training_id": 1724,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 863,
+        "m_ritual_training_id": 1726,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 864,
+        "m_ritual_training_id": 1728,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 865,
+        "m_ritual_training_id": 1729,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 866,
+        "m_ritual_training_id": 1732,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 867,
+        "m_ritual_training_id": 1734,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 868,
+        "m_ritual_training_id": 1736,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 869,
+        "m_ritual_training_id": 1738,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 870,
+        "m_ritual_training_id": 1739,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 871,
+        "m_ritual_training_id": 1742,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 872,
+        "m_ritual_training_id": 1744,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 873,
+        "m_ritual_training_id": 1746,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 874,
+        "m_ritual_training_id": 1748,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 875,
+        "m_ritual_training_id": 1749,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 876,
+        "m_ritual_training_id": 1752,
+        "m_item_id": 3103,
+        "item_quantity": 3
+    },
+    {
+        "id": 877,
+        "m_ritual_training_id": 1754,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 878,
+        "m_ritual_training_id": 1756,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 879,
+        "m_ritual_training_id": 1758,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 880,
+        "m_ritual_training_id": 1759,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 881,
+        "m_ritual_training_id": 1762,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 882,
+        "m_ritual_training_id": 1764,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 883,
+        "m_ritual_training_id": 1766,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 884,
+        "m_ritual_training_id": 1768,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 885,
+        "m_ritual_training_id": 1769,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 886,
+        "m_ritual_training_id": 1772,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 887,
+        "m_ritual_training_id": 1774,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 888,
+        "m_ritual_training_id": 1776,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 889,
+        "m_ritual_training_id": 1778,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 890,
+        "m_ritual_training_id": 1779,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 891,
+        "m_ritual_training_id": 1782,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 892,
+        "m_ritual_training_id": 1784,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 893,
+        "m_ritual_training_id": 1786,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 894,
+        "m_ritual_training_id": 1788,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 895,
+        "m_ritual_training_id": 1789,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 896,
+        "m_ritual_training_id": 1792,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 897,
+        "m_ritual_training_id": 1794,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 898,
+        "m_ritual_training_id": 1796,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 899,
+        "m_ritual_training_id": 1798,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 900,
+        "m_ritual_training_id": 1799,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 901,
+        "m_ritual_training_id": 1802,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 902,
+        "m_ritual_training_id": 1804,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 903,
+        "m_ritual_training_id": 1806,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 904,
+        "m_ritual_training_id": 1808,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 905,
+        "m_ritual_training_id": 1809,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 906,
+        "m_ritual_training_id": 1812,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 907,
+        "m_ritual_training_id": 1814,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 908,
+        "m_ritual_training_id": 1816,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 909,
+        "m_ritual_training_id": 1818,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 910,
+        "m_ritual_training_id": 1819,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 911,
+        "m_ritual_training_id": 1822,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 912,
+        "m_ritual_training_id": 1824,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 913,
+        "m_ritual_training_id": 1826,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 914,
+        "m_ritual_training_id": 1828,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 915,
+        "m_ritual_training_id": 1829,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 916,
+        "m_ritual_training_id": 1832,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 917,
+        "m_ritual_training_id": 1834,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 918,
+        "m_ritual_training_id": 1836,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 919,
+        "m_ritual_training_id": 1838,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 920,
+        "m_ritual_training_id": 1839,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 921,
+        "m_ritual_training_id": 1842,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 922,
+        "m_ritual_training_id": 1844,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 923,
+        "m_ritual_training_id": 1846,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 924,
+        "m_ritual_training_id": 1848,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 925,
+        "m_ritual_training_id": 1849,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 926,
+        "m_ritual_training_id": 1852,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 927,
+        "m_ritual_training_id": 1854,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 928,
+        "m_ritual_training_id": 1856,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 929,
+        "m_ritual_training_id": 1858,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 930,
+        "m_ritual_training_id": 1859,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 931,
+        "m_ritual_training_id": 1862,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 932,
+        "m_ritual_training_id": 1864,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 933,
+        "m_ritual_training_id": 1866,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 934,
+        "m_ritual_training_id": 1868,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 935,
+        "m_ritual_training_id": 1869,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 936,
+        "m_ritual_training_id": 1872,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 937,
+        "m_ritual_training_id": 1874,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 938,
+        "m_ritual_training_id": 1876,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 939,
+        "m_ritual_training_id": 1878,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 940,
+        "m_ritual_training_id": 1879,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 941,
+        "m_ritual_training_id": 1882,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 942,
+        "m_ritual_training_id": 1884,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 943,
+        "m_ritual_training_id": 1886,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 944,
+        "m_ritual_training_id": 1888,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 945,
+        "m_ritual_training_id": 1889,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 946,
+        "m_ritual_training_id": 1892,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 947,
+        "m_ritual_training_id": 1894,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 948,
+        "m_ritual_training_id": 1896,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 949,
+        "m_ritual_training_id": 1898,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 950,
+        "m_ritual_training_id": 1899,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 951,
+        "m_ritual_training_id": 1902,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 952,
+        "m_ritual_training_id": 1904,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 953,
+        "m_ritual_training_id": 1906,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 954,
+        "m_ritual_training_id": 1908,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 955,
+        "m_ritual_training_id": 1909,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 956,
+        "m_ritual_training_id": 1912,
+        "m_item_id": 3104,
+        "item_quantity": 3
+    },
+    {
+        "id": 957,
+        "m_ritual_training_id": 1914,
+        "m_item_id": 3104,
+        "item_quantity": 5
+    },
+    {
+        "id": 958,
+        "m_ritual_training_id": 1916,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 959,
+        "m_ritual_training_id": 1918,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 960,
+        "m_ritual_training_id": 1919,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 961,
+        "m_ritual_training_id": 1922,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 962,
+        "m_ritual_training_id": 1924,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 963,
+        "m_ritual_training_id": 1926,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 964,
+        "m_ritual_training_id": 1928,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 965,
+        "m_ritual_training_id": 1929,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 966,
+        "m_ritual_training_id": 1932,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 967,
+        "m_ritual_training_id": 1934,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 968,
+        "m_ritual_training_id": 1936,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 969,
+        "m_ritual_training_id": 1938,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 970,
+        "m_ritual_training_id": 1939,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 971,
+        "m_ritual_training_id": 1942,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 972,
+        "m_ritual_training_id": 1944,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 973,
+        "m_ritual_training_id": 1946,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 974,
+        "m_ritual_training_id": 1948,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 975,
+        "m_ritual_training_id": 1949,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 976,
+        "m_ritual_training_id": 1952,
+        "m_item_id": 3105,
+        "item_quantity": 3
+    },
+    {
+        "id": 977,
+        "m_ritual_training_id": 1954,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 978,
+        "m_ritual_training_id": 1956,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 979,
+        "m_ritual_training_id": 1958,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 980,
+        "m_ritual_training_id": 1959,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 981,
+        "m_ritual_training_id": 1962,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 982,
+        "m_ritual_training_id": 1964,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 983,
+        "m_ritual_training_id": 1966,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 984,
+        "m_ritual_training_id": 1968,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 985,
+        "m_ritual_training_id": 1969,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 986,
+        "m_ritual_training_id": 1972,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 987,
+        "m_ritual_training_id": 1974,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 988,
+        "m_ritual_training_id": 1976,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 989,
+        "m_ritual_training_id": 1978,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 990,
+        "m_ritual_training_id": 1979,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 991,
+        "m_ritual_training_id": 1982,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 992,
+        "m_ritual_training_id": 1984,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 993,
+        "m_ritual_training_id": 1986,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 994,
+        "m_ritual_training_id": 1988,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 995,
+        "m_ritual_training_id": 1989,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 996,
+        "m_ritual_training_id": 1992,
+        "m_item_id": 3103,
+        "item_quantity": 5
+    },
+    {
+        "id": 997,
+        "m_ritual_training_id": 1994,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 998,
+        "m_ritual_training_id": 1996,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 999,
+        "m_ritual_training_id": 1998,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1000,
+        "m_ritual_training_id": 1999,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1001,
+        "m_ritual_training_id": 2002,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 1002,
+        "m_ritual_training_id": 2004,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1003,
+        "m_ritual_training_id": 2006,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1004,
+        "m_ritual_training_id": 2008,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1005,
+        "m_ritual_training_id": 2009,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1006,
+        "m_ritual_training_id": 2012,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 1007,
+        "m_ritual_training_id": 2014,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1008,
+        "m_ritual_training_id": 2016,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1009,
+        "m_ritual_training_id": 2018,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1010,
+        "m_ritual_training_id": 2019,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1011,
+        "m_ritual_training_id": 2022,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 1012,
+        "m_ritual_training_id": 2024,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1013,
+        "m_ritual_training_id": 2026,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1014,
+        "m_ritual_training_id": 2028,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1015,
+        "m_ritual_training_id": 2029,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1016,
+        "m_ritual_training_id": 2032,
+        "m_item_id": 3105,
+        "item_quantity": 5
+    },
+    {
+        "id": 1017,
+        "m_ritual_training_id": 2034,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1018,
+        "m_ritual_training_id": 2036,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1019,
+        "m_ritual_training_id": 2038,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1020,
+        "m_ritual_training_id": 2039,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1021,
+        "m_ritual_training_id": 2042,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1022,
+        "m_ritual_training_id": 2044,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1023,
+        "m_ritual_training_id": 2046,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1024,
+        "m_ritual_training_id": 2048,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1025,
+        "m_ritual_training_id": 2049,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1026,
+        "m_ritual_training_id": 2052,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1027,
+        "m_ritual_training_id": 2054,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1028,
+        "m_ritual_training_id": 2056,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1029,
+        "m_ritual_training_id": 2058,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1030,
+        "m_ritual_training_id": 2059,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1031,
+        "m_ritual_training_id": 2062,
+        "m_item_id": 3106,
+        "item_quantity": 5
+    },
+    {
+        "id": 1032,
+        "m_ritual_training_id": 2064,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1033,
+        "m_ritual_training_id": 2066,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1034,
+        "m_ritual_training_id": 2068,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1035,
+        "m_ritual_training_id": 2069,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1036,
+        "m_ritual_training_id": 2072,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1037,
+        "m_ritual_training_id": 2074,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1038,
+        "m_ritual_training_id": 2076,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1039,
+        "m_ritual_training_id": 2078,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1040,
+        "m_ritual_training_id": 2079,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1041,
+        "m_ritual_training_id": 2082,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1042,
+        "m_ritual_training_id": 2084,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1043,
+        "m_ritual_training_id": 2086,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1044,
+        "m_ritual_training_id": 2088,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1045,
+        "m_ritual_training_id": 2089,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1046,
+        "m_ritual_training_id": 2092,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1047,
+        "m_ritual_training_id": 2094,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1048,
+        "m_ritual_training_id": 2096,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1049,
+        "m_ritual_training_id": 2098,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1050,
+        "m_ritual_training_id": 2099,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1051,
+        "m_ritual_training_id": 2102,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1052,
+        "m_ritual_training_id": 2104,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1053,
+        "m_ritual_training_id": 2106,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1054,
+        "m_ritual_training_id": 2108,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1055,
+        "m_ritual_training_id": 2109,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1056,
+        "m_ritual_training_id": 2112,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1057,
+        "m_ritual_training_id": 2114,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1058,
+        "m_ritual_training_id": 2116,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1059,
+        "m_ritual_training_id": 2118,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1060,
+        "m_ritual_training_id": 2119,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1061,
+        "m_ritual_training_id": 2122,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1062,
+        "m_ritual_training_id": 2124,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1063,
+        "m_ritual_training_id": 2126,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1064,
+        "m_ritual_training_id": 2128,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1065,
+        "m_ritual_training_id": 2129,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1066,
+        "m_ritual_training_id": 2132,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1067,
+        "m_ritual_training_id": 2134,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1068,
+        "m_ritual_training_id": 2136,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1069,
+        "m_ritual_training_id": 2138,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1070,
+        "m_ritual_training_id": 2139,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1071,
+        "m_ritual_training_id": 2142,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1072,
+        "m_ritual_training_id": 2144,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1073,
+        "m_ritual_training_id": 2146,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1074,
+        "m_ritual_training_id": 2148,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1075,
+        "m_ritual_training_id": 2149,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1076,
+        "m_ritual_training_id": 2152,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1077,
+        "m_ritual_training_id": 2154,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1078,
+        "m_ritual_training_id": 2156,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1079,
+        "m_ritual_training_id": 2158,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1080,
+        "m_ritual_training_id": 2159,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1081,
+        "m_ritual_training_id": 2162,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1082,
+        "m_ritual_training_id": 2164,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1083,
+        "m_ritual_training_id": 2166,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1084,
+        "m_ritual_training_id": 2168,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1085,
+        "m_ritual_training_id": 2169,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1086,
+        "m_ritual_training_id": 2172,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1087,
+        "m_ritual_training_id": 2174,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1088,
+        "m_ritual_training_id": 2176,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1089,
+        "m_ritual_training_id": 2178,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1090,
+        "m_ritual_training_id": 2179,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1091,
+        "m_ritual_training_id": 2182,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1092,
+        "m_ritual_training_id": 2184,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1093,
+        "m_ritual_training_id": 2186,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1094,
+        "m_ritual_training_id": 2188,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1095,
+        "m_ritual_training_id": 2189,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1096,
+        "m_ritual_training_id": 2192,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1097,
+        "m_ritual_training_id": 2194,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1098,
+        "m_ritual_training_id": 2196,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1099,
+        "m_ritual_training_id": 2198,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1100,
+        "m_ritual_training_id": 2199,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1101,
+        "m_ritual_training_id": 2202,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1102,
+        "m_ritual_training_id": 2204,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1103,
+        "m_ritual_training_id": 2206,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1104,
+        "m_ritual_training_id": 2208,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1105,
+        "m_ritual_training_id": 2209,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1106,
+        "m_ritual_training_id": 2212,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1107,
+        "m_ritual_training_id": 2214,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1108,
+        "m_ritual_training_id": 2216,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1109,
+        "m_ritual_training_id": 2218,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1110,
+        "m_ritual_training_id": 2219,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1111,
+        "m_ritual_training_id": 2222,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1112,
+        "m_ritual_training_id": 2224,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1113,
+        "m_ritual_training_id": 2226,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1114,
+        "m_ritual_training_id": 2228,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1115,
+        "m_ritual_training_id": 2229,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1116,
+        "m_ritual_training_id": 2232,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1117,
+        "m_ritual_training_id": 2234,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1118,
+        "m_ritual_training_id": 2236,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1119,
+        "m_ritual_training_id": 2238,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1120,
+        "m_ritual_training_id": 2239,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1121,
+        "m_ritual_training_id": 2242,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1122,
+        "m_ritual_training_id": 2244,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1123,
+        "m_ritual_training_id": 2246,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1124,
+        "m_ritual_training_id": 2248,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1125,
+        "m_ritual_training_id": 2249,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1126,
+        "m_ritual_training_id": 2252,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1127,
+        "m_ritual_training_id": 2254,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1128,
+        "m_ritual_training_id": 2256,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1129,
+        "m_ritual_training_id": 2258,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1130,
+        "m_ritual_training_id": 2259,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1131,
+        "m_ritual_training_id": 2262,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1132,
+        "m_ritual_training_id": 2264,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1133,
+        "m_ritual_training_id": 2266,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1134,
+        "m_ritual_training_id": 2268,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1135,
+        "m_ritual_training_id": 2269,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1136,
+        "m_ritual_training_id": 2272,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1137,
+        "m_ritual_training_id": 2274,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1138,
+        "m_ritual_training_id": 2276,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1139,
+        "m_ritual_training_id": 2278,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1140,
+        "m_ritual_training_id": 2279,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1141,
+        "m_ritual_training_id": 2282,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1142,
+        "m_ritual_training_id": 2284,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1143,
+        "m_ritual_training_id": 2286,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1144,
+        "m_ritual_training_id": 2288,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1145,
+        "m_ritual_training_id": 2289,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1146,
+        "m_ritual_training_id": 2292,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1147,
+        "m_ritual_training_id": 2294,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1148,
+        "m_ritual_training_id": 2296,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1149,
+        "m_ritual_training_id": 2298,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1150,
+        "m_ritual_training_id": 2299,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1151,
+        "m_ritual_training_id": 2302,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1152,
+        "m_ritual_training_id": 2304,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1153,
+        "m_ritual_training_id": 2306,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1154,
+        "m_ritual_training_id": 2308,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1155,
+        "m_ritual_training_id": 2309,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1156,
+        "m_ritual_training_id": 2312,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1157,
+        "m_ritual_training_id": 2314,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1158,
+        "m_ritual_training_id": 2316,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1159,
+        "m_ritual_training_id": 2318,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1160,
+        "m_ritual_training_id": 2319,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1161,
+        "m_ritual_training_id": 2322,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1162,
+        "m_ritual_training_id": 2324,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1163,
+        "m_ritual_training_id": 2326,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1164,
+        "m_ritual_training_id": 2328,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1165,
+        "m_ritual_training_id": 2329,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1166,
+        "m_ritual_training_id": 2332,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1167,
+        "m_ritual_training_id": 2334,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1168,
+        "m_ritual_training_id": 2336,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1169,
+        "m_ritual_training_id": 2338,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1170,
+        "m_ritual_training_id": 2339,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1171,
+        "m_ritual_training_id": 2342,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1172,
+        "m_ritual_training_id": 2344,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1173,
+        "m_ritual_training_id": 2346,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1174,
+        "m_ritual_training_id": 2348,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1175,
+        "m_ritual_training_id": 2349,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1176,
+        "m_ritual_training_id": 2352,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1177,
+        "m_ritual_training_id": 2354,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1178,
+        "m_ritual_training_id": 2356,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1179,
+        "m_ritual_training_id": 2358,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1180,
+        "m_ritual_training_id": 2359,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1181,
+        "m_ritual_training_id": 2362,
+        "m_item_id": 3101,
+        "item_quantity": 1
+    },
+    {
+        "id": 1182,
+        "m_ritual_training_id": 2364,
+        "m_item_id": 3101,
+        "item_quantity": 3
+    },
+    {
+        "id": 1183,
+        "m_ritual_training_id": 2366,
+        "m_item_id": 3101,
+        "item_quantity": 5
+    },
+    {
+        "id": 1184,
+        "m_ritual_training_id": 2368,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1185,
+        "m_ritual_training_id": 2369,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1186,
+        "m_ritual_training_id": 2372,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1187,
+        "m_ritual_training_id": 2374,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1188,
+        "m_ritual_training_id": 2376,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1189,
+        "m_ritual_training_id": 2378,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1190,
+        "m_ritual_training_id": 2379,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1191,
+        "m_ritual_training_id": 2382,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1192,
+        "m_ritual_training_id": 2384,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1193,
+        "m_ritual_training_id": 2386,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1194,
+        "m_ritual_training_id": 2388,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1195,
+        "m_ritual_training_id": 2389,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1196,
+        "m_ritual_training_id": 2392,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1197,
+        "m_ritual_training_id": 2394,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1198,
+        "m_ritual_training_id": 2396,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1199,
+        "m_ritual_training_id": 2398,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1200,
+        "m_ritual_training_id": 2399,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1201,
+        "m_ritual_training_id": 2402,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1202,
+        "m_ritual_training_id": 2404,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1203,
+        "m_ritual_training_id": 2406,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1204,
+        "m_ritual_training_id": 2408,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1205,
+        "m_ritual_training_id": 2409,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1206,
+        "m_ritual_training_id": 2412,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1207,
+        "m_ritual_training_id": 2414,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1208,
+        "m_ritual_training_id": 2416,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1209,
+        "m_ritual_training_id": 2418,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1210,
+        "m_ritual_training_id": 2419,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1211,
+        "m_ritual_training_id": 2422,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1212,
+        "m_ritual_training_id": 2424,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1213,
+        "m_ritual_training_id": 2426,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1214,
+        "m_ritual_training_id": 2428,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1215,
+        "m_ritual_training_id": 2429,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1216,
+        "m_ritual_training_id": 2432,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1217,
+        "m_ritual_training_id": 2434,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1218,
+        "m_ritual_training_id": 2436,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1219,
+        "m_ritual_training_id": 2438,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1220,
+        "m_ritual_training_id": 2439,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1221,
+        "m_ritual_training_id": 2442,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1222,
+        "m_ritual_training_id": 2444,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1223,
+        "m_ritual_training_id": 2446,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1224,
+        "m_ritual_training_id": 2448,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1225,
+        "m_ritual_training_id": 2449,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1226,
+        "m_ritual_training_id": 2452,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1227,
+        "m_ritual_training_id": 2454,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1228,
+        "m_ritual_training_id": 2456,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1229,
+        "m_ritual_training_id": 2458,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1230,
+        "m_ritual_training_id": 2459,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1231,
+        "m_ritual_training_id": 2462,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1232,
+        "m_ritual_training_id": 2464,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1233,
+        "m_ritual_training_id": 2466,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1234,
+        "m_ritual_training_id": 2468,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1235,
+        "m_ritual_training_id": 2469,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1236,
+        "m_ritual_training_id": 2472,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1237,
+        "m_ritual_training_id": 2474,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1238,
+        "m_ritual_training_id": 2476,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1239,
+        "m_ritual_training_id": 2478,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1240,
+        "m_ritual_training_id": 2479,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1241,
+        "m_ritual_training_id": 2482,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1242,
+        "m_ritual_training_id": 2484,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1243,
+        "m_ritual_training_id": 2486,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1244,
+        "m_ritual_training_id": 2488,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1245,
+        "m_ritual_training_id": 2489,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1246,
+        "m_ritual_training_id": 2492,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1247,
+        "m_ritual_training_id": 2494,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1248,
+        "m_ritual_training_id": 2496,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1249,
+        "m_ritual_training_id": 2498,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1250,
+        "m_ritual_training_id": 2499,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1251,
+        "m_ritual_training_id": 2502,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1252,
+        "m_ritual_training_id": 2504,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1253,
+        "m_ritual_training_id": 2506,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1254,
+        "m_ritual_training_id": 2508,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1255,
+        "m_ritual_training_id": 2509,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1256,
+        "m_ritual_training_id": 2512,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1257,
+        "m_ritual_training_id": 2514,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1258,
+        "m_ritual_training_id": 2516,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1259,
+        "m_ritual_training_id": 2518,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1260,
+        "m_ritual_training_id": 2519,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1261,
+        "m_ritual_training_id": 2522,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1262,
+        "m_ritual_training_id": 2524,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1263,
+        "m_ritual_training_id": 2526,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1264,
+        "m_ritual_training_id": 2528,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1265,
+        "m_ritual_training_id": 2529,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1266,
+        "m_ritual_training_id": 2532,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1267,
+        "m_ritual_training_id": 2534,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1268,
+        "m_ritual_training_id": 2536,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1269,
+        "m_ritual_training_id": 2538,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1270,
+        "m_ritual_training_id": 2539,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1271,
+        "m_ritual_training_id": 2542,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1272,
+        "m_ritual_training_id": 2544,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1273,
+        "m_ritual_training_id": 2546,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1274,
+        "m_ritual_training_id": 2548,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1275,
+        "m_ritual_training_id": 2549,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1276,
+        "m_ritual_training_id": 2552,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1277,
+        "m_ritual_training_id": 2554,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1278,
+        "m_ritual_training_id": 2556,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1279,
+        "m_ritual_training_id": 2558,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1280,
+        "m_ritual_training_id": 2559,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1281,
+        "m_ritual_training_id": 2562,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1282,
+        "m_ritual_training_id": 2564,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1283,
+        "m_ritual_training_id": 2566,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1284,
+        "m_ritual_training_id": 2568,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1285,
+        "m_ritual_training_id": 2569,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1286,
+        "m_ritual_training_id": 2572,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1287,
+        "m_ritual_training_id": 2574,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1288,
+        "m_ritual_training_id": 2576,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1289,
+        "m_ritual_training_id": 2578,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1290,
+        "m_ritual_training_id": 2579,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1291,
+        "m_ritual_training_id": 2582,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1292,
+        "m_ritual_training_id": 2584,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1293,
+        "m_ritual_training_id": 2586,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1294,
+        "m_ritual_training_id": 2588,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1295,
+        "m_ritual_training_id": 2589,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1296,
+        "m_ritual_training_id": 2592,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1297,
+        "m_ritual_training_id": 2594,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1298,
+        "m_ritual_training_id": 2596,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1299,
+        "m_ritual_training_id": 2598,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1300,
+        "m_ritual_training_id": 2599,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1301,
+        "m_ritual_training_id": 2602,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1302,
+        "m_ritual_training_id": 2604,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1303,
+        "m_ritual_training_id": 2606,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1304,
+        "m_ritual_training_id": 2608,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1305,
+        "m_ritual_training_id": 2609,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1306,
+        "m_ritual_training_id": 2612,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1307,
+        "m_ritual_training_id": 2614,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1308,
+        "m_ritual_training_id": 2616,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1309,
+        "m_ritual_training_id": 2618,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1310,
+        "m_ritual_training_id": 2619,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1311,
+        "m_ritual_training_id": 2622,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1312,
+        "m_ritual_training_id": 2624,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1313,
+        "m_ritual_training_id": 2626,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1314,
+        "m_ritual_training_id": 2628,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1315,
+        "m_ritual_training_id": 2629,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1316,
+        "m_ritual_training_id": 2632,
+        "m_item_id": 3105,
+        "item_quantity": 7
+    },
+    {
+        "id": 1317,
+        "m_ritual_training_id": 2634,
+        "m_item_id": 3105,
+        "item_quantity": 9
+    },
+    {
+        "id": 1318,
+        "m_ritual_training_id": 2636,
+        "m_item_id": 3105,
+        "item_quantity": 11
+    },
+    {
+        "id": 1319,
+        "m_ritual_training_id": 2638,
+        "m_item_id": 3105,
+        "item_quantity": 13
+    },
+    {
+        "id": 1320,
+        "m_ritual_training_id": 2639,
+        "m_item_id": 3105,
+        "item_quantity": 15
+    },
+    {
+        "id": 1321,
+        "m_ritual_training_id": 2642,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1322,
+        "m_ritual_training_id": 2644,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1323,
+        "m_ritual_training_id": 2646,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1324,
+        "m_ritual_training_id": 2648,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1325,
+        "m_ritual_training_id": 2649,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1326,
+        "m_ritual_training_id": 2652,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1327,
+        "m_ritual_training_id": 2654,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1328,
+        "m_ritual_training_id": 2656,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1329,
+        "m_ritual_training_id": 2658,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1330,
+        "m_ritual_training_id": 2659,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1331,
+        "m_ritual_training_id": 2662,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1332,
+        "m_ritual_training_id": 2664,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1333,
+        "m_ritual_training_id": 2666,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1334,
+        "m_ritual_training_id": 2668,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1335,
+        "m_ritual_training_id": 2669,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1336,
+        "m_ritual_training_id": 2672,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1337,
+        "m_ritual_training_id": 2674,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1338,
+        "m_ritual_training_id": 2676,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1339,
+        "m_ritual_training_id": 2678,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1340,
+        "m_ritual_training_id": 2679,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1341,
+        "m_ritual_training_id": 2682,
+        "m_item_id": 3106,
+        "item_quantity": 7
+    },
+    {
+        "id": 1342,
+        "m_ritual_training_id": 2684,
+        "m_item_id": 3106,
+        "item_quantity": 9
+    },
+    {
+        "id": 1343,
+        "m_ritual_training_id": 2686,
+        "m_item_id": 3106,
+        "item_quantity": 11
+    },
+    {
+        "id": 1344,
+        "m_ritual_training_id": 2688,
+        "m_item_id": 3106,
+        "item_quantity": 13
+    },
+    {
+        "id": 1345,
+        "m_ritual_training_id": 2689,
+        "m_item_id": 3106,
+        "item_quantity": 15
+    },
+    {
+        "id": 1346,
+        "m_ritual_training_id": 2692,
+        "m_item_id": 3103,
+        "item_quantity": 7
+    },
+    {
+        "id": 1347,
+        "m_ritual_training_id": 2694,
+        "m_item_id": 3103,
+        "item_quantity": 9
+    },
+    {
+        "id": 1348,
+        "m_ritual_training_id": 2696,
+        "m_item_id": 3103,
+        "item_quantity": 11
+    },
+    {
+        "id": 1349,
+        "m_ritual_training_id": 2698,
+        "m_item_id": 3103,
+        "item_quantity": 13
+    },
+    {
+        "id": 1350,
+        "m_ritual_training_id": 2699,
+        "m_item_id": 3103,
+        "item_quantity": 15
+    },
+    {
+        "id": 1351,
+        "m_ritual_training_id": 2702,
+        "m_item_id": 3102,
+        "item_quantity": 7
+    },
+    {
+        "id": 1352,
+        "m_ritual_training_id": 2704,
+        "m_item_id": 3102,
+        "item_quantity": 9
+    },
+    {
+        "id": 1353,
+        "m_ritual_training_id": 2706,
+        "m_item_id": 3102,
+        "item_quantity": 11
+    },
+    {
+        "id": 1354,
+        "m_ritual_training_id": 2708,
+        "m_item_id": 3102,
+        "item_quantity": 13
+    },
+    {
+        "id": 1355,
+        "m_ritual_training_id": 2709,
+        "m_item_id": 3102,
+        "item_quantity": 15
+    },
+    {
+        "id": 1356,
+        "m_ritual_training_id": 2712,
+        "m_item_id": 3104,
+        "item_quantity": 7
+    },
+    {
+        "id": 1357,
+        "m_ritual_training_id": 2714,
+        "m_item_id": 3104,
+        "item_quantity": 9
+    },
+    {
+        "id": 1358,
+        "m_ritual_training_id": 2716,
+        "m_item_id": 3104,
+        "item_quantity": 11
+    },
+    {
+        "id": 1359,
+        "m_ritual_training_id": 2718,
+        "m_item_id": 3104,
+        "item_quantity": 13
+    },
+    {
+        "id": 1360,
+        "m_ritual_training_id": 2719,
+        "m_item_id": 3104,
+        "item_quantity": 15
+    },
+    {
+        "id": 1361,
+        "m_ritual_training_id": 2722,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1362,
+        "m_ritual_training_id": 2724,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1363,
+        "m_ritual_training_id": 2726,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1364,
+        "m_ritual_training_id": 2728,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1365,
+        "m_ritual_training_id": 2729,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    },
+    {
+        "id": 1366,
+        "m_ritual_training_id": 2732,
+        "m_item_id": 3101,
+        "item_quantity": 7
+    },
+    {
+        "id": 1367,
+        "m_ritual_training_id": 2734,
+        "m_item_id": 3101,
+        "item_quantity": 9
+    },
+    {
+        "id": 1368,
+        "m_ritual_training_id": 2736,
+        "m_item_id": 3101,
+        "item_quantity": 11
+    },
+    {
+        "id": 1369,
+        "m_ritual_training_id": 2738,
+        "m_item_id": 3101,
+        "item_quantity": 13
+    },
+    {
+        "id": 1370,
+        "m_ritual_training_id": 2739,
+        "m_item_id": 3101,
+        "item_quantity": 15
+    }
+]

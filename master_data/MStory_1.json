@@ -705,7 +705,7 @@
     },
     {
         "id": 923,
-        "title": "Tenacious Prinny "
+        "title": "Tenacious Prinny"
     },
     {
         "id": 924,
@@ -864,6 +864,490 @@
         "title": "Final Credits"
     },
     {
+        "id": 1111,
+        "title": "Protagonist Showdown? On Stage!"
+    },
+    {
+        "id": 1112,
+        "title": "Too Terrible for Words"
+    },
+    {
+        "id": 1113,
+        "title": "No Mercy"
+    },
+    {
+        "id": 1114,
+        "title": "It’s from our Lord, either way"
+    },
+    {
+        "id": 1121,
+        "title": "Get out of my way! On Stage!"
+    },
+    {
+        "id": 1122,
+        "title": "Unbreakable! On Stage!"
+    },
+    {
+        "id": 1123,
+        "title": "Veto, I Veto. On Stage!"
+    },
+    {
+        "id": 1124,
+        "title": "Reason for Laharl’s Rage"
+    },
+    {
+        "id": 1125,
+        "title": "Battle, Fair and Square! On Stage!"
+    },
+    {
+        "id": 1131,
+        "title": "This is unforgivable! On Stage!"
+    },
+    {
+        "id": 1132,
+        "title": "Reason for Adell’s Rage"
+    },
+    {
+        "id": 1133,
+        "title": "Shameless! A Transformation of Envy! On Stage!"
+    },
+    {
+        "id": 1134,
+        "title": "I'm sure of it! On Stage!"
+    },
+    {
+        "id": 1135,
+        "title": "Smoothing Things Over"
+    },
+    {
+        "id": 1141,
+        "title": "A Flash of Light"
+    },
+    {
+        "id": 1142,
+        "title": "Call the Police, Now!"
+    },
+    {
+        "id": 1143,
+        "title": "Before that..."
+    },
+    {
+        "id": 1144,
+        "title": "Reason for Mao’s Rage"
+    },
+    {
+        "id": 1145,
+        "title": "We’re Basically Chasing Shadows"
+    },
+    {
+        "id": 1151,
+        "title": "This Might Take a While...! On Stage!"
+    },
+    {
+        "id": 1152,
+        "title": "To Reclaim my Honor"
+    },
+    {
+        "id": 1153,
+        "title": "Reason for the Conflict"
+    },
+    {
+        "id": 1154,
+        "title": "Haven’t you Already Failed? On Stage!"
+    },
+    {
+        "id": 1155,
+        "title": "Infiltrate and Search"
+    },
+    {
+        "id": 1211,
+        "title": "The dazzling lady Overlord takes the stage! On Stage!"
+    },
+    {
+        "id": 1212,
+        "title": "What is all this Noise?"
+    },
+    {
+        "id": 1213,
+        "title": "What are you doing? On Stage!"
+    },
+    {
+        "id": 1214,
+        "title": "Getting into Detail"
+    },
+    {
+        "id": 1215,
+        "title": "A dangerous scent..."
+    },
+    {
+        "id": 1221,
+        "title": "You're...!!! On Stage!"
+    },
+    {
+        "id": 1222,
+        "title": "What is this Feeling...? On Stage!"
+    },
+    {
+        "id": 1223,
+        "title": "Plenty to Complain About"
+    },
+    {
+        "id": 1224,
+        "title": "Chance to Become a Father"
+    },
+    {
+        "id": 1225,
+        "title": "Proof of the Prodigal Son’s Return"
+    },
+    {
+        "id": 1231,
+        "title": "My true name is...! On Stage!"
+    },
+    {
+        "id": 1232,
+        "title": "Finding Adell"
+    },
+    {
+        "id": 1233,
+        "title": "Overcoming my Shame"
+    },
+    {
+        "id": 1234,
+        "title": "Suspicious Enlightenment Classroom"
+    },
+    {
+        "id": 1235,
+        "title": "Got ya!! On Stage!"
+    },
+    {
+        "id": 1236,
+        "title": "If there’s Love in your Heart"
+    },
+    {
+        "id": 1237,
+        "title": "Make up, now! On Stage!"
+    },
+    {
+        "id": 1241,
+        "title": "Problem Solved"
+    },
+    {
+        "id": 1242,
+        "title": "Rozalin's Father"
+    },
+    {
+        "id": 1243,
+        "title": "Unexplainable!! On Stage!"
+    },
+    {
+        "id": 1251,
+        "title": "Rozalin's Haste"
+    },
+    {
+        "id": 1252,
+        "title": "This is how you Ask for Help? On Stage!"
+    },
+    {
+        "id": 1253,
+        "title": "Die! On Stage!"
+    },
+    {
+        "id": 1254,
+        "title": "Please Take Responsibility"
+    },
+    {
+        "id": 1255,
+        "title": "Boss’s Orders"
+    },
+    {
+        "id": 1311,
+        "title": "Where Forth From Now? On Stage!"
+    },
+    {
+        "id": 1312,
+        "title": "Without a Trace"
+    },
+    {
+        "id": 1313,
+        "title": "Netherworld Games"
+    },
+    {
+        "id": 1314,
+        "title": "The Reason I’m Angry..."
+    },
+    {
+        "id": 1321,
+        "title": "“Game Start”"
+    },
+    {
+        "id": 1322,
+        "title": "Master of Gaming Knowledge"
+    },
+    {
+        "id": 1323,
+        "title": "Level Farming"
+    },
+    {
+        "id": 1324,
+        "title": "Level Up"
+    },
+    {
+        "id": 1325,
+        "title": "Just a Warm Up"
+    },
+    {
+        "id": 1331,
+        "title": "Long Time No See"
+    },
+    {
+        "id": 1332,
+        "title": "Finding the Joy"
+    },
+    {
+        "id": 1333,
+        "title": "Aiming High? On Stage!"
+    },
+    {
+        "id": 1334,
+        "title": "It’s what’s Inside that Counts"
+    },
+    {
+        "id": 1335,
+        "title": "Are you the Final Boss!? On Stage!"
+    },
+    {
+        "id": 1341,
+        "title": "Way of The Final Boss"
+    },
+    {
+        "id": 1342,
+        "title": "It’s Over, death"
+    },
+    {
+        "id": 1343,
+        "title": "I Need a Secretary"
+    },
+    {
+        "id": 1344,
+        "title": "And so can I"
+    },
+    {
+        "id": 1345,
+        "title": "Pale with Fright"
+    },
+    {
+        "id": 1346,
+        "title": "How was the secretary's job? On Stage!"
+    },
+    {
+        "id": 1351,
+        "title": "Those Two..."
+    },
+    {
+        "id": 1352,
+        "title": "Archive Revenge"
+    },
+    {
+        "id": 1353,
+        "title": "Sleepless Nights"
+    },
+    {
+        "id": 1354,
+        "title": "Tickling the Limit"
+    },
+    {
+        "id": 1355,
+        "title": "It’s them this Time?"
+    },
+    {
+        "id": 1356,
+        "title": "Time to report"
+    },
+    {
+        "id": 1411,
+        "title": "Nostalgic Smell of the Battlefield"
+    },
+    {
+        "id": 1412,
+        "title": "Cuisine War"
+    },
+    {
+        "id": 1413,
+        "title": "King of Rice Balls - Torachiyo"
+    },
+    {
+        "id": 1414,
+        "title": "Settle this with Cooking"
+    },
+    {
+        "id": 1415,
+        "title": "Cooking comes from the Heart! On Stage!"
+    },
+    {
+        "id": 1421,
+        "title": "At a Loss"
+    },
+    {
+        "id": 1422,
+        "title": "A Bright Individual"
+    },
+    {
+        "id": 1423,
+        "title": "Ultimate Ingredients"
+    },
+    {
+        "id": 1424,
+        "title": "A Bond Between Hearts"
+    },
+    {
+        "id": 1431,
+        "title": "Ingredients are your Opponent"
+    },
+    {
+        "id": 1432,
+        "title": "This is real cooking? On Stage!"
+    },
+    {
+        "id": 1433,
+        "title": "Performance Enhancers? On Stage!"
+    },
+    {
+        "id": 1434,
+        "title": "I Forgot! On Stage!"
+    },
+    {
+        "id": 1441,
+        "title": "Rice Ball Samurai"
+    },
+    {
+        "id": 1442,
+        "title": "You Know Each Other? On Stage!"
+    },
+    {
+        "id": 1443,
+        "title": "A Biiiiiig Problem!! On Stage!"
+    },
+    {
+        "id": 1444,
+        "title": "I Want to Witness this to the End"
+    },
+    {
+        "id": 1451,
+        "title": "Two Huge Rocks"
+    },
+    {
+        "id": 1452,
+        "title": "You’re All Out! On Stage!"
+    },
+    {
+        "id": 1453,
+        "title": "Results are Out"
+    },
+    {
+        "id": 1454,
+        "title": "Taro and Hanako"
+    },
+    {
+        "id": 1455,
+        "title": "Being a Girl in Love is Hard"
+    },
+    {
+        "id": 1511,
+        "title": "“Love Laboratory”"
+    },
+    {
+        "id": 1512,
+        "title": "Welcome to the Love Laboratory"
+    },
+    {
+        "id": 1513,
+        "title": "Start with Observation"
+    },
+    {
+        "id": 1514,
+        "title": "Hold Fire for Now"
+    },
+    {
+        "id": 1515,
+        "title": "Are you Prepared for this? On Stage!"
+    },
+    {
+        "id": 1521,
+        "title": "First is the Campus Theme"
+    },
+    {
+        "id": 1522,
+        "title": "Next! On Stage!"
+    },
+    {
+        "id": 1523,
+        "title": "What’s with this Setting?! On Stage!"
+    },
+    {
+        "id": 1524,
+        "title": "Don’t Argue!!! On Stage!"
+    },
+    {
+        "id": 1525,
+        "title": "True - Carnage"
+    },
+    {
+        "id": 1531,
+        "title": "Love Showdown"
+    },
+    {
+        "id": 1532,
+        "title": "Love Power"
+    },
+    {
+        "id": 1533,
+        "title": "Love Charm Show"
+    },
+    {
+        "id": 1534,
+        "title": "Who Will it Be?! On Stage!"
+    },
+    {
+        "id": 1535,
+        "title": "Problem Solved"
+    },
+    {
+        "id": 1541,
+        "title": "Explaining the “Power of Love”"
+    },
+    {
+        "id": 1542,
+        "title": "Let me Explain Again! On Stage!"
+    },
+    {
+        "id": 1543,
+        "title": "Evil Quotient 1.8 Million and the Power of Love"
+    },
+    {
+        "id": 1544,
+        "title": "What this time?! On Stage!"
+    },
+    {
+        "id": 1551,
+        "title": "My Super Overlord Love Cell"
+    },
+    {
+        "id": 1552,
+        "title": "A New Body"
+    },
+    {
+        "id": 1553,
+        "title": "Love Power Top 3"
+    },
+    {
+        "id": 1554,
+        "title": "Last of my Power"
+    },
+    {
+        "id": 1555,
+        "title": "A World for Two"
+    },
+    {
         "id": 100211,
         "title": "The Cursed Majin's True Self"
     },
@@ -918,6 +1402,70 @@
     {
         "id": 103413,
         "title": "Smile of the Saintess"
+    },
+    {
+        "id": 104511,
+        "title": "I’m Hungry"
+    },
+    {
+        "id": 104512,
+        "title": "Filling my Belly"
+    },
+    {
+        "id": 104513,
+        "title": "Ultimate Awakening Cuisine"
+    },
+    {
+        "id": 105011,
+        "title": "Even your Brain is Muscle"
+    },
+    {
+        "id": 105012,
+        "title": "Xeno Capture Plot"
+    },
+    {
+        "id": 106011,
+        "title": "Search Target Located"
+    },
+    {
+        "id": 106012,
+        "title": "How to Get Back"
+    },
+    {
+        "id": 106911,
+        "title": "A New Main Character Appears?! On Stage!"
+    },
+    {
+        "id": 106912,
+        "title": "I'm looking forward to your support in the future! On Stage!"
+    },
+    {
+        "id": 107211,
+        "title": "Thunderlord and the Demon King’s Sister"
+    },
+    {
+        "id": 107212,
+        "title": "The Annoying Brother"
+    },
+    {
+        "id": 108111,
+        "title": "Killia is the Strongest"
+    },
+    {
+        "id": 108112,
+        "title": "Their Weak Spot? On Stage!"
+    },
+    {
+        "id": 108411,
+        "title": "Treasure Hunting Squad"
+    },
+    {
+        "id": 108412,
+        "title": "Searching for the Biggest Badass Weapon! On Stage!"
+    },
+    {
+        "id": 108413,
+        "title": "Reliable Department of Education"
     },
     {
         "id": 200111,
@@ -1070,6 +1618,66 @@
     {
         "id": 200252,
         "title": "Dream Team!"
+    },
+    {
+        "id": 200311,
+        "title": "The Release Plan is...? On Stage!"
+    },
+    {
+        "id": 200312,
+        "title": "If I Had to Say"
+    },
+    {
+        "id": 200313,
+        "title": "Almaz's Beliefs"
+    },
+    {
+        "id": 200321,
+        "title": "Sincerity Bank"
+    },
+    {
+        "id": 200322,
+        "title": "Kurtis' Determination"
+    },
+    {
+        "id": 200331,
+        "title": "Are you ready? On Stage!"
+    },
+    {
+        "id": 200332,
+        "title": "Unprecedented Despair"
+    },
+    {
+        "id": 200333,
+        "title": "Our Duty"
+    },
+    {
+        "id": 200334,
+        "title": "Powers of Persuasion! On Stage!"
+    },
+    {
+        "id": 200335,
+        "title": "Overload"
+    },
+    {
+        "id": 200336,
+        "title": "Time is Running Out"
+    },
+    {
+        "id": 200341,
+        "title": "The Boss’s True Face! On Stage!"
+    },
+    {
+        "id": 200342,
+        "title": "That Guy Showed Up! On Stage!"
+    },
+    {
+        "id": 200351,
+        "title": "The Power of Baal! On Stage!"
+    },
+    {
+        "id": 200352,
+        "title": "The Young Heroes"
     },
     {
         "id": 901011,
@@ -1861,7 +2469,7 @@
     },
     {
         "id": 906132,
-        "title": "Killia's Destructive Impulses "
+        "title": "Killia's Destructive Impulses"
     },
     {
         "id": 906133,
@@ -2028,6 +2636,298 @@
         "title": "The Key"
     },
     {
+        "id": 9040101,
+        "title": "The “Darkness” of Modern Society"
+    },
+    {
+        "id": 9040102,
+        "title": "Netherworld Prison"
+    },
+    {
+        "id": 9040103,
+        "title": "Spirit Education"
+    },
+    {
+        "id": 9040104,
+        "title": "Prinny Instructor"
+    },
+    {
+        "id": 9040105,
+        "title": "Netherworld Politics"
+    },
+    {
+        "id": 9040106,
+        "title": "Special Ops. Unit"
+    },
+    {
+        "id": 9040107,
+        "title": "Axel’s Betrayal? On Stage!"
+    },
+    {
+        "id": 9040108,
+        "title": "Purebred of the Netherworld"
+    },
+    {
+        "id": 9040109,
+        "title": "Powerful Secret"
+    },
+    {
+        "id": 9040110,
+        "title": "Death - Emizel"
+    },
+    {
+        "id": 9040111,
+        "title": "Prinny Liberation"
+    },
+    {
+        "id": 9040201,
+        "title": "Prinny Annihilation Force"
+    },
+    {
+        "id": 9040202,
+        "title": "Girl in the Prinny Hat"
+    },
+    {
+        "id": 9040203,
+        "title": "Initial Defeat"
+    },
+    {
+        "id": 9040204,
+        "title": "Girl in the Prinny Hat Again?"
+    },
+    {
+        "id": 9040205,
+        "title": "A Second Defeat"
+    },
+    {
+        "id": 9040206,
+        "title": "Girl in the Prinny Hat’s Notice"
+    },
+    {
+        "id": 9040207,
+        "title": "Emizel’s Attitude"
+    },
+    {
+        "id": 9040208,
+        "title": "Girl in the Prinny Hat Joins the Fight"
+    },
+    {
+        "id": 9040209,
+        "title": "A Third Defeat"
+    },
+    {
+        "id": 9040210,
+        "title": "Danger Zone"
+    },
+    {
+        "id": 9040211,
+        "title": "I Want to be President of Nether World"
+    },
+    {
+        "id": 9040212,
+        "title": "A Promise Between 2"
+    },
+    {
+        "id": 9040301,
+        "title": "Released Prisoner of Hell"
+    },
+    {
+        "id": 9040302,
+        "title": "It's Fake? Hades Chieftain"
+    },
+    {
+        "id": 9040303,
+        "title": "Death Comes Again"
+    },
+    {
+        "id": 9040304,
+        "title": "Corrupt Intentions"
+    },
+    {
+        "id": 9040305,
+        "title": "Force in the Darkness"
+    },
+    {
+        "id": 9040306,
+        "title": "“Fist of Seizing Power”"
+    },
+    {
+        "id": 9040307,
+        "title": "My Lord’s True Power"
+    },
+    {
+        "id": 9040308,
+        "title": "Monster of the Forbidden Cell"
+    },
+    {
+        "id": 9040309,
+        "title": "The True Face of the Final Boss"
+    },
+    {
+        "id": 9040310,
+        "title": "Desco's Tears"
+    },
+    {
+        "id": 9040401,
+        "title": "Netherworld News"
+    },
+    {
+        "id": 9040402,
+        "title": "Fuka’s Sister"
+    },
+    {
+        "id": 9040403,
+        "title": "Netherworld Information Bureau"
+    },
+    {
+        "id": 9040404,
+        "title": "Corrupt Reports Manipulation"
+    },
+    {
+        "id": 9040405,
+        "title": "Faithless Emizel"
+    },
+    {
+        "id": 9040406,
+        "title": "Emizel Repeats the Same Mistakes"
+    },
+    {
+        "id": 9040407,
+        "title": "Suspicious Prinny"
+    },
+    {
+        "id": 9040408,
+        "title": "Sympathizing with Emizel"
+    },
+    {
+        "id": 9040409,
+        "title": "Fuka Abandoned"
+    },
+    {
+        "id": 9040410,
+        "title": "Attack on the Information Bureau"
+    },
+    {
+        "id": 9040411,
+        "title": "Abandoned Emizel"
+    },
+    {
+        "id": 9040412,
+        "title": "Emizel Rising"
+    },
+    {
+        "id": 9040413,
+        "title": "True Face of the Suspicious Prinny"
+    },
+    {
+        "id": 9040501,
+        "title": "A Bittersweet Love Story"
+    },
+    {
+        "id": 9040502,
+        "title": "The Next Target"
+    },
+    {
+        "id": 9040503,
+        "title": "To the Mid-Levels of the Netherworld"
+    },
+    {
+        "id": 9040504,
+        "title": "The Influence of Corruption"
+    },
+    {
+        "id": 9040505,
+        "title": "Angel’s Acquaintance? On Stage!"
+    },
+    {
+        "id": 9040506,
+        "title": "That Guy Appeared Before Me"
+    },
+    {
+        "id": 9040507,
+        "title": "Love Story"
+    },
+    {
+        "id": 9040508,
+        "title": "The Weight of a Promise"
+    },
+    {
+        "id": 9040509,
+        "title": "My Lord’s Confusion"
+    },
+    {
+        "id": 9040510,
+        "title": "Justified “Imposition”? On Stage!"
+    },
+    {
+        "id": 9040511,
+        "title": "A Promise with Fenrich"
+    },
+    {
+        "id": 9040512,
+        "title": "Cont. Love Story"
+    },
+    {
+        "id": 9040513,
+        "title": "Unintentional Revenge"
+    },
+    {
+        "id": 9040514,
+        "title": "Fenrich’s Strategy"
+    },
+    {
+        "id": 9040515,
+        "title": "Cry of the Tyrant’s Spirit"
+    },
+    {
+        "id": 9040601,
+        "title": "Hades Chieftain Awakened"
+    },
+    {
+        "id": 9040602,
+        "title": "A Woman’s Intuition"
+    },
+    {
+        "id": 9040603,
+        "title": "Upper-Levels of the Netherworld"
+    },
+    {
+        "id": 9040604,
+        "title": "A New Virus"
+    },
+    {
+        "id": 9040605,
+        "title": "Dead End of the Infected"
+    },
+    {
+        "id": 9040606,
+        "title": "The Reason for Corruption"
+    },
+    {
+        "id": 9040607,
+        "title": "Influence of the A-Virus"
+    },
+    {
+        "id": 9040608,
+        "title": "Battle Report"
+    },
+    {
+        "id": 9040609,
+        "title": "Oresama of the Oresama"
+    },
+    {
+        "id": 9040610,
+        "title": "Stay Awake!! On Stage!"
+    },
+    {
+        "id": 9040611,
+        "title": "Be Dyed with My Colors! On Stage!"
+    },
+    {
+        "id": 9040612,
+        "title": "Medicine for the A-Virus"
+    },
+    {
         "id": 9060110,
         "title": "Enemies Become Friends"
     },
@@ -2192,6 +3092,46 @@
         "title": "Individual Netherworlds"
     },
     {
+        "id": 9070101,
+        "title": "Crashing the Dark Assembly"
+    },
+    {
+        "id": 9070102,
+        "title": "Zombie that Defeated the God of Destruction"
+    },
+    {
+        "id": 9070103,
+        "title": "Battling the Ultimate God of Destruction"
+    },
+    {
+        "id": 9070104,
+        "title": "Prinny’s Cry for Help"
+    },
+    {
+        "id": 9070105,
+        "title": "No Average Prinny, dood!"
+    },
+    {
+        "id": 9070106,
+        "title": "Turning Over a New Leaf"
+    },
+    {
+        "id": 9070107,
+        "title": "Please Take me as your Vassal, dood!"
+    },
+    {
+        "id": 9070108,
+        "title": "Battling the God of Destruction"
+    },
+    {
+        "id": 9070109,
+        "title": "Getting Stronger"
+    },
+    {
+        "id": 9070110,
+        "title": "Magic that can Surpass Even Death"
+    },
+    {
         "id": 100110101,
         "title": "Two Santa Clauses"
     },
@@ -2277,11 +3217,11 @@
     },
     {
         "id": 100410101,
-        "title": "A Huge Mirror Cake?"
+        "title": "The Offering is a Huge Mirror Cake?"
     },
     {
         "id": 100410102,
-        "title": "Mirror Cake Prinny"
+        "title": "Here It Comes! Mirror Cake Prinny"
     },
     {
         "id": 100410103,
@@ -2345,7 +3285,7 @@
     },
     {
         "id": 100410501,
-        "title": "The Culprit Returns..."
+        "title": "The Culprit Returns to the Scene"
     },
     {
         "id": 100410502,
@@ -2353,7 +3293,7 @@
     },
     {
         "id": 100410503,
-        "title": "Stubbornness of the Cake"
+        "title": "Stubbornness of the Mirror Cake"
     },
     {
         "id": 100410504,
@@ -2525,7 +3465,7 @@
     },
     {
         "id": 101210504,
-        "title": "The Power of the Prize"
+        "title": "The Power of the Winner's Prize"
     },
     {
         "id": 101510101,
@@ -2862,5 +3802,929 @@
     {
         "id": 103510504,
         "title": "Goodbye Short Shorts"
+    },
+    {
+        "id": 103810101,
+        "title": "The Genius Girl Appears! On Stage!"
+    },
+    {
+        "id": 103810102,
+        "title": "Heading to Game World!"
+    },
+    {
+        "id": 103810103,
+        "title": "The Apocalypse Overlord Arrives"
+    },
+    {
+        "id": 103810104,
+        "title": "The Other Asagi"
+    },
+    {
+        "id": 103810105,
+        "title": "Wrong Person"
+    },
+    {
+        "id": 103810201,
+        "title": "The Chosen One"
+    },
+    {
+        "id": 103810202,
+        "title": "Forced to Take Part"
+    },
+    {
+        "id": 103810203,
+        "title": "Asagi’s Proof"
+    },
+    {
+        "id": 103810204,
+        "title": "The Mission Begins"
+    },
+    {
+        "id": 103810301,
+        "title": "Two Asagis"
+    },
+    {
+        "id": 103810302,
+        "title": "The Real Motive"
+    },
+    {
+        "id": 103810303,
+        "title": "Don’t Want to Rely on Anyone"
+    },
+    {
+        "id": 103810304,
+        "title": "I Love Gaming"
+    },
+    {
+        "id": 103810401,
+        "title": "The Corridor of the Apocalypse"
+    },
+    {
+        "id": 103810402,
+        "title": "Overlord Asagi’s Intent"
+    },
+    {
+        "id": 103810403,
+        "title": "The Apocalypse Overlord’s Wish"
+    },
+    {
+        "id": 103810404,
+        "title": "Is this How it Ends? On Stage!"
+    },
+    {
+        "id": 103810501,
+        "title": "No Turning Back?! On Stage!"
+    },
+    {
+        "id": 103810502,
+        "title": "Unimaginable Gate"
+    },
+    {
+        "id": 103810503,
+        "title": "Our Goal is to Clear this Together"
+    },
+    {
+        "id": 103810504,
+        "title": "Stay tuned for the finished version."
+    },
+    {
+        "id": 104110101,
+        "title": "Accepting the Request"
+    },
+    {
+        "id": 104110102,
+        "title": "Lucky Seaside Resort Opening? On Stage!"
+    },
+    {
+        "id": 104110103,
+        "title": "The Pro Appears"
+    },
+    {
+        "id": 104110104,
+        "title": "Releasing Stress"
+    },
+    {
+        "id": 104110105,
+        "title": "Swimsuit Alliance"
+    },
+    {
+        "id": 104110201,
+        "title": "Reason for the Trap"
+    },
+    {
+        "id": 104110202,
+        "title": "Go, Prinny!"
+    },
+    {
+        "id": 104110203,
+        "title": "Hunter’s Perseverance"
+    },
+    {
+        "id": 104110204,
+        "title": "Getting along"
+    },
+    {
+        "id": 104110301,
+        "title": "Meaver’s Feelings"
+    },
+    {
+        "id": 104110302,
+        "title": "How to Use a Prinny"
+    },
+    {
+        "id": 104110303,
+        "title": "The Monster’s Partner"
+    },
+    {
+        "id": 104110304,
+        "title": "In Charge of Dessert"
+    },
+    {
+        "id": 104110401,
+        "title": "New Sacrifice"
+    },
+    {
+        "id": 104110402,
+        "title": "A Monster Appears?! On Stage!"
+    },
+    {
+        "id": 104110403,
+        "title": "The Monster’s Name is Desco"
+    },
+    {
+        "id": 104110404,
+        "title": "Hunter and Monster? On Stage!"
+    },
+    {
+        "id": 104110501,
+        "title": "The Ending is Always Rushed"
+    },
+    {
+        "id": 104110502,
+        "title": "Emizel’s Determination"
+    },
+    {
+        "id": 104110503,
+        "title": "Lady Etna’s Sermon"
+    },
+    {
+        "id": 104110504,
+        "title": "Request Complete"
+    },
+    {
+        "id": 104710101,
+        "title": "Summer Solstice is for Swimsuits"
+    },
+    {
+        "id": 104710102,
+        "title": "Girl Laharl’s Concerns"
+    },
+    {
+        "id": 104710103,
+        "title": "Brand New Hot Body"
+    },
+    {
+        "id": 104710104,
+        "title": "Joining the Treasure Hunt"
+    },
+    {
+        "id": 104710105,
+        "title": "Johnson’s Team? On Stage!"
+    },
+    {
+        "id": 104710201,
+        "title": "Cute Rival"
+    },
+    {
+        "id": 104710202,
+        "title": "Advancing to the Maze"
+    },
+    {
+        "id": 104710203,
+        "title": "No Rules"
+    },
+    {
+        "id": 104710204,
+        "title": "Who Will Mock their Enemies?"
+    },
+    {
+        "id": 104710301,
+        "title": "Merlin's Secret"
+    },
+    {
+        "id": 104710302,
+        "title": "Trap Lord"
+    },
+    {
+        "id": 104710303,
+        "title": "Girl Laharl’s Crisis"
+    },
+    {
+        "id": 104710304,
+        "title": "Lifeguard’s Doomsday"
+    },
+    {
+        "id": 104710401,
+        "title": "Treasure Hunting Resumes"
+    },
+    {
+        "id": 104710402,
+        "title": "Hotter and Spicier"
+    },
+    {
+        "id": 104710403,
+        "title": "Handle with Care"
+    },
+    {
+        "id": 104710404,
+        "title": "Cracking the Mechanism? On Stage!"
+    },
+    {
+        "id": 104710501,
+        "title": "Girl Laharl’s Rage"
+    },
+    {
+        "id": 104710502,
+        "title": "Reunion with the Exterminators"
+    },
+    {
+        "id": 104710503,
+        "title": "Destroying the Evidence"
+    },
+    {
+        "id": 104710504,
+        "title": "Bathing in the Sea"
+    },
+    {
+        "id": 105410101,
+        "title": "Plan Failed from the Start? On Stage!"
+    },
+    {
+        "id": 105410102,
+        "title": "Netherworld Pyrotechnics"
+    },
+    {
+        "id": 105410103,
+        "title": "Festival Mascot? On Stage!"
+    },
+    {
+        "id": 105410104,
+        "title": "Sardine Battle!"
+    },
+    {
+        "id": 105410105,
+        "title": "Initial Inspiration"
+    },
+    {
+        "id": 105410201,
+        "title": "Shadow Blocking the Path"
+    },
+    {
+        "id": 105410202,
+        "title": "The Objector"
+    },
+    {
+        "id": 105410203,
+        "title": "Sponsor’s Orders"
+    },
+    {
+        "id": 105410204,
+        "title": "New Sardine Ally? On Stage!"
+    },
+    {
+        "id": 105410301,
+        "title": "Favorite Roadside Stall"
+    },
+    {
+        "id": 105410302,
+        "title": "Change of Heart"
+    },
+    {
+        "id": 105410303,
+        "title": "New Menu"
+    },
+    {
+        "id": 105410304,
+        "title": "Rules are Rules"
+    },
+    {
+        "id": 105410401,
+        "title": "Everyone’s Summer fests"
+    },
+    {
+        "id": 105410402,
+        "title": "This is True Sardine Love"
+    },
+    {
+        "id": 105410403,
+        "title": "Let the Flames of Love Burn"
+    },
+    {
+        "id": 105410404,
+        "title": "The Second Inspiration"
+    },
+    {
+        "id": 105410501,
+        "title": "Sardine Dance"
+    },
+    {
+        "id": 105410502,
+        "title": "Guitar Ronin"
+    },
+    {
+        "id": 105410503,
+        "title": "For the Sardine Summer fest"
+    },
+    {
+        "id": 105410504,
+        "title": "Sky of Fireworks"
+    },
+    {
+        "id": 105810101,
+        "title": "Summoning Ritual"
+    },
+    {
+        "id": 105810102,
+        "title": "Explaining the Situation"
+    },
+    {
+        "id": 105810103,
+        "title": "Meliodas’s Decision"
+    },
+    {
+        "id": 105810104,
+        "title": "Round 1, Play Ball"
+    },
+    {
+        "id": 105810105,
+        "title": "Round 1 Winner is...! On Stage!"
+    },
+    {
+        "id": 105810201,
+        "title": "Incomplete Summoning? On Stage!"
+    },
+    {
+        "id": 105810202,
+        "title": "New Member"
+    },
+    {
+        "id": 105810203,
+        "title": "Round 2 is...?"
+    },
+    {
+        "id": 105810204,
+        "title": "Anticlimactic Ending"
+    },
+    {
+        "id": 105810301,
+        "title": "Searching for Allies"
+    },
+    {
+        "id": 105810302,
+        "title": "My Lord’s Brilliant Plan"
+    },
+    {
+        "id": 105810303,
+        "title": "My Lord’s Netherworld Cooking"
+    },
+    {
+        "id": 105810304,
+        "title": "An Obvious Ending"
+    },
+    {
+        "id": 105810401,
+        "title": "An Unexpected Candidate"
+    },
+    {
+        "id": 105810402,
+        "title": "Girls’ Showdown"
+    },
+    {
+        "id": 105810403,
+        "title": "Who is the Ultimate Stylist? On Stage!"
+    },
+    {
+        "id": 105810404,
+        "title": "And the Judges’ Verdict is...? On Stage!"
+    },
+    {
+        "id": 105810501,
+        "title": "Battle Over? On Stage!"
+    },
+    {
+        "id": 105810502,
+        "title": "A dangerous scent"
+    },
+    {
+        "id": 105810503,
+        "title": "Battling the “Seven Deadly Sins”"
+    },
+    {
+        "id": 105810504,
+        "title": "We’ll go on, Win or Lose"
+    },
+    {
+        "id": 106110101,
+        "title": "The Other Side of the Light"
+    },
+    {
+        "id": 106110102,
+        "title": "Mysterious Enemy Strikes"
+    },
+    {
+        "id": 106110103,
+        "title": "Call for Help"
+    },
+    {
+        "id": 106110104,
+        "title": "Confusion"
+    },
+    {
+        "id": 106110105,
+        "title": "Matt and Cutie V"
+    },
+    {
+        "id": 106110201,
+        "title": "What now? On Stage!"
+    },
+    {
+        "id": 106110202,
+        "title": "The Overlord’s Frontline Chaos"
+    },
+    {
+        "id": 106110203,
+        "title": "Matt Type Laharl"
+    },
+    {
+        "id": 106110204,
+        "title": "Search for the Mirror"
+    },
+    {
+        "id": 106110301,
+        "title": "The Assassin Appears"
+    },
+    {
+        "id": 106110302,
+        "title": "Communication Breakdown"
+    },
+    {
+        "id": 106110303,
+        "title": "Matt Attacks! On Stage!"
+    },
+    {
+        "id": 106110304,
+        "title": "Hottie Alliance"
+    },
+    {
+        "id": 106110401,
+        "title": "Matt's Wish"
+    },
+    {
+        "id": 106110402,
+        "title": "A Matt-like Hero? On Stage!"
+    },
+    {
+        "id": 106110403,
+        "title": "Sound of Song"
+    },
+    {
+        "id": 106110404,
+        "title": "Axel Departs"
+    },
+    {
+        "id": 106110501,
+        "title": "Wild-hearted Master"
+    },
+    {
+        "id": 106110502,
+        "title": "Vulcanus is hot? On Stage!"
+    },
+    {
+        "id": 106110503,
+        "title": "Fighter of Love, Cutie V"
+    },
+    {
+        "id": 106110504,
+        "title": "Let’s Celebrate"
+    },
+    {
+        "id": 106610101,
+        "title": "Wriggle Team"
+    },
+    {
+        "id": 106610102,
+        "title": "Run for your Life"
+    },
+    {
+        "id": 106610103,
+        "title": "Laharl's Tragedy"
+    },
+    {
+        "id": 106610104,
+        "title": "Transformed Overlord"
+    },
+    {
+        "id": 106610105,
+        "title": "The Ultimate Toy"
+    },
+    {
+        "id": 106610201,
+        "title": "Demoness Majorita"
+    },
+    {
+        "id": 106610202,
+        "title": "Majorita and the Zombies"
+    },
+    {
+        "id": 106610203,
+        "title": "Suspicious Cauldron"
+    },
+    {
+        "id": 106610204,
+        "title": "Reason for Panic"
+    },
+    {
+        "id": 106610301,
+        "title": "Halloween-loving Demoness"
+    },
+    {
+        "id": 106610302,
+        "title": "Reason for Zombification"
+    },
+    {
+        "id": 106610303,
+        "title": "A Hero’s Hospitality"
+    },
+    {
+        "id": 106610304,
+        "title": "Leave My Lord to Me! On Stage!"
+    },
+    {
+        "id": 106610401,
+        "title": "For Halloween"
+    },
+    {
+        "id": 106610402,
+        "title": "Prank Successful? On Stage!"
+    },
+    {
+        "id": 106610403,
+        "title": "This is the New Game"
+    },
+    {
+        "id": 106610404,
+        "title": "Battle Failed"
+    },
+    {
+        "id": 106610501,
+        "title": "The Halloween Promise"
+    },
+    {
+        "id": 106610502,
+        "title": "For Halloween"
+    },
+    {
+        "id": 106610503,
+        "title": "Gambling on Halloween"
+    },
+    {
+        "id": 106610504,
+        "title": "Happy Halloween! On Stage!"
+    },
+    {
+        "id": 107310101,
+        "title": "Let's party"
+    },
+    {
+        "id": 107310102,
+        "title": "Being a Host is a Big Responsibility"
+    },
+    {
+        "id": 107310103,
+        "title": "Killia Can do this, No Doubt"
+    },
+    {
+        "id": 107310104,
+        "title": "A Classic Song and Muscle"
+    },
+    {
+        "id": 107310105,
+        "title": "Fast-forward the Trouble"
+    },
+    {
+        "id": 107310201,
+        "title": "Things aren’t that Simple"
+    },
+    {
+        "id": 107310202,
+        "title": "Presents of Gratitude"
+    },
+    {
+        "id": 107310203,
+        "title": "Oresama is Santa!"
+    },
+    {
+        "id": 107310204,
+        "title": "Next Time, for Sure..."
+    },
+    {
+        "id": 107310301,
+        "title": "Witty Mao"
+    },
+    {
+        "id": 107310302,
+        "title": "Magic Cuties from that Day"
+    },
+    {
+        "id": 107310303,
+        "title": "What a Magic Cutie Should Look Like"
+    },
+    {
+        "id": 107310304,
+        "title": "Becoming a Dazzling Magic Cutie"
+    },
+    {
+        "id": 107310401,
+        "title": "Straightforward Seraphina"
+    },
+    {
+        "id": 107310402,
+        "title": "Forgotten Matters"
+    },
+    {
+        "id": 107310403,
+        "title": "Other Rumors"
+    },
+    {
+        "id": 107310404,
+        "title": "Better Than Treasure Hunting"
+    },
+    {
+        "id": 107310501,
+        "title": "An Unexpected Development?! On Stage!"
+    },
+    {
+        "id": 107310502,
+        "title": "Prinny’s Rebellion"
+    },
+    {
+        "id": 107310503,
+        "title": "Everyone Wants to be on TV"
+    },
+    {
+        "id": 107310504,
+        "title": "Next Year Also..."
+    },
+    {
+        "id": 107910101,
+        "title": "Dark Bunny is Born"
+    },
+    {
+        "id": 107910102,
+        "title": "Uninvited Guest"
+    },
+    {
+        "id": 107910103,
+        "title": "Brother and Sister"
+    },
+    {
+        "id": 107910104,
+        "title": "Santa in Chaos"
+    },
+    {
+        "id": 107910105,
+        "title": "Error Resolved"
+    },
+    {
+        "id": 107910201,
+        "title": "Full Xmas Power! On Stage!"
+    },
+    {
+        "id": 107910202,
+        "title": "Number 1 Sacrifice"
+    },
+    {
+        "id": 107910203,
+        "title": "A Present for Me"
+    },
+    {
+        "id": 107910204,
+        "title": "An Annoying Guy"
+    },
+    {
+        "id": 107910301,
+        "title": "The Lovers’ Tragedy"
+    },
+    {
+        "id": 107910302,
+        "title": "Princess Overlord’s Disaster"
+    },
+    {
+        "id": 107910303,
+        "title": "Christmas Eve Rivals"
+    },
+    {
+        "id": 107910304,
+        "title": "Final Outcome..."
+    },
+    {
+        "id": 107910401,
+        "title": "Whistleblower and the Princess"
+    },
+    {
+        "id": 107910402,
+        "title": "Unexpected Meeting"
+    },
+    {
+        "id": 107910403,
+        "title": "Furious Princess"
+    },
+    {
+        "id": 107910404,
+        "title": "That Guy Never Changes"
+    },
+    {
+        "id": 107910501,
+        "title": "Confrontation with Dark Santa"
+    },
+    {
+        "id": 107910502,
+        "title": "Usalia Master"
+    },
+    {
+        "id": 107910503,
+        "title": "Stop Dark Santa"
+    },
+    {
+        "id": 107910504,
+        "title": "Merry Christmas"
+    },
+    {
+        "id": 108210101,
+        "title": "100% Accurate Divination"
+    },
+    {
+        "id": 108210102,
+        "title": "Sibling New Year Visit"
+    },
+    {
+        "id": 108210103,
+        "title": "Meeting with the Legendary Fortune-Teller"
+    },
+    {
+        "id": 108210104,
+        "title": "Girl Laharl’s Frontline Chaos"
+    },
+    {
+        "id": 108210105,
+        "title": "Siblings Drift Away"
+    },
+    {
+        "id": 108210201,
+        "title": "Ninja Siblings’ Appearance"
+    },
+    {
+        "id": 108210202,
+        "title": "Time to Show Off"
+    },
+    {
+        "id": 108210203,
+        "title": "Prinny God Manifestation"
+    },
+    {
+        "id": 108210204,
+        "title": "For my Brother"
+    },
+    {
+        "id": 108210301,
+        "title": "Girl Laharl’s Disaster"
+    },
+    {
+        "id": 108210302,
+        "title": "Reaction to Exploring Desire"
+    },
+    {
+        "id": 108210303,
+        "title": "Brother’s Heart Cannot be Refused"
+    },
+    {
+        "id": 108210304,
+        "title": "Outstanding Brother"
+    },
+    {
+        "id": 108210401,
+        "title": "Sister’s Search for her Lost Children"
+    },
+    {
+        "id": 108210402,
+        "title": "Super Lucky Fuka"
+    },
+    {
+        "id": 108210403,
+        "title": "Brother or Sister"
+    },
+    {
+        "id": 108210404,
+        "title": "Sicily is Acknowledged"
+    },
+    {
+        "id": 108210501,
+        "title": "Fated Wedding"
+    },
+    {
+        "id": 108210502,
+        "title": "Witch at Full Power"
+    },
+    {
+        "id": 108210503,
+        "title": "Joint New Year’s Assignment"
+    },
+    {
+        "id": 108210504,
+        "title": "Good Divination Should be done in Moderation"
+    },
+    {
+        "id": 109010101,
+        "title": "A Man who Misunderstands"
+    },
+    {
+        "id": 109010102,
+        "title": "You’re not Alone"
+    },
+    {
+        "id": 109010103,
+        "title": "With my Friends"
+    },
+    {
+        "id": 109010104,
+        "title": "Abandoned Laharl"
+    },
+    {
+        "id": 109010105,
+        "title": "Intruders Appear"
+    },
+    {
+        "id": 109010201,
+        "title": "The Black Horse Takes the Stage"
+    },
+    {
+        "id": 109010202,
+        "title": "A Motivated Opponent"
+    },
+    {
+        "id": 109010203,
+        "title": "Showdown of the Overlords"
+    },
+    {
+        "id": 109010204,
+        "title": "Best Buddy Overlords"
+    },
+    {
+        "id": 109010301,
+        "title": "Next Opponent"
+    },
+    {
+        "id": 109010302,
+        "title": "Melodia’s Battle"
+    },
+    {
+        "id": 109010303,
+        "title": "The Princess Rides in"
+    },
+    {
+        "id": 109010304,
+        "title": "Similar Heroines"
+    },
+    {
+        "id": 109010401,
+        "title": "Headmaster, it’s Your Time"
+    },
+    {
+        "id": 109010402,
+        "title": "The Envoy of Love and Justice Intrudes"
+    },
+    {
+        "id": 109010403,
+        "title": "No One Ever Listens to Me"
+    },
+    {
+        "id": 109010404,
+        "title": "Welcoming a New Member"
+    },
+    {
+        "id": 109010501,
+        "title": "The Two Meet a Compromise"
+    },
+    {
+        "id": 109010502,
+        "title": "Battle to Take out the Trash"
+    },
+    {
+        "id": 109010503,
+        "title": "Happy Moments"
+    },
+    {
+        "id": 109010504,
+        "title": "The Battle is Far from Over"
     }
 ]

@@ -1,322 +1,144 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "unique_flg": "Boolean",
+        "character_type": "Int32",
+        "character_special_type": "Int32",
+        "base_rare": "Int32",
+        "gender": "Int32",
+        "series_ids": "Int32[]",
+        "attr_fire": "Int32",
+        "attr_water": "Int32",
+        "attr_wind": "Int32",
+        "attr_star": "Int32",
+        "resist_poison": "Int32",
+        "resist_paralyze": "Int32",
+        "resist_sleep": "Int32",
+        "resist_forget": "Int32",
+        "class_name_1": "String",
+        "class_name_2": "String",
+        "class_name_3": "String",
+        "class_name_4": "String",
+        "class_name_5": "String",
+        "m_leader_skill_id": "UInt64",
+        "m_leader_skill_id_sub_1": "Int32",
+        "m_leader_skill_id_sub_2": "Int32",
+        "m_leader_skill_id_sub_3": "Int32",
+        "sell_point": "Int32",
+        "sell_soul": "Int32",
+        "hp_min": "Int32",
+        "hp_per_lv": "Int32",
+        "atk_min": "Int32",
+        "atk_per_lv": "Int32",
+        "def_min": "Int32",
+        "def_per_lv": "Int32",
+        "inte_min": "Int32",
+        "inte_per_lv": "Int32",
+        "res_min": "Int32",
+        "res_per_lv": "Int32",
+        "spd_min": "Int32",
+        "spd_per_lv": "Int32",
+        "best_weapon_type": "Int32",
+        "weapon_mastery_rank_1": "Int32",
+        "weapon_mastery_rank_2": "Int32",
+        "weapon_mastery_rank_3": "Int32",
+        "weapon_mastery_rank_4": "Int32",
+        "weapon_mastery_rank_5": "Int32",
+        "weapon_mastery_rank_6": "Int32",
+        "weapon_mastery_rank_7": "Int32",
+        "weapon_mastery_rank_8": "Int32",
+        "weapon_mastery_rank_9": "Int32",
+        "description": "String",
+        "color_no": "Int32",
+        "explosion_flg": "Boolean",
+        "linkage_base": "Int32",
+        "linkage_correct": "Int32",
+        "linkage_character_ids": "UInt64[]",
+        "cv_name": "String",
+        "mini_pos_x": "Int32",
+        "mini_pos_y": "Int32",
+        "pos_x": "Int32[]",
+        "pos_y": "Int32[]",
+        "scale_x": "Single[]",
+        "scale_y": "Single[]",
+        "book_flg": "Boolean",
+        "book_appear_at": "String",
+        "m_potential_class_id": "UInt64",
+        "inversion_type": "Int32",
+        "grazing_type": "Int32"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "bool",
-        "name": "unique_flg",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "character_type",
-        "offset": 36
-    },
-    {
-        "type": "int",
-        "name": "character_special_type",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "base_rare",
-        "offset": 44
-    },
-    {
-        "type": "int",
-        "name": "gender",
-        "offset": 48
-    },
-    {
-        "type": "int[]",
-        "name": "series_ids",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "attr_fire",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "attr_water",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "attr_wind",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "attr_star",
-        "offset": 76
-    },
-    {
-        "type": "int",
-        "name": "resist_poison",
-        "offset": 80
-    },
-    {
-        "type": "int",
-        "name": "resist_paralyze",
-        "offset": 84
-    },
-    {
-        "type": "int",
-        "name": "resist_sleep",
-        "offset": 88
-    },
-    {
-        "type": "int",
-        "name": "resist_forget",
-        "offset": 92
-    },
-    {
-        "type": "string",
-        "name": "class_name_1",
-        "offset": 96
-    },
-    {
-        "type": "string",
-        "name": "class_name_2",
-        "offset": 104
-    },
-    {
-        "type": "string",
-        "name": "class_name_3",
-        "offset": 112
-    },
-    {
-        "type": "string",
-        "name": "class_name_4",
-        "offset": 120
-    },
-    {
-        "type": "string",
-        "name": "class_name_5",
-        "offset": 128
-    },
-    {
-        "type": "ulong",
-        "name": "m_leader_skill_id",
-        "offset": 136
-    },
-    {
-        "type": "int",
-        "name": "m_leader_skill_id_sub_1",
-        "offset": 144
-    },
-    {
-        "type": "int",
-        "name": "m_leader_skill_id_sub_2",
-        "offset": 148
-    },
-    {
-        "type": "int",
-        "name": "m_leader_skill_id_sub_3",
-        "offset": 152
-    },
-    {
-        "type": "ulong",
-        "name": "m_survey_skill_id",
-        "offset": 160
-    },
-    {
-        "type": "int",
-        "name": "survey_power",
-        "offset": 168
-    },
-    {
-        "type": "int",
-        "name": "sell_point",
-        "offset": 172
-    },
-    {
-        "type": "int",
-        "name": "hp_min",
-        "offset": 176
-    },
-    {
-        "type": "int",
-        "name": "hp_per_lv",
-        "offset": 180
-    },
-    {
-        "type": "int",
-        "name": "atk_min",
-        "offset": 184
-    },
-    {
-        "type": "int",
-        "name": "atk_per_lv",
-        "offset": 188
-    },
-    {
-        "type": "int",
-        "name": "def_min",
-        "offset": 192
-    },
-    {
-        "type": "int",
-        "name": "def_per_lv",
-        "offset": 196
-    },
-    {
-        "type": "int",
-        "name": "inte_min",
-        "offset": 200
-    },
-    {
-        "type": "int",
-        "name": "inte_per_lv",
-        "offset": 204
-    },
-    {
-        "type": "int",
-        "name": "res_min",
-        "offset": 208
-    },
-    {
-        "type": "int",
-        "name": "res_per_lv",
-        "offset": 212
-    },
-    {
-        "type": "int",
-        "name": "spd_min",
-        "offset": 216
-    },
-    {
-        "type": "int",
-        "name": "spd_per_lv",
-        "offset": 220
-    },
-    {
-        "type": "int",
-        "name": "best_weapon_type",
-        "offset": 224
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_1",
-        "offset": 228
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_2",
-        "offset": 232
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_3",
-        "offset": 236
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_4",
-        "offset": 240
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_5",
-        "offset": 244
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_6",
-        "offset": 248
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_7",
-        "offset": 252
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_8",
-        "offset": 256
-    },
-    {
-        "type": "int",
-        "name": "weapon_mastery_rank_9",
-        "offset": 260
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 264
-    },
-    {
-        "type": "int",
-        "name": "color_no",
-        "offset": 272
-    },
-    {
-        "type": "bool",
-        "name": "explosion_flg",
-        "offset": 276
-    },
-    {
-        "type": "int",
-        "name": "linkage_base",
-        "offset": 280
-    },
-    {
-        "type": "int",
-        "name": "linkage_correct",
-        "offset": 284
-    },
-    {
-        "type": "ulong[]",
-        "name": "linkage_character_ids",
-        "offset": 288
-    },
-    {
-        "type": "string",
-        "name": "cv_name",
-        "offset": 296
-    },
-    {
-        "type": "int",
-        "name": "mini_pos_x",
-        "offset": 304
-    },
-    {
-        "type": "int",
-        "name": "mini_pos_y",
-        "offset": 308
-    },
-    {
-        "type": "int[]",
-        "name": "pos_x",
-        "offset": 312
-    },
-    {
-        "type": "int[]",
-        "name": "pos_y",
-        "offset": 320
-    },
-    {
-        "type": "float[]",
-        "name": "scale_x",
-        "offset": 328
-    },
-    {
-        "type": "float[]",
-        "name": "scale_y",
-        "offset": 336
-    },
-    {
-        "type": "bool",
-        "name": "book_flg",
-        "offset": 344
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "UniqueFlg": "Boolean",
+        "CharacterType": "Int32",
+        "CharacterSpecialType": "Int32",
+        "BaseRare": "Int32",
+        "Gender": "Int32",
+        "SeriesIds": "Int32[]",
+        "AttrFire": "Int32",
+        "AttrWater": "Int32",
+        "AttrWind": "Int32",
+        "AttrStar": "Int32",
+        "ResistPoison": "Int32",
+        "ResistParalyze": "Int32",
+        "ResistSleep": "Int32",
+        "ResistForget": "Int32",
+        "ClassName1": "String",
+        "ClassName2": "String",
+        "ClassName3": "String",
+        "ClassName4": "String",
+        "ClassName5": "String",
+        "MLeaderSkillId": "UInt64",
+        "MLeaderSkillIdSub1": "Int32",
+        "MLeaderSkillIdSub2": "Int32",
+        "MLeaderSkillIdSub3": "Int32",
+        "SellPoint": "Int32",
+        "SellSoul": "Int32",
+        "HpMin": "Int32",
+        "HpPerLv": "Int32",
+        "AtkMin": "Int32",
+        "AtkPerLv": "Int32",
+        "DefMin": "Int32",
+        "DefPerLv": "Int32",
+        "InteMin": "Int32",
+        "IntePerLv": "Int32",
+        "ResMin": "Int32",
+        "ResPerLv": "Int32",
+        "SpdMin": "Int32",
+        "SpdPerLv": "Int32",
+        "BestWeaponType": "Int32",
+        "WeaponMastery1": "Int32",
+        "WeaponMastery2": "Int32",
+        "WeaponMastery3": "Int32",
+        "WeaponMastery4": "Int32",
+        "WeaponMastery5": "Int32",
+        "WeaponMastery6": "Int32",
+        "WeaponMastery7": "Int32",
+        "WeaponMastery8": "Int32",
+        "WeaponMastery9": "Int32",
+        "Description": "String",
+        "ColorNo": "Int32",
+        "ExplosionFlg": "Boolean",
+        "LinkageBase": "Int32",
+        "LinkageCorrect": "Int32",
+        "LinkageCharaIds": "UInt64[]",
+        "CvName": "String",
+        "MiniPosX": "Int32",
+        "MiniPosY": "Int32",
+        "PosX": "Int32[]",
+        "PosY": "Int32[]",
+        "ScaleX": "Single[]",
+        "ScaleY": "Single[]",
+        "BookFlgAndOverTimeAppearAt": "Boolean",
+        "BookAppearAt": "DateTime",
+        "MPotentialClassId": "UInt64",
+        "InversionType": "Int32",
+        "IsInversionHome": "Boolean",
+        "IsInversionBattle": "Boolean",
+        "GrazingType": "Int32",
+        "MRitualTrainingDatas": "List`1",
+        "MaxAwakeCount": "Int32"
     }
-]
+}

@@ -332,12 +332,12 @@
     {
         "id": 34,
         "m_login_bonus_group_id": 2,
-        "name": "AP Potion x1",
+        "name": "AP Potion x2",
         "day": 6,
         "present_type": 1,
         "present_id": 301,
         "present_rarity": 0,
-        "present_num": 1
+        "present_num": 2
     },
     {
         "id": 35,
@@ -352,42 +352,42 @@
     {
         "id": 36,
         "m_login_bonus_group_id": 2,
-        "name": "Nether Quartz x150",
+        "name": "Premium Summon \nTicket x1",
         "day": 8,
         "present_type": 1,
-        "present_id": 201,
+        "present_id": 1901,
         "present_rarity": 0,
-        "present_num": 150
+        "present_num": 1
     },
     {
         "id": 37,
         "m_login_bonus_group_id": 2,
-        "name": "Nether Quartz x150",
+        "name": "10000HL",
         "day": 9,
         "present_type": 1,
-        "present_id": 201,
+        "present_id": 101,
         "present_rarity": 0,
-        "present_num": 150
+        "present_num": 10000
     },
     {
         "id": 38,
         "m_login_bonus_group_id": 2,
-        "name": "3★ or above Summon \nTicket x1",
+        "name": "Premium Summon \nTicket x1",
         "day": 10,
         "present_type": 1,
-        "present_id": 1902,
+        "present_id": 1901,
         "present_rarity": 0,
         "present_num": 1
     },
     {
         "id": 39,
         "m_login_bonus_group_id": 2,
-        "name": "10000HL",
+        "name": "20000HL",
         "day": 11,
         "present_type": 1,
         "present_id": 101,
         "present_rarity": 0,
-        "present_num": 10000
+        "present_num": 20000
     },
     {
         "id": 40,
@@ -402,92 +402,92 @@
     {
         "id": 41,
         "m_login_bonus_group_id": 2,
-        "name": "20000HL",
-        "day": 13,
-        "present_type": 1,
-        "present_id": 101,
-        "present_rarity": 0,
-        "present_num": 20000
-    },
-    {
-        "id": 42,
-        "m_login_bonus_group_id": 2,
-        "name": "Premium Summon \nTicket x1",
-        "day": 14,
-        "present_type": 1,
-        "present_id": 1901,
-        "present_rarity": 0,
-        "present_num": 1
-    },
-    {
-        "id": 43,
-        "m_login_bonus_group_id": 2,
-        "name": "Nether Quartz x50",
-        "day": 15,
-        "present_type": 1,
-        "present_id": 201,
-        "present_rarity": 0,
-        "present_num": 50
-    },
-    {
-        "id": 44,
-        "m_login_bonus_group_id": 2,
-        "name": "Nether Quartz x50",
-        "day": 16,
-        "present_type": 1,
-        "present_id": 201,
-        "present_rarity": 0,
-        "present_num": 50
-    },
-    {
-        "id": 45,
-        "m_login_bonus_group_id": 2,
-        "name": "Prism Shell x5",
-        "day": 17,
-        "present_type": 1,
-        "present_id": 1602,
-        "present_rarity": 0,
-        "present_num": 5
-    },
-    {
-        "id": 46,
-        "m_login_bonus_group_id": 2,
         "name": "30000HL",
-        "day": 18,
+        "day": 13,
         "present_type": 1,
         "present_id": 101,
         "present_rarity": 0,
         "present_num": 30000
     },
     {
-        "id": 47,
+        "id": 42,
+        "m_login_bonus_group_id": 2,
+        "name": "3★ or above Summon \nTicket x1",
+        "day": 14,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 43,
         "m_login_bonus_group_id": 2,
         "name": "Crab Miso x1",
-        "day": 19,
+        "day": 15,
         "present_type": 1,
         "present_id": 403,
         "present_rarity": 0,
         "present_num": 1
     },
     {
-        "id": 48,
+        "id": 44,
         "m_login_bonus_group_id": 2,
         "name": "Gate Key x1",
-        "day": 20,
+        "day": 16,
         "present_type": 1,
         "present_id": 1401,
         "present_rarity": 0,
         "present_num": 1
     },
     {
-        "id": 49,
+        "id": 45,
         "m_login_bonus_group_id": 2,
         "name": "Crab Miso x1",
-        "day": 21,
+        "day": 17,
         "present_type": 1,
         "present_id": 403,
         "present_rarity": 0,
         "present_num": 1
+    },
+    {
+        "id": 46,
+        "m_login_bonus_group_id": 2,
+        "name": "Gate Key x1",
+        "day": 18,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 47,
+        "m_login_bonus_group_id": 2,
+        "name": "Crab Miso x2",
+        "day": 19,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 48,
+        "m_login_bonus_group_id": 2,
+        "name": "Gate Key x2",
+        "day": 20,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 2
+    },
+    {
+        "id": 49,
+        "m_login_bonus_group_id": 2,
+        "name": "Prism Hides x5",
+        "day": 21,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_rarity": 0,
+        "present_num": 5
     },
     {
         "id": 50,
@@ -532,12 +532,12 @@
     {
         "id": 54,
         "m_login_bonus_group_id": 2,
-        "name": "Nether Quartz x50",
+        "name": "Nether Quartz x100",
         "day": 26,
         "present_type": 1,
         "present_id": 201,
         "present_rarity": 0,
-        "present_num": 50
+        "present_num": 100
     },
     {
         "id": 55,
@@ -552,11 +552,11 @@
     {
         "id": 56,
         "m_login_bonus_group_id": 2,
-        "name": "Prism Shell x5",
+        "name": "Nether Quartz x300",
         "day": 28,
         "present_type": 1,
-        "present_id": 1602,
+        "present_id": 201,
         "present_rarity": 0,
-        "present_num": 10
+        "present_num": 300
     }
 ]

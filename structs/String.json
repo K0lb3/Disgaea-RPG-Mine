@@ -1,0 +1,7 @@
+{
+    "fields": {},
+    "properties": {
+        "Chars": "Char",
+        "Length": "Int32"
+    }
+}

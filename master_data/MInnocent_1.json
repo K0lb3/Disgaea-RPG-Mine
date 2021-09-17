@@ -6,7 +6,9 @@
         "category": 1,
         "description_format": "HP +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 1
+        "effect_type": 1,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 2,
@@ -15,7 +17,9 @@
         "category": 2,
         "description_format": "ATK +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 1
+        "effect_type": 1,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 3,
@@ -24,7 +28,9 @@
         "category": 2,
         "description_format": "DEF +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 1
+        "effect_type": 1,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 4,
@@ -33,7 +39,9 @@
         "category": 3,
         "description_format": "INT +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 1
+        "effect_type": 1,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 5,
@@ -42,7 +50,9 @@
         "category": 3,
         "description_format": "RES +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 1
+        "effect_type": 1,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 6,
@@ -51,7 +61,9 @@
         "category": 1,
         "description_format": "SPD +{0}",
         "calculate_format": "{0}",
-        "effect_type": 3
+        "effect_type": 3,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 7,
@@ -60,7 +72,9 @@
         "category": 4,
         "description_format": "EXP Gained +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 2
+        "effect_type": 2,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 8,
@@ -69,7 +83,9 @@
         "category": 4,
         "description_format": "HL Gained +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 2
+        "effect_type": 2,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 9,
@@ -78,7 +94,9 @@
         "category": 5,
         "description_format": "WM EXP Gained +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 7
+        "effect_type": 7,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 10,
@@ -87,7 +105,9 @@
         "category": 5,
         "description_format": "Skill EXP +{0}%",
         "calculate_format": "{0}%",
-        "effect_type": 7
+        "effect_type": 7,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 11,
@@ -96,7 +116,9 @@
         "category": 1,
         "description_format": "HP +{0}",
         "calculate_format": "+{0}",
-        "effect_type": 6
+        "effect_type": 6,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 12,
@@ -105,7 +127,9 @@
         "category": 2,
         "description_format": "ATK +{0}",
         "calculate_format": "+{0}",
-        "effect_type": 4
+        "effect_type": 4,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 13,
@@ -114,7 +138,9 @@
         "category": 2,
         "description_format": "DEF +{0}",
         "calculate_format": "+{0}",
-        "effect_type": 5
+        "effect_type": 5,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 14,
@@ -123,7 +149,9 @@
         "category": 3,
         "description_format": "INT +{0}",
         "calculate_format": "+{0}",
-        "effect_type": 4
+        "effect_type": 4,
+        "weapon_type": 0,
+        "m_character_id": 0
     },
     {
         "id": 15,
@@ -132,6 +160,305 @@
         "category": 3,
         "description_format": "RES +{0}",
         "calculate_format": "+{0}",
-        "effect_type": 5
+        "effect_type": 5,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 16,
+        "name": "Axe ATK Boost",
+        "innocent_type": 2,
+        "category": 2,
+        "description_format": "ATK +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 8,
+        "weapon_type": 6,
+        "m_character_id": 81
+    },
+    {
+        "id": 17,
+        "name": "Super HP Boost",
+        "innocent_type": 1,
+        "category": 1,
+        "description_format": "HP +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 9,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 18,
+        "name": "Super ATK Boost",
+        "innocent_type": 2,
+        "category": 2,
+        "description_format": "ATK +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 9,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 19,
+        "name": "Super DEF Boost",
+        "innocent_type": 3,
+        "category": 2,
+        "description_format": "DEF +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 9,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 20,
+        "name": "Super INT Boost",
+        "innocent_type": 4,
+        "category": 3,
+        "description_format": "INT +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 9,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 21,
+        "name": "Super RES Boost",
+        "innocent_type": 5,
+        "category": 3,
+        "description_format": "RES +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 9,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 22,
+        "name": "Super WM Enhancer",
+        "innocent_type": 9,
+        "category": 5,
+        "description_format": "WM EXP Gained +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 10,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 23,
+        "name": "Super Skill Enhancer",
+        "innocent_type": 10,
+        "category": 5,
+        "description_format": "Skill EXP +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 10,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 24,
+        "name": "ATK Amplifier",
+        "innocent_type": 17,
+        "category": 2,
+        "description_format": "ATK+{0}, DEF+{1}",
+        "calculate_format": "ATK & DEF+",
+        "effect_type": 11,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 25,
+        "name": "ATK Amplifier",
+        "innocent_type": 17,
+        "category": 2,
+        "description_format": "ATK+{0}, DEF+{1}",
+        "calculate_format": "ATK & DEF+",
+        "effect_type": 12,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 26,
+        "name": "ATK Amplifier",
+        "innocent_type": 17,
+        "category": 2,
+        "description_format": "ATK+{0}, DEF+{1}",
+        "calculate_format": "ATK & DEF+",
+        "effect_type": 13,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 27,
+        "name": "INT Amplifier",
+        "innocent_type": 18,
+        "category": 3,
+        "description_format": "INT+{0}, RES+{1}",
+        "calculate_format": "INT & RES+",
+        "effect_type": 14,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 28,
+        "name": "INT Amplifier",
+        "innocent_type": 18,
+        "category": 3,
+        "description_format": "INT+{0}, RES+{1}",
+        "calculate_format": "INT & RES+",
+        "effect_type": 15,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 29,
+        "name": "INT Amplifier",
+        "innocent_type": 18,
+        "category": 3,
+        "description_format": "INT+{0}, RES+{1}",
+        "calculate_format": "INT & RES+",
+        "effect_type": 16,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 30,
+        "name": "DEF Amplifier",
+        "innocent_type": 19,
+        "category": 2,
+        "description_format": "HP+{0}, DEF+{1}",
+        "calculate_format": "HP & DEF+",
+        "effect_type": 17,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 31,
+        "name": "DEF Amplifier",
+        "innocent_type": 19,
+        "category": 2,
+        "description_format": "HP+{0}, DEF+{1}",
+        "calculate_format": "HP & DEF+",
+        "effect_type": 18,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 32,
+        "name": "DEF Amplifier",
+        "innocent_type": 19,
+        "category": 2,
+        "description_format": "HP+{0}, DEF+{1}",
+        "calculate_format": "HP & DEF+",
+        "effect_type": 19,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 33,
+        "name": "RES Amplifier",
+        "innocent_type": 20,
+        "category": 3,
+        "description_format": "HP+{0}, RES+{1}",
+        "calculate_format": "HP & RES+",
+        "effect_type": 20,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 34,
+        "name": "RES Amplifier",
+        "innocent_type": 20,
+        "category": 3,
+        "description_format": "HP+{0}, RES+{1}",
+        "calculate_format": "HP & RES+",
+        "effect_type": 21,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 35,
+        "name": "RES Amplifier",
+        "innocent_type": 20,
+        "category": 3,
+        "description_format": "HP+{0}, RES+{1}",
+        "calculate_format": "HP & RES+",
+        "effect_type": 22,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 36,
+        "name": "Tutor",
+        "innocent_type": 21,
+        "category": 4,
+        "description_format": "EXP gained +{0}%, HL gained +{1}%",
+        "calculate_format": "Gained EXP & HL+",
+        "effect_type": 23,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 37,
+        "name": "Tutor",
+        "innocent_type": 21,
+        "category": 4,
+        "description_format": "EXP gained +{0}%, HL gained +{1}%",
+        "calculate_format": "Gained EXP & HL+",
+        "effect_type": 24,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 38,
+        "name": "Tutor",
+        "innocent_type": 21,
+        "category": 4,
+        "description_format": "EXP gained +{0}%, HL gained +{1}%",
+        "calculate_format": "Gained EXP & HL+",
+        "effect_type": 25,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 39,
+        "name": "Almighty",
+        "innocent_type": 22,
+        "category": 1,
+        "description_format": "HP+{0}, ATK+{1} DEF+{2}, INT+{3} RES+{4}, SPD+{5}",
+        "calculate_format": "All Stats +",
+        "effect_type": 26,
+        "weapon_type": 0,
+        "m_character_id": 0
+    },
+    {
+        "id": 40,
+        "name": "Staff INT Boost",
+        "innocent_type": 4,
+        "category": 3,
+        "description_format": "INT +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 27,
+        "weapon_type": 7,
+        "m_character_id": 100
+    },
+    {
+        "id": 41,
+        "name": "Fist ATK Boost",
+        "innocent_type": 2,
+        "category": 2,
+        "description_format": "ATK +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 28,
+        "weapon_type": 2,
+        "m_character_id": 40
+    },
+    {
+        "id": 42,
+        "name": "Mon. Phy. ATK Boost",
+        "innocent_type": 2,
+        "category": 2,
+        "description_format": "ATK +{0}%",
+        "calculate_format": "{0}%",
+        "effect_type": 29,
+        "weapon_type": 8,
+        "m_character_id": 20026
     }
 ]

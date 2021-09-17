@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "m_survey_id": "UInt64",
+        "t_character_ids": "UInt64[]",
+        "area_condition": "Int32",
+        "hour": "Int32",
+        "end_at": "String",
+        "end_time": "Nullable`1"
+    },
+    "properties": {
+        "MSurveyId": "UInt64",
+        "TCharacterIds": "UInt64[]",
+        "AreaCondition": "Int32",
+        "Hour": "Int32",
+        "EndAt": "String",
+        "EndTime": "Nullable`1",
+        "State": "SurveyState",
+        "MaxAreaCondition": "Int32",
+        "IsMaxAreaCondition": "Boolean"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_raid_id": "UInt64",
+        "m_character_id": "UInt64",
+        "effect_type": "Int32",
+        "effect_value": "Int32",
+        "help_effect_value": "Int32"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MRaidId": "UInt64",
+        "MCharacterId": "UInt64",
+        "EffectType": "Int32",
+        "EffectValue": "Int32",
+        "HelpEffectValue": "Int32"
+    }
+}

@@ -1,27 +1,22 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "m_event_id": "UInt64",
+        "open_at": "String",
+        "close_at": "String",
+        "shop_close_at": "String"
     },
-    {
-        "type": "ulong",
-        "name": "m_event_id",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "shop_close_at",
-        "offset": 48
+    "properties": {
+        "Id": "UInt64",
+        "MEventId": "UInt64",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "ShopCloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime",
+        "ShopCloseTime": "DateTime",
+        "CanExchange": "Boolean",
+        "Displayable": "Boolean",
+        "DisplayableMemorial": "Boolean"
     }
-]
+}

@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "m_passport_id": "UInt64",
+        "now_days": "Int32",
+        "sum_days": "Int32",
+        "last_received_at": "String",
+        "last_purchased_at": "String",
+        "updated_at": "String"
+    },
+    "properties": {
+        "MPassportId": "UInt64",
+        "NowDays": "Int32",
+        "SumDays": "Int32",
+        "LastReceivedAt": "String",
+        "LastPurchasedAt": "String",
+        "UpdatedAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
+    }
+}

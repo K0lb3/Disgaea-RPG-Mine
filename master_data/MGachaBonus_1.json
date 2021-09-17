@@ -340,5 +340,1877 @@
         "present_num": 1,
         "present_rarity": 5,
         "effect_rank": 6
+    },
+    {
+        "id": 39,
+        "m_gacha_bonus_group_id": 39,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 40,
+        "m_gacha_bonus_group_id": 40,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 41,
+        "m_gacha_bonus_group_id": 41,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 42,
+        "m_gacha_bonus_group_id": 42,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 43,
+        "m_gacha_bonus_group_id": 43,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 44,
+        "m_gacha_bonus_group_id": 44,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 45,
+        "m_gacha_bonus_group_id": 45,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 46,
+        "m_gacha_bonus_group_id": 46,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 47,
+        "m_gacha_bonus_group_id": 47,
+        "present_type": 1,
+        "present_id": 2401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 48,
+        "m_gacha_bonus_group_id": 48,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 49,
+        "m_gacha_bonus_group_id": 49,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 50,
+        "m_gacha_bonus_group_id": 50,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 15,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 51,
+        "m_gacha_bonus_group_id": 51,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 52,
+        "m_gacha_bonus_group_id": 52,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 53,
+        "m_gacha_bonus_group_id": 53,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 54,
+        "m_gacha_bonus_group_id": 54,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 55,
+        "m_gacha_bonus_group_id": 55,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 56,
+        "m_gacha_bonus_group_id": 56,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 57,
+        "m_gacha_bonus_group_id": 57,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 58,
+        "m_gacha_bonus_group_id": 58,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 59,
+        "m_gacha_bonus_group_id": 59,
+        "present_type": 1,
+        "present_id": 2720018,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 60,
+        "m_gacha_bonus_group_id": 60,
+        "present_type": 1,
+        "present_id": 2701011,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 61,
+        "m_gacha_bonus_group_id": 61,
+        "present_type": 1,
+        "present_id": 2720018,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 62,
+        "m_gacha_bonus_group_id": 62,
+        "present_type": 1,
+        "present_id": 2701011,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 63,
+        "m_gacha_bonus_group_id": 63,
+        "present_type": 1,
+        "present_id": 2700067,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 64,
+        "m_gacha_bonus_group_id": 64,
+        "present_type": 1,
+        "present_id": 2700067,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 65,
+        "m_gacha_bonus_group_id": 65,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 66,
+        "m_gacha_bonus_group_id": 66,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 67,
+        "m_gacha_bonus_group_id": 67,
+        "present_type": 1,
+        "present_id": 2700057,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 68,
+        "m_gacha_bonus_group_id": 68,
+        "present_type": 1,
+        "present_id": 2700058,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 69,
+        "m_gacha_bonus_group_id": 69,
+        "present_type": 1,
+        "present_id": 2700057,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 70,
+        "m_gacha_bonus_group_id": 70,
+        "present_type": 1,
+        "present_id": 2700058,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 71,
+        "m_gacha_bonus_group_id": 71,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 72,
+        "m_gacha_bonus_group_id": 72,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 73,
+        "m_gacha_bonus_group_id": 73,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 74,
+        "m_gacha_bonus_group_id": 74,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 75,
+        "m_gacha_bonus_group_id": 75,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 76,
+        "m_gacha_bonus_group_id": 76,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 77,
+        "m_gacha_bonus_group_id": 77,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 78,
+        "m_gacha_bonus_group_id": 78,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 79,
+        "m_gacha_bonus_group_id": 79,
+        "present_type": 1,
+        "present_id": 2700066,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 80,
+        "m_gacha_bonus_group_id": 80,
+        "present_type": 1,
+        "present_id": 2700066,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 81,
+        "m_gacha_bonus_group_id": 81,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 82,
+        "m_gacha_bonus_group_id": 82,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 83,
+        "m_gacha_bonus_group_id": 83,
+        "present_type": 1,
+        "present_id": 2700060,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 84,
+        "m_gacha_bonus_group_id": 84,
+        "present_type": 1,
+        "present_id": 2700061,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 85,
+        "m_gacha_bonus_group_id": 85,
+        "present_type": 1,
+        "present_id": 2700060,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 86,
+        "m_gacha_bonus_group_id": 86,
+        "present_type": 1,
+        "present_id": 2700061,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 87,
+        "m_gacha_bonus_group_id": 87,
+        "present_type": 1,
+        "present_id": 2720003,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 88,
+        "m_gacha_bonus_group_id": 88,
+        "present_type": 1,
+        "present_id": 2700016,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 89,
+        "m_gacha_bonus_group_id": 89,
+        "present_type": 1,
+        "present_id": 2720001,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 90,
+        "m_gacha_bonus_group_id": 90,
+        "present_type": 1,
+        "present_id": 2700013,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 91,
+        "m_gacha_bonus_group_id": 91,
+        "present_type": 1,
+        "present_id": 2700065,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 92,
+        "m_gacha_bonus_group_id": 92,
+        "present_type": 1,
+        "present_id": 2700065,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 93,
+        "m_gacha_bonus_group_id": 93,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 94,
+        "m_gacha_bonus_group_id": 94,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 95,
+        "m_gacha_bonus_group_id": 95,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 96,
+        "m_gacha_bonus_group_id": 96,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 97,
+        "m_gacha_bonus_group_id": 97,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 98,
+        "m_gacha_bonus_group_id": 98,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 99,
+        "m_gacha_bonus_group_id": 99,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 100,
+        "m_gacha_bonus_group_id": 100,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 101,
+        "m_gacha_bonus_group_id": 101,
+        "present_type": 1,
+        "present_id": 2700015,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 102,
+        "m_gacha_bonus_group_id": 102,
+        "present_type": 1,
+        "present_id": 2700031,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 103,
+        "m_gacha_bonus_group_id": 103,
+        "present_type": 1,
+        "present_id": 2700015,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 104,
+        "m_gacha_bonus_group_id": 104,
+        "present_type": 1,
+        "present_id": 2700031,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 105,
+        "m_gacha_bonus_group_id": 105,
+        "present_type": 1,
+        "present_id": 2700085,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 106,
+        "m_gacha_bonus_group_id": 106,
+        "present_type": 1,
+        "present_id": 2700086,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 107,
+        "m_gacha_bonus_group_id": 107,
+        "present_type": 1,
+        "present_id": 2700085,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 108,
+        "m_gacha_bonus_group_id": 108,
+        "present_type": 1,
+        "present_id": 2700086,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 109,
+        "m_gacha_bonus_group_id": 109,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 110,
+        "m_gacha_bonus_group_id": 110,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 111,
+        "m_gacha_bonus_group_id": 111,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 112,
+        "m_gacha_bonus_group_id": 112,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 113,
+        "m_gacha_bonus_group_id": 113,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 114,
+        "m_gacha_bonus_group_id": 114,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 115,
+        "m_gacha_bonus_group_id": 115,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 116,
+        "m_gacha_bonus_group_id": 116,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 117,
+        "m_gacha_bonus_group_id": 117,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 118,
+        "m_gacha_bonus_group_id": 118,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 119,
+        "m_gacha_bonus_group_id": 119,
+        "present_type": 1,
+        "present_id": 2700035,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 120,
+        "m_gacha_bonus_group_id": 120,
+        "present_type": 1,
+        "present_id": 2700035,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 121,
+        "m_gacha_bonus_group_id": 121,
+        "present_type": 1,
+        "present_id": 2700062,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 122,
+        "m_gacha_bonus_group_id": 122,
+        "present_type": 1,
+        "present_id": 2720022,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 123,
+        "m_gacha_bonus_group_id": 123,
+        "present_type": 1,
+        "present_id": 2700062,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 124,
+        "m_gacha_bonus_group_id": 124,
+        "present_type": 1,
+        "present_id": 2720022,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 125,
+        "m_gacha_bonus_group_id": 125,
+        "present_type": 1,
+        "present_id": 2700094,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 126,
+        "m_gacha_bonus_group_id": 126,
+        "present_type": 1,
+        "present_id": 2700095,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 127,
+        "m_gacha_bonus_group_id": 127,
+        "present_type": 1,
+        "present_id": 2700094,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 128,
+        "m_gacha_bonus_group_id": 128,
+        "present_type": 1,
+        "present_id": 2700095,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 129,
+        "m_gacha_bonus_group_id": 129,
+        "present_type": 2,
+        "present_id": 20024,
+        "present_num": 1,
+        "present_rarity": 4,
+        "effect_rank": 1
+    },
+    {
+        "id": 130,
+        "m_gacha_bonus_group_id": 130,
+        "present_type": 1,
+        "present_id": 2700098,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 131,
+        "m_gacha_bonus_group_id": 131,
+        "present_type": 1,
+        "present_id": 2700096,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 132,
+        "m_gacha_bonus_group_id": 132,
+        "present_type": 1,
+        "present_id": 2700096,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 133,
+        "m_gacha_bonus_group_id": 133,
+        "present_type": 1,
+        "present_id": 2700098,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 134,
+        "m_gacha_bonus_group_id": 134,
+        "present_type": 1,
+        "present_id": 2700067,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 135,
+        "m_gacha_bonus_group_id": 135,
+        "present_type": 1,
+        "present_id": 2700066,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 136,
+        "m_gacha_bonus_group_id": 136,
+        "present_type": 1,
+        "present_id": 2700065,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 137,
+        "m_gacha_bonus_group_id": 137,
+        "present_type": 1,
+        "present_id": 2700067,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 138,
+        "m_gacha_bonus_group_id": 138,
+        "present_type": 1,
+        "present_id": 2700066,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 139,
+        "m_gacha_bonus_group_id": 139,
+        "present_type": 1,
+        "present_id": 2700065,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 140,
+        "m_gacha_bonus_group_id": 140,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 141,
+        "m_gacha_bonus_group_id": 141,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 142,
+        "m_gacha_bonus_group_id": 142,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 143,
+        "m_gacha_bonus_group_id": 143,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 144,
+        "m_gacha_bonus_group_id": 144,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 145,
+        "m_gacha_bonus_group_id": 145,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 146,
+        "m_gacha_bonus_group_id": 146,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 147,
+        "m_gacha_bonus_group_id": 147,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 148,
+        "m_gacha_bonus_group_id": 148,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 149,
+        "m_gacha_bonus_group_id": 149,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 150,
+        "m_gacha_bonus_group_id": 150,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 151,
+        "m_gacha_bonus_group_id": 151,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 152,
+        "m_gacha_bonus_group_id": 152,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 153,
+        "m_gacha_bonus_group_id": 153,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 154,
+        "m_gacha_bonus_group_id": 154,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 155,
+        "m_gacha_bonus_group_id": 155,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 156,
+        "m_gacha_bonus_group_id": 156,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 157,
+        "m_gacha_bonus_group_id": 157,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 158,
+        "m_gacha_bonus_group_id": 158,
+        "present_type": 1,
+        "present_id": 1840,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 159,
+        "m_gacha_bonus_group_id": 159,
+        "present_type": 1,
+        "present_id": 1841,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 160,
+        "m_gacha_bonus_group_id": 160,
+        "present_type": 1,
+        "present_id": 1842,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 161,
+        "m_gacha_bonus_group_id": 161,
+        "present_type": 1,
+        "present_id": 1843,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 162,
+        "m_gacha_bonus_group_id": 162,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 163,
+        "m_gacha_bonus_group_id": 163,
+        "present_type": 1,
+        "present_id": 1840,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 164,
+        "m_gacha_bonus_group_id": 164,
+        "present_type": 1,
+        "present_id": 1841,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 165,
+        "m_gacha_bonus_group_id": 165,
+        "present_type": 1,
+        "present_id": 1842,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 166,
+        "m_gacha_bonus_group_id": 166,
+        "present_type": 1,
+        "present_id": 1843,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 167,
+        "m_gacha_bonus_group_id": 167,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 168,
+        "m_gacha_bonus_group_id": 168,
+        "present_type": 1,
+        "present_id": 309,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 169,
+        "m_gacha_bonus_group_id": 169,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 170,
+        "m_gacha_bonus_group_id": 170,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 171,
+        "m_gacha_bonus_group_id": 171,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 172,
+        "m_gacha_bonus_group_id": 172,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 2,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 173,
+        "m_gacha_bonus_group_id": 173,
+        "present_type": 1,
+        "present_id": 309,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 174,
+        "m_gacha_bonus_group_id": 174,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 175,
+        "m_gacha_bonus_group_id": 175,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 176,
+        "m_gacha_bonus_group_id": 176,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 177,
+        "m_gacha_bonus_group_id": 177,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 2,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 178,
+        "m_gacha_bonus_group_id": 178,
+        "present_type": 1,
+        "present_id": 2720030,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 179,
+        "m_gacha_bonus_group_id": 179,
+        "present_type": 1,
+        "present_id": 2720030,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 180,
+        "m_gacha_bonus_group_id": 180,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 181,
+        "m_gacha_bonus_group_id": 181,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 182,
+        "m_gacha_bonus_group_id": 182,
+        "present_type": 1,
+        "present_id": 3402,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 183,
+        "m_gacha_bonus_group_id": 183,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 184,
+        "m_gacha_bonus_group_id": 184,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 185,
+        "m_gacha_bonus_group_id": 185,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 186,
+        "m_gacha_bonus_group_id": 186,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 187,
+        "m_gacha_bonus_group_id": 187,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 188,
+        "m_gacha_bonus_group_id": 188,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 189,
+        "m_gacha_bonus_group_id": 189,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 190,
+        "m_gacha_bonus_group_id": 190,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 191,
+        "m_gacha_bonus_group_id": 191,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 192,
+        "m_gacha_bonus_group_id": 192,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 193,
+        "m_gacha_bonus_group_id": 193,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 194,
+        "m_gacha_bonus_group_id": 194,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 195,
+        "m_gacha_bonus_group_id": 195,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 196,
+        "m_gacha_bonus_group_id": 196,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 197,
+        "m_gacha_bonus_group_id": 197,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 198,
+        "m_gacha_bonus_group_id": 198,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 199,
+        "m_gacha_bonus_group_id": 199,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 200,
+        "m_gacha_bonus_group_id": 200,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 201,
+        "m_gacha_bonus_group_id": 201,
+        "present_type": 1,
+        "present_id": 1840,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 202,
+        "m_gacha_bonus_group_id": 202,
+        "present_type": 1,
+        "present_id": 1841,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 203,
+        "m_gacha_bonus_group_id": 203,
+        "present_type": 1,
+        "present_id": 1842,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 204,
+        "m_gacha_bonus_group_id": 204,
+        "present_type": 1,
+        "present_id": 1843,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 205,
+        "m_gacha_bonus_group_id": 205,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 206,
+        "m_gacha_bonus_group_id": 206,
+        "present_type": 1,
+        "present_id": 1840,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 207,
+        "m_gacha_bonus_group_id": 207,
+        "present_type": 1,
+        "present_id": 1841,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 208,
+        "m_gacha_bonus_group_id": 208,
+        "present_type": 1,
+        "present_id": 1842,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 209,
+        "m_gacha_bonus_group_id": 209,
+        "present_type": 1,
+        "present_id": 1843,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 210,
+        "m_gacha_bonus_group_id": 210,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 211,
+        "m_gacha_bonus_group_id": 211,
+        "present_type": 1,
+        "present_id": 2700046,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 212,
+        "m_gacha_bonus_group_id": 212,
+        "present_type": 1,
+        "present_id": 2700046,
+        "present_num": 10,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 213,
+        "m_gacha_bonus_group_id": 213,
+        "present_type": 1,
+        "present_id": 2700094,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 214,
+        "m_gacha_bonus_group_id": 214,
+        "present_type": 1,
+        "present_id": 2700095,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 215,
+        "m_gacha_bonus_group_id": 215,
+        "present_type": 1,
+        "present_id": 2700094,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 216,
+        "m_gacha_bonus_group_id": 216,
+        "present_type": 1,
+        "present_id": 2700095,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 217,
+        "m_gacha_bonus_group_id": 217,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 218,
+        "m_gacha_bonus_group_id": 218,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 219,
+        "m_gacha_bonus_group_id": 219,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 220,
+        "m_gacha_bonus_group_id": 220,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 221,
+        "m_gacha_bonus_group_id": 221,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 222,
+        "m_gacha_bonus_group_id": 222,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 223,
+        "m_gacha_bonus_group_id": 223,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 224,
+        "m_gacha_bonus_group_id": 224,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 225,
+        "m_gacha_bonus_group_id": 225,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 226,
+        "m_gacha_bonus_group_id": 226,
+        "present_type": 1,
+        "present_id": 301,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 227,
+        "m_gacha_bonus_group_id": 227,
+        "present_type": 1,
+        "present_id": 403,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 228,
+        "m_gacha_bonus_group_id": 228,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 229,
+        "m_gacha_bonus_group_id": 229,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 230,
+        "m_gacha_bonus_group_id": 230,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 231,
+        "m_gacha_bonus_group_id": 231,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 232,
+        "m_gacha_bonus_group_id": 232,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 233,
+        "m_gacha_bonus_group_id": 233,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 75,
+        "present_rarity": 0,
+        "effect_rank": 2
+    },
+    {
+        "id": 234,
+        "m_gacha_bonus_group_id": 234,
+        "present_type": 1,
+        "present_id": 1602,
+        "present_num": 100,
+        "present_rarity": 0,
+        "effect_rank": 3
+    },
+    {
+        "id": 235,
+        "m_gacha_bonus_group_id": 235,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_num": 1,
+        "present_rarity": 5,
+        "effect_rank": 1
+    },
+    {
+        "id": 236,
+        "m_gacha_bonus_group_id": 236,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 237,
+        "m_gacha_bonus_group_id": 237,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 238,
+        "m_gacha_bonus_group_id": 238,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 239,
+        "m_gacha_bonus_group_id": 239,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_num": 1,
+        "present_rarity": 5,
+        "effect_rank": 1
+    },
+    {
+        "id": 240,
+        "m_gacha_bonus_group_id": 240,
+        "present_type": 1,
+        "present_id": 1844,
+        "present_num": 50,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 241,
+        "m_gacha_bonus_group_id": 241,
+        "present_type": 1,
+        "present_id": 2301,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 242,
+        "m_gacha_bonus_group_id": 242,
+        "present_type": 1,
+        "present_id": 1601,
+        "present_num": 1,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 12345921,
+        "m_gacha_bonus_group_id": 12345921,
+        "present_type": 1,
+        "present_id": 2700085,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 12345922,
+        "m_gacha_bonus_group_id": 12345922,
+        "present_type": 1,
+        "present_id": 2700086,
+        "present_num": 30,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 12345931,
+        "m_gacha_bonus_group_id": 12345931,
+        "present_type": 1,
+        "present_id": 2700085,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
+    },
+    {
+        "id": 12345932,
+        "m_gacha_bonus_group_id": 12345932,
+        "present_type": 1,
+        "present_id": 2700086,
+        "present_num": 20,
+        "present_rarity": 0,
+        "effect_rank": 1
     }
 ]

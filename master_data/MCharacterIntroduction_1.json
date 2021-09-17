@@ -351,7 +351,7 @@
     },
     {
         "id": 51,
-        "img_id": 51,
+        "img_id": 20014,
         "name": "Kurtis",
         "description": "The appearance of Kurtis during his lifetime.\nHe lost 70% of his body \nin an \"incident\", and is now \nmostly a mechanized cyborg.\nAlthough he and Gordon have \nhad their clashes, they are now \ncomrades in arms. \nWith hot blood wrapped in a steel body, he's determined to eliminate all evil!",
         "color_no": 4
@@ -490,6 +490,342 @@
         "color_no": 9
     },
     {
+        "id": 1018,
+        "img_id": 20024,
+        "name": "Mysterious Young Game Developer",
+        "description": "She appeared like a comet\nat this year's MGS\nwith her new VR game.\nCheerful and energetic,\nshe won the hearts of the organizers and\nthus got the best spot.\nIn spite of that,\nno one has played the game yet.\nIt seems as if she is waiting for someone to come.\nSo what's going on?",
+        "color_no": 9
+    },
+    {
+        "id": 1019,
+        "img_id": 20023,
+        "name": "Doomsday Overlord Asagi",
+        "description": "An evil Overlord that rules\nthe world of \"Disgaea Wars (Tentative)\".\nShe does anything that brings about\ndestruction, fear, and chaos.\nA perfect example of evil Overlord.\nPeople are scared of her,\nbut some are attracted to her bewitching appearance.\nIt's said that she even has an underground fan club.",
+        "color_no": 12
+    },
+    {
+        "id": 1020,
+        "img_id": 43,
+        "name": "Heroine Asagi",
+        "description": "\nThe Heroine of \"Disgaea Wars (Tentative)\".\nA cheerful, upright, and healthy girl\nwho fights bravely to save the world from\nthe clutch of the Overlord.\nShe has the same name of Asagi the Doomsday Overlord,\nbut shares only a bit of her appearance.\nThere is a noticeable difference, especially in the...\nOops, someone's coming.",
+        "color_no": 11
+    },
+    {
+        "id": 1021,
+        "img_id": 71,
+        "name": "Monster Hunter Meaver",
+        "description": "She makes her living by hunting the monsters\nall over the Netherworld.\nShe believes that she should change her clothes in line with her surroundings,\nas this will help keep her emotions high.\nSometimes she dresses up as a portal ferryman,\nand sometimes as a sailor. This time, she has put on her swimsuit\nin order to hunt down the sea animal.\nShe is cheerful and kind most of the time,\nbut when she fights monsters\nor other hunters who intend to lay a finger on her pray,\nshe becomes belligerent and unrelenting.\nShe prefers \"Chocolate Coronets\" over regular meals,\nand eating them on top of the fresh-slain monsters\nis considered a special treat by her.",
+        "color_no": 11
+    },
+    {
+        "id": 1022,
+        "img_id": 39,
+        "name": "Awakened Killia",
+        "description": "Supported by the Five Original Overlords,\nKillia has overcome his\nanger, sorrow, and troubled past.\nHe is no longer beset by his confusion, and his true power has awakened.\nIn this awakened state,\nKillia's abilities have improved significantly.\nThat also includes his cooking skills,\nif you know what I mean...\nSuch a miraculous boost should be called \"awakening\"!\nThe day Awakened Killia emerges,\nwould change the history of cooking.",
+        "color_no": 8
+    },
+    {
+        "id": 1023,
+        "img_id": 72,
+        "name": "Sea Club Owner Merlin",
+        "description": "The owner of the Sea Club.\nThe number of tourist has plummeted due to the monster incident,\nand the beach hut has fallen into financial difficulties,\nwhich worries Merlin.\nHowever, she came up with the\n\"treasure hunt\" idea to attract new customers,\nand successfully attracted battle-seasoned\nadventurers who were interested in the treasure.\nAs a real virtuoso in slicing watermelons,\nshe can slice through watermelons\nno matter what she is holding in her hand.",
+        "color_no": 6
+    },
+    {
+        "id": 1024,
+        "img_id": 90006,
+        "name": "Fake Zenon",
+        "description": "Proclaiming himself to be Zenon,\nthis wretched middle-aged demon took Rozalin,\nthe true incarnation of Zenon, as his daughter.\nThis is how he satisfied his desire\nfor vengeance and vanity.\nHe destroyed Snow Melody Village,\nRozalin's homeland, and therefore was seen as\na sworn enemy by Fubuki and Yukimaru.\nHe feeds on the consciences of humans,\nand will rise from the ashes no matter how many times he is defeated,\nthough he was eventually eradicated by awakened Zenon once and for all.\nAs a result, nobody ever knew his true name.",
+        "color_no": 12
+    },
+    {
+        "id": 1025,
+        "img_id": 24,
+        "name": "Salvatore",
+        "description": "A powerful girl and a member of the\nDiez Gentleman in the Evil Academy,\na title only for the cream of the delinquent students.\nAlthough a girl, somehow she has been widely accepted as a gentle \"man\".\nDomineering and prone to force others to carry out her whimsical orders,\nshe is extremely difficult\nto get along with.",
+        "color_no": 12
+    },
+    {
+        "id": 1026,
+        "img_id": 15,
+        "name": "Barbara",
+        "description": "Laharl's vassal.\nOriginally a member of the anti-Laharl faction,\nshe swore allegiance to Laharl\nafter a series of events.\nPassive and obedient,\nshe will never do anything if no one has given her orders.\nAlthough she seems to be making an effort\nto think and act on her own...",
+        "color_no": 7
+    },
+    {
+        "id": 1027,
+        "img_id": 67,
+        "name": "Lucy",
+        "description": "A mysterious fallen angel appearing out of nowhere.\nShe seems to be hunted by demons,\nthough the way she talks and acts is extremely suspicious.\nWhat? You said she appeared in the last scene of the EP 1 story,\nand at that time she said she was going to conduct an undercover investigation?\nSpoiler alert!",
+        "color_no": 1
+    },
+    {
+        "id": 1028,
+        "img_id": 66,
+        "name": "Dias",
+        "description": "A self-proclaimed fallen angel hunter,\nhe seems to be chasing down Lucy, a totally small-time villain.\nHowever, his words and actions are somewhat awkward.\nSupposedly, he is another\nundercover investigator just like Lucy...\nHey, you will keep your mouth shut, right?\nPlease keep this matter a secret for my sake!",
+        "color_no": 7
+    },
+    {
+        "id": 1029,
+        "img_id": 74,
+        "name": "Raspberyl XENO",
+        "description": "A mysterious girl from another world,\nlooking exactly as Raspberyl.\nShe plays with her smartphone all the time.\nIs that ok,\nRaspberyl XENO...?\nXENO is read as \"Zeno\".",
+        "color_no": 12
+    },
+    {
+        "id": 1030,
+        "img_id": 60003,
+        "name": "Mao XENO",
+        "description": "A mysterious boy from another world,\nlooking exactly like Mao.\nHe, too, followed Saint Etna and\narrived in this Netherworld.\nHe has invented his own evil gymnastics\nand will work out whenever he's idle.\nBy the way, he's nicknamed \"Mao Mao\".",
+        "color_no": 12
+    },
+    {
+        "id": 1031,
+        "img_id": 77,
+        "name": "Firework Master Hibana",
+        "description": "A firework master\nwho is obsessed with developing\nnew innovative fireworks.\nOf course, fireworks are essential for the summer fest.\nShe attends the fest because she sees it\nas her perfect opportunity to show off her splendid works.\nShe is intending to create unprecedented Sardine Fireworks,\nbut it seems that her lack of inspiration\nhas prevented her from doing so.",
+        "color_no": 3
+    },
+    {
+        "id": 1032,
+        "img_id": 78,
+        "name": "Meliodas",
+        "description": "Despite his youthful appearance,\nhe is actually the Dragon's Sin of Wrath\nand captain of the Seven Deadly Sins,\nas well as the owner of the renowned tavern Boar Hat.",
+        "color_no": 3
+    },
+    {
+        "id": 1033,
+        "img_id": 79,
+        "name": "Elizabeth",
+        "description": "The third adoptive princess of the Kingdom of Liones.\nA crybaby she might appear,\nshe actually has a strong will and a benevolent heart.\nShe is able to unleash incredible healing powers\nwhen she is eager to save others.",
+        "color_no": 9
+    },
+    {
+        "id": 1034,
+        "img_id": 80,
+        "name": "Ban",
+        "description": "The Fox's Sin of Greed of the Seven Deadly Sins,\nknown for his fox-patterned tattoo\nand his immortality.\nHe will do whatever it takes to steal anything that interests him,\nbut pays no heed to anything else.",
+        "color_no": 1
+    },
+    {
+        "id": 1035,
+        "img_id": 81,
+        "name": "Diane",
+        "description": "The Serpent's Sin of Envy of the\nSeven Deadly Sins.\nDespite her lack of magic abilities,\nshe is unparalleled\nwhen it comes to strength.\nAmong her kindreds,\nshe is a rare peace-loving girl.",
+        "color_no": 6
+    },
+    {
+        "id": 1036,
+        "img_id": 82,
+        "name": "Gowther",
+        "description": "The Goat's Sin of Lust\nof the Seven Deadly Sins.\nUnisex in appearance,\nhe is always indifferent and unemotional.",
+        "color_no": 7
+    },
+    {
+        "id": 1037,
+        "img_id": 85,
+        "name": "Merlin",
+        "description": "The Boar's Sin of Gluttony of the\nSeven Deadly Sins.\nShe is regarded as the\ngreatest sorceress in Britannia.",
+        "color_no": 12
+    },
+    {
+        "id": 1038,
+        "img_id": 86,
+        "name": "King",
+        "description": "The Grizzly's Sin of Sloth of the Seven Deadly Sins,\nand the king of fairies.\n\nSince the moment he met Diane 700 years ago,\nhe has been in love with her.",
+        "color_no": 4
+    },
+    {
+        "id": 1039,
+        "img_id": 90007,
+        "name": "Hawk",
+        "description": "Despite his rude way of talking, he is actually a warm-hearted piggy.\nHe speaks human language and\ngets rid of the leftovers in the Boar Hat.",
+        "color_no": 9
+    },
+    {
+        "id": 1040,
+        "img_id": 20,
+        "name": "Mid-Boss",
+        "description": "His real name is “Vyers the Dark Adonis”,\nhowever,\nhas become \"Mid-Boss\",\nsince Laharl ruthlessly said,\n\"Who gives a damn about you? Your new name is Mid-Boss.\"\nActually, His true identity is Laharl's father,\na close friend of Archangel Lamington,\nKing Krichevskoy himself.\nIn addition, he is the only one in this world,\nwho has earned Etna's respect.",
+        "color_no": 7
+    },
+    {
+        "id": 1041,
+        "img_id": 87,
+        "name": "Cute Flonne",
+        "description": "\nThe leader of the Cutie V\nin a red uniform, of course!\nBecause the leader of a group always\nwears red!\nAs an advocator of love, she protects all kinds of love,\nfrom the trivial love for crab miso to the extraordinary love for the entire universe!\nTo prepare for the final battle against the evil force,\nshe started recruiting new members.\nShe has found two promising talents!\nIn order to help them become qualified rangers,\nCute Flonne enrolled them into the reserves of the Cutie V\nand is infusing them with the true essence of love!",
+        "color_no": 1
+    },
+    {
+        "id": 1042,
+        "img_id": 88,
+        "name": "Cute Chacha",
+        "description": "She was busy picking peaches on a towering cliff\nwhen her athletic potential was appreciated by Cute Flonne,\nwho later convinced her to join\nthe Cutie V as its first reserve member.\nShe loves her carefree life\nand was reluctant to join the Cutie V at first,\nbut after hearing that she could enjoy\nas much catnip and other snacks as she please,\nshe was eventually persuaded.\nKnowing that she can't enjoy snacks\nuntil she accepts training and preaches\nabout the greatness of love and justice,\nshe has no choice but to stay in the Cutie V as a reserve member.",
+        "color_no": 9
+    },
+    {
+        "id": 1043,
+        "img_id": 89,
+        "name": "Cute Merlin",
+        "description": "The second reserve member of the Cutie V,\nshe has a zeal for mustard sauce\nand will add it to whatever she eats\nHer love for mustard sauce is so overwhelming\nthat she has even invented her own spells to protect it\nand has been preaching about her love for mustard sauce,\nthough no one really pays much attention.\nCute Flonne was deeply touched\nby her unconditional love for mustard and\ninvited her to the Cutie V.\nBelieving that joining the Cutie V will boost her popularity,\nand that the denizens of the Netherworld\nwill be helping her protect her precious mustard sauce,\nshe accepted Cute Flonne's invitation.",
+        "color_no": 3
+    },
+    {
+        "id": 1044,
+        "img_id": 90008,
+        "name": "Matt",
+        "description": "A human who was illuminated by the light from\nMatt's Dark Mirror and accidentally arrived at the Netherworld.\nHe soon became widely known as a splendid model and singer,\nrising to fame in all fields.\nHis special makeup, known as Matt's Makeup, was extremely popular in all Netherworlds!\nSeeing his cherished\nDark Mirror\ntainted by the corruption in the Netherworld\nand used to commit numerous crimes,\nhe is feeling heartbroken.\nBy the way,\none of his dreams is to cast spells.",
+        "color_no": 11
+    },
+    {
+        "id": 1045,
+        "img_id": 94,
+        "name": "Zed",
+        "description": "A zombie boy who uses teleportation spell\ncalled \"Super Reincarnation\" to travel across Netherworlds\non his quest to defeat the God of Destruction.\nHe comes across as extremely bubbly,\nbut he is, in fact, a rather calm zombie.\nRumor has it that during his countless reincarnations and\nvictories over the God of Destruction,\nhis heart hardened,\nmaking him become rude and violent.\n\nPlease find more details in\nDisgaea 6, coming soon!",
+        "color_no": 1
+    },
+    {
+        "id": 1046,
+        "img_id": 95,
+        "name": "Majolene",
+        "description": "Known as the Witch of the Abyss,\nshe is also the principal of the\nMagimage School of Magic.\nShe may look like\njust a cute little witch,\nbut her power is the real deal!\nThose who dare to cross her\nwill be severely punished by her spells.",
+        "color_no": 9
+    },
+    {
+        "id": 1047,
+        "img_id": 94,
+        "name": "Zed",
+        "description": "Class: Zombie\n\nA sharp-eyed zombie boy\nwho seems to have his own difficulties...",
+        "color_no": 1
+    },
+    {
+        "id": 1048,
+        "img_id": 90009,
+        "name": "Cerberus",
+        "description": "Class: Zombie Dog\n\nZed's partner.\nAlthough not good at fighting,\nhe will try to help Zed in any way he can.",
+        "color_no": 6
+    },
+    {
+        "id": 1049,
+        "img_id": 90010,
+        "name": "Overlord Ivar",
+        "description": "Class: Overlord\n\nHe claimed to be the greatest and\nstrongest Overlord in the entire universe.",
+        "color_no": 1
+    },
+    {
+        "id": 1050,
+        "img_id": 65,
+        "name": "Torachiyo",
+        "description": "A battle-seasoned adventurer\nwho has dedicated her entire life to rice balls.\nShe literally cares about nothing but rice balls.\nIs someone calling out for the King of Rice Balls?!\nWhy does she love rice balls so much?\nActually, there's a very sad story\nbehind her obsession with rice balls,\nbut we'll talk about it next time!",
+        "color_no": 0
+    },
+    {
+        "id": 1051,
+        "img_id": 20004,
+        "name": "Des X",
+        "description": "The ultimate weapon created by Fuka's father,\nGenjuro Kazamatsuri.\nShe once went toe-to-toe with Fuka and Desco,\nbut they buried the hatchet after a fierce battle.\nAnd so,\nthe fearsome world conqueror trio,\nFuka, Desco and Des X,\nhave started their conquest.\nEven now, she and Desco still\nfight for the title of\nthe true final boss.",
+        "color_no": 12
+    },
+    {
+        "id": 1052,
+        "img_id": 90011,
+        "name": "Genjuro Kazamatsuri",
+        "description": "Fuka's father,\na mad scientist who\ncreated Desco and Des X\nusing the demon cells\nhe obtained from the Netherworld.\nHe is actually a\ngood(?) father who wants to his daughter's\ndream of conquering the world.",
+        "color_no": 11
+    },
+    {
+        "id": 1053,
+        "img_id": 20009,
+        "name": "Taro",
+        "description": "Adell's younger brother who lives in Holt Village.\nHis parents were already demonized when he was conceived,\nso he was born with the appearance of a demon.\nCurrently, he's training relentlessly,\nwith a view to becoming\nRozalin's worthy vassal.",
+        "color_no": 2
+    },
+    {
+        "id": 1054,
+        "img_id": 20010,
+        "name": "Hanako",
+        "description": "Adell's younger sister\nwho lives in Holt Village. Just like her elder brother Taro,\nher parents were already demonized when she was conceived,\nso she was born with the appearance of a demon.\nIn order to become an outstanding Majin,\nshe has become Etna's disciple with a promising future.",
+        "color_no": 9
+    },
+    {
+        "id": 1055,
+        "img_id": 94,
+        "name": "Zed",
+        "description": "The protagonist of Disgaea 6,\nthe latest addition to the Disgaea Series.\nDisgaea 6 will be officially launched on January 28th, 2021!\nIt is available for pre-order now!",
+        "color_no": 1
+    },
+    {
+        "id": 1056,
+        "img_id": 60009,
+        "name": "Sicily XENO",
+        "description": "Another Sicily\nfrom another world, proclaiming to be an Overlord\nand wearing an iconic (?) accessory for Overlords:\na red scarf.\nThe rings on her both hands\nallow her to cast extremely powerful skills.\nEach of these rings has its own name,\nand whenever Sicily XENO casts a skill,\nshe calls out the name of the ring with all her might.\nBecause she believes “This will make me more impressive!”\nHa-Hahahaha!!\nBy the way,\nshe remembers the names of the rings that she often uses,\nbut she can't really recall the names of the rarely used ones.",
+        "color_no": 12
+    },
+    {
+        "id": 1057,
+        "img_id": 99,
+        "name": "Thunderlord Laharl",
+        "description": "Another Laharl\nfrom another world.\nDressed in white,\nhe carries the aura of a gentleman.\nHis serious and earnest disposition does not really give the impression of a demon.\nHe wields the power of lightning when he fights,\nhence his title \"Thunder Lord\".\nHe is tasked to protect Saint Etna\nfrom being kidnapped by the XENO Clan,\nbut the real reason for coming to this world\nseems to be his younger sister.",
+        "color_no": 3
+    },
+    {
+        "id": 1058,
+        "img_id": 20029,
+        "name": "Dark Santa Usalia",
+        "description": "Usalia, who has inherited\nLaharl's Dark Santa suit.\nPerhaps because of her overly kind nature,\nshe was particularly prone to the corruption of the Dark Santa suit,\nand now she has become a grim and cruel demoness.\nOne of the Five Original Overlords,\nUsalia possesses overwhelming power.\nNow under the influence of the Dark Santa suit,\nher true power is no longer confined\nby her benevolence towards this world,\nand she has become immensely powerful!\nThe Dark Santa suit is indeed terrifying...",
+        "color_no": 12
+    },
+    {
+        "id": 1059,
+        "img_id": 90012,
+        "name": "Tink",
+        "description": "A demon with a dual personality,\nRozalin's childhood friend.\nOnce a beautiful and elegant boy,\nnow he has become\nas ugly as a frog.\nHe is gentle and polite (?) most of the time,\nbut when he gets angry,\nhis body will turn red and he will start wreaking havoc. He is a dangerous monster.\nnOnce again, Tink has failed to find a girlfriend this year\nand will have to spend his Christmas alone.\nIn the end, he bought an extra-large\nChristmas roast chicken\nso that he could at least enjoy the Christmas spirit.",
+        "color_no": 8
+    },
+    {
+        "id": 1060,
+        "img_id": 20032,
+        "name": "Sakuya, Mother of the Netherworld",
+        "description": "Despite her youthful appearance,\nshe is actually a battle-hardened senior Nine-Tails.\nShe has made divination her life's work,\nbelieving that the results of divination must not be defied.\nHer belief makes her a troublemaker,\nas she will always try to make the results come true using her own powers.\nShe will curse those who get terrible divination results,\nand grant her favor to those who get ideal results.",
+        "color_no": 11
+    },
+    {
+        "id": 1061,
+        "img_id": 90013,
+        "name": "Sweetheart Omega",
+        "description": "In the Lab of Love,\nthe most classic, authoritative, and popular love\nis a school romance.\nShe participated in the contest for the heroine\nand won the championship.\nAs an expert of romance,\nher impeccable school love performances\nhave given many boys a taste\nof the sweet and sour sides of love.",
+        "color_no": 7
+    },
+    {
+        "id": 1062,
+        "img_id": 90014,
+        "name": "Trista",
+        "description": "Her full name is Trista Izzy von DeBrueck,\nthe daughter of the Lord who rules DeBrueck.\nDistressed by the tyranny of her father,\nOrton Izzy von DeBrueck,\nshe was on her way to an audience with the king\nwhen she was attacked by assassins sent by her father.\nThat's pretty much her character.\nAs a charming demoness,\nshe excels at luring men\ninto \"rescuing\" her.",
+        "color_no": 1
+    },
+    {
+        "id": 1063,
+        "img_id": 90015,
+        "name": "Merome Romero",
+        "description": "A zombie girl loves horror stories\nbut is somehow afraid of ghosts.\nShe used to cry like \"Gyaah! That's so scary ♥\"\nand throws herself into the arms of the man nearby. Such scene has happened myriads of times.\nAnd numerous men was captured.\nSadly,\nit is the nature of men that makes them simply can't resist her.",
+        "color_no": 12
+    },
+    {
+        "id": 1064,
+        "img_id": 106,
+        "name": "Melodia",
+        "description": "A princess who dreams of having a beautiful love story.\nShe's always looking forward to\nher own happy ending.\nShe loves to sing and\nsings whenever she sees fit.\nAs for why she calls Zed her fiancé,\nplease find more information in Disgaea 6!",
+        "color_no": 11
+    },
+    {
+        "id": 1065,
+        "img_id": 107,
+        "name": "Overlord Ivar",
+        "description": "The self-proclaimed greatest Overlord\nin the entire universe... probably.\nWhile he does possess amazing power,\nhis hopeless stupidity\ndenies him any respect at all.",
+        "color_no": 1
+    },
+    {
         "id": 20001,
         "img_id": 20001,
         "name": "Usalia",
@@ -577,7 +913,7 @@
         "id": 20018,
         "img_id": 20018,
         "name": "Ms. Raspberyl",
-        "description": "Raspberyl has been considered \nthe No.1 Evil Academy Delinquent at the Evil Academy since its establishment.\nHer escapades have made her a legend.\nShe is never late to class and always eats up everything on her plate.\nShe will always say hello to whoever greets her and goes home on time.\nShe never ceases to amaze the world with her heroic deeds.\nShe was even able to become one of the first Evil Academy alumni.\nAfter graduating, she became a Delinquent Teacher and used this to further pursue a path of delinquency.",
+        "description": "Raspberyl has been considered \nthe No.1 Delinquent Student at the Evil Academy since its establishment.\nHer escapades have made her a legend.\nShe is never late to class and always eats up everything on her plate.\nShe will always say hello to whoever greets her and goes home on time.\nShe never ceases to amaze the world with her heroic deeds.\nShe was even able to become one of the first Evil Academy alumni.\nAfter graduating, she became a Delinquent Teacher and used this to further pursue a path of delinquency.",
         "color_no": 9
     },
     {

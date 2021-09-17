@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "help_count": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_num": "Int32",
+        "present_rarity": "Int32",
+        "present_max_num": "Int32"
+    },
+    "properties": {
+        "HelpCount": "Int32",
+        "PresentType": "Int32",
+        "PresentId": "UInt64",
+        "PresentNum": "Int32",
+        "PresentRarity": "Int32",
+        "PresentMaxNum": "Int32"
+    }
+}

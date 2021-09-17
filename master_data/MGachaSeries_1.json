@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "联动纪念 免费10次高级召唤",
+        "limit_type": 1,
+        "limit_num": 1
+    },
+    {
+        "id": 2,
+        "name": "1周年大感谢祭 免费10次高级召唤1",
+        "limit_type": 1,
+        "limit_num": 1
+    },
+    {
+        "id": 3,
+        "name": "1周年大感谢祭 免费10次高级召唤1",
+        "limit_type": 1,
+        "limit_num": 1
+    },
+    {
+        "id": 4,
+        "name": "魔界新年 免费10次高级召唤",
+        "limit_type": 1,
+        "limit_num": 1
+    }
+]

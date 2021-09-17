@@ -1,112 +1,59 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "name_battle": "String",
+        "command_category": "UInt64",
+        "attr": "Int32",
+        "max_lv": "Int32",
+        "circle_flg": "Boolean",
+        "icon_type": "Int32",
+        "sp_min": "Int32",
+        "sp_max_30": "Int32",
+        "sp_max_40": "Int32",
+        "sp_max_50": "Int32",
+        "gain_sp": "Int32",
+        "relational_param": "Int32",
+        "command_types": "Int32[]",
+        "effect_values_min": "Int32[]",
+        "effect_values_max_30": "Int32[]",
+        "effect_values_max_40": "Int32[]",
+        "effect_values_max_50": "Int32[]",
+        "variance_rates": "Int32[]",
+        "effect_values_sub_min": "Int32[]",
+        "effect_values_sub_max": "Int32[]",
+        "effect_targets": "Int32[]",
+        "description_effect": "String",
+        "description": "String",
+        "resource_id": "UInt64"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "string",
-        "name": "name_battle",
-        "offset": 32
-    },
-    {
-        "type": "ulong",
-        "name": "command_category",
-        "offset": 40
-    },
-    {
-        "type": "int",
-        "name": "attr",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "max_lv",
-        "offset": 52
-    },
-    {
-        "type": "bool",
-        "name": "circle_flg",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "icon_type",
-        "offset": 60
-    },
-    {
-        "type": "int",
-        "name": "sp_min",
-        "offset": 64
-    },
-    {
-        "type": "int",
-        "name": "sp_max",
-        "offset": 68
-    },
-    {
-        "type": "int",
-        "name": "gain_sp",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "relational_param",
-        "offset": 76
-    },
-    {
-        "type": "int[]",
-        "name": "command_types",
-        "offset": 80
-    },
-    {
-        "type": "int[]",
-        "name": "effect_values_min",
-        "offset": 88
-    },
-    {
-        "type": "int[]",
-        "name": "effect_values_max",
-        "offset": 96
-    },
-    {
-        "type": "int[]",
-        "name": "variance_rates",
-        "offset": 104
-    },
-    {
-        "type": "int[]",
-        "name": "effect_values_sub_min",
-        "offset": 112
-    },
-    {
-        "type": "int[]",
-        "name": "effect_values_sub_max",
-        "offset": 120
-    },
-    {
-        "type": "int[]",
-        "name": "effect_targets",
-        "offset": 128
-    },
-    {
-        "type": "string",
-        "name": "description_effect",
-        "offset": 136
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 144
-    },
-    {
-        "type": "ulong",
-        "name": "resource_id",
-        "offset": 152
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "NameBattle": "String",
+        "CommandCategory": "UInt64",
+        "Attr": "Int32",
+        "maxLv": "Int32",
+        "CircleFlg": "Boolean",
+        "IconType": "Int32",
+        "spMinLevel": "Int32",
+        "spMaxLevel30": "Int32",
+        "spMaxLevel40": "Int32",
+        "spMaxLevel50": "Int32",
+        "GainSp": "Int32",
+        "RelationalParam": "Int32",
+        "CommandTypes": "Int32[]",
+        "effectValuesMinLevel": "Int32[]",
+        "effectValuesMaxLevel30": "Int32[]",
+        "effectValuesMaxLevel40": "Int32[]",
+        "effectValuesMaxLevel50": "Int32[]",
+        "VarianceRates": "Int32[]",
+        "effectValuesSubMinLevel": "Int32[]",
+        "effectValuesSubMaxLevel": "Int32[]",
+        "EffectTargets": "Int32[]",
+        "DescriptionEffect": "String",
+        "Description": "String",
+        "ResourceId": "UInt64",
+        "WeaponTypeList": "List`1"
     }
-]
+}

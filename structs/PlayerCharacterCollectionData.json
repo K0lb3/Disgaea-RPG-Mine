@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "id": "UInt64",
+        "m_character_id": "UInt64",
+        "max_lv": "Int32",
+        "story_status": "Int32[]",
+        "ritual_training_status": "UInt32",
+        "contest_stage": "UInt64"
+    },
+    "properties": {
+        "Id": "UInt64",
+        "MCharacterId": "UInt64",
+        "MaxLv": "Int32",
+        "StoryStatus": "Int32[]",
+        "RitualTrainingStatus": "UInt32",
+        "ClearContestStage": "UInt64",
+        "NextContestStage": "UInt64",
+        "IsNextRitualTraining": "Boolean",
+        "MasterRitualTrainingDataList": "List`1",
+        "PlayableMasterRitualTrainingDataList": "List`1"
+    }
+}

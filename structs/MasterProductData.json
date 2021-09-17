@@ -1,97 +1,26 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
-    },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "icon_no",
-        "offset": 32
-    },
-    {
-        "type": "string",
-        "name": "icon_resource_name",
-        "offset": 40
-    },
-    {
-        "type": "ulong",
-        "name": "m_item_shop_id",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "limit_type",
-        "offset": 56
-    },
-    {
-        "type": "int",
-        "name": "limit_num",
-        "offset": 60
-    },
-    {
-        "type": "int",
-        "name": "price_type",
-        "offset": 64
-    },
-    {
-        "type": "ulong",
-        "name": "price_m_item_id",
-        "offset": 72
-    },
-    {
-        "type": "int",
-        "name": "price",
-        "offset": 80
-    },
-    {
-        "type": "bool",
-        "name": "comeback",
-        "offset": 84
-    },
-    {
-        "type": "string",
-        "name": "description",
-        "offset": 88
-    },
-    {
-        "type": "string",
-        "name": "cheaping",
-        "offset": 96
-    },
-    {
-        "type": "bool",
-        "name": "pack_flg",
-        "offset": 104
-    },
-    {
-        "type": "int",
-        "name": "sort",
-        "offset": 108
-    },
-    {
-        "type": "bool",
-        "name": "recommended_flg",
-        "offset": 112
-    },
-    {
-        "type": "string",
-        "name": "recommended_message",
-        "offset": 120
-    },
-    {
-        "type": "string",
-        "name": "open_at",
-        "offset": 128
-    },
-    {
-        "type": "string",
-        "name": "close_at",
-        "offset": 136
+{
+    "fields": {},
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "IconNo": "Int32",
+        "IconResouceName": "String",
+        "MItemShopId": "UInt64",
+        "LimitType": "Int32",
+        "LimitNum": "Int32",
+        "PriceType": "Int32",
+        "PriceMItemId": "UInt64",
+        "Price": "Int32",
+        "Comeback": "Boolean",
+        "Description": "String",
+        "Cheaping": "String",
+        "PackFlg": "Boolean",
+        "Sort": "Int32",
+        "RecomendedFlg": "Boolean",
+        "RecomendedMessage": "String",
+        "OpenAt": "String",
+        "CloseAt": "String",
+        "OpenTime": "DateTime",
+        "CloseTime": "DateTime"
     }
-]
+}

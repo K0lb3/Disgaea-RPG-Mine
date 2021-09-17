@@ -1,37 +1,24 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "innocent_type": "Int32",
+        "category": "Int32",
+        "description_format": "String",
+        "calculate_format": "String",
+        "effect_type": "Int32",
+        "weapon_type": "Int32",
+        "m_character_id": "UInt64"
     },
-    {
-        "type": "string",
-        "name": "name",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "innocent_type",
-        "offset": 32
-    },
-    {
-        "type": "int",
-        "name": "category",
-        "offset": 36
-    },
-    {
-        "type": "string",
-        "name": "description_format",
-        "offset": 40
-    },
-    {
-        "type": "string",
-        "name": "calculate_format",
-        "offset": 48
-    },
-    {
-        "type": "int",
-        "name": "effect_type",
-        "offset": 56
+    "properties": {
+        "Id": "UInt64",
+        "Name": "String",
+        "InnocentType": "Int32",
+        "Category": "Int32",
+        "DescriptionFormat": "String",
+        "CalculateFormat": "String",
+        "EffectType": "Int32",
+        "WeaponType": "Int32",
+        "MCharacterId": "UInt64"
     }
-]
+}

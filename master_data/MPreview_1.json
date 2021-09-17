@@ -78,6 +78,42 @@
         "voice_name": "1_12"
     },
     {
+        "id": 90401,
+        "m_area_id": 90401,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_1"
+    },
+    {
+        "id": 90402,
+        "m_area_id": 90402,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_2"
+    },
+    {
+        "id": 90403,
+        "m_area_id": 90403,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_3"
+    },
+    {
+        "id": 90404,
+        "m_area_id": 90404,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_4"
+    },
+    {
+        "id": 90405,
+        "m_area_id": 90405,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_5"
+    },
+    {
+        "id": 90406,
+        "m_area_id": 90406,
+        "bgm": "bgm_4_16",
+        "voice_name": "4_6"
+    },
+    {
         "id": 90601,
         "m_area_id": 90601,
         "bgm": "bgm_battle05",
@@ -166,5 +202,11 @@
         "m_area_id": 90615,
         "bgm": "bgm_battle05",
         "voice_name": "5_15"
+    },
+    {
+        "id": 90701,
+        "m_area_id": 90701,
+        "bgm": "bgm_dis6_prev",
+        "voice_name": "rpg_1"
     }
 ]

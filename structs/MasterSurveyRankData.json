@@ -1,17 +1,18 @@
-[
-    {
-        "type": "ulong",
-        "name": "id",
-        "offset": 16
+{
+    "fields": {
+        "id": "UInt64",
+        "rank": "Int32",
+        "need_exp": "UInt64",
+        "character_max": "Int32",
+        "hour_max": "Int32",
+        "resource_name": "String"
     },
-    {
-        "type": "int",
-        "name": "survey_rank",
-        "offset": 24
-    },
-    {
-        "type": "int",
-        "name": "need_num",
-        "offset": 28
+    "properties": {
+        "Id": "UInt64",
+        "Rank": "Int32",
+        "NeedExp": "UInt64",
+        "CharacterMax": "Int32",
+        "HourMax": "Int32",
+        "ResourceName": "String"
     }
-]
+}

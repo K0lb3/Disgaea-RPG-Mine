@@ -1,4 +1,5 @@
 {
+    "inheritance": "CollectionBase",
     "fields": {},
     "properties": {
         "Item": "CodeTypeDeclaration"

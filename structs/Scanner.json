@@ -1,4 +1,5 @@
 {
+    "inheritance": "IScanner",
     "fields": {
         "indent": "Int32",
         "previous": "Token"

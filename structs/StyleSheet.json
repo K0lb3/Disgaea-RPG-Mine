@@ -1,4 +1,5 @@
 {
+    "inheritance": "ScriptableObject",
     "fields": {
         "_keys": "List`1",
         "_styles": "List`1"

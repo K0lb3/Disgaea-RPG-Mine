@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICloneable, IFormatProvider",
     "fields": {
         "parent_lcid": "Int32",
         "datetime_index": "Int32",

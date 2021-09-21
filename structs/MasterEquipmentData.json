@@ -1,4 +1,5 @@
 {
+    "inheritance": "MasterWeaponOrEquipmetBase",
     "fields": {
         "equipment_type": "Int32"
     },

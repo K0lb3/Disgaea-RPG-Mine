@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICollection`1, IEnumerable`1, IEnumerable, ICollection, IReadOnlyCollection`1",
     "fields": {
         "_dictionary": "SortedDictionary`2"
     },

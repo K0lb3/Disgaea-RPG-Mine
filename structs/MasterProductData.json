@@ -1,5 +1,26 @@
 {
-    "fields": {},
+    "inheritance": "IMasterData, ITermRecord",
+    "fields": {
+        "id": "UInt64",
+        "name": "String",
+        "icon_no": "Int32",
+        "icon_resource_name": "String",
+        "m_item_shop_id": "UInt64",
+        "limit_type": "Int32",
+        "limit_num": "Int32",
+        "price_type": "Int32",
+        "price_m_item_id": "UInt64",
+        "price": "Int32",
+        "comeback": "Boolean",
+        "description": "String",
+        "cheaping": "String",
+        "pack_flg": "Boolean",
+        "sort": "Int32",
+        "recommended_flg": "Boolean",
+        "recommended_message": "String",
+        "open_at": "String",
+        "close_at": "String"
+    },
     "properties": {
         "Id": "UInt64",
         "Name": "String",

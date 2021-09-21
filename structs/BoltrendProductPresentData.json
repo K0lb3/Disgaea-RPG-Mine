@@ -1,4 +1,5 @@
 {
+    "inheritance": "MasterProductPresentData",
     "fields": {
         "b_product_id": "UInt64"
     },

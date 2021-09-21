@@ -1,4 +1,5 @@
 {
+    "inheritance": "CodeAccessPermission, IUnrestrictedPermission, IBuiltInPermission",
     "fields": {
         "flags": "SecurityPermissionFlag"
     },

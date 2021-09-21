@@ -1,4 +1,5 @@
 {
+    "inheritance": "CustomConstantAttribute",
     "fields": {
         "date": "DateTime"
     },

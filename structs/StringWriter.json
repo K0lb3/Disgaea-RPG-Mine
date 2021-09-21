@@ -1,4 +1,5 @@
 {
+    "inheritance": "TextWriter",
     "fields": {
         "_sb": "StringBuilder"
     },

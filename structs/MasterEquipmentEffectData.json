@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData, IEquipmentEffectData",
     "fields": {
         "id": "UInt64",
         "m_equipment_id": "UInt64",

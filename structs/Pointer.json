@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISerializable",
     "fields": {
         "_ptr": "Void*"
     },

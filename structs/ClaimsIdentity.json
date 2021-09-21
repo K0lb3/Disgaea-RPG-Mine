@@ -1,4 +1,5 @@
 {
+    "inheritance": "IIdentity",
     "fields": {
         "m_version": "String",
         "m_actor": "ClaimsIdentity",

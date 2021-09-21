@@ -1,4 +1,5 @@
 {
+    "inheritance": "IList, ICollection, IEnumerable",
     "fields": {
         "data": "ArrayList"
     },

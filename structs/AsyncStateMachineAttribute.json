@@ -1,4 +1,5 @@
 {
+    "inheritance": "StateMachineAttribute",
     "fields": {},
     "properties": {}
 }

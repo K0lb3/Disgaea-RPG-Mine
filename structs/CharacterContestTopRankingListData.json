@@ -1,8 +1,0 @@
-{
-    "fields": {},
-    "properties": {
-        "MCharacterId": "UInt64",
-        "TopRankingList": "List`1",
-        "IsNeedUpdate": "Boolean"
-    }
-}

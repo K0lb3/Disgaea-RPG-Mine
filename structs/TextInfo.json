@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICloneable, IDeserializationCallback",
     "fields": {},
     "properties": {
         "CultureName": "String"

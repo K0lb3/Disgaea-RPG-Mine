@@ -1,4 +1,5 @@
 {
+    "inheritance": "IAppDomainSetup",
     "fields": {
         "application_base": "String",
         "application_name": "String",

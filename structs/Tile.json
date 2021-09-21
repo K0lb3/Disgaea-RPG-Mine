@@ -1,4 +1,5 @@
 {
+    "inheritance": "TileBase",
     "fields": {},
     "properties": {
         "sprite": "Sprite",

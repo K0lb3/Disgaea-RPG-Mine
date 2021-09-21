@@ -1,7 +1,0 @@
-{
-    "fields": {
-        "atk_param": "Int64",
-        "damage_list": "List`1"
-    },
-    "properties": {}
-}

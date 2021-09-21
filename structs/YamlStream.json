@@ -1,4 +1,5 @@
 {
+    "inheritance": "IEnumerable`1, IEnumerable",
     "fields": {},
     "properties": {
         "Documents": "IList`1"

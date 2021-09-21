@@ -1,7 +1,0 @@
-{
-    "fields": {},
-    "properties": {
-        "targetRarity": "Int32",
-        "rareStarObj": "GameObject"
-    }
-}

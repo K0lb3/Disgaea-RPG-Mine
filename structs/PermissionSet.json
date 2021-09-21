@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISecurityEncodable, ICollection, IEnumerable, IStackWalk, IDeserializationCallback",
     "fields": {
         "state": "PermissionState",
         "list": "ArrayList",

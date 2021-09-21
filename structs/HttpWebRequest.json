@@ -1,4 +1,5 @@
 {
+    "inheritance": "WebRequest, ISerializable",
     "fields": {
         "certificates": "X509CertificateCollection",
         "credentials": "ICredentials",

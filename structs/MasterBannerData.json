@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData, ITermRecord",
     "fields": {
         "id": "UInt64",
         "action_type": "String",

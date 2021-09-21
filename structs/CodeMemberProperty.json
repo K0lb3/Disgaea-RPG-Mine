@@ -1,4 +1,5 @@
 {
+    "inheritance": "CodeTypeMember",
     "fields": {},
     "properties": {
         "GetStatements": "CodeStatementCollection",

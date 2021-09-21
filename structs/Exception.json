@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISerializable, _Exception",
     "fields": {
         "_data": "IDictionary",
         "_source": "String",

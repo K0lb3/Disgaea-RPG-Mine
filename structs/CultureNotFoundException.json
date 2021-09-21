@@ -1,4 +1,5 @@
 {
+    "inheritance": "ArgumentException, ISerializable",
     "fields": {},
     "properties": {
         "InvalidCultureId": "Nullable`1",

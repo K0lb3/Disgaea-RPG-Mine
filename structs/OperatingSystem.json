@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICloneable, ISerializable",
     "fields": {
         "_platform": "PlatformID",
         "_version": "Version"

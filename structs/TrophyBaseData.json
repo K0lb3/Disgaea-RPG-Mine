@@ -1,7 +1,0 @@
-{
-    "fields": {},
-    "properties": {
-        "NowNum": "Int64",
-        "Status": "Int32"
-    }
-}

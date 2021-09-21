@@ -1,4 +1,5 @@
 {
+    "inheritance": "AppData`1",
     "fields": {},
     "properties": {
         "materialType": "MaterialType",

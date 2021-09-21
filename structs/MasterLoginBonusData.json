@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
         "m_login_bonus_group_id": "UInt64",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
         "name": "String"

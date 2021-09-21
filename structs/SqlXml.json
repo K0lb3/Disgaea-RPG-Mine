@@ -1,4 +1,5 @@
 {
+    "inheritance": "INullable, IXmlSerializable",
     "fields": {
         "_stream": "Stream"
     },

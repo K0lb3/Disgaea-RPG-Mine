@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDisposable",
     "fields": {
         "_buffer": "Byte[]",
         "_encoding": "Encoding",

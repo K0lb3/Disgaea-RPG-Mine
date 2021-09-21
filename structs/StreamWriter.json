@@ -1,4 +1,5 @@
 {
+    "inheritance": "TextWriter",
     "fields": {
         "stream": "Stream",
         "encoding": "Encoding",

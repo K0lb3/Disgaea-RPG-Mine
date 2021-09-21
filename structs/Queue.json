@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICollection, IEnumerable, ICloneable",
     "fields": {
         "_array": "Object[]",
         "_head": "Int32",

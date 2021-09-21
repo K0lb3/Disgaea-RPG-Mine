@@ -1,4 +1,5 @@
 {
+    "inheritance": "ScriptableObject, IEditorPlayerConnection",
     "fields": {},
     "properties": {
         "isConnected": "Boolean"

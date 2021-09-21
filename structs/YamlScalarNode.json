@@ -1,4 +1,5 @@
 {
+    "inheritance": "YamlNode, IYamlConvertible",
     "fields": {},
     "properties": {
         "Value": "String",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "FormatException",
     "fields": {},
     "properties": {}
 }

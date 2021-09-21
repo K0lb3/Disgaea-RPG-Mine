@@ -1,4 +1,5 @@
 {
+    "inheritance": "OperationCanceledException",
     "fields": {},
     "properties": {}
 }

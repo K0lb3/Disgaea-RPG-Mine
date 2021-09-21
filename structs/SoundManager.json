@@ -1,4 +1,5 @@
 {
+    "inheritance": "MonoBehaviour",
     "fields": {
         "chanels": "Channel[]",
         "text_asset": "TextAsset",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISerializable, IDeserializationCallback",
     "fields": {
         "_rsa": "RSA"
     },

@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
         "m_potential_class_rank_id": "UInt64",

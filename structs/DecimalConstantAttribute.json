@@ -1,4 +1,5 @@
 {
+    "inheritance": "Attribute",
     "fields": {
         "dec": "Decimal"
     },

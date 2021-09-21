@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
         "sheet_no": "Int32",

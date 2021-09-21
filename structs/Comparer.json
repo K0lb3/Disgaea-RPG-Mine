@@ -1,4 +1,5 @@
 {
+    "inheritance": "IComparer, ISerializable",
     "fields": {},
     "properties": {}
 }

@@ -1,4 +1,5 @@
 {
+    "inheritance": "SystemException, ISerializable",
     "fields": {
         "_classes": "Type[]",
         "_exceptions": "Exception[]"

@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISerializable, ICloneable",
     "fields": {},
     "properties": {
         "HasInfo": "Boolean"

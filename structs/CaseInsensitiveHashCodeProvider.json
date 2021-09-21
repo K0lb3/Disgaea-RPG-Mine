@@ -1,4 +1,5 @@
 {
+    "inheritance": "IHashCodeProvider",
     "fields": {
         "m_text": "TextInfo"
     },

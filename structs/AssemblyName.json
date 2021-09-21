@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICloneable, ISerializable, IDeserializationCallback, _AssemblyName",
     "fields": {
         "name": "String",
         "codebase": "String",

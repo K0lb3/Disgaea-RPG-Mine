@@ -1,4 +1,5 @@
 {
+    "inheritance": "MasterTrophyBaseData",
     "fields": {
         "next_m_trophy_id": "UInt64"
     },

@@ -1,4 +1,5 @@
 {
+    "inheritance": "ArithmeticException",
     "fields": {},
     "properties": {}
 }

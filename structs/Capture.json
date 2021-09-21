@@ -1,8 +1,0 @@
-{
-    "fields": {},
-    "properties": {
-        "Index": "Int32",
-        "Length": "Int32",
-        "Value": "String"
-    }
-}

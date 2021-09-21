@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData, ITermRecord",
     "fields": {
         "id": "UInt64",
         "m_event_id": "UInt64",

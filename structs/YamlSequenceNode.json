@@ -1,4 +1,5 @@
 {
+    "inheritance": "YamlNode, IEnumerable`1, IEnumerable, IYamlConvertible",
     "fields": {},
     "properties": {
         "Children": "IList`1",

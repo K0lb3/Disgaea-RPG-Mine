@@ -1,7 +1,0 @@
-{
-    "fields": {
-        "m_str": "String",
-        "m_indexes": "Int32[]"
-    },
-    "properties": {}
-}

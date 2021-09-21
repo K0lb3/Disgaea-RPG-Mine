@@ -1,8 +1,0 @@
-{
-    "fields": {
-        "cancel_token": "String"
-    },
-    "properties": {
-        "CancelToken": "String"
-    }
-}

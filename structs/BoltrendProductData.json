@@ -1,4 +1,5 @@
 {
+    "inheritance": "MasterProductData, ITermRecord",
     "fields": {
         "select_count": "Int32",
         "product_type": "Int32"

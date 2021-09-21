@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
         "m_character_story_id": "UInt64",

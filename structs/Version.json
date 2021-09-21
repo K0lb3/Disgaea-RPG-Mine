@@ -1,7 +1,11 @@
 {
+    "inheritance": "ICloneable, IComparable, IComparable`1, IEquatable`1",
     "fields": {},
     "properties": {
         "Major": "Int32",
-        "Minor": "Int32"
+        "Minor": "Int32",
+        "Build": "Int32",
+        "Revision": "Int32",
+        "MajorRevision": "Int16"
     }
 }

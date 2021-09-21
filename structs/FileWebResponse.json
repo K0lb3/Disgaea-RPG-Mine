@@ -1,4 +1,5 @@
 {
+    "inheritance": "WebResponse, ISerializable, ICloseEx",
     "fields": {
         "m_closed": "Boolean",
         "m_headers": "WebHeaderCollection",

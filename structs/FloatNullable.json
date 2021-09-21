@@ -1,4 +1,5 @@
 {
+    "inheritance": "SerializableNullable`1",
     "fields": {},
     "properties": {}
 }

@@ -1,4 +1,5 @@
 {
+    "inheritance": "WebResponse, ISerializable, IDisposable",
     "fields": {
         "uri": "Uri",
         "method": "String",

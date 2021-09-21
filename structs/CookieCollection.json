@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICollection, IEnumerable",
     "fields": {
         "m_list": "ArrayList",
         "m_has_other_versions": "Boolean"

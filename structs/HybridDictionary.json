@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDictionary, ICollection, IEnumerable",
     "fields": {
         "list": "ListDictionary",
         "hashtable": "Hashtable"

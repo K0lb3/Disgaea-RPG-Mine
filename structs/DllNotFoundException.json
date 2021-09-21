@@ -1,4 +1,5 @@
 {
+    "inheritance": "TypeLoadException",
     "fields": {},
     "properties": {}
 }

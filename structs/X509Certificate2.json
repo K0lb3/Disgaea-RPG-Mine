@@ -1,4 +1,5 @@
 {
+    "inheritance": "X509Certificate",
     "fields": {},
     "properties": {
         "Extensions": "X509ExtensionCollection",

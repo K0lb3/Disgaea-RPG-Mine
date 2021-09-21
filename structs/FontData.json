@@ -1,4 +1,5 @@
 {
+    "inheritance": "ISerializationCallbackReceiver",
     "fields": {},
     "properties": {
         "font": "Font",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "IEquatable`1, IComparable`1, IComparable",
     "fields": {},
     "properties": {
         "Index": "Int32",

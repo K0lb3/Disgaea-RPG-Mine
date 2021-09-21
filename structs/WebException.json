@@ -1,4 +1,5 @@
 {
+    "inheritance": "InvalidOperationException, ISerializable",
     "fields": {},
     "properties": {
         "Status": "WebExceptionStatus",

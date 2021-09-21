@@ -1,4 +1,5 @@
 {
+    "inheritance": "IOrderedDictionary, IDictionary, ICollection, IEnumerable, ISerializable, IDeserializationCallback",
     "fields": {
         "_comparer": "IEqualityComparer"
     },

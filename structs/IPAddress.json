@@ -1,7 +1,0 @@
-{
-    "fields": {},
-    "properties": {
-        "AddressFamily": "AddressFamily",
-        "ScopeId": "Int64"
-    }
-}

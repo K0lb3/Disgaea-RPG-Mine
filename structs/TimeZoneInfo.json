@@ -1,4 +1,5 @@
 {
+    "inheritance": "IEquatable`1, ISerializable, IDeserializationCallback",
     "fields": {
         "id": "String",
         "transitions": "List`1"

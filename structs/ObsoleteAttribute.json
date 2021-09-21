@@ -1,4 +1,5 @@
 {
+    "inheritance": "Attribute",
     "fields": {
         "_message": "String",
         "_error": "Boolean"

@@ -1,4 +1,5 @@
 {
+    "inheritance": "CollectionBase, IEnumerable",
     "fields": {},
     "properties": {
         "Item": "X509Certificate"

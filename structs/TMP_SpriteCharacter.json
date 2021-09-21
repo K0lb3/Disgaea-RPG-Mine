@@ -1,4 +1,5 @@
 {
+    "inheritance": "TMP_TextElement",
     "fields": {},
     "properties": {
         "name": "String",

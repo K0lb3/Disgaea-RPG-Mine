@@ -1,4 +1,5 @@
 {
+    "inheritance": "TrophyBaseData",
     "fields": {
         "id": "UInt64",
         "t_player_id": "UInt64",

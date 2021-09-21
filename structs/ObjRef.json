@@ -1,4 +1,5 @@
 {
+    "inheritance": "IObjectReference, ISerializable",
     "fields": {
         "channel_info": "IChannelInfo",
         "uri": "String",

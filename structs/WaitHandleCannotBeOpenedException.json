@@ -1,4 +1,5 @@
 {
+    "inheritance": "ApplicationException",
     "fields": {},
     "properties": {}
 }

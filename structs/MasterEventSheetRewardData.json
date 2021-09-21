@@ -1,5 +1,14 @@
 {
-    "fields": {},
+    "inheritance": "IMasterData",
+    "fields": {
+        "id": "UInt64",
+        "m_event_id": "UInt64",
+        "sheet_no": "Int32",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32"
+    },
     "properties": {
         "Id": "UInt64",
         "EventId": "UInt64",

@@ -1,7 +1,9 @@
 {
+    "inheritance": "IMasterData",
     "fields": {
         "id": "UInt64",
-        "category": "Int32"
+        "category": "Int32",
+        "name": "String"
     },
     "properties": {
         "Id": "UInt64",

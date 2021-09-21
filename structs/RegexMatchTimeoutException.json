@@ -1,4 +1,5 @@
 {
+    "inheritance": "TimeoutException, ISerializable",
     "fields": {},
     "properties": {}
 }

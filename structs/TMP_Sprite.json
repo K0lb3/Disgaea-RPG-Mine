@@ -1,4 +1,5 @@
 {
+    "inheritance": "TMP_TextElement_Legacy",
     "fields": {},
     "properties": {}
 }

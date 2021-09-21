@@ -1,4 +1,5 @@
 {
+    "inheritance": "NameObjectCollectionBase",
     "fields": {
         "_all": "String[]"
     },

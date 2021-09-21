@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDeserializationCallback, ISerializable, IDisposable",
     "fields": {
         "impl": "X509CertificateImpl",
         "issuer_name": "String",

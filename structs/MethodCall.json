@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMethodCallMessage, IMethodMessage, IMessage, ISerializable, IInternalMessage, ISerializationRootObject",
     "fields": {
         "_uri": "String",
         "_args": "Object[]"

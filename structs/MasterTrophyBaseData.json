@@ -1,5 +1,21 @@
 {
-    "fields": {},
+    "inheritance": "IMasterData, IPresentRewardMasterData",
+    "fields": {
+        "id": "UInt64",
+        "rank": "Int32",
+        "title": "String",
+        "description": "String",
+        "condition_type": "Int32",
+        "condition_id": "UInt64",
+        "condition_num": "Int64",
+        "present_type": "Int32",
+        "present_id": "UInt64",
+        "present_rarity": "Int32",
+        "present_num": "Int32",
+        "sort": "Int32",
+        "open_at": "String",
+        "close_at": "String"
+    },
     "properties": {
         "Id": "UInt64",
         "Rank": "Int32",

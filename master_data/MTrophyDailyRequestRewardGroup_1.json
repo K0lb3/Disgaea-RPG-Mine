@@ -1,38 +1,47 @@
 [
     {
         "id": 101,
-        "category": 1
+        "category": 1,
+        "name": "Prinny Steel"
     },
     {
-        "id": 2340022901890240524,
-        "category": 1701147731
+        "id": 102,
+        "category": 1,
+        "name": "POP Booster"
     },
     {
-        "id": 26220,
-        "category": 256
+        "id": 103,
+        "category": 1,
+        "name": "Medal of Obedience"
     },
     {
-        "id": 8017005815973022464,
-        "category": 1702130543
+        "id": 201,
+        "category": 2,
+        "name": "Caretaker"
     },
     {
-        "id": 26482,
-        "category": 256
+        "id": 202,
+        "category": 2,
+        "name": "Ranch Ticket [Feature]"
     },
     {
-        "id": 2336349390522618368,
-        "category": 1327523439
+        "id": 203,
+        "category": 2,
+        "name": "Ranch Ticket [Individual]"
     },
     {
-        "id": 7305804402364015970,
-        "category": 201
+        "id": 204,
+        "category": 2,
+        "name": "Recipe [Ancient]"
     },
     {
-        "id": 8589934592,
-        "category": 1918976777
+        "id": 205,
+        "category": 2,
+        "name": "Recipe [Combined]"
     },
     {
-        "id": 56983725214364773,
-        "category": 0
+        "id": 9901,
+        "category": 99,
+        "name": "Medal of Obedience"
     }
 ]

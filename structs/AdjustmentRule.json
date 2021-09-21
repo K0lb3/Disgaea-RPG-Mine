@@ -1,4 +1,5 @@
 {
+    "inheritance": "IEquatable`1, ISerializable, IDeserializationCallback",
     "fields": {},
     "properties": {
         "DateStart": "DateTime",

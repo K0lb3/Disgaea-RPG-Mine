@@ -1,4 +1,5 @@
 {
+    "inheritance": "InvalidExpressionException",
     "fields": {},
     "properties": {}
 }

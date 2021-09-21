@@ -1,4 +1,5 @@
 {
+    "inheritance": "MethodCall, IConstructionCallMessage, IMessage, IMethodCallMessage, IMethodMessage",
     "fields": {
         "_activator": "IActivator"
     },

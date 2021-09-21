@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICloneable, IFormatProvider",
     "fields": {},
     "properties": {
         "CurrencyDecimalDigits": "Int32",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "Token",
     "fields": {},
     "properties": {
         "Value": "String",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "ScriptableObject",
     "fields": {},
     "properties": {}
 }

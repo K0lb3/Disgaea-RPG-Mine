@@ -1,4 +1,5 @@
 {
+    "inheritance": "MonoBehaviour",
     "fields": {},
     "properties": {
         "rankupWindowAnimator": "Animator"

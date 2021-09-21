@@ -1,4 +1,5 @@
 {
+    "inheritance": "ExternalException, ISerializable",
     "fields": {},
     "properties": {
         "NativeErrorCode": "Int32"

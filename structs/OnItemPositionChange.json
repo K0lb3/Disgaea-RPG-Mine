@@ -1,4 +1,5 @@
 {
+    "inheritance": "UnityEvent`2",
     "fields": {},
     "properties": {}
 }

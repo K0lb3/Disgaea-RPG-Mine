@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData, IPresentRewardMasterData",
     "fields": {
         "id": "UInt64",
         "m_trophy_daily_request_reward_group_id": "UInt64",

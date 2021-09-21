@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDisposable, ISerializable",
     "fields": {
         "_flags": "Flags"
     },

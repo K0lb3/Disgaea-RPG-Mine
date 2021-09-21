@@ -1,4 +1,5 @@
 {
+    "inheritance": "Win32Exception",
     "fields": {},
     "properties": {
         "SocketErrorCode": "SocketError"

@@ -1,4 +1,5 @@
 {
+    "inheritance": "KeyException",
     "fields": {},
     "properties": {}
 }

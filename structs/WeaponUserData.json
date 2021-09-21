@@ -1,4 +1,5 @@
 {
+    "inheritance": "WeaponOrEquipmentUserBase",
     "fields": {
         "m_weapon_id": "UInt64"
     },

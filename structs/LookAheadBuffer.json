@@ -1,4 +1,5 @@
 {
+    "inheritance": "ILookAheadBuffer",
     "fields": {
         "count": "Int32"
     },

@@ -1,4 +1,5 @@
 {
+    "inheritance": "TextReader",
     "fields": {
         "stream": "Stream",
         "encoding": "Encoding",

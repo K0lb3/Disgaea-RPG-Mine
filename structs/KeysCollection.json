@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICollection, IEnumerable",
     "fields": {
         "_coll": "NameObjectCollectionBase"
     },

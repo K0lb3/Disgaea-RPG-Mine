@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMasterData, IPresentRewardMasterData",
     "fields": {
         "id": "UInt64",
         "m_passport_id": "UInt64",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "TextReader",
     "fields": {
         "_s": "String",
         "_pos": "Int32",

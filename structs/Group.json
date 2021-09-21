@@ -1,4 +1,5 @@
 {
+    "inheritance": "Capture",
     "fields": {},
     "properties": {
         "Success": "Boolean"

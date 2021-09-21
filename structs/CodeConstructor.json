@@ -1,4 +1,5 @@
 {
+    "inheritance": "CodeMemberMethod",
     "fields": {},
     "properties": {
         "BaseConstructorArgs": "CodeExpressionCollection"

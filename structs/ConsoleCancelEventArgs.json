@@ -1,4 +1,5 @@
 {
+    "inheritance": "EventArgs",
     "fields": {
         "_type": "ConsoleSpecialKey",
         "_cancel": "Boolean"

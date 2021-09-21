@@ -1,4 +1,5 @@
 {
+    "inheritance": "TrophyBaseData",
     "fields": {
         "m_trophy_weekly_id": "UInt64"
     },

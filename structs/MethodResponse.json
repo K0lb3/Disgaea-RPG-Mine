@@ -1,4 +1,5 @@
 {
+    "inheritance": "IMethodReturnMessage, IMethodMessage, IMessage, ISerializable, IInternalMessage, ISerializationRootObject",
     "fields": {
         "_uri": "String",
         "_exception": "Exception",

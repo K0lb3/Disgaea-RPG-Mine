@@ -1,4 +1,5 @@
 {
+    "inheritance": "CryptographicException",
     "fields": {},
     "properties": {}
 }

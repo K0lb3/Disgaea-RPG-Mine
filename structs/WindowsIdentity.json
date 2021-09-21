@@ -1,4 +1,5 @@
 {
+    "inheritance": "ClaimsIdentity, IIdentity, IDeserializationCallback, ISerializable, IDisposable",
     "fields": {
         "_token": "IntPtr",
         "_type": "String",

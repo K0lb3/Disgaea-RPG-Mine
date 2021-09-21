@@ -1,4 +1,5 @@
 {
+    "inheritance": "IAutoWebProxy, IWebProxy, ISerializable",
     "fields": {},
     "properties": {
         "Address": "Uri",

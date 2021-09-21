@@ -1,4 +1,5 @@
 {
+    "inheritance": "MemberAccessException",
     "fields": {},
     "properties": {}
 }

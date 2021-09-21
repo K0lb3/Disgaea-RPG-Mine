@@ -1,4 +1,5 @@
 {
+    "inheritance": "TMP_Asset",
     "fields": {},
     "properties": {
         "version": "String",

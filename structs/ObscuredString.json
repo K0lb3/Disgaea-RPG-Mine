@@ -1,4 +1,5 @@
 {
+    "inheritance": "IComparable`1, IComparable`1, IComparable",
     "fields": {
         "inited": "Boolean"
     },

@@ -1,4 +1,5 @@
 {
+    "inheritance": "IEnumerator, ICloneable, IEnumerator`1, IDisposable",
     "fields": {
         "str": "String",
         "index": "Int32"

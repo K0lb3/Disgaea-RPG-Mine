@@ -1,4 +1,5 @@
 {
+    "inheritance": "Hashtable",
     "fields": {},
     "properties": {}
 }

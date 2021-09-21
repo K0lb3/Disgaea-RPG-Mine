@@ -1,5 +1,27 @@
 {
-    "fields": {},
+    "inheritance": "IMasterData",
+    "fields": {
+        "id": "UInt64",
+        "icon_no": "Int32",
+        "item_rank": "Int32",
+        "name": "String",
+        "description": "String",
+        "price": "Int32",
+        "hp_min": "Int32",
+        "hp_per_stage": "Int32",
+        "atk_min": "Int32",
+        "atk_per_stage": "Int32",
+        "def_min": "Int32",
+        "def_per_stage": "Int32",
+        "inte_min": "Int32",
+        "inte_per_stage": "Int32",
+        "res_min": "Int32",
+        "res_per_stage": "Int32",
+        "spd_min": "Int32",
+        "spd_per_stage": "Int32",
+        "book_flg": "Boolean",
+        "breeding_lvup_stage": "UInt32"
+    },
     "properties": {
         "Id": "UInt64",
         "IconNo": "Int32",

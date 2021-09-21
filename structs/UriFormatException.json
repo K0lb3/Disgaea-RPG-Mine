@@ -1,4 +1,5 @@
 {
+    "inheritance": "FormatException, ISerializable",
     "fields": {},
     "properties": {}
 }

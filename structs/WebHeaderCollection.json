@@ -1,4 +1,5 @@
 {
+    "inheritance": "NameValueCollection, ISerializable",
     "fields": {},
     "properties": {}
 }

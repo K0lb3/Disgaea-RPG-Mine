@@ -1,4 +1,5 @@
 {
+    "inheritance": "EncoderFallback",
     "fields": {},
     "properties": {
         "DefaultString": "String"

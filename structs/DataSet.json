@@ -1,4 +1,5 @@
 {
+    "inheritance": "MarshalByValueComponent, IListSource, IXmlSerializable, ISupportInitializeNotification, ISupportInitialize, ISerializable",
     "fields": {
         "_culture": "CultureInfo"
     },

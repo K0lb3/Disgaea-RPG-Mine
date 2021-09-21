@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDeserializationCallback",
     "fields": {
         "m_name": "String",
         "culture": "Int32",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "ReactiveProperty`1",
     "fields": {},
     "properties": {}
 }

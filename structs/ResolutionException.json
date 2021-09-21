@@ -1,4 +1,5 @@
 {
+    "inheritance": "Exception",
     "fields": {},
     "properties": {
         "Member": "MemberReference",

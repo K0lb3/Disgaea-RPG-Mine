@@ -1,4 +1,5 @@
 {
+    "inheritance": "ICustomAttributeProvider, IObjectReference, _ParameterInfo",
     "fields": {},
     "properties": {
         "ParameterType": "Type",

@@ -1,4 +1,5 @@
 {
+    "inheritance": "IDisposable, IEnumerable",
     "fields": {},
     "properties": {}
 }

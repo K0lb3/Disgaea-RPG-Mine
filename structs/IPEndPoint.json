@@ -1,4 +1,5 @@
 {
+    "inheritance": "EndPoint",
     "fields": {},
     "properties": {
         "Address": "IPAddress",

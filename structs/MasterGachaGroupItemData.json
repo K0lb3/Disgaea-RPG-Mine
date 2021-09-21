@@ -7,8 +7,7 @@
         "item_id": "UInt64",
         "rarity": "Int32",
         "effect_rank": "Int32",
-        "rate": "Int32",
-        "pickup": "Boolean"
+        "rate": "Int32"
     },
     "properties": {
         "Id": "UInt64",
@@ -17,7 +16,6 @@
         "ItemId": "UInt64",
         "Rarity": "Int32",
         "EffectRank": "Int32",
-        "Rate": "Int32",
-        "Pickup": "Boolean"
+        "Rate": "Int32"
     }
 }

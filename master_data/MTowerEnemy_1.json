@@ -29,8 +29,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 10012,
@@ -62,8 +61,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 10013,
@@ -95,8 +93,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 10014,
@@ -128,8 +125,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 10015,
@@ -161,8 +157,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 20011,
@@ -194,8 +189,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 20012,
@@ -227,8 +221,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 20013,
@@ -260,8 +253,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 30011,
@@ -293,8 +285,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 30012,
@@ -326,8 +317,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 30013,
@@ -359,8 +349,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 30014,
@@ -392,8 +381,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 30015,
@@ -425,8 +413,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 40011,
@@ -458,8 +445,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 40012,
@@ -491,8 +477,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 40013,
@@ -524,8 +509,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 40014,
@@ -557,8 +541,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 50011,
@@ -590,8 +573,7 @@
         "resist_poison": 0,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 60011,
@@ -623,8 +605,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 60012,
@@ -656,8 +637,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 60013,
@@ -689,8 +669,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 60014,
@@ -722,8 +701,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 60015,
@@ -755,8 +733,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 70011,
@@ -788,8 +765,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 70012,
@@ -821,8 +797,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 70013,
@@ -854,8 +829,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 70014,
@@ -887,8 +861,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 70015,
@@ -920,8 +893,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 80011,
@@ -953,8 +925,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 80012,
@@ -986,8 +957,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 80013,
@@ -1019,8 +989,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 80014,
@@ -1052,8 +1021,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 80015,
@@ -1085,8 +1053,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 90011,
@@ -1118,8 +1085,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 90012,
@@ -1151,8 +1117,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 90013,
@@ -1184,8 +1149,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 90014,
@@ -1217,8 +1181,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 90015,
@@ -1250,8 +1213,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 100011,
@@ -1283,8 +1245,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 110011,
@@ -1316,8 +1277,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 110012,
@@ -1349,8 +1309,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 110013,
@@ -1382,8 +1341,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 110014,
@@ -1415,8 +1373,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 110015,
@@ -1448,8 +1405,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 120011,
@@ -1481,8 +1437,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 120012,
@@ -1514,8 +1469,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 120013,
@@ -1547,8 +1501,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 120014,
@@ -1580,8 +1533,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 120015,
@@ -1613,8 +1565,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 130011,
@@ -1646,8 +1597,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 130012,
@@ -1679,8 +1629,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 130013,
@@ -1712,8 +1661,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 130014,
@@ -1745,8 +1693,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 130015,
@@ -1778,8 +1725,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 140011,
@@ -1811,8 +1757,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 140012,
@@ -1844,8 +1789,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 140013,
@@ -1877,8 +1821,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 140014,
@@ -1910,8 +1853,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 150011,
@@ -1943,8 +1885,7 @@
         "resist_poison": 100,
         "resist_paralyze": 0,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 150012,
@@ -1976,8 +1917,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 150013,
@@ -2009,8 +1949,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 150014,
@@ -2042,8 +1981,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 150015,
@@ -2075,8 +2013,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 160011,
@@ -2108,8 +2045,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 160012,
@@ -2141,8 +2077,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 160013,
@@ -2174,8 +2109,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 160014,
@@ -2207,8 +2141,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 160015,
@@ -2240,8 +2173,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 170011,
@@ -2273,8 +2205,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 170012,
@@ -2306,8 +2237,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 170013,
@@ -2339,8 +2269,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 170014,
@@ -2372,8 +2301,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 170015,
@@ -2405,8 +2333,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 180011,
@@ -2438,8 +2365,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 180012,
@@ -2471,8 +2397,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 180013,
@@ -2504,8 +2429,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 180014,
@@ -2537,8 +2461,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 180015,
@@ -2570,8 +2493,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 190011,
@@ -2603,8 +2525,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 190012,
@@ -2636,8 +2557,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 190013,
@@ -2669,8 +2589,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 190014,
@@ -2702,8 +2621,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 190015,
@@ -2735,8 +2653,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 200011,
@@ -2768,8 +2685,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 200012,
@@ -2801,8 +2717,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 200013,
@@ -2834,8 +2749,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 210011,
@@ -2867,8 +2781,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 210012,
@@ -2900,8 +2813,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 210013,
@@ -2933,8 +2845,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 210014,
@@ -2966,8 +2877,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 220011,
@@ -2999,8 +2909,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 220012,
@@ -3032,8 +2941,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 220013,
@@ -3065,8 +2973,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 230011,
@@ -3098,8 +3005,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 230012,
@@ -3131,8 +3037,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 230013,
@@ -3164,8 +3069,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 230014,
@@ -3197,8 +3101,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 230015,
@@ -3230,8 +3133,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 240011,
@@ -3263,8 +3165,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 240012,
@@ -3296,8 +3197,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 240013,
@@ -3329,8 +3229,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 240014,
@@ -3362,8 +3261,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 240015,
@@ -3395,8 +3293,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 250011,
@@ -3428,8 +3325,7 @@
         "resist_poison": 0,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 250012,
@@ -3461,8 +3357,7 @@
         "resist_poison": 0,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 250013,
@@ -3494,8 +3389,7 @@
         "resist_poison": 0,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 260011,
@@ -3527,8 +3421,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 260012,
@@ -3560,8 +3453,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 260013,
@@ -3593,8 +3485,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 260014,
@@ -3626,8 +3517,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 260015,
@@ -3659,8 +3549,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 270011,
@@ -3692,8 +3581,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 270012,
@@ -3725,8 +3613,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 270013,
@@ -3758,8 +3645,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 270014,
@@ -3791,8 +3677,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 280011,
@@ -3824,8 +3709,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 280012,
@@ -3857,8 +3741,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 280013,
@@ -3890,8 +3773,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 280014,
@@ -3923,8 +3805,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 280015,
@@ -3956,8 +3837,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 290011,
@@ -3989,8 +3869,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 290012,
@@ -4022,8 +3901,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 290013,
@@ -4055,8 +3933,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 290014,
@@ -4088,8 +3965,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 290015,
@@ -4121,8 +3997,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 300011,
@@ -4154,8 +4029,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 300012,
@@ -4187,8 +4061,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 300013,
@@ -4220,8 +4093,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 300014,
@@ -4253,8 +4125,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 310011,
@@ -4286,8 +4157,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 310012,
@@ -4319,8 +4189,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 310013,
@@ -4352,8 +4221,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 310014,
@@ -4385,8 +4253,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 310015,
@@ -4418,8 +4285,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 320011,
@@ -4451,8 +4317,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 320014,
@@ -4484,8 +4349,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 320015,
@@ -4517,8 +4381,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 330011,
@@ -4550,8 +4413,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 330012,
@@ -4583,8 +4445,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 330013,
@@ -4616,8 +4477,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 340011,
@@ -4649,8 +4509,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 340012,
@@ -4682,8 +4541,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 350011,
@@ -4715,8 +4573,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 350012,
@@ -4748,8 +4605,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 350013,
@@ -4781,8 +4637,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 360011,
@@ -4814,8 +4669,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 360012,
@@ -4847,8 +4701,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 360013,
@@ -4880,8 +4733,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 370011,
@@ -4913,8 +4765,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 370012,
@@ -4946,8 +4797,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 370013,
@@ -4979,8 +4829,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 370014,
@@ -5012,8 +4861,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 380011,
@@ -5045,8 +4893,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 380012,
@@ -5078,8 +4925,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 380013,
@@ -5111,8 +4957,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 390011,
@@ -5144,8 +4989,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 390012,
@@ -5177,8 +5021,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 390013,
@@ -5210,8 +5053,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 390014,
@@ -5243,8 +5085,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 390015,
@@ -5276,8 +5117,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 400011,
@@ -5309,8 +5149,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 400012,
@@ -5342,8 +5181,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 410011,
@@ -5375,8 +5213,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 410012,
@@ -5408,8 +5245,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 410013,
@@ -5441,8 +5277,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 420011,
@@ -5474,8 +5309,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 420012,
@@ -5507,8 +5341,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 420013,
@@ -5540,8 +5373,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 420014,
@@ -5573,8 +5405,7 @@
         "resist_poison": 0,
         "resist_paralyze": 0,
         "resist_sleep": 0,
-        "resist_forget": 0,
-        "t_character_commands": null
+        "resist_forget": 0
     },
     {
         "id": 420015,
@@ -5606,8 +5437,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 430011,
@@ -5639,8 +5469,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 430012,
@@ -5672,8 +5501,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 430013,
@@ -5705,8 +5533,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 430014,
@@ -5738,8 +5565,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 430015,
@@ -5771,8 +5597,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 440011,
@@ -5804,8 +5629,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 440012,
@@ -5837,8 +5661,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 440013,
@@ -5870,8 +5693,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 440014,
@@ -5903,8 +5725,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 440015,
@@ -5936,8 +5757,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 450011,
@@ -5969,8 +5789,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 450012,
@@ -6002,8 +5821,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 450013,
@@ -6035,8 +5853,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 450014,
@@ -6068,8 +5885,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 450015,
@@ -6101,8 +5917,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 460011,
@@ -6134,8 +5949,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 460012,
@@ -6167,8 +5981,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 460013,
@@ -6200,8 +6013,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 460014,
@@ -6233,8 +6045,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 460015,
@@ -6266,8 +6077,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 470011,
@@ -6299,8 +6109,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 470012,
@@ -6332,8 +6141,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 470013,
@@ -6365,8 +6173,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 470014,
@@ -6398,8 +6205,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 470015,
@@ -6431,8 +6237,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 480011,
@@ -6464,8 +6269,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 480012,
@@ -6497,8 +6301,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 480013,
@@ -6530,8 +6333,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 480014,
@@ -6563,8 +6365,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 480015,
@@ -6596,8 +6397,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 490011,
@@ -6629,8 +6429,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 490012,
@@ -6662,8 +6461,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 490013,
@@ -6695,8 +6493,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 490014,
@@ -6728,8 +6525,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 490015,
@@ -6761,8 +6557,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 500011,
@@ -6794,8 +6589,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 500012,
@@ -6827,8 +6621,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 500013,
@@ -6860,8 +6653,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 500014,
@@ -6893,8 +6685,7 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     },
     {
         "id": 500015,
@@ -6926,7 +6717,6 @@
         "resist_poison": 100,
         "resist_paralyze": 100,
         "resist_sleep": 100,
-        "resist_forget": 100,
-        "t_character_commands": null
+        "resist_forget": 100
     }
 ]

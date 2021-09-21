@@ -8,30 +8,32 @@ dump_cs_path = "S:\\Datamines\\DRPG global\\Disgaea-RPG---Mine\\dump.cs"
 struct_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "structs")
 
 reIMaster = re.compile(r"""\[Serializable\]
-public( sealed)? class (\w+?) .+?
+public( sealed)? class (\w+?) : (.+?) //.+?
 \{
 (.+?)
 \}""", flags=re.M | re.S)
-reSerializeField = re.compile(r"""	private ([^ ]+?) ([a-z_0-9]+?); // (.+)""")
+reSerializeField = re.compile(r"""	(private|protected) ([^ ]+?) ([a-z_0-9]+?); // (.+)""")
 reSerializeProperty = re.compile(r"""	public (virtual )?([^ ]+?) ([a-z_A-Z0-9]+?) \{ get; (set; )?\}()""")
 
 def fetch_structs(fp):
-    return {
+    found = {
         master[2]: {
+            "inheritance" : master[3],
             "fields" : {
-                field[2] : field[1]
+                field[3] : field[2]
                 #"offset": int(field[3], 16)
-                for field in reSerializeField.finditer(master[3])
+                for field in reSerializeField.finditer(master[4])
             },
             "properties" : {
                 field[3] : field[2]
                 #"offset": int(field[3], 16)
-                for field in reSerializeProperty.finditer(master[3])
+                for field in reSerializeProperty.finditer(master[4])
             }
             
         }
         for master in reIMaster.finditer(open(fp, "rt", encoding="utf8").read())
     }
+    return {clz : data for clz, data in found.items()}# if data["fields"] and data["properties"]}
 
 
 def read(stream, t, size):

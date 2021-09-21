@@ -51,8 +51,15 @@ READ = {
 
 
 def parser_from_struct(struct):
+    inheritance_clz = struct.get("inheritance")
+    inheritance_struct = structs.get(inheritance_clz.lower())
+    if inheritance_struct:
+        parser = parser_from_struct(inheritance_struct)
+    else:
+        parser = []
+
     property_names = [key.lower() for key in struct["properties"].keys()]
-    parser = [
+    parser.extend(
         (key, get_parse_function(typ))
         for key, typ in struct["fields"].items()
         if any(
@@ -61,7 +68,8 @@ def parser_from_struct(struct):
             or x in key.replace("_", "")
             for x in property_names
         )
-    ]
+        if get_parse_function(typ) != read_nothing
+    )
     return parser
 
 
@@ -74,18 +82,17 @@ def get_parse_function(typ):
         func = get_parse_function(typ[:-2])
         if func == read_nothing:  # sub class
             return read_nothing
-            # return lambda r: parse(r, func)
         else:
             return lambda r: [func(r) for _ in range(READ["int"](r))]
     elif typ in READ:
         return READ[typ]
     elif typ.lower() in structs:
         return read_nothing
-        # return structs[typ.lower()]
     else:
-        print(typ)
+        # print(typ)
         # might be an enum, todo for later
-        return READ["Int32"]
+        # return READ["Int32"]
+        return read_nothing
 
 
 def parse(reader, struct):
@@ -118,6 +125,7 @@ for f in os.listdir(xdmaster_path):
     # filter flist and mver
     if f in ["flist", "mver"]:
         continue
+
     fp = os.path.join(xdmaster_path, f)
     dfp = os.path.join(dst, f"{f[:-4]}.json")
 

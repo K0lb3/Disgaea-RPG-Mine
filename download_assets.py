@@ -25,7 +25,7 @@ def main():
     try:
         TODO = []
         for obj in UnityPy.load(android).objects:
-            if obj.type == "AssetBundleManifest":
+            if obj.type.name == "AssetBundleManifest":
                 d = obj.read_typetree()
                 names = toDict(d["AssetBundleNames"])
                 infos = toDict(d["AssetBundleInfos"])
@@ -36,6 +36,8 @@ def main():
                         TODO.append((name, ahash))
         if TODO:
             for i, (name, ahash) in enumerate(TODO):
+                if not name.startswith("masters"):
+                    continue
                 print(f"{i+1}/{len(TODO)} : {name}")
                 data = download_asset(name, RAW)
                 extract_asset(data, get_path(EXT, name))

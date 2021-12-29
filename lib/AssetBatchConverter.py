@@ -65,9 +65,9 @@ def extract_assets(src):
 
         # check which mode we will have to use
         num_cont = sum(1 for obj in asset.container.values()
-                       if obj.type in TYPES)
+                       if obj.type.name in TYPES)
         num_objs = sum(1 for obj in asset.objects.values()
-                       if obj.type in TYPES)
+                       if obj.type.name in TYPES)
 
         # check if container contains all important assets, if yes, just ignore the container
         if num_objs <= num_cont * 2:
@@ -92,7 +92,7 @@ def extract_assets(src):
 
 
 def export_obj(obj, fp: str, append_name: bool = False) -> list:
-    if obj.type not in TYPES:
+    if obj.type.name not in TYPES:
         return []
 
     data = obj.read()
@@ -104,12 +104,12 @@ def export_obj(obj, fp: str, append_name: bool = False) -> list:
 
     # streamlineable types
     export = None
-    if obj.type == 'TextAsset':
+    if obj.type.name== 'TextAsset':
         if not extension:
             extension = '.txt'
         export = data.script
 
-    elif obj.type == "Font":
+    elif obj.type.name== "Font":
         if data.m_FontData:
             extension = ".ttf"
             if data.m_FontData[0:4] == b"OTTO":
@@ -118,15 +118,15 @@ def export_obj(obj, fp: str, append_name: bool = False) -> list:
         else:
             return [obj.path_id]
 
-    elif obj.type == "Mesh":
+    elif obj.type.name== "Mesh":
         extension = ".obf"
         export = data.export().encode("utf8")
 
-    elif obj.type == "Shader":
+    elif obj.type.name== "Shader":
         extension = ".txt"
         export = data.export().encode("utf8")
 
-    elif obj.type == "MonoBehaviour":
+    elif obj.type.name== "MonoBehaviour":
         # The data structure of MonoBehaviours is custom
         # and is stored as nodes
         # If this structure doesn't exist,
@@ -148,17 +148,17 @@ def export_obj(obj, fp: str, append_name: bool = False) -> list:
             f.write(export)
 
     # non-streamlineable types
-    if obj.type == "Sprite":
+    if obj.type.name== "Sprite":
         data.image.save(f"{fp}.png")
 
         return [obj.path_id, data.m_RD.texture.path_id, getattr(data.m_RD.alphaTexture, 'path_id', None)]
 
-    elif obj.type == "Texture2D":
+    elif obj.type.name== "Texture2D":
         if not os.path.exists(fp) and data.m_Width:
             # textures can have size 0.....
             data.image.save(f"{fp}.png")
 
-    elif obj.type == "AudioClip":
+    elif obj.type.name== "AudioClip":
         samples = data.samples
         if len(samples) == 0:
             pass

@@ -36,8 +36,6 @@ def main():
                         TODO.append((name, ahash))
         if TODO:
             for i, (name, ahash) in enumerate(TODO):
-                if not name.startswith("masters"):
-                    continue
                 print(f"{i+1}/{len(TODO)} : {name}")
                 data = download_asset(name, RAW)
                 extract_asset(data, get_path(EXT, name))
@@ -78,7 +76,7 @@ def download_asset(name, dir_path : str = ""):
 def extract_asset(inp, path):
     env = UnityPy.load(inp)
     # make sure that Texture2Ds are at the end
-    objs = sorted((obj for obj in env.objects if obj.type.name in AssetBatchConverter.TYPES), key = lambda x: 1 if x.type == "Texture2D" else 0)
+    objs = sorted((obj for obj in env.objects if obj.type.name in AssetBatchConverter.TYPES), key = lambda x: 1 if x.type.name == "Texture2D" else 0)
     # check how the path should be handled
     if len(objs) == 2 and objs[0].type == "Sprite" and objs[1].type == "Texture2D":
         AssetBatchConverter.export_obj(objs[0], os.path.dirname(path), True)
